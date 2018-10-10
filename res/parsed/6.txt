@@ -1,0 +1,11 @@
+def nonzero_product(numbers):\n    sum = 1\n    for i in numbers:\n        if i != 0:\n            sum = sum * i;\n    return sum
+def nonzero_product(numbers):\n    r=1\n    for i in numbers:\n        if i!=0:\n            r*=i\n    return r\n
+def nonzero_product(numbers):\n    vysledek=1\n    kontrola=0\n    for prvek in numbers:\n        if prvek!=0:\n        	vysledek=vysledek * prvek\n        	kontrola=kontrola+1\n    if kontrola==0:\n        vyledek=0\n    return vysledek    \n
+def nonzero_product(list):\n  kontrola = 0\n  vysledek = 1\n  for prvek in list:\n    if prvek != 0:\n      vysledek = vysledek * prvek\n      kontrola = kontrola + 1\n  if kontrola == 0:\n    vysledek = 0\n  return vysledek
+def nonzero_product(numbers):\n    result = 1\n    for x in range(len(numbers)):\n        if(numbers[x] != 0):\n            result *= numbers[x]\n    return result\n            \n  \n            \n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i > 0 or i < 0:\n            x = x * i\n    return x\n            \n
+def nonzero_product(numbers):\n    \n    sum = 1\n    for number in numbers:\n        if number == 0:\n        	continue\n        else:\n    		sum = sum * number\n        \n    return sum\n
+def nonzero_product(numbers):\n    \n    sum = 1\n    for num in numbers:\n        if num != 0:\n            sum = sum * num\n    \n    \n    return sum\n
+def nonzero_product(numbers):\n    result = 1\n    for i in numbers:\n        if i != 0:\n            result = result * i\n    return result\n
+def nonzero_product(numbers):\n    soucin=1\n    for i in numbers:\n        if i!=0:\n            soucin=soucin*i\n    return soucin\n
+def nonzero_product(numbers):\n    s=1\n    for i in numbers:\n        if i!=0: s=s*i\n    return(s)\n            

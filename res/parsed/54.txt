@@ -1,0 +1,50 @@
+def compare(a, b):\n    if a>b:\n        print(a, "je vetsi nez", b)\n    if b>a:\n        print(b, "je vetsi nez", a)\n    if a is b:\n        print("stejna")\n
+def compare(a, b):\n    if(a == b):\n        print("stejna")\n    elif(a > b):\n        print(a, "je vetsi nez", b)\n    else:\n        print(b, "je vetsi nez", a)\n
+def compare(a, b):\n     if (b > a):\n	    print(b, "je vetsi nez", a)\n     else:\n	    if (a == b):        \n			print("stejna")\n    	else:\n			print(a, "je vetsi nez", b)
+def compare(a, b):\n    if a > b :\n        print(a, "je vetsi nez", b)\n    elif a == b :\n        print("stejna")\n    else:\n        print(b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a>b:\n    	print(a,"je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)\n        \n
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)\n
+def compare(a, b):\n	if a>b:\n		print(a,"je vetsi nez",b)\n	if a==b:\n		print("stejna")\n	if a<b:\n		print(b,"je vetsi nez",a)
+def compare(a, b):\n    if a>b:\n        print(a, "je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)
+def compare(a, b):\n	if a>b:\n		print(a, "je vetsi nez", b)\n	if a==b:\n		print("stejna")\n	if a<b:\n		print(b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)\n
+def compare(a, b):\n    if a>b:\n    	print(a,"je vetsi nez",b)\n    if a==b:\n    	print("stejna")\n    if a<b:\n    	print(b,"je vetsi nez",a)\n
+def compare(a, b):\n	if a>b:\n		print(a, "je vetsi nez", b)\n	if a==b:\n		print("stejna")\n	if a<b:\n		print(b, "je vetsi nez", a)
+def compare(a, b):\n   	if a>b: \n    	print(a, "je vetsi nez",b)\n   	if a==b: \n    	print("stejna")\n   	if a<b:\n    	print(b, "je vetsi nez",a)\n          
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)\n
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    if a==b:\n        print("stejna")\n    if a<b:\n        print(b,"je vetsi nez",a)
+def compare(a, b):\n	if a>b:\n		print(a,"je vetsi nez",b)\n	if a==b:\n		print("stejna")\n	if a<b:\n		print(b,"je vetsi nez",a)\n
+def compare(a, b):\n    if a > b:\n        print (a,"je vetsi nez",b)\n    elif a < b:\n        print (b,"je vetsi nez",a)\n    else:\n        print ("stejna")
+def compare(a, b):\n    if(a==b): print("stejna")\n    if (a<b):print(b,"je vetsi nez",a)\n    if (a>b):print(a,"je vetsi nez",b)\n        
+def compare(a, b):\n    if a > b:\n        print (a,"je vetsi nez",b)\n    elif b > a:\n        print (b,"je vetsi nez",a)\n    else:\n        print ("stejna")
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    elif b>a:\n        print(b,"je vetsi nez",a)\n    else:\n        print("stejna")\n
+def compare(a, b):\n    if a>b:\n        print(a,"je vetsi nez",b)\n    elif a<b:\n        print(b,"je vetsi nez",a)\n    else:\n        print("stejna")\n
+def compare(a, b):\n    if a < b:\n        print(b, "je vetsi nez", a)\n    elif a == b:\n    	print("stejna")\n    else:\n		print (a, "je vetsi nez", b)
+def compare(a, b):\n    if a<b:\n        print (b,"je vetsi nez",a)\n    elif a==b:\n        print ("stejna")\n    elif b<a:\n        print (a,"je vetsi nez",b)\n    else:\n        print ("ani jedna podminka") 
+def compare(a, b):\n    if a==b:\n        print("stejna")\n    else:\n        print(max(a,b),"je vetsi nez",min(a,b))
+def compare(a, b):\n    if (a>b):\n        print(a, "je vetsi nez", b)\n    elif a==b:\n        print("stejna")\n    elif a<b:\n        print(b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a==b:\n        print("stejna")\n    else:\n        print(max(a,b),"je vetsi nez",min(a,b))
+def compare(a, b):\n    if a < b:\n        print(b, "je vetsi nez", a)\n    if a == b:\n        print("stejna")\n    if a > b:\n        print(a, "je vetsi nez", b)
+def compare(a, b):\n    if a > b:\n        print(a, "je vetsi nez", b)\n    if a < b:\n        print(b, "je vetsi nez", a)\n    if a == b:\n        print("stejna")
+def compare(a, b):\n    if(a>b):\n    	print(a,"je vetsi nez",b)\n    elif(b>a):\n    	print(b,"je vetsi nez",a)\n    else:\n    	print("stejna")\n
+def compare(a, b):\n    if b > a:\n        print(b,"je vetsi nez", a)\n    elif a > b:\n        print(a,"je vetsi nez",b)\n    else:\n        print("stejna")\n
+def compare(a, b):\n    if a>b: print(a, "je vetsi nez", b)\n    elif a==b: print ("stejna")\n    else: print (b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a == b:\n        print("stejna")\n    elif a > b:\n        print(a, "je vetsi nez", b)\n    elif b > a:\n        print(b, "je vetsi nez", a)
+def compare(a, b):\n    jv = " je vetsi nez "    \n    if   a > b:\n       print(str(a) +jv +str(b))\n    elif a < b:\n       print(str(b) +jv +str(a))\n    else: \n       print("stejna")\n   \n\n      \n       \n    \n
+def compare(a, b):\n    if a==b:\n   	 print("stejna")\n    elif b>a:\n     print (b,"je vetsi nez",a)\n    else:\n     print (a,"je vetsi nez",b)\n
+def compare(a, b):\n    if a == b:\n        print("stejna")\n    elif a > b:\n        print(a,"je vetsi nez", b)\n    else:\n        print(b,"je vetsi nez", a)\n
+def compare(a, b):\n    if(a == b):\n        print("stejna")\n    elif(a > b):\n        print(a, "je vetsi nez", b)\n    elif(b > a):\n        print(b, "je vetsi nez", a)\n        \n
+def compare(a, b):\n    if a>b: print(a, "je vetsi nez", b)\n    elif b>a: print(b, "je vetsi nez", a)\n    else: print("stejna")\n
+def compare(a, b):\n    if a == b:\n        print("stejna")\n    if a > b:\n        print("%d je vetsi nez %d" %(a, b))\n    if a < b:\n        print("%d je vetsi nez %d" %(b, a))\n
+def compare(a, b):\n    if(a>b):\n        print(a, "je vetsi nez", b)\n    elif(a<b):\n        print(b, "je vetsi nez", a)\n    else:\n        print("stejna")\n
+def compare(a, b):\n    if a>b:\n        print( a, "je vetsi nez", b)\n    elif b>a:\n        print( b, "je vetsi nez", a)\n    else:\n    	print("stejna")\n
+def compare(a, b):\n    if a==b:\n        print ("stejna")\n    else:\n        if a>b:\n        	print (a, "je vetsi nez", b)\n        else:\n        	print (b, "je vetsi nez", a)
+def compare(a, b):\n    if a > b:\n        print(a,"je vetsi nez", b)\n    if a < b:\n        print(b,"je vetsi nez", a)\n    if a == b:\n        print("stejna")\n    \n    \n
+def compare(a, b):\n	if a == b:\n		print("stejna")\n	if a>b:\n		print(a, "je vetsi nez", b)\n	if a<b:\n		print(b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a==b:\n        print("stejna")\n    else:\n    	if a>b:\n        	print(a, "je vetsi nez", b)\n    	else:\n        	print(b, "je vetsi nez", a)\n
+def compare(a, b):\n    if a > b :\n        print (a, "je vetsi nez", b)\n    elif a < b :\n        print (b, "je vetsi nez", a)\n    else:\n    	print("stejna")\n
+def compare(a, b):\n    if(a==b):\n        print("stejna")\n    elif(a>b):\n        print(a,"je vetsi nez",b)\n    else:\n		print(b,"je vetsi nez",a)        \n\n\n
+def compare(a, b):\n    if a>b:\n        print (a ,"je vetsi nez", b)\n    elif a==b:\n        print("stejna")\n    elif b>a:\n        print (b ,"je vetsi nez", a)\n    \n
+def compare(a, b):\n    if a > b:\n        print(a, "je vetsi nez", b)\n    elif a < b:\n        print(b, "je vetsi nez", a )\n    else:\n        print("stejna")
+def compare(a, b):\n    if a==b:\n        print("stejna")\n    elif a>b:\n        print(a,"je vetsi nez", b)\n    else:\n        print(b,"je vetsi nez", a)\n
+def compare(a, b):\n    if (a == b):\n        print("stejna")\n    elif (a > b):\n        print(a, "je vetsi nez", b)\n    else:\n        print(b, "je vetsi nez", a)

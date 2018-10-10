@@ -1,0 +1,1 @@
+def check_sudoku(row):\n    missing = 0\n    for i in range(1,10):\n        try:\n            index = row.index(i)\n        except ValueError:\n            missing += 1\n        else:\n            row.pop(index)\n    if(len(row) == 0 and missing == 0):\n        return True\n    else:\n        return False

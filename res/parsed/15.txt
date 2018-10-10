@@ -1,0 +1,11 @@
+def every_second_number(num_list):\n    for i in range (len(num_list)):\n        if i % 2 == 0:\n            print (num_list[i])
+def every_second_number(num_list):\n index =0\n for i in num_list:\n  let = num_list[index]\n  if index ==0 or index%2==0:\n   print(let)\n  index = index +1\n
+def every_second_number(num_list):\n    vysledek=1\n    for i in num_list:\n        vysledek=vysledek+1\n        if vysledek % 2==0:\n            print (i)\n        else:\n            continue\n        \n
+def every_second_number(num_list):\n    vysledek=0\n    for i in num_list:\n        vysledek=vysledek+1\n        if vysledek%2==1:\n            print (i)\n        else: \n            continue    \n    \n
+def every_second_number(num_list):\n    vysledek=0\n    for i in num_list:\n        \n        vysledek=vysledek+1\n        if vysledek%2==1:\n             print (i)\n        else:\n             continue   \n
+def every_second_number(num_list):\n    \n    i = 0\n    while i < len(num_list):\n        print(num_list[i])\n        i += 2\n    \n    \n
+def every_second_number(num_list):\n    for i in range(0, len(num_list), 2):\n        print(num_list[i])\n
+def every_second_number(num_list):\n    for i in num_list[::2]:\n        print(i)\n
+def every_second_number(num_list):\n    for i in range(len(num_list)):\n        if i%2==0: print(num_list[i])\n    		
+def every_second_number(num_list):\n    for i in range(0, len(num_list), 2):\n            print(num_list[i])
+def every_second_number(num_list):\n    for x in num_list[0:len(num_list):2]:\n        print(x)\n

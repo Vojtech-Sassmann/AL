@@ -1,0 +1,5 @@
+def bigN(n):\n    for rows in range(1,n+1):\n        for cols in range(1,n+3):\n            if cols-rows==1:\n                print("\\",end="")\n            elif cols==1 or cols==n+2:\n                print("|",end="")\n            else:\n                print(" ",end="")\n        print()\n
+def bigN(n):\n    prvni_retezec = ""\n    druhy_retezec = " "*(n-1)\n    for i in range(n):\n        retezec = "|{0}\\{1}|".format(prvni_retezec, druhy_retezec)\n        prvni_retezec=prvni_retezec+" "\n        druhy_retezec=druhy_retezec[:-1]\n        print(retezec)\n
+def bigN(n):\n    for i in range(n):\n        print("|"+(i)*" "+"\\"+(n-i-1)*" "+"|")\n
+def bigN(n):\n    for i in range(n):\n		for j in range(n+2):\n			if j==0 or j==n+1:\n				print("|", end="")\n			else:\n				if j==i+1:\n					print("\\", end="")\n				else:\n					print(" ", end="")\n		print("\n",end="")\n
+def middle(n,pos):\n    for i in range(n):\n    	if pos != i:\n        	print(" ",end="")\n    	else:\n        	print("\\",end="")\ndef bigN(n):\n    for i in range(n):\n        print("|", end="")\n        middle(n,i)\n        print("|")\n

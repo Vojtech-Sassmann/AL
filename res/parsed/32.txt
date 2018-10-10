@@ -1,0 +1,35 @@
+def near_fifty(n):\n    if n>=40 and n<=60:\n    	return True\n    elif n>=140 and n<=160:\n        return True\n    else: return False\n
+def near_fifty(n):\n    if n>=40 and n<=60:\n        return True\n    elif n>=140 and n<=160:\n        return True\n    else: return False\n
+def near_fifty(n):\n    if n <= 60 and n >= 40 or n >= 140 and n <= 160:\n        return True\n    return False\n
+def near_fifty(n):\n    return ((n >= 40) and (n <60 ) or (n >= 140) and (n < 160))\n
+def near_fifty(n):\n    if 40<=n<=60 or 140<=n<=160:\n        return True\n    return False\n
+def near_fifty(n):\n    if 40<=n<=60 or 140<=n<=160:\n        return True\n    return False\n
+def near_fifty(n):\n    return ((n>=40 and n<=60) or (n>=140 and n<=160))\n
+def near_fifty(n):\n    return 140 <= n <= 160 or 40 <= n <= 60\n
+def near_fifty(n):\n    if 39<n<61 or 139<n<161:\n        return True\n    return False
+def near_fifty(n):\n    if n in range(40,61) or n in range(140,161):\n    	return True\n    else:\n        return False
+def near_fifty(n):\n    if (n - 50 >= -10 and n - 50 <=10) or (n - 150 >= -10 and n - 150 <=10):\n        return True\n    return False\n
+def near_fifty(n):\n    if n >= (40) and n <= (60):\n        return True\n    elif n >= (140) and n <= (160):\n        return True\n    else:\n        return False
+def near_fifty(n):\n	if (40<= n <=60)or (140<= n <=160): p = True\n	else: p=False\n	return p\n
+def near_fifty(n):\n    if abs(n - 50)<=10 or abs(n-150)<=10:\n    	return True\n    else:\n    	return False\n
+def near_fifty(n):\n    if ((n >= 40) and (n <= 60) or (n >= 140) and (n <= 160)): \n        return True\n    else:\n        return False\n    return False\n
+def near_fifty(n):\n    if (n>=40 and n<=60) or (n>=140 and n<=160): return True\n    else: return False\n
+def near_fifty(n):\n    if abs(n-50)<11 or abs(n-150)<11:\n        return True\n    return False\n
+def near_fifty(n):\n    if (n<=60 and n >=40) or (n<=160 and n>=140): return True\n    return False\n
+def near_fifty(n):\n    if n>39 and n<61:\n        return True\n    if n>139 and n<161:\n        return True    \n    else: return False
+def near_fifty(n):\n    if(40<=n<=60)or(140<=n<=160):\n        return True\n    else:\n        return False\n
+def near_fifty(n):\n    if n<61 and n>39 or n<161 and n>139:\n        return True\n    else:\n        return False
+def near_fifty(n):\n    if n<=60 and n>=40 or n<=160 and n>=140:\n    	return True\n    else:\n        return False
+def near_fifty(n):\n    if (n-50>-11 and n-50<11) or (n-150>-11 and n-150<11):\n        return True\n    return False\n
+def near_fifty(n):\n    if (n%50>39) or (n%50<11) and (n%50>0):\n        return True\n    else:\n        return False\n
+def near_fifty(n):\n    if 40 <= n <= 60 or 140 <= n <= 160:\n        return True\n    else: \n        return False\n
+def near_fifty(n):\n	if (39<n) and (n<61):\n		return True\n	if (139<n) and (n<161):\n		return True\n	else:\n		return False
+def near_fifty(n):\n    if 39 < n < 61 :\n        return True\n    if 139 < n < 161:\n        return True\n    else:\n        return False\n
+def near_fifty(n):\n    return (abs(n - 50) <= 10) or (abs(n - 150) <= 10)\n
+def near_fifty(n):\n    if (n>=40 and n<=60) or (n>=140 and n<=160):\n        return True\n    else:\n    	return False\n
+def near_fifty(n):\n    if n<50 and n-50>=-10:\n        return True\n    elif n>50 and n<150 and (n-50<=10 or n-150>=-10):\n        return True\n    elif n>150 and n-150<=10:\n        return True\n    else:\n        return False\n
+def near_fifty(n):\n    d = 10\n    return (n>=50-d and n<=50+d)or(n>=150-d and n<=150+d)\n
+def near_fifty(n):\n    if ((abs(n - 150) < 11) or (abs(n - 50) < 11)):\n        return True\n    else:\n        return False\n
+def near_fifty(n):\n    if n>=40 and n<=60 or n>=140 and n<=160:\n    	return True\n    else:\n        return False\n
+def near_fifty(n):\n    if 40<=n<=60 or 140<=n<=160:\n        return True\n    else:\n    	return False\n
+def near_fifty(n):\n    for x in 50, 150:\n        if n >= x - 10 and n <= x + 10:\n            return True\n    return False\n
