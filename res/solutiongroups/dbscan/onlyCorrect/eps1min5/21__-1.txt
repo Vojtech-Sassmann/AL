@@ -1,0 +1,53 @@
+def powers(base, n):
+    for i in range(n):
+        i += 1
+        print(base**i)
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    x = base
+    for i in range(n):
+        print(base)
+        base *= x
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+

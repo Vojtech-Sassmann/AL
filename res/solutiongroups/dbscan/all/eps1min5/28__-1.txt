@@ -1,0 +1,156 @@
+def string_zip(text1, text2):
+	pleb = ""
+	for i in range((len(text1)) + (len(text2))):
+		if i < len(text1):
+			pleb = pleb + text1[i]
+		if i < len(text2):
+			pleb = pleb + text2[i]
+	return pleb
+def string_zip(text1, text2):
+    t3 = ""
+    for i in range(len(text1) + len(text2)):
+        if i < len(text1):
+            t3 = t3 + text1[i]
+        if i < len(text2):
+            t3 = t3 + text2[i]
+    return t3
+def string_zip(text1, text2):
+    text=""
+    a=len(text1)
+    b=len(text2)
+    for i in range(max(a,b)):
+        if i<a and i<b:
+            text=text+text1[i]+text2[i]
+        elif i>=a:
+            text=text+text2[i]
+        elif i>=b:
+            text=text+text1[i]
+    return text
+
+def string_zip(text1, text2):
+    prvy = list(text1)
+    druhy = list(text2)
+    vypis = ""
+    vacsi = ""
+    if(len(text1)>len(text2)):
+        premenna = text2
+        vacsi = text1
+    elif(len(text1)<len(text2)):
+        premenna = text1
+        vacsi = text2
+    else:
+        premenna = text1
+        vacsi = text2
+    for i in range(len(premenna)):
+        vypis += str("".join(prvy[i:i+1]))+str("".join(druhy[i:i+1]))
+    vypis+=vacsi[len(premenna):len(vacsi)]
+    return vypis
+
+def string_zip(text1, text2):
+    newstr=""
+    for l, r in zip(text1, text2):
+        newstr+=l+r
+    if len(text1) > len(text2):
+        newstr+=text1[len(text2):]
+    elif len(text1) < len(text2):
+        newstr+=text2[len(text1):]
+    return newstr
+def string_zip(text1, text2):
+    return "".join([l+r for l, r in zip(text1, text2)] + 
+                   [text1[min(len(text1), len(text2)):]+text2[min(len(text1), len(text2)):]])
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+def longer (left,right):
+    if len(left)<=len(right):
+        return right
+    else: return left
+def string_zip(text1, text2):
+    result = ""
+    for i in range (len(shorter(text1,text2))):
+        result+=text1[i]+text2[i]
+    for j in range (len(longer(text1,text2)) - len(shorter(text1,text2))):
+        result+=longer(text1,text2)[len(shorter(text1,text2))+j]
+
+    return result
+def string_zip(text1, text2):
+	pleb = ""
+	for i in range((len(text1)) + (len(text2))):
+		if i < len(text1):
+			pleb = pleb + text1[i]
+		if i < len(text2):
+			pleb = pleb + text2[i]
+	return pleb
+def string_zip(text1, text2):
+    t3 = ""
+    for i in range(len(text1) + len(text2)):
+        if i < len(text1):
+            t3 = t3 + text1[i]
+        if i < len(text2):
+            t3 = t3 + text2[i]
+    return t3
+def string_zip(text1, text2):
+    text=""
+    a=len(text1)
+    b=len(text2)
+    for i in range(max(a,b)):
+        if i<a and i<b:
+            text=text+text1[i]+text2[i]
+        elif i>=a:
+            text=text+text2[i]
+        elif i>=b:
+            text=text+text1[i]
+    return text
+
+def string_zip(text1, text2):
+    prvy = list(text1)
+    druhy = list(text2)
+    vypis = ""
+    vacsi = ""
+    if(len(text1)>len(text2)):
+        premenna = text2
+        vacsi = text1
+    elif(len(text1)<len(text2)):
+        premenna = text1
+        vacsi = text2
+    else:
+        premenna = text1
+        vacsi = text2
+    for i in range(len(premenna)):
+        vypis += str("".join(prvy[i:i+1]))+str("".join(druhy[i:i+1]))
+    vypis+=vacsi[len(premenna):len(vacsi)]
+    return vypis
+
+def string_zip(text1, text2):
+    newstr=""
+    for l, r in zip(text1, text2):
+        newstr+=l+r
+    if len(text1) > len(text2):
+        newstr+=text1[len(text2):]
+    elif len(text1) < len(text2):
+        newstr+=text2[len(text1):]
+    return newstr
+def string_zip(text1, text2):
+    return "".join([l+r for l, r in zip(text1, text2)] + 
+                   [text1[min(len(text1), len(text2)):]+text2[min(len(text1), len(text2)):]])
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+def longer (left,right):
+    if len(left)<=len(right):
+        return right
+    else: return left
+def string_zip(text1, text2):
+    result = ""
+    for i in range (len(shorter(text1,text2))):
+        result+=text1[i]+text2[i]
+    for j in range (len(longer(text1,text2)) - len(shorter(text1,text2))):
+        result+=longer(text1,text2)[len(shorter(text1,text2))+j]
+
+    return result

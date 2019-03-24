@@ -1,0 +1,612 @@
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a*a )
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", a * 4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a ** 2)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', 4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+        print(("obsah"), (a**2))
+        print(("obvod"), (a*4))
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print('obsah',a**2)
+    print('obvod',a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print('obsah', a**2)
+    print('obvod', a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print ("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+	print("obsah", a**2)
+	print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", (a+a)*2)
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print('obsah',a*a)
+    print('obvod',4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah" , a*a)
+    print("obvod" , a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", a * 4)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(r):
+	print("obsah", r ** 2 )
+	print("obvod", r * 4)
+
+def area_perimeter(a):
+	print("obsah", a**2)
+	print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah" ,a*a)
+    print("obvod" ,a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print('obsah',a*a)
+    print('obvod',4*a)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a*a )
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", a * 4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a ** 2)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', 4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+        print(("obsah"), (a**2))
+        print(("obvod"), (a*4))
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print('obsah',a**2)
+    print('obvod',a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print('obsah', a**2)
+    print('obvod', a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print ("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+	print("obsah", a**2)
+	print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", (a+a)*2)
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print('obsah',a*a)
+    print('obvod',4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah" , a*a)
+    print("obvod" , a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", a * 4)
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(r):
+	print("obsah", r ** 2 )
+	print("obvod", r * 4)
+
+def area_perimeter(a):
+	print("obsah", a**2)
+	print("obvod", 4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a * a)
+    print("obvod", 4 * a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', 4*a)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah" ,a*a)
+    print("obvod" ,a*4)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",a*4)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a**2)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",4*a)
+
+def area_perimeter(a):
+    print('obsah',a*a)
+    print('obvod',4*a)
+
+def area_perimeter(a):
+    print('obsah', a*a)
+    print('obvod', a*4)
+
+def area_perimeter(a):
+    print("obsah", a**2)
+    print("obvod", 4*a)
+

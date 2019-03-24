@@ -1,0 +1,74 @@
+def count_a(text):
+    vysledek=0
+    for i in (text):
+        if i=="a" or i=="A":
+            vysledek = vysledek+1
+            
+        
+    return vysledek
+
+def count_a(text):
+    pocet=0
+    for i in text:
+        if (i=="A") or (i=="a"):
+            pocet=pocet+1
+    return pocet
+
+def count_a(text):
+    count = 0
+    for i in text:
+        if i == 'a' or i == 'A':
+            count += 1
+    return count
+
+def count_a(text):
+    pocet = 0
+    for i in text:
+        if (i == "a")or(i=="A"):
+            pocet+=1
+    return pocet
+
+def count_a(text):
+    n = 0
+    for i in text:
+    	if i == 'a' or i== 'A':
+        	n+=1
+    return n
+
+def count_a(text):
+    vysledek=0
+    for i in (text):
+        if i=="a" or i=="A":
+            vysledek = vysledek+1
+            
+        
+    return vysledek
+
+def count_a(text):
+    pocet=0
+    for i in text:
+        if (i=="A") or (i=="a"):
+            pocet=pocet+1
+    return pocet
+
+def count_a(text):
+    count = 0
+    for i in text:
+        if i == 'a' or i == 'A':
+            count += 1
+    return count
+
+def count_a(text):
+    pocet = 0
+    for i in text:
+        if (i == "a")or(i=="A"):
+            pocet+=1
+    return pocet
+
+def count_a(text):
+    n = 0
+    for i in text:
+    	if i == 'a' or i== 'A':
+        	n+=1
+    return n
+

@@ -1,5 +1,0 @@
-def fibonacci(n):\n	a=1\n	print(a)\n	b=1\n	print(b)\n	p=b\n	for i in range(n-2):\n    	print(a+b)\n    	p=b+a\n    	a=b\n    	b=p
-def fibonacci(n):\n    xold = 1\n    yold = 1\n    vysledok = 0\n    for i in range(n):\n        if i == 0 or i == 1:\n            print(1)\n        else:\n            vysledok = xold + yold\n            print(vysledok)\n            xold = yold\n            yold = vysledok\n
-def fibonacci(n):\n    j=1\n    k=1\n    for i in range(n):\n        if i==0 or i==1:\n            print(1)\n        else:\n            print(j+k)\n            if j>k:\n                k+=j\n            else:\n                j+=k
-def fibonacci(n):\n    x=1\n    y=1\n    f=0\n    print("1")\n    print("1")\n    for i in range(1,n-1):\n        f=x+y\n        x=y\n        y=f\n        print (f)\n
-def fibonacci(n):\n    x1 = 1\n    x2 = 1\n    nt = 0\n    print(x1)\n    print(x2)\n    for i in range(2,n):\n		print(x1+x2)\n		nt = x1 + x2\n		x1 = x2\n		x2 = nt

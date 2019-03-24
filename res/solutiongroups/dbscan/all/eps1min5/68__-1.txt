@@ -1,0 +1,18 @@
+def big_five(n):
+    print("#"*n)
+    for i in range(int(n-2)):
+        print("#")
+    print("#"*n)
+    for i in range(int(n-2)):
+        print(" "*(n - 1) + "#")
+    print("#"*n)
+
+def big_five(n):
+    print("#"*n)
+    for i in range(int(n-2)):
+        print("#")
+    print("#"*n)
+    for i in range(int(n-2)):
+        print(" "*(n - 1) + "#")
+    print("#"*n)
+

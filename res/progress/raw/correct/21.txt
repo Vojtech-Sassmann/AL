@@ -1,0 +1,91 @@
+1111
+def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range (n):\n        print(base**(i+1))\n
+###
+1111
+def powers(base, n):\n    for i in range(n):\n        i += 1\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1,1):\n        print(base**i)\n\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1,1):\n        pocet = base **i\n        print(pocet)\n        \n \n
+###
+1111
+def powers(base, n):\n    mocnina= 1\n    for i in range(n):        \n        mocnina= mocnina*base\n        print(mocnina)\n        \n        \n        
+###
+1111
+def powers(base, n):\n    for i in range(n+1):\n        print(base**i)\n    \n    \n
+def powers(base, n):\n    for i in range(1,n+1,1):\n        print(base**i)\n    \n    \n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1,1):\n        pocet = base **i\n        print(pocet)\n        \n\n
+###
+1111
+def powers(base, n):\n    rand=1\n    for i in range(1,n+1,1):\n        rand = rand*base\n        print(str(rand))\n        \n        \n\n
+###
+1111
+def powers(base, n):\n    print(base)\n
+def powers(base, n):\n    for i in range (n):\n        base = base*2\n        print(base)\n        \n        \n        \n    print(base)\n
+def powers(base, n):\n    for i in range (1,n):\n        base = base*2\n        print(base)\n    \n
+def powers(base, n):\n    for i in range (1,n):\n        base = base*2\n        print(base)\n    \n
+def powers(base, n):\n    for i in range (1,n):\n        \n        print(base**i)\n    \n
+def powers(base, n):\n    for i in range (1,n+1):\n        \n        print(base**i)\n    \n
+###
+1111
+def powers(base, n):\n    for i in range(n+1):\n        print(base**i)\n\n
+def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1):\n        x=base**i\n        print (x)\n
+###
+1111
+def powers(base, n):\n    for i in range(n):\n        print(base**(i+1))\n    \n\n
+###
+1111
+def powers(base, n):\n    for i in range (n):\n        print (base**(i+1))\n    \n
+###
+1111
+def powers(base, n):\n    for i in range(1, n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(1,n+1):\n        print(2**i)\n
+def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(1, n+1):\n        print(base**i)\n    \n
+###
+1111
+def powers(base, n):\n    for i in range(1, n+1):\n        print(base**i)\n
+###
+1111
+def powers(base, n):\n    for i in range(n):\n        print(base)\n        base *= 2\n
+def powers(base, n):\n    x = base\n    for i in range(n):\n        print(base)\n        base *= x\n
+###
+1111
+def powers(base, n):\n    for i in range(n):\n        print(base**(i+1))\n
+###
+1111
+def powers(base, n):\n    for i in range (n):\n        i = i + 1\n        m = base**i\n        print(m)\n
+###
+1111
+def powers(base, n):\n    m=0\n    for i in range(1,n+1):\n        m=base**n\n    	print(m)\n
+def powers(base,n):\n	for i in range(1,n+1):\n    	print(base**i)\n
+###
+1111
+def powers(base, n):\n    for k in range(1,n+1):\n		print(base**k)\n
+###
+1111
+def powers(base, n):\n    for i in range(n):\n        print (base**(i+1))\n
+###
+1111
+def powers(base, n):\n    for i in range(1, n + 1):\n        print(base ** i)\n         \n
+###

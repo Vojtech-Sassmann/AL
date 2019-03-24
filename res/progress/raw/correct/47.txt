@@ -1,0 +1,440 @@
+1111
+def sum_dif(a, b):\n    print(a + b)\n
+def sum_dif(a, b):\n    print(a + b)\n    print(a - b)\n
+def sum_dif(a, b):\n    print("a + b =", a + b)\n    print("a - b =", a - b)
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a ,"+", b,"=", a+b)\n    print(a,"-", b,"=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a ,"+", b,"=", a+b)\n    print(a ,"-", b,"=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,'+', b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",13)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=")\n
+def sum_dif(a, b):\n    print(a,"+", b,"=",ab)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n	print(a,"-", b,"=",a-b)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=", a+b)\n	print(a,"-", b, "=", a-b)
+def sum_dif(a, b):\n    print(a,"+", b,"=", a+b)\n    print(a,"-", b, "=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n    \n
+###
+1111
+def sum_dif(a, b):\n    print(a, b)\n
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=", a + b)\n    print(a,"-", b,"=", a - b)\n	
+###
+1111
+def sum_dif(a, b):\n    print(a+b)\n    print(a-b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n	\n    print(a, "+", b, "=",a+b)\n    print(a, "-", b, "=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+" ,b, "=", a + b)\n
+def sum_dif(a, b):\n    print(a, "+" ,b, "=", a + b)\n    print(a, "-" ,b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b )\n    print(a, "-", b, "=", a-b )
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "+", b, "=", a-b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print (a, "-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",13)\n    print(a,"-",b,"=",-3)\n    \n    \n
+def sum_dif(a, b):\n    x=a+b\n    o=a-b\n    print(a,"+",b,"=",x)\n    print(a,"-",b,"=",o)\n    \n    \n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    minus = a - b\n    plus = a + b\n    print(a, "+", b, "=", plus)\n    print(a, "-", b, "=", minus)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, b)\na = 5\nb = 8\nprint("5 + 8 =", a + b)\nprint("5 - 8 =", a - b)\n\n\n
+def sum_dif(a, b):\n    print("a + b =", a + b)\n    print("a - b =", a - b)\n    \n    \n
+def sum_dif(a, b):\n    print(a + b ,"=", a + b)\n    print(a - b ,"=", a - b)\n    \n    \n
+def sum_dif(a, b):\n    print(a ,"+", b ,"=", a+b)\n    print(a ,"-", b ,"=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, b, a + b)\n    print(a, b)
+def sum_dif(a, b):\n    print(a, b, a + b)\n    print(a, b, a - b)
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)
+###
+1111
+def sum_dif(a, b):\n    print("5", "+", "8", "=", "13")\n    print("5", "-", "8", "=", "-3")\n
+def sum_dif(a, b):\n    print("4", "+", "2", "=", a+b)\n    print("4", "-", "2", "=", a-b)\n
+def sum_dif(a, b):\n    print("10", "+", "3", "=", a + b)\n    print("10", "-", "3", "=", a - b)\n
+def sum_dif(a, b):\n    print(4, "+", "2", "=", a + b)\n    print(4, "-", "2", "=", a - b)\n
+def sum_dif(a, b):\n    x = a\n    z = b\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n	   \n	
+###
+1111
+def sum_dif(a, b):\n    plus=a+b\n    minus=a-b\n    print(a,"+",b,"=",plus)\n    print(a,"-",b,"=",minus)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a," + ", b," = ",a+b)\n    print(a," - ", b," = ",a-b)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n	print(a, "+", b, "=", a+b)\n	print(a, "-", b, "=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n    return
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    soucet = a + b\n    rozdil = a - b\n    print(a, "+", b, "=", soucet)\n    print(a, "-", b, "=", rozdil)\n  \n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",(a+b))\n    print(a,"-",b,"=",(a-b))\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b )
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=", a + b)\n    print(a,"-", b,"=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=", a+b)\n    print(a,"-", b,"=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a + b)\n    print(a,"-", b,"=",a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=", a+b)\n    print(a,"-", b,"=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    plus = a + b\n    minus = a - b\n    print("%d + %d = %d" % (a, b, plus))\n    print("%d - %d = %d" % (a, b, minus))
+###
+1111
+def sum_dif(a, b):\n    print(a, ("+"), b, ("="), a+b)\n    print(a, ("-"), b, ("="), a-b)
+###
+1111
+def sum_dif(a, b):\n    c = a+b\n    d = a-b\n    print(a,"+",b,"=",c)\n    print(a,"-",b,"=",d)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a," + ", b," = ", a+b)\n    print(a," - ", b, " = ", a-b)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print( a,"+",b,"=",a + b)\n    print(a,"-",b,"=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+', b, '=', a+b)\n    print(a,'-', b, '=', a-b)\n    \n    \n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "= ", a+b)\n    print(a, "-", b, "= ", a-b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n	print(a, "+", b, "=", a+b)\n	print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=",a+b)\n    print(a, "-", b, "=",a-b) 
+###
+1111
+def sum_dif(a, b):\n    print(a," + ",b ," = ", a+b)\n    print(a," - ",b ," = ", a-b)\n
+def sum_dif(a, b):\n    print(a,"+",b ,"=", a+b)\n    print(a,"-",b ,"=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    c=a+b\n    print(a, "+", b, "=", c)\n    c=a-b\n    print(a, "-", b, "=", c)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a , "+" , b , "=" , a+b)\n    print(a , "-" , b , "=" , a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print("{a} + {b} = {res}".format(a=a, b=b, res=a+b))\n    print("{a} - {b} = {res}".format(a=a, b=b, res=a-b))\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n    \n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    addition = a + b\n    subtraction = a - b\n    print(a, "+", b, "=", addition)\n    print(a, "-", b, "=", subtraction)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+","=",a+ b)\n    print(a,"-","=",a+ b)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+ b)\n    print(a,"-", b,"=",a- b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, " + ", b, " = ", a + b)\n    print(a, " - ", b, " = ", a - b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,end=" + ")\n    print(b,end=" = ")\n    print(a+b)\n    print(a,end=" - ")\n    print(b,end=" = ")\n    print(a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+ ",b ,"=" ,a+b)\n    print(a, "-" ,b, "=" ,a-b)
+def sum_dif(a, b):\n    print(a, "+",b ,"=" ,a+b)\n    print(a, "-" ,b, "=" ,a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=",a + b)\n    print(a,"-", b, "=",a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+a = 5\nb = 8\ndef sum_dif(a, b):\n    print("5 + 8 =", a + b)\n    print("5 - 8 =", a - b)\n
+def sum_dif(a, b):\n    print("4 + 2 =", a + b)\n    print("4 - 2 =", a - b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=",a+b)\n    print(a,"-", b, "=",a-b)
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b , "=", a+b)\n    print(a, "-", b , "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    c=a+b\n    d=a-b\n    print(a, "+", b,"=",c)\n    print(a, "-",b,"=",d)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a + b)\n    print(a, "-", b, "=", a - b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print("a+b=",a+b)\n    print(a-b)\n
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", a, "=", a-b)\n
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b, '=', a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    soucet= a+b\n    rozdil= a-b\n    print(a,"+",b,"=",soucet)\n    print(a,"-",b,"=",rozdil)\n	
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+" ,b, "=" ,a+b)\n    print(a, "-" ,b, "=" ,a-b)\n    \n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b)\n    print(a,"-",b)\n
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print("5 + 8 = 13")\n    print("5 - 8 = -3")\n
+def sum_dif(a, b):\n    print(a, "+", b, "=",a+b)\n    print(a, "-", b, "=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a," + ",b," = ",a+b)\n    print(a," - ",b," = ",a-b)\n
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b, "=", a+b)\n    print(a,"-", b, "=", a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+",b,"=",a+b)\n    print(a,"-",b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    sucet = a + b\n    rozdiel = a - b\n	\n    \n    print(a, "+", b, "=", sucet)\n    print(a, "-", b, "=", rozdiel)\n   \n
+###
+1111
+def sum_dif(a, b):\n    print(a,"+", b,"=",a+b)\n    print(a,"-", b,"=",a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+',b,'=',a+b)\n    print(a,'-',b,'=',a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a,'+', b, '=', a+b)\n    print(a,'-', b, '=', a-b)\n
+###
+1111
+def sum_dif(a, b):\n    print(a, "+", b = a+b)\n	print(a, "-", b = a-b)
+def sum_dif(a, b):\n    print(a, "+", b, "=", a+b)\n    print(a, "-", b, "=", a-b)
+###

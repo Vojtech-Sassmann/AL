@@ -1,0 +1,88 @@
+def string_intersection(left, right):
+ for i, prvek in enumerate(left):
+  for s, prvek2 in enumerate(right):
+    if s==i and prvek == prvek2:
+     print(prvek)
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        for i in range(len(right)):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+
+def string_intersection(left, right):
+
+    for i in range (len(shorter(left,right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+
+def string_intersection(left, right):
+ for i, prvek in enumerate(left):
+  for s, prvek2 in enumerate(right):
+    if s==i and prvek == prvek2:
+     print(prvek)
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        for i in range(len(right)):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+
+def string_intersection(left, right):
+
+    for i in range (len(shorter(left,right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+

@@ -1,0 +1,1571 @@
+1792769
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+1727203
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2122776
+def cross(z):
+    print(z)
+
+2126139
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2102516
+def cross(z):
+    print(z,' ',z)
+    print(' ',z,' ')
+    print(z,' ',z)
+    
+
+2081667
+def cross(z):     
+    print(z,"   ",z)
+    print("  ",z,"   ")
+    print(z,"   ",z)
+def cross(z):     
+    print(z,"  ",z)
+    print(" ",z,"   ")
+    print(z,"  ",z)
+def cross(z):     
+    print(z,"   ",z)
+    print("  ",z," ")
+    print(z,"   ",z)
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2065612
+def cross(z):
+    print(z, "   ", z)
+    print("  ", z, "  ")
+    print(z, "   ", z)
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+2128782
+def cross(z):
+    print('{}   {}\n  {} \n{}   {}'.format(z,z,z,z,z))
+
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+def cross(z):
+    print(z+" ","  ", z+" ")
+    print("  ",z+" ","  ")
+    print(z+" ","  ", z+" ")
+
+def cross(z):
+    print(z," ", z)
+    print(" ",z," ")
+    print(z," ", z)
+
+1938409
+def cross(z):
+    print(z,"","",z)
+    print("","",z,"")
+    print(z,"","",z)
+2144341
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2057798
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+359265
+def cross(z):
+    print(z," ",z)
+
+    print(" ",z ," ")
+    print(z," ",z)
+2162341
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2174282
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2062967
+def cross(z):
+    print(z," ", z)
+    print(" ",z," ")
+    print(z," ", z)
+2179992
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):
+    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+2179955
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+1814200
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+    
+
+2286312
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z)
+
+2026013
+def cross(z):
+    print(z," ",z)
+    print(" ",z,"  ")
+    print(z," ",z)
+
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+    
+2326755
+def cross(z):
+    print(z, " ", z)
+    print(1 * " ", z)
+    print(z, " ", z)
+
+2379408
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2386061
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z)
+
+2413063
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+675989
+def cross(z):
+	print(z, " ", z)
+	print(" ",z)
+	print(z, " ", z)
+2430309
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2439201
+def cross(z):
+    print(z," ",z)
+    print(" ",z,"")
+    print(z," ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2552001
+def cross(z):
+    print(z + "   " + z + "\n" + "  " + z + "\n" + z + "   " + z)
+
+2648081
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+1850013
+def cross(z):
+    print(z)
+
+112792
+def cross(z):
+    print("A A")
+    print(" A ")
+    print("A A")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("z   z")
+    print("  z  ")
+    print("z   z")
+
+def cross(z):
+    print("z   z")
+    print("  z  ")
+    print("z   z")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+def cross(z):
+    print("+   +")
+    print("  +  ")
+    print("+   +")
+
+2701808
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2764989
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2764976
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+2764973
+def cross(z):
+    print(z ," ", z)
+    print(" ", z ," ")
+    print(z ," ", z)
+2765037
+def cross(z):
+    print("A   A")
+    print("  A ")
+    print("A   A")
+    
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+2765046
+def cross(z):
+    print("A", " ", "A")
+    print(" ", "A", " ")
+    print("A", " ", "A")
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+2765043
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2765034
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2773031
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+2769441
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+2802184
+def cross(z):
+    print("A   A\n  A\nA   A")
+
+def cross(z):
+    print(z," ",z)
+    print(" ", z)
+    print(z," ",z)
+
+2803324
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2802244
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2802909
+def cross(z):
+    print(z," ",z)
+    print(" ",z ," ")
+    print(z," ",z)
+
+2805245
+def cross(z):
+    print(z, "   ", z)
+    print("  ", z)
+    print(z, "   ", z)
+
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2807150
+def cross(z):
+    print(z,' ',z)
+    print(' ',z,' ')
+    print(z,' ',z)
+
+2809298
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2802916
+def cross(z):
+    print(z + "   " + z) 
+    print("  " + z + " ")
+    print(z + "   " + z)
+
+2810888
+def cross(z):
+    print(z," ",z)
+    print(" ", z  ," ")
+    print(z," ",z)
+    
+
+2809764
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+	print(z," ",z)
+    
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)  
+    
+2811385
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2805670
+def cross(z):
+    print("A  A")
+    print("  A  ")
+    print("A   A")
+
+def cross(z):
+    print(z,"  ",z)
+    print("  ",z,"  ")
+    print(z,"  ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2802162
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2805048
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2806881
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2813254
+def cross(z):
+    print("z   z\n  z  \nz   z")
+
+def cross(z):
+    print("\z   \z\n  \z  \n\z   \z")
+
+def cross(z):
+    print(z,"   ",z,"\n","  ",z,"\n",z,"   ",z)
+
+2805080
+def cross(z):
+    print ("A", "","", "", "A")
+    print ("","", "A","", "")
+    print ("A","", "", "", "A")
+
+def cross(z):
+    print((z),(""),(z))
+    print((""),(z),(""))
+    print((z),(""),(z))
+
+def cross(z):
+    print((z),(""),(""),(z))
+    print((""),(""),(z),(""),(""))
+    print((z),(""),(""),(z))
+
+2805410
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2810636
+def cross(z):
+    x=' '
+    print(z,x,z)
+    print(x,z,x)
+    print(z,x,z)
+2804002
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2807171
+def cross(z):
+    print(z,' ',z)
+    print(' ',z)
+    print(z,' ',z)
+
+2813265
+def cross(z):
+    print(z," ",z)
+    print(' ',z,' ')
+    print(z," ",z)
+
+def cross(z):
+
+    print(z," ",z)
+	print(' ',z,' ')
+    print(z," ",z)
+def cross(z):
+    print(z," ",z)
+	print(" ",z," ")
+    print(z," ",z)
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+	
+    print(z," ",z)
+2817298
+def cross(z):
+    print("%s\t%s\n\t%s\n%s\t%s" % (z, z, z, z, z))
+
+2802894
+def cross(z):
+    print(z, " ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2805335
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print("  A") 
+    print(z, end="   ")
+    print(z)
+
+def cross(z):
+    print(z,end="   ")
+    print(z,end="   ")
+    print()
+    print(end="  ")
+    print(z) 
+    print(z, end="   ")
+    print(z)
+
+2805831
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2802247
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2818450
+def cross(z):
+    print(z,' ',z)
+    print(' ',z)
+    print(z,' ',z)
+
+2819660
+def cross(z):
+    n=2
+    for i in range(1):	
+        print(z, end="   ")
+	print(z)
+    print("  A")
+    for j in range(1):	
+        print(z, end="   ")
+	print(z)
+
+
+def cross(z):
+    n=2
+    for i in range(1):	
+        print(z, end="   ")
+	print(z)
+    print(" ",z)
+    for j in range(1):	
+        print(z, end="   ")
+	print(z)
+
+
+def cross(z):
+    for i in range(1):	
+        print(z, end="   ")
+	print(z)
+    print(" ",z)
+    for j in range(2):	
+        print(z, end="   ")
+2819643
+def cross(z):
+    n=1
+    k=2
+    for i in range (n):
+		print(z , end=" ")
+        	for j in range (k):
+    		print (" ", z)
+    for i in range (k):
+            print(z , end="   ")
+2819583
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2820461
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z," ", z)
+
+2819521
+def cross(z):
+    print(z, " ", z)
+    print(" ",z)
+    print(z, " ", z)
+2825431
+def cross(z):
+    print(z +"   "+z)
+    print ("  "+z)
+    print(z +"   "+z)
+    
+
+2802203
+def cross(z):
+    print(z," ",z)
+    print(" ", z, " ")
+    print(z," ",z)
+2826866
+def cross(z):
+    print(z + " " + z)
+    print(" " + z + " ")
+    print(z + " " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+2806944
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2828797
+def line(z):
+	print(z, " ", z)
+
+def cross(z):
+	line(z)
+	print(" ", z)
+	line(z)
+2829028
+def cross(z):
+    x=" ";
+    print(z,x,x,x,z,"\n",
+         x,x,z,"\n",
+         z,x,x,x,z,
+         sep=""
+         )
+2809748
+def cross(z):
+    print(z, " " ,z)
+    print(" ",z ," ")
+    print(z, " " ,z)
+    
+
+2809440
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+2802642
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print("  ", end="")
+    print(z)
+    print(z, end="   ")
+    print(z)
+
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print(" ", z)
+    print(z, end="   ")
+    print(z)
+2849628
+def cross(z):
+    print (z+3*' '+z,"\n  "+z,"\n"+z+3*' '+z)
+
+
+2803849
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2806059
+def cross(z):
+    for i in range(2):
+        print(" A ", end=" ")
+    
+    print("\n   A")
+    
+    for i in range(2):
+        print(" A ",end=" ")
+
+
+
+
+
+            
+
+def cross(y):
+    for i in range(2):
+        print(" + ", end=" ")
+    
+    print("\n   +")
+    
+    for i in range(2):
+        print(" + ",end=" ")
+
+
+
+
+
+            
+
+def cross(B):
+    for i in range(2):
+        print(" B ", end=" ")
+    
+    print("\n   B")
+    
+    for i in range(2):
+        print(" B ",end=" ")
+
+
+
+
+
+            
+
+def cross(symbol):
+    for i in range(2):
+        print(" "+ symbol+" ", end=" ")
+    
+    print("\n   " + symbol)
+    
+    for i in range(2):
+        print(" "+ symbol+ " ",end=" ")
+
+
+
+
+
+            
+
+2852348
+def cross(z):
+    print(z , " " , z)
+    print(" " , z , " ")
+    print(z , " " , z)
+
+2806647
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2857905
+def cross(z):
+    print(z+" "*3+z)
+    print(" "*2+z+" "*2)
+    print(z+" "*3+z)
+    
+
+2807182
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2805045
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+    
+
+2803292
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+2817570
+def cross(z):
+    print(z, " ", z)
+    print (" ", z, " ")
+    print(z, " ", z)
+
+2803836
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+
+1901001
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2879870
+def cross(z):
+    print(z," ",z)
+	print(" ",z," ")
+    print(z," ",z)
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+2883175
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2882572
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2804190
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+2855294
+def cross(z):
+    print(z, z)
+    print(z)
+    print(z, z)
+
+def cross(z):
+    print(z, , ,z)
+    print(z)
+    print(z, z)
+
+def cross(z):
+    print(z  z)
+    print(z)
+    print(z, z)
+
+def cross(z):
+    print("z  z")
+    print(" z ")
+    print("z  z")
+
+def cross(n):
+    print("n",  ,"n")
+    print( "n" )
+    print(""n"  "n"")
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z,"")
+    print(z," ",z)
+
+2872834
+def cross(z):
+         print(z," ",z,) 
+         print(" ",z," ")
+         print(z," ",z)
+
+2917717
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2810855
+def cross(z):
+    for i in range(3):
+        if i%2 != 1:
+        	print(z,z,sep="   ")
+        	#print()
+        else:
+            print(" ",z,end="  ")
+            print()
+   		
+
+2805625
+def cross(z):
+    print(z ," ", z)
+    print(" ",z)
+    print(z, " ", z)
+
+2922684
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2925067
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+
+2924281
+def cross(z):
+    print(z+"   "+z)
+    print("  "+z)
+    print(z+"   "+z)
+
+def cross(z):
+    print(z+"   "+z)
+    print("  "+z)
+    print(z+"   "+z)
+
+2926078
+def cross(z):
+    print(z+"   "+z+"\n"+"  "+z+"  "+"\n"+z+"   "+z)
+
+2928683
+def cross(z):
+    print(z + " " + z)
+    print(" " + z + " ")
+    print(z + " " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+2876299
+def cross(z):
+    print(z, " " , z)
+    print(" ", z, " ")
+    print(z, " " , z)
+
+2934866
+def cross(z):
+    print(z, " ",z)
+    print(" ",z," ")
+    print(z, " ",z)
+
+2884168
+def cross(z):
+    print(z,z)
+    print(z)
+    print(z,z)
+def cross(z):
+    print(z," " ,z)
+    print(" ",z)
+    print(z," ",z)
+2812655
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2944662
+def cross(z):
+    print("A A")
+    print(" A ")
+    print("A A")
+
+2944656
+def cross(z):
+    print("A" "   " "A")
+    print("  " "A "  " ")
+    print("A" "   "  "A")
+
+def cross(z):
+    print("A" "   " "A")
+    print("  " "A "  " ")
+    print("A" "   "  "A")
+
+def cross(z):
+    print("A" "   " "A")
+    print("  " "A "  " ")
+    print("A" "   "  "A")
+
+def cross(z):
+    print("A" "   " "A")
+    print("  " "A "  " ")
+    print("A" "   "  "A")
+
+def cross(z):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(+):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(z):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(z):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("B" "   " "B")
+    print("  " "B "  " ")
+    print("B" "   "  "B")
+
+def cross(z):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+def cross(znak):
+    print("+" "   " "+")
+    print("  " "+ "  " ")
+    print("+" "   "  "+")
+
+2818225
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2806067
+z = "A"
+y = " "
+def cross(z):
+    print(z, y, z)
+    print(y, z)
+    print(z, y, z)
+    		
+
+2849133
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2817070
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2811019
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+2924329
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2964823
+def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+   
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2936556
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2970482
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2933544
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z)
+    print(z + "   " + z)
+
+2987327
+def cross(z):
+    print(z," ", z)
+    print(" ", z," ")
+    print(z," ",z)
+
+2914958
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2988877
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2851539
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+    
+
+2809071
+def cross(z):
+    for i in range 3:
+    	for i in range 1,10:
+        	if i%2 == 0:
+            	print (" ", end = "")
+      	    else: 
+    			print(z, end = "")
+		    i -= 1
+        print("")
+def cross(z):
+    for i in range (1,10):
+        if i%2 == 0:
+            print("  ", end = "")
+        elif i%2==1:
+            print(z, end = " ")
+        if i%3 == 0:
+            print("")
+        i -= 1
+2994452
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2806125
+def cross(z):
+    print(z,' ', z)
+    print(' ', z)
+    print(z,' ', z)
+2091959
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2091956
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+    
+
+2933140
+def cross(z):
+    print(z," ",z)
+    print(" ",z,)
+    print(z," ",z)
+
+2091985
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2933157
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2933126
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2091960
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2933130
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+    
+
+2091978
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+    
+    
+
+    
+
+2091957
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2091973
+def cross(z):
+    print(z " " )
+
+2091958
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2091986
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+    
+
+2934874
+def cross(z):
+    print(z," ",z)   
+    print(" ",z)
+    print(z," ",z) 
+    
+
+2934881
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2999946
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2934884
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2934888
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2934889
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+2934893
+def cross(z):
+    print(z,"",z)
+    print("",z)
+
+def cross(z):
+    print(z,""",z)
+    print("",z)
+
+def cross(z):
+    print(z,"+",z)
+    print("",z)
+
+def cross(z):
+    print(z," ",z)
+    print("",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+2934891
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+2199617
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+2843178
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+    
+2803041
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+3042251
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+
+2940162
+def cross(z):
+    print(z)
+
+def cross(z, n):
+    for s in range(1, n + 1):
+        for r in range(1, n + 1):
+            if (s == 1 and r == 1) or (s == 1 and r == n):
+                print(z, end="")
+            elif s == n // 2 + 1 and r == n // 2 + 1:
+                print(z, end="")
+            elif (s == n and r == 1) or (s == n and r == n):
+                print(z, end="")
+            else:
+                print(" ", end="")
+        print()
+            
+		
+2790330
+def cross(z):
+    print(z," ",z)
+    print(" ",z)
+    print(z," ",z)
+
+3051637
+def cross(z):
+    print(z," ",z,"\n","",z,"","\n",z," ",z)
+
+2253601
+def cross(z):
+    print(z)
+L
+2856252
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if i==j or i+j==2 :
+                print(z, end=' ')
+            else:
+                print(' ', end=' ')
+        print()
+
+
+3071796
+def cross(z):
+    print(z,' ',z)
+    print(' ',z,' ')
+    print(z,' ',z)
+    
+
+3101671
+def cross(z):
+    print(z," ",z)
+    print(" ",z," ")
+    print(z," ",z)
+
+def cross(z):
+    print(z)
+
+def cross(z):
+    print(z)
+
+3029453
+def cross(z):
+    print(z," ", z)
+    print(" ", z, " ")
+    print(z," ", z)

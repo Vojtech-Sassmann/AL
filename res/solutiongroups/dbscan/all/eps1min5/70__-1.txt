@@ -1,0 +1,68 @@
+def frame(text, symbol):
+    dlzka =	len(text) + 2
+    new = symbol+text+symbol
+    print(dlzka*symbol)
+    print(str(new))
+    print(dlzka*symbol)
+
+def frame(text, symbol):
+    print((len(text)+2)*symbol)
+    print(symbol+text+symbol)
+    print((len(text)+2)*symbol)
+
+def frame(text, symbol):
+    sym = (len(text) + 2) * symbol
+    tex = symbol + text + symbol
+    print (sym)
+    print (tex)
+    print (sym)
+	  
+
+def frame(text, symbol):
+    print(symbol*(len(text)+2))
+    print(symbol+text+symbol)
+    print(symbol*(len(text)+2))
+
+def frame(text, symbol):
+    
+    char_row(symbol,len(text)+2)
+    print(symbol+text+symbol)
+    char_row(symbol, len(text)+2)
+def char_row(char,lenght):
+    for i in range (lenght):
+        print(char,end="")
+    print()
+def frame(text, symbol):
+    dlzka =	len(text) + 2
+    new = symbol+text+symbol
+    print(dlzka*symbol)
+    print(str(new))
+    print(dlzka*symbol)
+
+def frame(text, symbol):
+    print((len(text)+2)*symbol)
+    print(symbol+text+symbol)
+    print((len(text)+2)*symbol)
+
+def frame(text, symbol):
+    sym = (len(text) + 2) * symbol
+    tex = symbol + text + symbol
+    print (sym)
+    print (tex)
+    print (sym)
+	  
+
+def frame(text, symbol):
+    print(symbol*(len(text)+2))
+    print(symbol+text+symbol)
+    print(symbol*(len(text)+2))
+
+def frame(text, symbol):
+    
+    char_row(symbol,len(text)+2)
+    print(symbol+text+symbol)
+    char_row(symbol, len(text)+2)
+def char_row(char,lenght):
+    for i in range (lenght):
+        print(char,end="")
+    print()

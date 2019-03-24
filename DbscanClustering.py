@@ -31,8 +31,10 @@ def cluster_dbscan(distance_matrix, file_name, output_file_name):
 
     for cluster, solution in zip(db.labels_, distance_matrix.index.values):
         if cluster is not -1:
-            with codecs.open(path + "eps" + str(DBSCAN_EPSILON) + "min" + str(DBSCAN_MIN_SIZE)  + "/" + file_name + "_" + str(cluster), 'a', encoding='UTF-8') as f:
+            with codecs.open(path + "eps" + str(DBSCAN_EPSILON) + "min" + str(DBSCAN_MIN_SIZE)  + "/" + file_name[:-4]
+                             + "__" + str(cluster) + ".txt", 'a', encoding='UTF-8') as f:
                 f.write(solution)
+                f.write('\n')
 
     unique_labels = set(labels)
     colors = [plt.cm.Spectral(each)
@@ -101,11 +103,16 @@ def analyze_file(file_name, output_file_name):
     cluster_dbscan(df, file_name, output_file_name)
 
 
-path = "./res/solutiongroups/dbscan/"
+path = "./res/solutiongroups/dbscan/all/"
 DBSCAN_MIN_SIZE = 5
 DBSCAN_EPSILON = 1
 
-analyze_file("34.pkl", '34')
-analyze_file("47.pkl", '47')
-analyze_file("48.pkl", '48')
-analyze_file("49.pkl", '49')
+# analyze_file("40.pkl", '47')
+
+if __name__ == '__main__':
+    for i in range(1, 75):
+        try:
+            analyze_file(str(i) + '.pkl', str(i))
+        except:
+            pass
+

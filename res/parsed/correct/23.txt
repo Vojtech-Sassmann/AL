@@ -1,0 +1,7 @@
+def greatest_common_divisor(a, b):\n	if a<b: \n    	cislo=b\n	else:\n    	cislo=a\n	for i in range(cislo,0,-1):\n		if (not(a%i))and(not(b%i)):\n			return i
+def greatest_common_divisor(a, b):\n    s=[]\n    t=[]\n    for i in range (a):\n        if a%(i+1)==0: s.append(i+1)\n    for j in range (b):\n        if b%(j+1)==0: s.append(j+1)\n    for k in range (len(s)):\n        for l in range (len(s)):\n            if k>l and s[k]==s[l]:t.append(s[k])\n    t.sort\n    return(t[len(t)-1])\n
+def greatest_common_divisor(a, b):\n    while b:\n        a, b = b, a%b\n    return a\n
+def greatest_common_divisor(a, b):\n    for i in range(a):\n        if a%(i+1)==0 and b%(i+1)==0:\n            x=i+1\n    return x\n
+def greatest_common_divisor(a, b):\n    D=1\n    if a<b:\n        for i in range(1,a+1):\n            if a%i==0 and b%i==0:\n                D=i      \n    elif a>b:\n        for i in range(1,b+1):\n            if a%i==0 and b%i==0:\n                D=i     \n    elif a==b:\n        D=a\n    return D\n
+def greatest_common_divisor(a, b):\n    if b == 0:\n		return a\n    else:\n        return greatest_common_divisor(b, a%b)
+def greatest_common_divisor(a, b):\n    for i in range (1, a + 1):\n        if a % i == 0:\n            if b % i == 0:\n                x = i\n    return x\n

@@ -1,0 +1,65 @@
+def square(n):
+    l = '{}'.format('# ') * n
+    for i in range(n):
+        print(l)
+
+
+def square(n):
+    for i in range(n):
+        print(n*"# ",)
+    print()
+
+def square(n):	
+    for i in range(n):	
+        print()
+        for i in range(n):
+    		 		
+           	print("#", end=" ")
+        	
+    print()
+
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            
+        	print("#", end=" ")
+        print()
+    print()
+
+def square(n):
+    for i in range(n):
+        print("# " * n)
+    print()
+
+def square(n):
+    for i in range(n):
+        print("# "*n)
+    print()
+
+def square(n):
+    for i in range(n):
+        print("#", end=" ")
+    print()
+    for i in range(n - 1):
+        print("#"" " * n)
+
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+    print()
+
+def square(n):
+    for i in range(n):
+        print("# "*n)
+    print()
+
+def square(n):
+    for i in range(n):
+        print(n*"# ", end = " ")
+        print()
+
+def square(n):
+    for i in range(n):
+        print(n*"# ", end=" ")
+        print()
+

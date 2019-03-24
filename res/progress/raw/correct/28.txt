@@ -1,0 +1,38 @@
+1111
+def string_zip(text1, text2):\n	pleb = ""\n	for i in range((len(text1)) + (len(text2))):\n		if i < len(text1):\n			pleb = pleb + text1[i]\n		if i < len(text2):\n			pleb = pleb + text2[i]\n	return pleb
+###
+1111
+def string_zip(text1, text2):\n    t3 = ""\n    for i in range(len(text1) + len(text2)):\n        if i < len(text1):\n            t3 = t3 + text1[i]\n        if i < len(text2):\n            t3 = t3 + text1[i]\n    return t3
+def string_zip(text1, text2):\n    t3 = ""\n    for i in range(len(text1) + len(text2)):\n        if i < len(text1):\n            t3 = t3 + text1[i]\n        if i < len(text2):\n            t3 = t3 + text1[i]\n    return t3
+def string_zip(text1, text2):\n    t3 = ""\n    for i in range(len(text1) + len(text2)):\n        if i < len(text1):\n            t3 = t3 + text1[i]\n        if i < len(text2):\n            t3 = t3 + text1[i]\n    return t3
+def string_zip(text1, text2):\n    t3 = ""\n    for i in range(len(text1) + len(text2)):\n        if i < len(text1):\n            t3 = t3 + text1[i]\n        if i < len(text2):\n            t3 = t3 + text1[i]\n    return t3
+def string_zip(text1, text2):\n    t3 = ""\n    for i in range(len(text1) + len(text2)):\n        if i < len(text1):\n            t3 = t3 + text1[i]\n        if i < len(text2):\n            t3 = t3 + text2[i]\n    return t3
+###
+1111
+def string_zip(text1, text2):\n    text=""\n    a=len(text2)\n    for i in range(len(text1)):\n        if i<a:\n            text=text+text1[i]+text2[i]\n        else:\n            text=text+text1[i]\n    return text\n
+def string_zip(text1, text2):\n    text=""\n    a=len(text1)\n    b=len(text2)\n    if b>a:\n        texta=text2\n        textb=text1\n    else:\n        texta=text1\n        textb=text2\n    for i in range(max(a,b)):\n        if i<a:\n            text=text+texta[i]+textb[i]\n        else:\n            text=text+texta[i]\n    return text\n
+def string_zip(text1, text2):\n    text=""\n    a=len(text1)\n    b=len(text2)\n    for i in range(max(a,b)):\n        if i<a and i<b:\n            text=text+text1[i]+text2[i]\n        elif i>=a:\n            text=text+text2[i]\n        elif i>=b:\n            text=text+text1[i]\n    return text\n
+###
+1111
+def string_zip(text1, text2):\n    prvy = list(text1)\n    druhy = list(text2)\n    vypis = ""\n    vacsi = ""\n    if(len(text1)>len(text2)):\n        premenna = text2\n        vacsi = text1\n    elif(len(text1)<len(text2)):\n        premenna = text1\n        vacsi = text2\n    else:\n        premenna = text1\n        vacsi = text2\n    for i in range(len(premenna)):\n        vypis += str("".join(prvy[i:i+1]))+str("".join(druhy[i:i+1]))\n    vypis+=vacsi[len(premenna):len(vacsi)-int(len(premenna)/5)]\n    return vypis\n
+def string_zip(text1, text2):\n    prvy = list(text1)\n    druhy = list(text2)\n    vypis = ""\n    vacsi = ""\n    if(len(text1)>len(text2)):\n        premenna = text2\n        vacsi = text1\n    elif(len(text1)<len(text2)):\n        premenna = text1\n        vacsi = text2\n    else:\n        premenna = text1\n        vacsi = text2\n    for i in range(len(premenna)):\n        vypis += str("".join(prvy[i:i+1]))+str("".join(druhy[i:i+1]))\n    vypis+=vacsi[len(premenna):len(vacsi)]\n    return vypis\n
+###
+1111
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2)):]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2))+1:]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) != len(text2):\n        newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2))+1:]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) != len(text2):\n        newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2)):]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) != len(text2):\n        newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2))-1:]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) > len(text2):\n        newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2)):]\n    elif len(text1) < len(text2):\n        newstr+=text2[max(len(text1), len(text2))-min(len(text1), len(text2)):]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) > len(text2):\n        newstr+=text1[max(len(text1), len(text2))-min(len(text1), len(text2))-1:]\n    elif len(text1) < len(text2):\n        newstr+=text2[max(len(text1), len(text2))-min(len(text1), len(text2)):]\n    return newstr
+def string_zip(text1, text2):\n    newstr=""\n    for l, r in zip(text1, text2):\n        newstr+=l+r\n    if len(text1) > len(text2):\n        newstr+=text1[len(text2):]\n    elif len(text1) < len(text2):\n        newstr+=text2[len(text1):]\n    return newstr
+###
+1111
+def string_zip(text1, text2):\n    return "".join([l+r for l, r in zip(text1, text2)] + \n                   [text1[min(len(text1), len(text2)):]+text2[min(len(text1), len(text2)):]])\n
+###
+1111
+def shorter(left,right):\n    if len(left)<=len(right):\n        return left\n    else: return right\n\ndef longer (left,right):\n    if len(left)<=len(right):\n        return right\n    else: return left\ndef string_zip(text1, text2):\n    result = ""\n    for i in range (len(shorter(text1,text2))):\n        result+=text1[i]+text2[i]\n    for j in range (len(longer(text1,text2)) - len(shorter(text1,text2))):\n        result+=longer(text1,text2)[len(shorter(text1,text2))+j]\n\n    return result
+###
+1111
+def shorter(left,right):\n    if len(left)<=len(right):\n        return left\n    else: return right\n\ndef longer (left,right):\n    if len(left)<=len(right):\n        return right\n    else: return left\ndef string_zip(text1, text2):\n    result = ""\n    for i in range (len(shorter(text1,text2))):\n        result+=text1[i]+text2[i]\n    for j in range (len(longer(text1,text2)) - len(shorter(text1,text2))):\n        result+=longer(text1,text2)[len(shorter(text1,text2))+j]\n\n    return result
+###

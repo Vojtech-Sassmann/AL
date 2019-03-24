@@ -1,0 +1,38 @@
+2004391
+První písmena
+###
+2026013
+def first_letters(text):\n      prvni = str(text[0])\n      for i in range(1, len(text)):\n            if text[i-1] == " " and text[i] != " ":\n                  prvni += text[i]\n      print(prvni)
+def first_letters(text):\n      prvni = str(text[0]) + " "\n      for i in range(1, len(text)):\n            if text[i-1] == " " and text[i] != " ":\n                  prvni += text[i]+" "\n      print(prvni)
+###
+2437820
+def first_letters(text):\n    pis=True\n    for i in text:\n        if pis:\n            print(i, end="")\n            pis=False\n        if i==" ":\n            print(" ", end="")\n            pis=True\n
+def first_letters(text):\n    pis=True\n    for i in text:\n        if pis:\n            print(i, end="")\n            pis=False\n        if (i==" ")and(not(pis)):\n            print(" ", end="")\n            pis=True\n
+def first_letters(text):\n    pis=True\n    for i in text:\n        if pis and i!=" ":\n            print(i, end="")\n            pis=False\n        if (i==" ")and(not(pis)):\n            print(" ", end="")\n            pis=True\n
+###
+2801103
+def first_letters(text):\n  out = ""\n  sp  = True\n\n  for c in text: \n      if sp:\n         if c!=" ": \n            out += c+" "\n            sp = False          \n      else:\n         if c==" ": \n            sp = True\n\n  print(out)\n
+###
+2802909
+def first_letters(text):\n    old = "X"\n    new = [text[0]]\n    for i in text:\n        if i != " " and old == " ":\n            new.append(i)\n            old = i\n        else:\n            old = i\n    print(new)\n
+def first_letters(text):\n    old = "X"\n    new = [text[0]]\n    for i in text:\n        if i != " " and old == " ":\n            new.append(i)\n            old = i\n        else:\n            old = i\n    for i in range(len(new)):\n        print(new[i], end = " ")\n
+###
+2809764
+def first_letters(text):\n   if text[0]!=' ': print(text[0],end=" ")\n   for i in range (len(text)):\n       if text[i]==' ' and text[i+1]!=' ':\n           print (text[i+1], end=" ")\n   print()\n
+###
+2844811
+def first_letters(text):\n    pole =  text.split()\n    vypis = ""\n    for i in range(len(pole)):\n        vypis += pole[i][:1]+" "\n    print(vypis)\n
+###
+2849628
+def first_letters(text):\n    for a in range(len(text)):\n        if text[a]!=' ':\n            if a==0:\n                print(text[a], end=' ')\n            elif text[a-1]==' ' :\n                print(text[a], end=' ')\n    print()\n                \n
+###
+2853743
+def first_letters(text):\n    new=""\n    tex = text.split()\n    for i in tex:\n        new += i[0] + " "\n    print (new)
+###
+2856023
+def first_letters(text):\n    print(" ".join([letter[0] for letter in text.split(" ") if len(letter) > 0]))\n
+###
+2857905
+def first_letters(text):\n    print(" ".join([word[1] for word in text.split(" ") if len(word) > 0]))\n
+def first_letters(text):\n    print(" ".join([word[0] for word in text.split(" ") if len(word) > 0]))\n
+###

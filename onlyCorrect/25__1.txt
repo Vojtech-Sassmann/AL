@@ -1,0 +1,43 @@
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i] == 'a' or text[i] == 'A':
+            count = count + 1
+        
+    return count
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i] == 'a' or text[i] == 'A':
+            count = count + 1
+    return count
+
+def count_a(text):
+    x = 0
+    for i in range(len(text)):
+        if text[i] == "a" or text[i] == "A":
+            x += 1
+    return x
+        
+
+def count_a(text):
+    x=0
+    for i in range(len(text)):
+        if(text[i]=="A" or text[i]=="a"):
+            x+=1
+    return x
+
+def count_a(text):
+    total = 0
+    for i in range(len(text)):
+        if(text[i] == "a" or text[i] == "A"):
+            total += 1
+    return total
+
+def count_a(text):
+    count=0
+    for i in range(len(text)):
+        if text[i]=="a" or text[i]=="A":
+            count+=1
+    return count

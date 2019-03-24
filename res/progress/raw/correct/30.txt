@@ -1,0 +1,9 @@
+1111
+def most_common(mylist):\n    \n    pocet = 0\n    num = 'ach'\n    for number in mylist:\n        \n        if pocet <= mylist.count(number):\n            pocet = mylist.count(number)\n            if num == 'ach':\n        		num = number\n            \n            if num > number:\n                num = number\n        \n    return num
+def most_common(mylist):\n    \n    pocet = 0\n    num = -1\n    for number in mylist:\n        if num == -1:\n        	num = number\n    	\n        kolko = mylist.count(number)\n        if pocet <= kolko:\n            pocet = kolko\n            if num < number:\n                num = number\n        \n    return num
+def most_common(mylist):\n    \n    pocet = 0\n    num = -1\n    for number in mylist:\n        if num == -1:\n        	num = number\n    	\n        kolko = mylist.count(number)\n        if pocet <= kolko:\n            pocet = kolko\n            num = number\n        \n    return num
+###
+1111
+def most_common(mylist):\n    most=0\n    high_freq = 0\n    freq=0\n    for x in mylist:\n        for y in mylist:\n            if x==y:\n                freq+=1\n        if freq > high_freq:\n            high_freq=freq\n            most=x\n        freq=0\n    return most
+def most_common(mylist):\n    most=0\n    high_freq = 0\n    freq=0\n    for x in mylist:\n        for y in mylist:\n            if x==y:\n                freq+=1\n        if freq > high_freq:\n            high_freq=freq\n            most=x\n        elif freq==high_freq:\n            if x<most:\n                most=x\n        freq=0\n    return most
+###

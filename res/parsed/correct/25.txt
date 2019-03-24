@@ -1,0 +1,29 @@
+def count_a(text,a=0):\n    for i in (text):\n        if i=="a":\n            a=a+1\n        if i=="A":\n            a=a+1\n    return (a)\n            \n
+def count_a(text,a=0):\n    for i in (text):\n        if i=="a":\n            a=a+1\n        if i=="A":\n            a=a+1\n    return (a)
+\ndef count_a(text):\n celek = 0\n for i, prvek in enumerate(text):\n  if prvek =="A" or prvek =="a":\n   celek = celek+1\n return celek
+def count_a(text):\n    vysledek=0\n    for i in (text):\n        if i=="a" or i=="A":\n            vysledek = vysledek+1\n            \n        \n    return vysledek\n
+def count_a(text):\n  x = 0\n  for letter in text:\n    if letter == "a":\n      x = x + 1\n    if letter == "A":\n      x = x + 1\n  return x
+def count_a(text):\n    counter = 0\n    for letter in text:\n        if (letter == "a"):\n            counter = counter + 1\n        if (letter == "A"):\n                counter = counter + 1\n    return counter\n
+def count_a(text):\n    pocet=0\n    for i in text:\n        if (i=="A") or (i=="a"):\n            pocet=pocet+1\n    return pocet\n
+def count_a(text):\n    n=len(text)\n    k=0\n    for i in range (n):\n        if (text[i]=="a" or text[i]=="A"): k=k+1\n    return(k)\n
+def count_a(text):\n    t = text.lower()\n    i = t.count("a")\n    return i\n\n
+def count_a(text):\n    return text.lower().count('a')\n
+def count_a(text):\n    count = 0\n    for i in range(len(text)):\n        if text[i] == 'a' or text[i] == 'A':\n            count = count + 1\n        \n    return count\n
+def count_a(text):\n    c=0\n    for i in text:\n      if i is "a" or i is "A":\n         c += 1\n    return c\n
+def count_a(text):\n    count = 0\n    for i in text:\n        if i == 'a' or i == 'A':\n            count += 1\n    return count\n
+def count_a(text):\n    pocet = 0\n    for i in text:\n        if (i == "a")or(i=="A"):\n            pocet+=1\n    return pocet\n
+def count_a(text):\n    a=0\n    for i in range(len(text)):\n        if text[i]=="a" or text[i]=="A":\n            a=a+1;\n    return a\n
+def count_a(text):\n    text = text.lower()\n    return text.count('a')\n
+def count_a(text):\n    n=text.count('a')+text.count('A')\n    return n\n	\n
+def count_a(text):\n    pocet = 0\n    for i in range (0, len(text)):\n        if (text[i]=="a"):\n            pocet += 1\n        elif (text[i]=="A"):\n            pocet += 1\n    return pocet\n
+def count_a(text):\n    count = 0\n    for i in range(len(text)):\n        if text[i] == 'a' or text[i] == 'A':\n            count = count + 1\n    return count\n
+def count_a(text):\n    return text.lower().count('a')\n
+def count_a(text, char="a", bigchar="A"):\n    count = 0\n    for c in text:\n        if c == char:\n            count += 1\n        if c == bigchar:\n            count += 1\n    return count\n
+def count_a(text):\n    return text.lower().count("a")\n
+def count_a(text):\n    x = 0\n    for i in range(len(text)):\n        if text[i] == "a" or text[i] == "A":\n            x += 1\n    return x\n        \n
+def count_a(text):\n    x=0\n    for i in range(len(text)):\n        if(text[i]=="A" or text[i]=="a"):\n            x+=1\n    return x\n
+def count_a(text):\n    count = 0\n    for i in range(len(text)):\n        if text[i].lower() == "a":\n            count += 1\n    return count\n
+def count_a(text):\n    total = 0\n    for i in range(len(text)):\n        if(text[i] == "a" or text[i] == "A"):\n            total += 1\n    return total\n
+def count_a(text):\n    n = 0\n    for i in text:\n    	if i == 'a' or i== 'A':\n        	n+=1\n    return n\n
+def count_a(text):\n    count=0\n    for i in range(len(text)):\n        if text[i]=="a" or text[i]=="A":\n            count+=1\n    return count
+def count_a(text):\n    cnt=0\n    text=text.lower()\n    for let in text:\n        if let=='a':\n            cnt+=1\n    return(cnt)\n\n    \n

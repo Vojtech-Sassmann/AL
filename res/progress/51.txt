@@ -1,0 +1,1921 @@
+1727203
+def dragon_test(heads, pigs):
+    if pigs%heads is True:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2126139
+def dragon_test(heads, pigs):
+    if(pigs % heads != 0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2081667
+def dragon_test(heads, pigs):
+    if pigs< heads:
+      print("Bude bitka.")
+    if pigs//heads:
+      print(" Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if heads>pigs:
+      print("Bude bitka.")
+    if pigs // heads:
+      print("Bude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if pigs< heads:
+      print("Bude bitka.")
+    else:
+      print("Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if (pigs/heads):
+        print("Bude bitka.")
+    elif (heads*pigs):
+        print("Bude bitka")
+    else:
+        print("Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if (pigs/heads):
+        print("Nebude bitka.")
+    elif (heads*pigs):
+        print("Bude bitka")
+    else:
+        print("Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if (pigs/heads):
+        print("Nebude bitka.")
+    elif (heads*pigs):
+        print("Bude bitka")
+    else:
+        print("Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if (pigs/heads ):
+        print("Bude bitka.")
+    elif (heads*pigs):
+        print("Bude bitka")
+    else:
+        print("Nebude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if (pigs/2 and pigs/3 ):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+    
+    
+
+def dragon_test(heads, pigs):
+    if heads//pigs:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads%pigs:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads//pigs:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("bude bitka.")
+    else:
+        print("neBude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+def dragon_test(heads, pigs):
+    if pigs//heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+def dragon_test(heads, pigs):
+    if (pigs//heads):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+def dragon_test(heads, pigs):
+    if (pigs//heads):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+359275
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+359273
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+2128782
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2134240
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+dragon_test(5,5)
+2057798
+def dragon_test(heads, pigs):
+    if (pigs%heads == 0): print("Nebude bitka.")
+    if (pigs%heads != 0): print("Bude bitka.")
+2162341
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+2080767
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+            print("Nebude bitka")
+    else:
+            print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+            print("Nebude bitka.")
+    else:
+            print("Bude bitka.")
+
+2080764
+def dragon_test(heads, pigs):
+	if pigs%heads==0:
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+2101605
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")
+    else:
+    	print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")
+    else:
+    	print("Bude bitka.")
+
+2080746
+def dragon_test(heads, pigs):
+    if pigs%heads==0
+       print("Nebude bitka.")
+    else:
+       print("Bude bitka.")
+    
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0
+       print("Nebude bitka.")
+    else:
+       print("Bude bitka.")
+    
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0
+       print("Nebude bitka.")
+    else:
+       print("Bude bitka.")
+    
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0
+       print("Nebude bitka.")
+    else:
+       print("Bude bitka.")
+    
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print("Bude bitka.")
+   
+2080762
+def dragon_test(heads, pigs):
+	if pigs%heads==0:
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+
+2080766
+def dragon_test(heads, pigs):
+	if pigs%heads==0:
+     	print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+
+2080751
+def dragon_test(heads, pigs):
+	if pigs%heads==0:
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+
+2101655
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (3, 12)
+    print("Bitka nebude!")
+    if (3, 11)
+    print("Bitka bude!") 
+    if (5,5)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (3, 12)
+    print("Bitka nebude!")
+    if (3, 11)
+    print("Bitka bude!") 
+    if (5,5)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (3, 12)
+    print("Bitka nebude!")
+    if (3, 11)
+    print("Bitka bude!") 
+    if (5,5)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (4, 9)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (4, 9)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (4, 9)
+    print("Bitka bude!")
+
+def dragon_test(heads, pigs):
+    if (4, 9)
+    print("Dobijou se jak psi!")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print("Bude bitka.") 
+
+2101654
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+        if pigs%heads!==0:
+            print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+        if pigs%heads!==0:
+            print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+        if pigs%heads!==0:
+            print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka")
+    if pigs%heads!==0:
+        print("bude bitka")
+    
+2080749
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")	
+    else:
+    	print ("Bude bitka.")
+             
+1712803
+def dragon_test(heads, pigs):
+    if (pigs % heads != 0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2243804
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print ("Nebude bitka")
+    else:
+    	print("Bude bitka.")
+
+1961000
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+    dragon_test(heads, pigs)
+    dragon_test(3, 12)
+    
+
+2026013
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs % heads != 0 or pigs < heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+        
+
+2080760
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("nebude bitka.")
+    if pigs%heads:
+        print ("bude bitka.")
+    if pigs%heads :
+        print( "nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka.")
+    if pigs%heads1!=0:
+        print ("bude bitka.")
+    if pigs%heads ==0
+        print("nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka.")
+    if pigs%heads1!=0:
+        print ("bude bitka.")
+    if pigs%heads ==0:
+        print("nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("nebude bitka.")
+    if pigs%heads!=0:
+        print ("bude bitka.")
+    if pigs%heads ==0:
+        print("nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print ("Bude bitka.")
+    if pigs%heads ==0:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print ("Bude bitka.")
+    if pigs%heads==0:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print ("Bude bitka.")
+    if pigs%heads==0:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print ("Bude bitka.")
+  
+
+2080783
+def dragon_test(heads, pigs):
+    if (3, 12) 
+       print("Nebude bitka")
+    if (3, 11) 
+       print("Bude bitka")
+    if (5, 5)
+       print("Nebude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if (3%12) 
+       print("Nebude bitka")
+    if (3%11) 
+       print("Bude bitka")
+    if (5%5)
+       print("Nebude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if (pigs//heads==0)
+       print("Nebude bitka")
+    if (pigs//heads==1)
+       print("Bude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0)
+       print("Nebude bitka")
+    if (pigs%heads==1)
+       print("Bude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0):
+       print("Nebude bitka")
+    if (pigs%heads==1):
+       print("Bude bitka")
+    
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0):
+       print("Nebude bitka.")
+    if (pigs%heads==1):
+       print("Bude bitka.")
+    
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0):
+       print("Nebude bitka.")
+    if (pigs%heads==1):
+       print("Bude bitka.")
+    if (pigs%heads==2):
+       print("Bude bitka.")
+    
+
+2080744
+def dragon_test(h, p):
+    if p%h==0:
+        print("Nebude bitka.")
+    if p%h!=0:
+        print("Bude bitka.")
+    
+
+372834
+def dragon_test(heads, pigs):
+    if heads==pigs/pigs:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads==pigs/pigs:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads==pigs/pigs:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads==pigs/pigs:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads==pigs/pigs:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads != pigs:
+        print("Bude bitka")   
+    else:
+        print("Nebude bitka")
+
+def dragon_test(heads, pigs):
+    if heads != pigs:
+        print("Bude bitka")   
+    else:
+        print("Nebude bitka")
+
+def dragon_test(heads, pigs):
+    if heads != pigs:
+        print("Bude bitka.")   
+    else:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads*pigs == pigs:
+        print("Nebude bitka.")   
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    vypocet = pigs/heads
+    if heads*vypocet == pigs:
+        print("Nebude bitka.")   
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    vypocet = pigs/heads
+    if heads*vypocet == pigs:
+        print("Nebude bitka.")   
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    vypocet = pigs/heads
+    if heads*vypocet == pigs:
+        print("Bude bitka.")   
+    else:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    vypocet = pigs/heads
+    if heads*vypocet == pigs:
+        print("Bude bitka.")
+    elif heads*vypocet != pigs:
+        print("Nebude bitka.")
+    else:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    vypocet = pigs/heads
+    if heads*vypocet == pigs:
+        print("Bude bitka.")
+    elif vypocet <= pigs:
+        print("Nebude bitka.")
+
+
+2371767
+def dragon_test(heads, pigs):
+    if ((heads % pigs) == 0):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if ((heads % pigs) == 0):
+        print("Bude bitka.")
+    else:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if ((heads % pigs) == 0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2379408
+def dragon_test(heads, pigs):
+    if pigs % heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+def dragon_test(heads, pigs):
+    if pigs % heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+2087952
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+2413063
+def dragon_test(heads, pigs):
+    if(pigs%heads):
+    	print("Bude bitka.")
+    else:
+    	print("Nebude bitka.")
+
+2439201
+def dragon_test(heads, pigs):
+    if (heads =< pigs):
+    	print("Nebude bitko.")
+    if (heads == pigs):
+		print("Nebude bitky.")
+        
+
+def dragon_test(heads, pigs):
+    if (heads < pigs):
+    	print("Bude bitka.")
+        
+
+def dragon_test(heads, pigs):
+    if (heads < pigs):
+    	print("Nebude bitka.")
+
+        
+
+def dragon_test(heads, pigs):
+    if (pigs % heads):
+        print("Nebude bitka.")
+        if (pigs % heads):
+            print("Bude bitka")
+            if (pigs % heads):
+                print("Nebude bitka.")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs // heads >= heads):
+        print("Nebude bitka.")
+    else:
+        print("Bude Buitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads > 0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads > 1):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads >= 1):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads != 0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+        print("Nebude bitka.")
+        if (pigs % heads == 1):
+        	print("Bude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+        print("Nebude bitka.")
+        if (pigs % heads == 1):
+        	print("Bude bitka")
+    #print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+    #print("Mozna bude bitka.")
+
+2612659
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2648081
+def dragon_test(heads, pigs):
+    if pigs%heads==0: print("Nebude bitka.")
+    else: print("Bude bitka.")
+
+2764732
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+    	print("Bude bitka.")
+
+2773780
+def dragon_test(heads, pigs):
+    if pigs % heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2799437
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+       beg = "Neb"
+    else:
+       beg = "B"
+    print(beg + "ude bitka.")
+
+2802909
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2805885
+def dragon_test(heads, pigs):
+    if heads % pigs == 0 or pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print('Bude bitka.')
+
+2809298
+def dragon_test(heads, pigs):
+    if pigs%heads==0: print("Nebude bitka.")
+    else: print("Bude bitka.")
+
+2809741
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+2802916
+def dragon_test(heads, pigs):
+    if(pigs % heads == 0):
+        print("Nebude bitka.")
+    else:
+        print("Bude  bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs % heads == 0):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2809764
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")
+    else: print("Bude bitka.")
+2811385
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2802162
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+2805048
+def dragon_test(heads, pigs):
+    x = pigs % heads
+    if x == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+    
+    
+    
+
+
+
+2805080
+def dragon_test(heads, pigs):
+    if pigs % heads == 0 :
+        print ("nebude bitka.")
+    else :
+        print ("bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0 :
+        print ("nebude bitka.")
+    else :
+        print ("bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0 :
+        print ("Nebude bitka.")
+    else :
+        print ("Bude bitka.")
+
+2810636
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2805831
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+2802247
+def dragon_test(heads, pigs):
+    if(pigs<heads):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs%heads==0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs%heads!=0):
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2818450
+def dragon_test(heads, pigs):
+    if pigs%heads!=0:
+    	print('Bude bitka')
+    else:
+        print('Nebude bitka')
+
+
+def dragon_test(heads, pigs):
+    if pigs%heads!=0:
+    	print('Bude bitka.')
+    else:
+        print('Nebude bitka.')
+
+
+2819660
+def dragon_test(heads, pigs):
+    if pigs%heads:	
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads:	
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads:	
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads:
+    	print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2819643
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Bude bitka")
+    else:
+        print("Nebude bitka")
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Nebude bitka")
+    else:
+        print("Bude bitka")
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Nebude bitka")
+    else:
+        print("Bude bitka")
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Bude bitka")
+    else:
+        print("Nebude bitka")
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Bude bitka")
+    else:
+        print("Nebude bitka")
+def dragon_test(heads, pigs):
+    if pigs%heads:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+2819583
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print ("Nebude bitka")
+    else:
+        print ("Bude bitka")
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads>=1:
+        print ("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads>=1:
+        print ("Bude bitka.")
+
+2802203
+def dragon_test(heads, pigs):
+    if pigs%heads == 0:
+   		print("Nebude bitka.")
+    else:
+    	print ("Bude bitka.")
+2828797
+def dragon_test(heads, pigs):
+	if (pigs % heads == 0):
+		print("Nebude bitka")
+	else:
+		print("Bude bitka")
+
+def dragon_test(heads, pigs):
+	if (pigs % heads == 0):
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+
+2802642
+def dragon_test(heads, pigs):
+    	if heads % pigs == 0:
+    		print("Nebude bitka.")
+       	if heads % pigs != 0:
+            print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs % heads ==0:
+        print("Nebude bitka.")
+    else:
+    	print("Bude bitka.")
+
+2803849
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads!=0:
+        print("Bude bitka.")
+    else:
+    	print("Mozna bude bitka.")
+
+2806059
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2805045
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+    print
+
+2803292
+def dragon_test(heads, pigs):
+    if pigs % heads != 0:
+    	print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2817570
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2883175
+def dragon_test(heads, pigs):
+    if pigs % heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs % heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs % heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs % heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs % heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2882572
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Bude bitka.")
+	
+    else:
+        print("Nebude bitka.")
+        
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+        
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+		print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+        
+
+2810855
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2926078
+def dragon_test(heads, pigs):
+    if pigs%heads != 0:
+        print("Bude bitka.")
+    else:
+        print("Nebude bitka.")
+
+2939266
+def dragon_test(heads, pigs):
+    if(pigs//heads==0):
+    	print("Nebude bitka.")
+        
+    else:
+    	print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs//heads==0):
+    	print("Nebude bitka.")
+        
+    else:
+    	print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs//heads==0):
+    	print("Nebude bitka.")
+        
+    else:
+    	print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if(pigs%heads==0):
+    	print("Nebude bitka.")
+        
+    else:
+    	print("Bude bitka.")
+
+2943966
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2944039
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+def dragon_test(heads, pigs):
+    if heads-pigs==0:
+        print ("betka nebode dopice")
+    else:
+        ("betka bode a merek dostane pres pecu doperdele")
+
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("betka nebode dopice")
+    else:
+        ("betka bode a merek")
+
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+def dragon_test(heads, pigs):
+    if heads % pigs==0:
+        print ("bitka nebude.")
+    else:
+        print ("Bude bitka.")
+2943976
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2944043
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2920927
+def dragon_test(heads, pigs):
+    if pigs % heads ==0:
+        print ("Nebude bitka.")
+    else:
+        print ("Bude bitka.")
+
+2944657
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+    
+
+2806067
+def dragon_test(x, y):
+    if y % x == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2849133
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2811019
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2964823
+def dragon_test(heads, pigs):
+    if pigs%heads == 0:
+         print("Nebude bitka.")
+    else:
+         print ("Bude bitka.")
+2970482
+def dragon_test(heads, pigs):
+    if(pigs%heads==0):
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2969431
+def dragon_test(heads, pigs):
+   if pigs % heads == 0:
+    print('bude bitka')
+   else :
+    print('Nebude bitka.')
+def dragon_test(heads, pigs):
+   if pigs % heads == 0:
+    print('bude bitka')
+   else :
+    print('Nebude bitka.')
+def dragon_test(heads, pigs):
+   if pigs % heads == 0:
+    print('Nebude bitka')
+   else :
+    print('Bude bitka.')
+def dragon_test(heads, pigs):
+   if pigs % heads == 0:
+    print('Nebude bitka.')
+   else :
+    print('Bude bitka.')
+2988877
+def dragon_test(heads, pigs):
+    if (pigs % heads == 0):
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+2994452
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+        
+
+
+
+2812352
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka")
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+3017761
+def dragon_test(heads, pigs):
+    int pigs
+    int heads
+    if pigs % heads = 0:
+        print("Nebude bitka")
+    else:
+        print("Bude bitka.")
+
+3019721
+def dragon_test(x, y):
+    if y%x <1:
+        print("Nebude bitka.")
+    else: 
+        print("Bude bitka.")
+
+3020635
+def dragon_test(heads, pigs):
+    print("Mozna bude bitka.")
+
+3042190
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+3042251
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+3047465
+def dragon_test(heads, pigs):
+	if heads % pigs == 0 or pigs % heads == 0:
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka")
+def dragon_test(heads, pigs):
+	if heads % pigs == 0 or pigs % heads == 0:
+		print("Nebude bitka.")
+	else:
+		print("Bude bitka.")
+3059276
+def dragon_test(heads, pigs):
+    if pigs%heads == 0:
+    	print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+
+3071998
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print('Nebude bitka')
+    else:
+        print('Bude bitka')
+
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print('Nebude bitka')
+    else:
+        print('Bude bitka.')
+
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print('Nebude bitka.')
+    else:
+        print('Bude bitka.')
+
+

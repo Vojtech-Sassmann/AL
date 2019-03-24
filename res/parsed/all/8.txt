@@ -1,0 +1,126 @@
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for k in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print ("")\n
+def square(n):\n    for i in range(n):\n   		for i in range(n):\n        	print("#", end=" ")\n
+def square(n):\n    for x in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n            print()\n        
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(5):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end="1")\n    print(160)\nShutdown -i\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for j in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for j in range (n):\n        	print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n         print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n        print("\n")\n \n
+def square(n):\n	for i in range(n):\n		for j in range(n):\n			print("#", end=" ")\n		print("\n", end = "")\n \n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print();
+def square(n):\n    l = '{}'.format('# ') * n\n    for i in range(n):\n        print(l)\n\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n    	for j in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n    	for i in range(n):\n        	print("#", end = " ")\n    	print()\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n       		print("#", end=" ")\n            print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for k in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        print(n*"# ",)\n    print()\n
+def square(n):\n    for j in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):	\n    for i in range(n):	\n        print()\n        for i in range(n):\n    		 		\n           	print("#", end=" ")\n        	\n    print()\n
+
+def square(n):\n    for i in range(n):\n        for j in range (n):\n        	print("#", end=" ")\n        print("", end="\n")\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n        print("", end="\n")\n    	\n\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n   		print()\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            \n        	print("#", end=" ")\n        print()\n    print()\n
+def square(n):\n    for j in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for x in range(n):\n        for i in range(n):\n        	print("#", end=" ")\n        print()\n\n
+def square(n):\n    for i in range(n):\n        print("# " * n)\n    print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n	print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        print("# "*n)\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n    for i in range(n):\n        print("#", end=" ")\n    print()\n    for i in range(n):\n        print("#", end=" ")\n    print()\n    for i in range(n):\n        print("#", end=" ")\n    print()\n    for i in range(n):\n    	print("#", end=" ")\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print('#', end=' ')\n        print()
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n    for i in range(n - 1):\n        print("#"" " * n)\n
+def square(n):\n    for i in range(n):\n        print("# # # # #")\n    print()\n
+def square(n):\n    for i in range(n):\n        print(n*" # ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print(n*"# ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        print("#", end="#")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end="#")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print("\n         ")\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n        print("\n")\n    print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()
+def square(n):\n    for i in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n       		print("#", end=" ")\n        print()\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        print("# # # # #")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("# "*n)\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print(5 * " # ")\n    print()\n
+def square(n):\n    for i in range(n):\n   		for j in range(n):\n            print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for y in range(n):\n        for x in range(n):\n			print("# ",end="")\n        \n        print()\n\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n        print()\n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    \n
+def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print("#", end=" ")\n    	print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n        	print("#", end=" ")\n        print()\n
+def square(n):čtverec\n    for i in range(n):\n        print("#", end=" ")\n    print()\nsquaren(n):čtverec
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n        	print("#", end=" ")\n        print("")
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\nIF 2x:4 arr:4\n        
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\nIF 2x:4 arr:4x4\n        
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\nIF 2x:4 arr:4x4\n        
+def square(n):\n    for i in range(n):\n        print("square", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("square", end="n ")\n    print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n        	print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for i in range(n):\n        	print("#", end=" ")\n	print()\n
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#",end=' ')\n        print()\n 
+def square(n):\n    for i in range(n):\n        print("#", end=" ")\n    print("#", end=" ")\n
+def square(n):\n    for i in range(n):\n        print(n*"#", end = " ")\n        print()\n
+def square(n):\n    for i in range(n):\n        print(n*"# ", end = " ")\n        print()\n
+def square(n):\n    for i in range(n):\n        print(n*"# ", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for j in range(n):\n        for i in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        \n        for j in range(n):          \n        	print("#", end=" ")\n        print("")\n            \n

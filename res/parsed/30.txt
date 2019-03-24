@@ -1,1 +1,0 @@
-def most_common(mylist):\n    \n    pocet = 0\n    num = -1\n    for number in mylist:\n        if num == -1:\n        	num = number\n    	\n        kolko = mylist.count(number)\n        if pocet <= kolko:\n            pocet = kolko\n            num = number\n        \n    return num

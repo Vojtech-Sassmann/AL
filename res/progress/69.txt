@@ -1,0 +1,183 @@
+12
+def factorize(n):
+    print(n, "=", n)
+
+2802909
+def factorize(n):
+    oldn = n
+    moj = []
+    x = 2
+    while(x < 100):
+        if n % x == 0:
+            moj.append(x)
+            n /= x
+            x = 2
+        else:
+            x += 1
+    print(oldn, "= ", end="")        
+    for i in range(len(moj)):
+        if i == 0:
+            print(moj[i], end=" ")
+        else:
+            print("*",moj[i], end = " ")
+    print()
+def factorize(n):
+    oldn = n
+    moj = []
+    x = 2
+    while(x < 1000):
+        if n % x == 0:
+            moj.append(x)
+            n /= x
+            x = 2
+        else:
+            x += 1
+    print(oldn, "= ", end="")        
+    for i in range(len(moj)):
+        if i == 0:
+            print(moj[i], end=" ")
+        else:
+            print("*",moj[i], end = " ")
+    print()
+2809298
+def factorize(n):
+    print(n,"=",end=" ")
+    for i in range(2,n+1):
+        while(n%i==0):
+            n=n/i
+            print(i, end=" ")
+    print()        
+
+def factorize(n):
+    x=n
+    print(n,"=",end=" ")
+    for i in range(2,n+1):
+        while(n%i==0):
+            if(n!=x):
+                print("*",end=" ")
+            n=n/i
+            print(i, end=" ")
+    print()        
+
+2809764
+def factorize(n):
+    p=2
+    print(n,"=", end=" ")
+    x=n
+    while IsPrime(n)!=True:
+        if n%p==0 :
+            n=n//p
+            print (p,end=" * ")
+            
+        else: p+=1
+                
+    print (n)            
+    
+
+def IsPrime(p):
+    c=0
+    for i in range (1,p+1):
+        if p%i==0:
+            c+=1
+    if c==2:
+        return True
+2818450
+def factorize(n):
+    print(n, '=',end=(' '))
+    for i in range(n):   	
+        while n%(i+1)==0 and (i+1)!=1 and n//(i+1)!=1:
+            n=n//(i+1)
+            print(i+1,'*',end=(' '))
+    print(n,end=' ')
+    print()
+        	
+          
+            
+
+
+2940162
+def factorize(n):
+    i = 2
+    while n > 1:
+        if n % i == 0:
+            print(i , end="")
+            n = n // i 
+        else:
+            i += 1
+    print()
+
+def factorize(n):
+    i = 2
+    print(n, "= ", end="")
+    while n > 1:
+        if n % i == 0 and n != i:
+            print (i, end=" * ") 
+            n = n // i
+        elif n == i:
+            print(i, end="")
+        else:
+            i += 1
+def factorize(n):
+    i = 2
+    print(n, "= ", end="")
+    while n > 1:
+        if n % i == 0:
+            print (i, end=" * ") 
+            n = n // i
+        else:
+            i += 1
+    print()
+
+3061969
+def factorize(n):
+    
+    i = 2
+    a = n
+    while a>1:
+        
+        if a%i==0:
+            print (n, "=" ,i, end = "")
+            a = a // i
+        else:
+                i = i + 1 
+    print ()	
+
+def factorize(n):
+    print (n , "=")
+    i = 2
+    a = n
+    while a>1:
+        
+        if a%i==0:
+            print (i, end = "")
+            a = a // i
+        else:
+                i = i + 1 
+    print ()	
+
+def factorize(n):
+    print (n , "=")
+    i = 2
+    a = n
+    while a>1:
+        
+        if a%i==0:
+            print (i, end = "*")
+            a = a // i
+        else:
+                i = i + 1 
+    print ()	
+
+def factorize(n):
+    print (n , "=")
+    i = 2
+    a = n
+    while a>1:
+        
+        if a%i==0:
+            print (i, end = "*")
+            a = a // i
+        else:
+                i = i + 1 
+    print ()	
+

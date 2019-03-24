@@ -1,0 +1,20 @@
+1111
+def string_intersection(left, right):\n for i, prvek in enumerate(left):\n  for s, prvek2 in enumerate(right):\n    if s==i and prvek == prvek2:\n     print(prvek)
+###
+1111
+def string_intersection(left, right):\n    for i in range(len(left)):\n    	if left[i]==right[-1-i]:\n            print(i)\n
+def string_intersection(left, right):\n    for i in range(len(left)):\n    	if left[i]==right[-1-i]:\n            print(i)\n
+def string_intersection(left, right):\n    for i in range(len(right)):\n        if left[i]==right[i]:\n            print(left[i])\n
+###
+1111
+def string_intersection(left, right):\n    if len(left) > len(right):\n        for i in range(len(right)):\n            if left[i] == right[i]:\n                print(left[i])\n    else:\n        for i in range(len(left)):\n            if left[i] == right[i]:\n                print(left[i])\n
+###
+1111
+def string_intersection(left, right):\n    for l, r in zip(left, right):\n        if l == r:\n            print(l)\n
+###
+1111
+def string_intersection(left, right):\n    for l, r in zip(left, right):\n        if l == r:\n            print(l)\n\n
+###
+1111
+def string_intersection(left, right):\n\n    for i in range (len(shorter(left,right))):\n        if left[i]==right[i]:\n            print(left[i])\n\n\ndef shorter(left,right):\n    if len(left)<=len(right):\n        return left\n    else: return right\n\n
+###

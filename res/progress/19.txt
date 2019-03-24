@@ -1,0 +1,458 @@
+2086966
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			while i < len(text):
+				print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			print(text[i], end="")
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			while i < len(text):
+				print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			print(text[i], end="")
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			while i < len(text):
+				print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			print(text[i], end="")
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text):
+				print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			print(text[i], end="")
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if i % 2 != 0:
+		print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if i % 2 != 0:
+		if len(text) > 4:
+			print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if i % 2 != 0:
+		if len(text) == 4:
+			print(".", end="")
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if len(text) != 4:                
+		if i % 2 != 0:
+			print(".", end="")
+		
+            
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if len(text) != 4:                
+		if len(text) % 2 != 0:
+			print(".", end="")
+		
+            
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if len(text) != 4:                
+		if len(text) % 2 == 0:
+			print(".", end="")
+		
+            
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if len(text) != 4:                
+		if len(text) % 2 != 0:
+			print(".", end="")
+		
+            
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+def zigzag(text):
+	for i in range(len(text)):
+		if i % 2 == 0:
+			print(text[i], end="")
+			if i < len(text)-1:
+				print(".", end="")
+	if len(text) != 4:
+		if len(text) % 2 == 0:
+			pass			
+			if len(text) % 2 != 0:
+				print(".", end="")
+		
+            
+	print()
+	for i in range(len(text)):
+		if i % 2 != 0:
+			print(".", end="")
+			if i < len(text):
+				print(text[i], end="")
+	if i % 2 == 0:
+		print(".", end="")                
+
+2162436
+
+def zigzag(text):
+ for i, prvek in enumerate(text):
+  if i%2==0:
+   text2 = prvek
+   for k in text2:
+    print(k,end=".")
+ print()
+ for g, prvek2 in enumerate(text):
+  if g%2!=0:
+   print(prvek2,end=".")
+2163758
+def zigzag(text):
+    text = list(text)
+    vysledek = ""
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "."
+        for i in range(len(text)):
+            vysledek = vysledek + text[i]
+2166195
+def zigzag(text):
+    for i,prvek in enumerate(text):
+        if i%2==0:
+            text2=prvek
+            for k in text2:
+                print(k,end=".")
+    print()
+    for g,prvek2 in enumerate(text):
+        if g%2!=0:
+            text3=prvek2
+            for s in text3:
+                print(end=".")
+                print(s,end="")
+                
+
+2026013
+def zigzag(text):
+    if len(text) % 2 == 1:
+        for i in range(0, len(text), 2):
+            print(str(text[i]) + ".", end = "")
+        print()
+        for j in range(1, len(text), 2):
+            print("." + str(text[j]), end = "")
+        print(".")
+    else:
+        for i in range(0, len(text), 2):
+            print(str(text[i]) + ".", end ="")
+        print()
+        for j in range(1, len(text), 2):
+            print("." + str(text[j]), end = "")
+def zigzag(text):
+    if len(text) % 2 == 1:
+        for i in range(0, len(text)-2, 2):
+            print(str(text[i]) + ".", end = "")
+        print(text[i+2])
+        for j in range(1, len(text), 2):
+            print("." + str(text[j]), end = "")
+        print(".")
+    else:
+        for i in range(0, len(text), 2):
+            print(str(text[i]) + ".", end ="")
+        print()
+        for j in range(1, len(text), 2):
+            print("." + str(text[j]), end = "")
+2326456
+def zigzag(text):
+    print(text)
+
+def zigzag(text):
+    counter = 1
+    text1 = ""
+    text2 = ""
+    for letter in text:
+        if (counter == 1):
+            text1 = text1 + letter
+            counter += 1
+        else:
+            text1 = text1 + "."
+            counter -= 1
+    counter = 1
+    for letter in text:
+        if (counter == 2):
+            text2 = text2 + letter
+            counter -= 1
+        else:
+            text2 = text2 + "."
+            counter += 1   
+    print(text1)
+    print(text2)
+
+2437820
+def zigzag(text):
+    for i in text[::2]:
+        print(i,".",end="")
+    print(end="\n")
+    for i in text[1::2]:
+    	print(".",i,end="")
+
+def zigzag(text):
+    for i in text[::2]:
+        print(i,".",end="")
+    print(end="\n")
+    for i in text[1::2]:
+    	print(".",i,end="")
+
+def zigzag(text):
+    for i in text[::2]:
+        print(i,".",end=" ")
+    print(end="\n")
+    for i in text[1::2]:
+    	print(".",i,end="")
+
+def zigzag(text):
+    for i in text[::2]:
+        print(i,".",end="")
+    print(end="\n")
+    for i in text[1::2]:
+    	print(".",i,end="")
+
+def zigzag(text):
+    for i in text[::2]:
+        print(i+".",end="")
+    print(end="\n")
+    for i in text[1::2]:
+    	print("."+i,end="")
+def zigzag(text):
+    tecka=True
+    for i in text:
+        if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(tecka)
+    print(end="\n")
+    tecka=False
+    for i in text:
+    	if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(Tecka)
+def zigzag(text):
+    tecka=True
+    for i in text:
+        if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(tecka)
+    print(end="\n")
+    tecka=False
+    for i in text:
+    	if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(Tecka)
+def zigzag(text):
+    tecka=True
+    for i in text:
+        if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(tecka)
+    print(end="\n")
+    tecka=False
+    for i in text:
+        if tecka:
+            print(i,end="")
+        else:
+            print(".",end="")
+        tecka=not(tecka)
+2809764
+def zigzag(text):
+    print(zigzag_cycle(text,1))
+    print(zigzag_cycle(text,2))
+
+def zigzag_cycle(text, row):
+    halfword=""
+    for i in range(len(text)):
+        if i%2==(row-1):
+            halfword+=text[i]
+        else: halfword+="."
+    return halfword
+
+2844811
+def zigzag(text):
+	pole = list(text)
+	vypis_a = ""
+	vypis_b = ""
+	for i in range(len(text)):
+		if(i%2==0):
+			vypis_a += "".join(pole[i:i+1])
+			vypis_b += "."
+		else:
+			vypis_b += "".join(pole[i:i+1])
+			vypis_a += "."
+	print(vypis_a)
+	print(vypis_b)
+2856023
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    print(".".join(p1))
+    print("."+".".join(p2))
+
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    print(".".join(p1)+".")
+    print("."+".".join(p2))
+
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    print(".".join(p1)+(""if len(p1)>len(p2) else "."))
+    print("."+".".join(p2)+(""if len(p1)<len(p2) else "."))
+
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    print(".".join(p1)+("." if len(p1)<len(p2) else ""))
+    print("."+".".join(p2)+("." if len(p1)>len(p2) else ""))
+
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    print(".".join(p1)+("." if len(p1)<=len(p2) else ""))
+    print("."+".".join(p2)+("." if len(p1)>len(p2) else ""))
+
+2857905
+def zigzag(text):
+    p1 = text[::2]
+    p2 = text[1::2]
+    
+    print(".".join(p1) + ("." if len(text) % 2 == 0 else ""))
+    print("."+".".join(p2) + ("." if len(text) % 2 == 1 else ""))
+

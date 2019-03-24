@@ -1,0 +1,10 @@
+def censorship(text):\n    text = list(text)\n    vysledek = ""\n    for i in range(len(text)):\n        if i % 2 == 1:\n            text[i] = "X"\n    \n    \n    for i in range(len(text)):\n        vysledek = vysledek + text[i]\n    return(vysledek)\n\n
+def censorship(text):\n    tekst = ""\n    x = 1\n    for word in text:\n        if (x == 1):\n            tekst = tekst + word\n            x += 1\n        else:\n            tekst = tekst + ("X")\n            x -= 1\n    return tekst\n
+def censorship(text):\n    kriz=False\n    text2=""\n    for i in text:\n        if kriz:\n            text2=text2+"X"\n        else:\n            text2=text2+i\n        kriz=not(kriz)\n    return text2\n
+def censorship(text):\n    new = ""\n    for i in range(len(text)):\n        if i % 2 == 0:\n            new += text[i]\n        else:\n        	new += 'X'\n    return new\n
+def censorship(text):\n    c_text=''\n    for a in range(len(text)):\n        if (a+1)%2==0:\n        	c_text+='X'\n        else:\n            c_text+= text[a]\n    return c_text\n
+def censorship(text):\n    vypis = " "\n    for i in range(len(text)):\n        if(i%2 == 0):\n        	vypis+=text[i:i+1]\n        else:\n            vypis += "X"\n    return vypis\n
+def censorship(text):\n    newstr = ""\n    for i, letter in enumerate(text):\n        if i %2==1:\n            newstr+="X"\n        else:\n            newstr+=letter\n    return newstr\n
+def censorship(text):\n    return "".join([l if i % 2 == 0 else "X" for i, l in enumerate(text)])\n
+def censorship(text):\n    for i in range(len(text)):\n        if i%2==1: print("X", end="")\n        else: print(text[i], end="")\n            \n    return ""
+def censorship(text):\n    puzzle=""\n    for i in range(len(text)):\n        if i%2==1: puzzle+="X"\n        else: puzzle+=text[i]\n            \n    return puzzle

@@ -1,0 +1,345 @@
+2045462
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+###
+2126139
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+###
+2081667
+def numbers(n):\n    for n in range(1, n+1):\n        print (n)\n    
+###
+359281
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n    print(6)\n    print(7)\n    print(8)\n    print(9)\n    print(10)\n    \n    \n
+###
+2128782
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+###
+2057798
+def numbers(n):\n    for i in range (1, n+1): print(i)\n    	\n
+###
+2078992
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+###
+2162341
+def numbers(n):\n    for n in range(10):\n	print(n+1)\n
+def numbers(n):\n    for n in range(n):\n	print(n+1)\n
+###
+1712803
+\ndef numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+372834
+def numbers(n):\n    cislo = n\n    while (cislo <= 10):\n        print(n)\n        cislo = cislo + 1\n
+def numbers(n):\n    for n in range(1, 4):\n        print(n)\n
+def numbers(n):\n    for r in range(1, n):\n        print(r)\n
+def numbers(n):\n    for r in range(1, n+1):\n        print(r)\n
+###
+2297115
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+###
+2087952
+def numbers(n):\n    for i in range(n):\n        print(i)
+def numbers(n):\n    for i in range(n+1):\n        print(i)
+def numbers(n):\n    for i in range(n):\n        i=i+1\n        print(i)
+###
+2408490
+def numbers(n):\n    for n in range(10):\n        print(n+1)\n
+def numbers(n):\n    for n in range(n):\n        print(n+1)\n
+###
+2413063
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2417303
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+###
+2439201
+def numbers(n):\n    for x in range(1,11):\n    	print(x)\n
+def numbers(n):\n    for i in range(1,11):\n    	print(i)\n
+def numbers(n):\n    for n in range(1,n+1):\n    	print(n)\n
+###
+2625181
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for numbers in range (n+1):\n    	print(numbers)\n
+def numbers(n):\n    for numbers in range (1,n+1):\n    	print(numbers)\n
+###
+2627405
+def numbers(n):\n    print(n)\n
+i = 1\nwhile i<=5:\n    print(i)\n    i += 1
+###
+2648081
+def numbers(n):\n    for i in range(1,11): print(i)\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+###
+2087299
+def numbers(n):\n    print(n)\ndef numbers(n):\n
+###
+2769348
+def numbers(n): \n    for i in range(1,11,1):\n        print(i)\n        \n    \n
+def numbers(n): \n    for i in range(1,n+1,1):\n        print(i)\n        \n    \n
+###
+2801103
+def numbers(n):\n  for i in range(1,n+1):\n  	  print(i)\n
+def numbers(n):\n  for i in range(1,n+1):\n      print(i)\n
+###
+2802184
+def numbers(n):\n    for i in range(1, n+1):\n        print(i);
+###
+2802266
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n    print("")\n\n	
+###
+2804640
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2802909
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2802655
+def numbers(n):\n    for i in range(1, n + 1):\n    	print(i)\n
+###
+1828769
+def numbers(n):\n    print(n)\n
+###
+2806529
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(1n)\n
+###
+2806077
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2805885
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+###
+2806888
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n    print()\n
+###
+2806962
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n        \n    \n
+###
+2806381
+def numbers(n):\n    i = 0\n    while i < n:\n        i += 1\n        print(i)\n
+###
+2809188
+def numbers(n):\n    i = 1\n    while i <= n:\n        print(i)\n        i += 1\n
+###
+2809298
+def numbers(n):\n    for i in range(10):\n        print(11-n)\n        n-=1\n
+def numbers(n):\n    x=1\n    for i in range(10):\n        print(x)\n        x+=1\n
+def numbers(n):\n    x=1\n    for i in range(n):\n        print(x)\n        x+=1\n
+###
+2802916
+def numbers(n):\n    for i in range(1, n + 1):\n        print(i)\n
+###
+2809764
+def numbers(n):\n    for i in range (n):\n        print (i+1)\n    \n
+###
+2802162
+def numbers(n):\n    for i in range (n):\n        print(i + 1)\n
+###
+2805048
+def numbers(n):\n    for n in range(10):\n        print (n+1)\n
+def numbers(n):\n    for n in range(n):\n        print (n+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2806881
+def numbers(n):\n    for i in range(n): \n    	print(i+1)\n
+###
+2805080
+def numbers(n):\n    for n in range (n) :\n    	print(n+1)\n
+###
+2805410
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2810636
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+2813265
+def numbers(n):\n    for i in range(1,n+1):\n		print(i)\n
+###
+2802247
+def numbers(n):\n    for i in range(n):\n        print(n+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+2818450
+def numbers(n):\n    for i in range(n):\n        \n    	print(n+1)\n
+def numbers(n):\n    for i in range(n):\n        \n    	print(i+1)\n
+###
+2819660
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n    \n
+###
+2819643
+def numbers(n):\n    for i in range (n):\n    	print(i+1)\n
+###
+2819583
+def numbers(n):\n    for i in range (1, n+1):\n		print(i)\n
+###
+2816717
+def numbers(n):\n    a=1\n    for i in range(n):\n    	print(i+1)\n		
+###
+2828797
+def numbers(n):\n	for i in range(n):\n		print(i+1)\n
+def numbers(n):\n	for i in range(1,n+1):\n		print(i)
+###
+2831385
+def numbers(n):\n    for i in range (n):\n    	print(i+1, sep='')\n \n\n
+###
+2802642
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n    \n
+###
+1935962
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(5)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n
+def numbers(n):\n    print(n)\n    numbers(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+###
+2803849
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+2857905
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+2805045
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n\n
+###
+2882572
+def numbers(n):\n	for i in range(1,n+1):\n    	print(i)\n
+###
+2855294
+def numbers(n):\n    
+def numbers(n):\n    for i in range(n):\n        print(i)
+def numbers(n):\n    for i in range(1, n):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+###
+2926078
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+###
+2876299
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+###
+2960001
+def numbers(n):1\n    print(n)\n
+def numbers(n):3\n    print(n)\n
+###
+2961202
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2850668
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2962941
+def numbers(n):\n    print(n)\n
+###
+2964475
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\ndef numbers(n):\n    print(n)
+def numbers(n):\n    print(n)\ndef numbers(a):\n    print(a)
+###
+2964823
+def numbers(n):\n    for i in range(10):\n         print(i+1)\n
+def numbers(n):\n    a = 1\n    for i in range(3):\n         print(a)\n         a = a+1\n
+def numbers(n):\n    for i in range(n):\n         print(i+1)\n         \n
+###
+2936556
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+###
+2970482
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2977336
+def numbers(n):\n    for i in range(1, n+1, 1):\n    	print(i)\n
+###
+2987327
+def numbers(n):\n    print(n)\n
+def numbers(m):\n    print(m)\n
+def numbers(m):\n    print(m)\n
+def numbers(m):\n    print(m)\n
+###
+2988877
+def numbers(n):\n    for i in range(10):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(10):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+2994452
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+###
+2812352
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+###
+3020896
+numbers(n)
+numbers(n)
+numbers(n)
+numbers(n)\nprint(n)
+numbers(n)\n	print(n)
+numbers(n)\n print(n)
+numbers(n)\n 
+t = numbers(n)\n print(t)
+###
+3042251
+def numbers(n):\n	for i in range(1, n+1):\n    	print(i)\n
+###
+3044773
+def numbers(11)\nfor i in range(11)\n    print(11)\n         \n
+def numbers(11)\nfor i in range(11)\n    print(11)\n         \n
+def numbers(10)\nprint(10)\n         \n
+###
+3045028
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+###
+2803949
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+###
+2790330
+def numbers(n):\n    for i in range(1,n+1):\n     print(i)\n
+###
+3047465
+def numbers(n):\n	for i in range(1,n+1):\n		print(i)\n
+###
+3059777
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+###
+3071998
+def numbers(n):\n    for x in range(n+1):\n        print(x)\n
+def numbers(n):\n    for x in range(1,n+1):\n        print(x)\n
+###

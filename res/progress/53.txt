@@ -1,0 +1,447 @@
+2126139
+def middle_number(a, b, c):
+    list = [a,b,c]
+    print(sorted(list)[len(list)//2])
+
+2128782
+def middle_number(a, b, c):
+    t=0
+    
+    if b<a:
+        t=a
+        a=b
+        b=t
+    if c<b:
+        t=b
+        b=c
+        c=t
+    if b<a:
+        t=a
+        a=b
+        b=t
+        
+    print(b)
+    
+        
+    
+        
+            
+
+2078992
+def middle_number(a, b, c):
+        if (a > b and a < c) or (a > c and a < b) :
+            print(a)
+        if (b > a and b < c) or (b > c and b < a):
+            print(b)
+        if (c > a and c < b) or (c > b and c < a):
+            print(c)
+
+2080764
+def middle_number(a, b, c):
+	if a<b<c:
+		print(b)
+	if b<c<a:
+		print(c)
+	if c<b<a:
+		print(b)
+	if b<a<c:
+		print(a)
+	if c<a<b:
+		print(a)
+	if a<c<b:
+		print(c)
+2080762
+def middle_number(a, b, c):
+	if a<b<c:
+		print(b)
+	elif b<c<a:
+		print(c)
+	else:
+		print(a)
+
+def middle_number(a, b, c):
+	if a<b<c:
+		print(b)
+	if b<c<a:
+		print(c)
+	if c<a<b:
+		print(a)
+
+def middle_number(a, b, c):
+	if a<b<c:
+		print(b)
+	if b<c<a:
+		print(c)
+	if c<a<b:
+		print(a)
+	if a<c<b:
+		print(c)
+
+def middle_number(a, b, c):
+	if a<b<c:
+		print(b)
+	if b<c<a:
+		print(c)
+	if c<a<b:
+		print(a)
+	if a<c<b:
+		print(c)
+	if b<a<c:
+		print(a)
+	if c<b<a:
+		print(b)
+
+2026013
+def middle_number(a, b, c):
+    if a < b and b < c:
+        print(b)
+    elif a < b and c < b and c < a:
+    	print(a)
+    else:
+        print(c)
+
+def middle_number(a, b, c):
+    if a < b and b < c:
+        print(b)
+    elif a < b and c < b and c < a:
+    	print(a)
+    elif a < c and b < c and b < a:
+        print(a)
+    else:
+        print(c)
+
+def middle_number(a, b, c):
+    if a < b and b < c:
+        print(b)
+    elif a < b and c < b and c < a:
+    	print(a)
+    elif a < c and b < c and b < a:
+        print(a)
+    elif c < b and c < a and b < a:
+        print(b)
+    else:
+        print(c)
+
+2379408
+def middle_number(a, b, c):
+    if a <= b <= c or c <= b <= a:
+        print(b)
+    elif b <= a <= c or c <= a <= b:
+        print(a)
+    else:
+        print(c)
+
+2413063
+def middle_number(a, b, c):
+    rada = [a,b,c]
+    rada.sort()
+    print(rada[1])
+
+2648081
+def middle_number(a, b, c):
+    if (a<b and b<c) or (c<b and b<a): print(b)
+    elif (c<a and a<b) or (b<a and a<c): print(a)
+    elif (b<c and c<a) or (a<c and c<b): print(c)
+    else: print("Trojice nema prostredni cislo")
+
+2802909
+def middle_number(a, b, c):
+    list = [a,b,c]
+    list.sort()
+    print(list[1])
+
+2809764
+def middle_number(a, b, c):
+    if a<b and b<c or c<b and b<a:
+        print(b)
+    if a<c and c<b or b<c and c<a:
+        print(c)
+    if b<a and a<c or c<a and a<c:
+        print(a)
+
+def middle_number(a, b, c):
+    if a<b and b<c or c<b and b<a:
+        print(b)
+    if a<c and c<b or b<c and c<a:
+        print(c)
+    if b<a and a<c or c<a and a<b:
+        print(a)
+
+2802162
+def middle_number(a, b, c):
+    if a < b < c or c < b < a:
+    	print(b)
+    if b < a < c or c < a < b:
+        print (a)
+    if a < c < b or b < c < a:
+     	print (c)
+
+2810636
+def middle_number(a, b, c):
+    if a < b < c or c < b < a:
+        print(b)
+    elif b < c < a or a < c < b:
+        print(c) 
+    else:
+        print(a)
+
+2802247
+def middle_number(a, b, c):
+    arr=[a,b,c]
+    arr.sort()
+    print(arr[1])
+
+2819583
+def middle_number(a, b, c):
+    if a<b<c:
+        print(b)
+    elif a<c<b:
+        print (c)
+    elif b<c<a:
+        print (c)
+    elif b<a<c:
+        print (a)
+    elif c<b<a:
+        print (c)
+    elif c<a<b:
+        print (a)
+
+def middle_number(a, b, c):
+    if a<b<c:
+        print(b)
+    elif a<c<b:
+        print (c)
+    elif b<c<a:
+        print (c)
+    elif b<a<c:
+        print (a)
+    elif c<b<a:
+        print (b)
+    elif c<a<b:
+        print (a)
+
+2817570
+def middle_number(a, b, c):
+    min=a
+    if b<min:
+        min=b
+    if c<min:
+        min=c
+    max=a
+    if b>max:
+        max =b
+    if c >max:
+        max=c
+        
+    if a!= min and a != max:
+        print("a")
+    if b!= min and b != max:
+        print("b")
+    if c!= min and c != max:
+        print("c")
+
+def middle_number(a, b, c):
+    min=a
+    if b<min:
+        min=b
+    if c<min:
+        min=c
+    max=a
+    if b>max:
+        max =b
+    if c >max:
+        max=c
+        
+    if a!= min and a != max:
+        print(a)
+    if b!= min and b != max:
+        print(b)
+    if c!= min and c != max:
+        print(c)
+
+2882572
+def middle_number(a, b, c):
+    temp=[]
+    temp.append(a)
+    temp.append(b)
+    temp.append(c)
+    temp.sort()
+    
+    print(temp[1])
+
+def middle_number(a, b, c):
+    n=[]
+    n.append(a)
+    n.append(b)
+    n.append(c)
+    n.sort()
+    print(n[1])
+
+2810855
+def middle_number(a, b, c):
+    if (a>b and b>c)or(a<b and a<c): 
+        print(b)
+    elif (b>a and a>c)or(b<a and a<c): 
+        print(a)
+    else:
+        print(c)
+
+def middle_number(a, b, c):
+    if (a>b and b>c)or(a<b and b<c): 
+        print(b)
+    elif (b>a and a>c)or(b<a and a<c): 
+        print(a)
+    else:
+        print(c)
+
+2970482
+def middle_number(a, b, c):
+    list=[a, b, c]
+    list.sort()
+    print(list[1])
+
+2988877
+def middle_number(a, b, c):
+    if (a<=b<=c or c<=b<=a):
+        print(b)
+    elif (b<=a<=c or c<=a<=b):
+        print(a)
+    else:
+    	print(c)
+
+2812352
+def middle_number(a, b, c):
+    if a < b < c:
+    	print(b)
+    elif b < c < a:
+        print(c)
+    else:
+        print(a)
+
+3059276
+def middle_number(a, b, c):
+    if a > b:
+        if a > c:
+            print(c)
+        else:
+            print(b)
+    elif b > c:
+        if b > a:
+            print(a)
+        else:
+            print(c)
+    elif c > a:
+        if b > c:
+            print(c)
+        else:
+            print(b)
+
+
+def middle_number(a, b, c):
+    if a > b:
+        if a > c:
+            print(b)
+        else:
+            print(c)
+    elif b > c:
+        if b > a:
+            print(a)
+        else:
+            print(b)
+    elif c > a:
+        if c > b:
+            print(b)
+        else:
+            print(c)
+
+
+def middle_number(a, b, c):
+    if a > b:
+        if b > c:
+            print(b)
+        else:
+            print(c)
+    elif b > c:
+        if b > a:
+            print(a)
+        else:
+            print(b)
+    elif c > a:
+        if c > b:
+            print(b)
+        else:
+            print(c)
+
+
+def middle_number(a, b, c):
+    if a > b:
+        if b > c:
+            print(b)
+        else:
+            print(c)
+    elif b > c:
+        if c > a:
+            print(c)
+        else:
+            print(a)
+    elif c > a:
+        if c > b:
+            print(b)
+        else:
+            print(c)
+
+
+def middle_number(a, b, c):
+    if a > b:
+        if b > c:
+            print(b)
+        else:
+            print(c)
+    elif b > c:
+        if c > a:
+            print(c)
+        else:
+            print(a)
+    elif c > a:
+        if a > b:
+            print(a)
+        else:
+            print(b)
+
+
+def middle_number(a, b, c):
+    if a > b:
+        if b > c:
+            print(b)
+        else:
+            print(a)
+    elif b > c:
+        if c > a:
+            print(c)
+        else:
+            print(a)
+    elif c > a:
+        if a > b:
+            print(a)
+        else:
+            print(b)
+
+
+3071998
+def middle_number(a, b, c):
+    if a > b and b<c:
+        print (b)
+    elif b > c and c<a:
+        print (c)
+    else:
+        print (a)
+
+
+def middle_number(a, b, c):
+    if a < b and b < c:
+        print(b)
+    elif b < c and c < a:
+        print(c)
+    elif c < a and a < b:
+        print(a)
+

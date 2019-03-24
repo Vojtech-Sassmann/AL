@@ -1,0 +1,35 @@
+def digit_sum(n):
+    s=str(n)
+    r=0
+    for value in s:
+        r=r+int(value)
+    return r
+        
+
+def digit_sum(n):
+    a=str(n)
+    soucet=0
+    for prvek in a:
+    	soucet=soucet+(ord(prvek)-48)
+    return soucet
+def digit_sum(n):
+    text= str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet+=int(pismeno)
+    return soucet
+def digit_sum(n):
+    text = str(n)   
+    soucet = 0
+    for pismeno in text:        
+        soucet += int(pismeno)        
+    return soucet
+        
+
+
+def digit_sum(n):
+    text = str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet += int(pismeno)
+    return soucet

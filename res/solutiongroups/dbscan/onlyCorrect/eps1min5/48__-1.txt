@@ -1,0 +1,28 @@
+def chocolate(rows, columns, x):
+    m=rows*columns-x
+    print ("Zbytek: "+ str( m))
+
+def chocolate(rows, columns, x):
+    a = rows*columns - x
+    print("Zbytek: " + str(a))
+
+def chocolate(rows, columns, x):
+    y = rows
+    c = columns
+    print("Zbytek:", (y*c) -x )
+
+def chocolate(rows, columns, x):
+    print("Zbytek: " +str((rows*columns)-x))
+
+def chocolate(rows, columns, x):
+    left=int(rows)*int(columns)-int(x)
+    print("Zbytek:",left)
+
+def chocolate(rows, columns, x):
+    print("Zbytek:",end=" ")
+    print(rows*columns-x)
+
+def chocolate(rows, columns, x):
+    y= "Zbytek:"
+    print(y,(rows*columns)-x)
+    

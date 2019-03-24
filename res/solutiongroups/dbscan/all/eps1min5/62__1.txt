@@ -1,0 +1,120 @@
+def area_perimeter(a):
+    obvod = 4 * a
+    obsah = a**2
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a**2
+    obvod = 4 * a
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = 4 * a
+    print("obsah", obsah)
+    print("obvod", obvod)
+def area_perimeter(a):
+    x = a*a
+    y = a*4
+    print("obsah",x)
+    print("obvod",y)
+
+def area_perimeter(a):
+    area = a**2
+    perimeter = 4*a
+    print ("obsah", area)
+    print ("obvod", perimeter)
+
+def area_perimeter(a):
+    S = a**2
+    o = 4*a
+    print("obsah", S)
+    print("obvod", o)
+
+def area_perimeter(a):
+    area = a*a
+    perimeter = a*4
+    print("obsah", area)
+    print("obvod", perimeter)
+
+def area_perimeter(a):
+    perim = 4 * a
+    area = a**2
+    print("obsah", area)
+    print("obvod", perim)
+
+def area_perimeter(a):
+    obsah=a*a
+    obvod=4*a
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = 4 * a
+    
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obvod = 4 * a
+    obsah = a**2
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a**2
+    obvod = 4 * a
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = 4 * a
+    print("obsah", obsah)
+    print("obvod", obvod)
+def area_perimeter(a):
+    x = a*a
+    y = a*4
+    print("obsah",x)
+    print("obvod",y)
+
+def area_perimeter(a):
+    area = a**2
+    perimeter = 4*a
+    print ("obsah", area)
+    print ("obvod", perimeter)
+
+def area_perimeter(a):
+    S = a**2
+    o = 4*a
+    print("obsah", S)
+    print("obvod", o)
+
+def area_perimeter(a):
+    area = a*a
+    perimeter = a*4
+    print("obsah", area)
+    print("obvod", perimeter)
+
+def area_perimeter(a):
+    perim = 4 * a
+    area = a**2
+    print("obsah", area)
+    print("obvod", perim)
+
+def area_perimeter(a):
+    obsah=a*a
+    obvod=4*a
+    print("obsah", obsah)
+    print("obvod", obvod)
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = 4 * a
+    
+    print("obsah", obsah)
+    print("obvod", obvod)
+

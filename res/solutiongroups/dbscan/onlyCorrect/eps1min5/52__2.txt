@@ -1,0 +1,99 @@
+def weeks(n):
+    dny = n * 7
+    hodiny = dny * 24
+    minuty = hodiny * 60
+    print("Pocet dnu:", dny)
+    print("Pocet hodin:", hodiny)
+    print("Pocet minut:", minuty)
+
+def weeks(n):
+    pocetDnu = n * 7
+    pocetHodin = pocetDnu * 24
+    pocetMinut = pocetHodin * 60
+    print("Pocet dnu:", pocetDnu)
+    print("Pocet hodin:", pocetHodin)
+    print("Pocet minut:", pocetMinut)
+
+def weeks(n):
+    den_p = n * 7
+    hodin_p = den_p * 24
+    minut_p = hodin_p * 60
+    print("Pocet dnu:", den_p)
+    print("Pocet hodin:", hodin_p)
+    print("Pocet minut:", minut_p)
+
+def weeks(n):
+    days = n*7
+    hours = days*24
+    minutes = hours*60
+    print ("Pocet dnu:", days)
+    print ("Pocet hodin:", hours)
+    print ("Pocet minut:", minutes)
+
+def weeks(n):
+    days=n*7
+    hours=days*24
+    minuts=hours*60
+    print("Pocet dnu:", days)
+    print("Pocet hodin:", hours)
+    print("Pocet minut:", minuts)
+
+def weeks(n):
+    days = n*7
+    hours = days*24
+    minutes = hours*60
+    print("Pocet dnu:", days)
+    print("Pocet hodin:", hours)
+    print("Pocet minut:", minutes)
+    
+
+def weeks(n):
+    days = 7 * n
+    hours = days * 24
+    minutes = hours * 60
+    print("Pocet dnu:", days)
+    print("Pocet hodin:", hours)
+    print("Pocet minut:", minutes)
+
+def weeks(n):
+    days = n * 7
+    hours = days * 24
+    minutes = hours * 60
+    print("Pocet dnu:", days)
+    print("Pocet hodin:", hours)
+    print("Pocet minut:", minutes)
+
+def weeks(n):
+    days = 7 * n
+    hours = 24 * days
+    minutes = 60 * hours
+    print("Pocet dnu:",days)
+    print("Pocet hodin:",hours)
+    print("Pocet minut:",minutes)
+
+def weeks(n):
+    a= n*7
+    b= a*24
+    c= b*60
+    print("Pocet dnu:", a)
+    print("Pocet hodin:", b)
+    print("Pocet minut:", c)
+
+def weeks(n):
+    den = n * 7
+    hodiny = den * 24
+    minuty = hodiny * 60
+    
+    
+    print("Pocet dnu:", den)
+    print("Pocet hodin:", hodiny)
+    print("Pocet minut:", minuty)
+
+def weeks(n):
+    den = n * 7
+    hodin = den*24
+    minut = hodin * 60
+    print("Pocet dnu:", den)
+    print("Pocet hodin:", hodin)
+    print("Pocet minut:", minut)
+

@@ -1,0 +1,320 @@
+2086966
+def most_common(mylist):
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+	return c            
+        
+
+def most_common(mylist):
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+	return 1            
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+	return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 1
+	p2 = 0
+	c2 = 0
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			if i < c:
+				c2 = c
+			if i < c:
+				c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+	return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+			if i < mini:
+				mini = i
+			if p == 1:
+				return mini
+	return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p == 2:
+		return mini
+	else:
+		return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p == 1:
+		return mini
+	else:
+		return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p == 2:
+		return mini
+	else:
+		return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p == 1:
+		return min(mylist)
+	else:
+		return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p2 == 1:
+		return min(mylist)
+	else:
+		return c             
+        
+
+def most_common(mylist):
+	x = 0
+	p = 0
+	c = 0
+	p2 = 0
+	c2 = 0
+	mini = 79879879789789987
+	for i in (mylist):
+		if c2 == i or c == i and p2 <= p or p <= p2:
+			p = p2 + 1
+			c2 = c
+			c = i
+			x = x + 1
+			if x == 1:
+				p2 = p2 + 1
+		if i < mini:
+			mini = i
+	if p == 1:
+		return min(mylist)
+	else:
+		return c             
+        
+
+2096430
+def most_common(mylist):
+    return 0
+
+2168934
+def most_common(mylist):
+    
+    pocet = 0
+    num = 'ach'
+    for number in mylist:
+        
+        if pocet <= mylist.count(number):
+            pocet = mylist.count(number)
+            if num == 'ach':
+        		num = number
+            
+            if num > number:
+                num = number
+        
+    return num
+def most_common(mylist):
+    
+    pocet = 0
+    num = -1
+    for number in mylist:
+        if num == -1:
+        	num = number
+    	
+        kolko = mylist.count(number)
+        if pocet <= kolko:
+            pocet = kolko
+            if num < number:
+                num = number
+        
+    return num
+def most_common(mylist):
+    
+    pocet = 0
+    num = -1
+    for number in mylist:
+        if num == -1:
+        	num = number
+    	
+        kolko = mylist.count(number)
+        if pocet <= kolko:
+            pocet = kolko
+            num = number
+        
+    return num
+2328944
+def most_common(mylist):
+    return 0
+
+2809764
+def most_common(mylist):
+    most=0
+    high_freq = 0
+    freq=0
+    for x in mylist:
+        for y in mylist:
+            if x==y:
+                freq+=1
+        if freq > high_freq:
+            high_freq=freq
+            most=x
+        freq=0
+    return most
+def most_common(mylist):
+    most=0
+    high_freq = 0
+    freq=0
+    for x in mylist:
+        for y in mylist:
+            if x==y:
+                freq+=1
+        if freq > high_freq:
+            high_freq=freq
+            most=x
+        elif freq==high_freq:
+            if x<most:
+                most=x
+        freq=0
+    return most
+2804190
+def most_common(mylist):
+    numbers = {}
+    for x in mylist:
+        if x in numbers:
+            numbers[x] += 1
+        else:
+            numbers[x] = 0
+    most = [0, 0]
+    for key, val in numbers.items():
+        if (val > most[1]) or (val == most[1] and key < most[0]):
+            most = [key, val]
+    return most[0]
+

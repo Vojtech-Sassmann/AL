@@ -1,0 +1,552 @@
+2439201
+def foobar3(n):
+    for i in range(1,n+1):
+    	print(i)
+
+def foobar3(n):
+    for i in range(1,n+1):
+    	print(i,"bar")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+    	print(i,"bar")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+    	print(i,"bar")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+def foobar3(n):
+    for i in range(1,n+1):
+        if i // 3 == 0:
+        	print(i,"bar")
+    print(i,"foo")
+	
+2625181
+def foobar3(n):
+    for foobar3 in range (1, n+1):
+        if foobar3 % 3 == 0:
+            print(foobar3, " foo")
+        else:
+            print(foobar3, " bar")
+def foobar3(n):
+    for foobar3 in range (1, n+1):
+        if foobar3 % 3 == 0:
+            print(foobar3, " foo")
+        else:
+            print(foobar3, " bar")
+def foobar3(n):
+    for foobar3 in range (1, n+1):
+        if foobar3 % 3 == 0:
+            print(foobar3, "foo")
+        else:
+            print(foobar3, "bar")
+2648081
+def foobar3(n):
+    for i in range (n):
+        if (i+1)%3==0: print(i+1,"foo")
+        else: print(i+1,"bar")
+       
+
+2801103
+def foobar3(n):
+  for i in range(1, n+1):
+      if i % 3 == 0:
+           ozn = "foo"
+      else:
+           ozn = "bar"
+      print(i, ozn)
+
+2802184
+def foobar3(n):
+    for x in range(1, n+1):
+        if((x%3)==0):
+            print(x, "foo");
+        else:
+            print(x, "bar");
+
+2804640
+def foobar3(n):
+    for i in range(1, n+1):
+        if i % 3 == 0:
+            print(i, " foo")
+        else:
+            print(i, " bar")
+def foobar3(n):
+    for i in range(1, n+1):
+        if i % 3 == 0:
+            print(i, " foo")
+        else:
+            print(i, " bar")
+def foobar3(n):
+    for i in range(1, n+1):
+        if i % 3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+2802909
+def foobar3(n):
+    for i in range(n):
+        if i % 3 == 0:
+    		print(i, "foo")
+        else:
+            print(i, "bar")
+
+def foobar3(n):
+    for i in range(1,n+1):
+        if i % 3 == 0:
+    		print(i, "foo")
+        else:
+            print(i, "bar")
+
+2802655
+def foobar3(n):
+    for i in range(1, n + 1):
+    	print("{} {}".format(i, "foo" if i % 3 == 0 else "bar"))
+
+2806381
+def foobar3(n):
+    i = 0
+    while i < n:
+        i += 1
+        if i % 3 == 0:
+            print('foo')
+        else:
+            print('bar')
+
+def foobar3(n):
+    i = 0
+    while i < n:
+        i += 1
+        if i % 3 == 0:
+            print('foo')
+        else:
+            print('bar')
+
+def foobar3(n):
+    i = 0
+    while i < n:
+        i += 1
+        if i % 3 == 0:
+            print(i,'foo')
+        else:
+            print(i,'bar')
+
+2809298
+def foobar3(n):
+    for i in range(1,n+1):
+        if(i%3==0):print(i,"foo")
+        else:print(i,"bar")
+
+2802916
+def foobar3(n):
+    for i in range(1,n+1):
+        if i % 3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+2809764
+def foobar3(n):
+    for i in range(n):
+    	if i+1%3==0:
+        	print(i+1,"foo")
+            else: print(i+1,"bar")
+def foobar3(n):
+    for i in range(n):
+    	if (i+1)%3==0:
+        	print(i+1,"foo")
+            else: print(i+1,"bar")
+2802162
+def foobar3(n):
+    for i in range (n):
+        i = i+1
+        if i % 3 == 0:
+            print(i, "foo")
+        else:
+            print (i, "bar")
+
+2805048
+def foobar3(n):
+    for i in range(1, n + 1):
+        print(i, end=" ")
+        x = i %3
+        if x == 0:
+            print("foo")
+        else:
+            print("bar")
+
+2805080
+def foobar3(n):
+    for i in range (n):
+        if (i+1)%3== 0 :
+        	print (i+1, "foo")
+        else :
+            print (i+1, "bar")
+2805410
+def foobar3(n):
+    for i in range(1,n+1):
+        if i % 3 == 0:
+            print("foo")
+        else:
+            print("bar")
+
+
+def foobar3(n):
+    for i in range(1,n+1):
+        if i % 3 == 0:
+            print(i,"foo")
+        else:
+            print(i,"bar")
+
+
+2810636
+def foobar3(n):
+    for i in range(1, n+1):
+        if i%3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+2813265
+def foobar3(n):
+    for number in range(1,n):
+        if number%3==0:
+            print(number,"foo")
+        else:
+        	print(number,"bar")
+
+def foobar3(n):
+    for number in range(1,n+1):
+        if number%3==0:
+            print(number,"foo")
+        else:
+        	print(number,"bar")
+
+2802247
+def foobar3(n):
+    for i in range(1,n+1):
+        if(i%3==0):
+            print(i,"foo")
+        else:
+            print(i,"bar")
+
+2818450
+def foobar3(n):
+    for i in range(n):
+        print(i+1,end=' ')
+        if (i+1)%3 == 0:
+            print('foo')
+        else:
+            print('bar')
+            
+
+
+2819660
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print(i+1, "foo")
+        else:
+            print(i+1, "bar")
+
+2819643
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3:
+            print (i+1 ,"bar")
+        else:
+            print (i+1 ,"foo")
+2819583
+def foobar3(n):
+    for i in range (1, n+1):
+    	if i %3 ==0:
+			print (i, "foo")
+            else:
+                print (i, "bar")
+2816717
+def foobar3(n):
+    for i in range(n):
+        print(i+1)
+        if i%3==0:
+            print("foo")
+        else:
+            print("bar")
+def foobar3(n):
+    for i in range(n):
+        if i%3==0:
+            print(i+1,"foo")
+        else:
+            print(i+1,"bar")
+def foobar3(n):
+    for i in range(1,n):
+        if i%3==0:
+            print(i,"foo")
+        else:
+            print(i,"bar")
+def foobar3(n):
+    for i in range(1,n):
+        if i%3==0:
+            print(i,"foo")
+        else:
+            print(i,"bar")
+def foobar3(n):
+    for i in range(1,n+1):
+        if i%3==0:
+            print(i,"foo")
+        else:
+            print(i,"bar")
+2828797
+def foobar3(n):
+	for i in range(n):
+		if ((i+1)%3 == 0):
+			print("foo")
+		else:
+			print("bar")
+
+def foobar3(n):
+	for i in range(1,n+1):
+		if (i%3 == 0):
+			print(i, "foo")
+		else:
+			print(i, "bar")
+
+2802642
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+    
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+    
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+    
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print(i+1,"foo")
+        else:
+            print(i+1,"bar")
+    
+
+2803849
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+            
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+            
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print("foo")
+        else:
+            print("bar")
+            
+
+def foobar3(n):
+    for i in range(n):
+        if (i+1)%3==0:
+            print(i+1, "foo")
+        else:
+            print(i+1, "bar")
+            
+
+2882572
+def foobar3(n):
+    for i in range(1,n+1):
+        if i%3==0:
+            print(i,"foo")
+        else:
+            print(i,"bar")
+
+2926078
+def foobar3(n):
+    for i in range(1, n+1):
+        if i%3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+2964823
+def foobar3(n):
+    for i in range(n):
+        a = i+1
+        if a%3 == 0:
+            print(a,"foo")
+        else:
+            print(a,"bar")
+2936556
+def foobar3(n):
+    for i in range(1,n+1):
+        if (i%3!=0):
+            print(i,"bar")
+        else:
+            print (i,"foo")
+
+2970482
+def foobar3(n):
+    for i in range(n):
+        if((i+1)%3==0):
+            odpoved="foo"
+        else:
+            odpoved="bar"
+        print(i+1, odpoved)
+
+2988877
+def foobar3(n):
+    for i in range(n):
+        if ((i+1) % 3 == 0):
+            print(i+1,"foo")
+        else:
+            print(i+1,"bar")
+2812352
+def foobar3(n):
+    for i in range(1, n+1):
+        if i % 3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+3042251
+def foobar3(n):
+    for i in range(1, n+1):
+        print(i, end=" ")
+        if i % 3 == 0:
+            print("foo")
+        else:
+            print("bar")
+3045028
+def foobar3(n):
+    for i in range(1,n+1):
+        if i % 3:
+            print(i, 'bar')
+        else:
+            print(i, 'foo')
+    #print("foobar")
+
+2803949
+def foobar3(n):
+    for i in range(1, n+1):
+        if i%3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+def foobar3(n):
+    for i in range(1, n+1):
+        if i%3==0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+3047465
+def foobar3(n):
+	for i in range(1,n+1):
+		if i % 3 == 0:
+			print(i,"foo")
+		else:
+			print(i,"bar")
+
+3059777
+def foobar3(n):
+    for i in range (n):
+        if i+1 % 3 == 0:
+    	print(i+1, "foo")
+        else:
+            print (i+1,"bar")
+
+def foobar3(n):
+    for i in range (n):
+        if (i+1) % 3 == 0:
+    	print(i+1, "foo")
+        else:
+            print (i+1,"bar")
+
+3071998
+def foobar3(n):
+    for i in range(n+1):
+        if  i%3==0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+def foobar3(n):
+    for i in range(1,n):
+        if  i%3==0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+def foobar3(n):
+    for i in range(1,n+1):
+        if  i%3==0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+

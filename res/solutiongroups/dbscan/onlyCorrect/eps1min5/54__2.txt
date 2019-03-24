@@ -1,0 +1,92 @@
+def compare(a, b):
+    if a>b:
+    	print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+        
+
+def compare(a, b):
+    if a>b:
+        print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+
+def compare(a, b):
+	if a>b:
+		print(a,"je vetsi nez",b)
+	if a==b:
+		print("stejna")
+	if a<b:
+		print(b,"je vetsi nez",a)
+def compare(a, b):
+    if a>b:
+        print(a, "je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+def compare(a, b):
+	if a>b:
+		print(a, "je vetsi nez", b)
+	if a==b:
+		print("stejna")
+	if a<b:
+		print(b, "je vetsi nez", a)
+
+def compare(a, b):
+    if a>b:
+        print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+
+def compare(a, b):
+    if a>b:
+    	print(a,"je vetsi nez",b)
+    if a==b:
+    	print("stejna")
+    if a<b:
+    	print(b,"je vetsi nez",a)
+
+def compare(a, b):
+	if a>b:
+		print(a, "je vetsi nez", b)
+	if a==b:
+		print("stejna")
+	if a<b:
+		print(b, "je vetsi nez", a)
+def compare(a, b):
+    if a>b:
+        print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+
+def compare(a, b):
+    if a>b:
+        print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+def compare(a, b):
+	if a>b:
+		print(a,"je vetsi nez",b)
+	if a==b:
+		print("stejna")
+	if a<b:
+		print(b,"je vetsi nez",a)
+
+def compare(a, b):
+    if (a>b):
+    	print(a,"je vetsi nez",b)
+    if (a==b):
+    	print("stejna")
+    if (a<b):
+    	print(b,"je vetsi nez",a)

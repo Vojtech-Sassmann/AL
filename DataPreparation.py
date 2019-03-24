@@ -3,10 +3,10 @@ from base64 import b64decode
 
 
 def main():
-    decode_solutions()
+    parse_solutions()
 
 
-def process_solution(data):
+def decode_solution(data):
     """Decode base64, padding being optional.
 
     :param data: Base64 data as an ASCII byte string
@@ -21,12 +21,12 @@ def process_solution(data):
 
 def save_solutions(solutions):
     for item_id in solutions.keys():
-        with open('./res/parsed/' + item_id + '.txt', mode='w') as output_file:
+        with open('./res/parsed/all/' + item_id + '.txt', mode='w') as output_file:
             for solution in solutions[item_id]:
                 print(solution.replace("\n","\\n"), file=output_file)
 
 
-def decode_solutions():
+def parse_solutions():
     solutions = {}
     errors = 0
     errs_info = list()
@@ -36,10 +36,11 @@ def decode_solutions():
 
             # old records contain invalid data
             if int(row['id']) > 6000:
-                if row['correct'] != '1':
-                    continue
+                # if row['correct'] != '1':
+                #     continue
                 try:
-                    solution = process_solution(row['answer'])
+                    solution = decode_solution(row['answer'])
+
                     if not solutions.__contains__(row['item']):
                         solutions[row['item']] = list()
                     solutions[row['item']].append(solution)
@@ -62,7 +63,7 @@ def decode_solutions():
 
     for item in sorted(counts):
         print("%s: %s" % (item, counts[item]))
-    # save_solutions(solutions)
+    save_solutions(solutions)
 
 
 if __name__ == '__main__':

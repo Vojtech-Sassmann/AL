@@ -1,0 +1,30 @@
+1111
+def unique(mylist):\n    k=[]\n    for i in mylist:\n        if i not in k:\n            k.append(i)\n    return (k)        \n    \n
+###
+1111
+def unique(mylist):\n    seznam=[]\n    for i in mylist:\n        if i not in mylist:\n            seznam.append(i)\n        else:\n            continue\n    return seznam        \n
+def unique(mylist):\n    t=[]\n    for i in mylist:\n        if i not in t:\n            t.append(i)\n        else:\n            continue\n    return t        \n
+###
+1111
+def unique(mylist):\n    \n    unique = []\n    for i in mylist:\n        if not i in unique:\n        	unique.append(i)\n    \n    \n    \n    return unique\n
+###
+1111
+def unique(mylist):\n    list=[]\n    for i in mylist:\n        if not(i in list):\n            \n    return mylist\n
+def unique(mylist):\n    list=[]\n    for i in mylist:\n        if not(i in list):\n            list.append(i)\n    return mylist\n
+def unique(mylist):\n    seznam=[]\n    for i in mylist:\n        if not(i in seznam):\n            seznam.append(i)\n    return seznam\n
+###
+1111
+def unique(mylist):\n    s=[]\n    for i in range (len(mylist)):\n        for j in range (len(mylist)):\n        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"\n    for p in range (len(mylist)): \n        if mylist[p]!="a" : s.append(mylist[p])\n    return(s)\n   	\n    \n 	
+###
+1111
+def unique(mylist):\n    ulist = []\n    for i in mylist:\n        if i not in ulist:\n            ulist.append(i)\n    return ulist            \n                \n
+###
+1111
+def unique(mylist):\n    taken = list()\n    to_return = list()\n    for x in mylist:\n        if x not in taken:\n            taken.append(x)\n            to_return.append(x)\n    return to_return\n
+###
+1111
+def unique(mylist):\n    whitelist=[]\n    for i in mylist:\n        if contains(whitelist,i)==False:\n            whitelist.append(i)\n    return whitelist\ndef contains (summary,element):\n    result=False\n    for x in summary:\n        if x!=element:\n            result = False\n        else: return True\n    return result
+###
+1111
+def unique(mylist):\n    seznam = []\n    for x in mylist:\n        if x not in seznam:\n        	seznam.append(x)\n    return seznam\n
+###

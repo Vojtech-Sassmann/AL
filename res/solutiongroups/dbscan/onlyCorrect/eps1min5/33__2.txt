@@ -1,0 +1,27 @@
+def impose_fine(age, beer):
+    return (age<21 and beer)
+
+def impose_fine(age, beer):
+    return age < 18 and beer
+
+def impose_fine(age, beer):
+    return age < 18 and beer
+
+def impose_fine(age, beer):
+    return age<18 and beer
+
+def impose_fine(age, beer):
+    return (beer and age<18)
+
+def impose_fine(age, beer):
+    return (age <= 17 and beer)
+
+def impose_fine(age, beer):
+    return age < 18 and beer
+
+def impose_fine(age, beer):
+    return ((age<18) and (beer))
+
+def impose_fine(age, beer):
+    return age < 18 and beer
+

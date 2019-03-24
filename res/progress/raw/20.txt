@@ -1,0 +1,187 @@
+2128782
+def divisors_count(n):\n    d=0\n    for i in range(1,n+1):\n        if n%i==0:\n            d=d+1\n    return d\n            \n
+###
+2413063
+def divisors_count(n):\n    cislo = 0\n    for i in range(1,n+1):\n        if not(n%i):\n            cislo = cislo + 1\n    return cislo\n
+###
+2648081
+def divisors_count(n):\n    k=0\n    for i in range(n):\n        if n%(i+1)==0: k=k+1\n    return (k)\n
+###
+2687163
+def divisors_count(n):\n    pes = 0\n    for i in range(n):\n        if n % (i + 1) == 0:\n            pes += 1\n    return pes\n
+###
+2691830
+def divisors_count(n):\n    return 8\n\n
+n = 8\n\ndef divisors_count(n):\n	\n    \n    return n\n
+def divisors_count(n):\n    return n\n
+def divisors_count(n):\n    count = 0\n    for i in range(1, n + 1):\n        if n % i == 0:\n            count += 1\n    return count\n
+###
+2764732
+def divisors_count(n):\n    a=0\n    for i in range(1,n+1,1):\n        if n%i==0:\n            a+=1\n        else:\n            pass\n    return a\n
+###
+2764957
+def divisors_count(n):\n    count=0\n    for i in range(1,n+1,1):\n        if n%i==0:\n            count+=1\n            \n    return count\n\n\n
+###
+2764960
+def divisors_count(n):\n    pocet=0\n    for i in range(1,n+1,1):\n        if n%i ==0:\n            pocet+=1\n    \n    return pocet\n
+###
+2692355
+def divisors_count(n):\n    pocet = 0\n    for i in range(1,n+1,1):\n        if n%i == 0:\n        	pocet += 1 \n    print(pocet)\n    \n\n
+def divisors_count(n):\n    pocet = 0\n    for i in range(1,n+1,1):\n        if n%i == 0:\n        	pocet += 1 \n    return pocet \n    \n\n
+###
+2765003
+def divisors_count(n):\n    a=0\n    for i in range(n):\n        if n%i==0:\n            a+=1\n    return a\n
+def divisors_count(n):\n    a=0\n    for i in range(n+1):\n        if i%n==0:\n            a+=1\n    return a\n
+def divisors_count(n):\n    a=0\n    for i in range(1,n+1,1):\n        if n%i==0:\n            a+=1\n    return a\n
+###
+2765033
+def divisors_count(n):\n    x = n/3\n    return x\n
+###
+2765039
+def divisors_count(n):\n    return 0\n
+def divisors_count(n):\n    return 0\nprint("8")
+def divisors_count(n):\n    return 0\nprint("8")
+print("8")
+def divisors_count(n):\n    return 6\n
+def divisors_count(n):\n    return 6\n
+def divisors_count(n):\n    return 10\n\n
+def divisors_count(n):\n    return 5\n\n
+def divisors_count(n):\n    return 5\n\n
+def divisors_count(n):\n    return 0\nprint(n)\n
+###
+2765006
+def divisors_count(n):\n    pocet = 0\n    for i in range(1,n+1,1):\n        if n%i==0:\n            pocet+=1\n    return pocet\n
+###
+2765035
+def divisors_count(n):\n    pocet=0\n    for i in range(1,n+1,1):\n        if n%i==0:\n            pocet+=1\n    return pocet\n
+###
+2765023
+def divisors_count(n):\n	list_delitelu=[]\n	pocet_delitelu = 0\n	for i in range(1, n+1, 1):\n		if n % i == 0:\n			pocet_delitelu = pocet_delitelu + 1\n			list_delitelu.append(i)\n            \n	return pocet_delitelu, list_delitelu\n
+###
+2769021
+def divisors_count(n):\n    count = 0\n    for i in range(1, n + 1):\n        if n % i == 0:\n            count += 1\n    return count\n
+###
+2769018
+def divisors_count(n):\n    pocet=1\n    for i in range(1,n+1,1):\n        if n%i ==0:\n            pocet=pocet+1\n	return pocet
+###
+2802909
+def divisors_count(n):\n    count1 = 0\n    for i in range(1,n):\n 		if n % i == 0:\n            count1 += 1\n	return count1\n
+def divisors_count(n):\n    count1 = 1\n    for i in range(1,n):\n 		if (n % i == 0):\n            count1 += 1\n	return count1\n
+def divisors_count(n):\n    vysledok = 1\n    for i in range(1,n):\n 	    if n % i == 0:\n        	vysledok += 1\n    return vysledok\n
+###
+2809298
+def divisors_count(n):\n    x=0\n    for i in range(1,n+1):\n        if n%i==0:\n            x+=1\n    return x\n
+###
+2809764
+def divisors_count(n):\n    x=0\n    for i in range (1,n+1):\n        if n%i==0:\n            x=x+1\n    return x\n            \n
+###
+2802162
+def divisors_count(n):\n    divisors=0\n    for i in range (n):\n        if n% (i + 1) == 0:\n            divisors = divisors + 1\n    return (divisors)\n
+###
+2805048
+def divisors_count(n):\n    \n    list_of_divisors = []\n    for i in range(1, n +1):\n        x = n / i\n        remain = n % i\n        if remain == 0:\n            list_of_divisors.append(x)\n    print(len(list_of_divisors))\n        \n        \n
+def divisors_count(n):    \n    list_of_divisors = []\n    for i in range(1, n + 1):\n        x = n / i\n        remain = n % i\n        if remain == 0:\n            list_of_divisors.append(x)\n    return len(list_of_divisors)\n\n
+###
+2806881
+def divisors_count(n):\n    k=0\n    for i in range(1,n+1):\n        if n%i==0:\n        	k+=1\n    return (k)\n
+###
+2812879
+def divisors_count(n):\n    s = 0\n    for i in range(n, 0, -1):\n        s += n % i == 0\n    return s\n
+###
+2810636
+def divisors_count(n):\n    pocet = 0\n    for x in range(1,n+1):\n        if n % x == 0:\n            pocet += 1\n    return pocet\n
+###
+2813265
+def divisors_count(n):\n    sumc=0\n    for divider in range(1,n+1):\n        if n%divider==0:\n            sumc+=n/n\n        \n    return sumc\n
+def divisors_count(n):\n    sumc=0\n    for divider in range(1,n+1):\n        if n%divider==0:\n            sumc+=n/n\n        \n    return sumc\n
+def divisors_count(n):\n    sumc=0\n    for divider in range(1,n+1):\n        if n%divider==0:\n            sumc+=n/n\n        \n    return int(sumc)\n
+###
+2802247
+def divisors_count(n):\n    x = 0\n    for i in range(n):\n        if(n%(i+1)==0):\n            x+=1\n    return x\n
+###
+2818450
+def divisors_count(n):\n    x=0\n    for i in range(n):\n        if n%(i+1)==0:\n            x+=1\n            \n    return(x) \n
+###
+2825431
+def divisors_count(n):\n    a=0\n    \n    for i in range (n):\n        b=n%(i+1)\n        if b==0:\n            a=a+1\n           \n        \n    \n    return a\n
+###
+2826647
+\ndef divisors_count(n):\n    x = 0\n    for i in range(1,n+1):\n        if n % i == 0:\n            x += 1\n    return x\n
+###
+2803158
+def divisors_count(n):\n    count = 0\n    for i in range(1,n+1):\n        if n % i == 0:\n            count = count +1\n    return count\n
+###
+1662308
+hlhuiphphilpulů\ngoluolgulpulpugpgu
+hlhuiphphilpulů\ngoluolgulpulpugpgu
+def divisors_count(n):\n    return 0\n
+ghbhrthnzjtjtujř\n    return 0\n
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+giolugil\nfofzolfzo\nffofzol fáolf
+###
+2831385
+def divisors_count(n):\n    count = 0\n    for i in range(1, n + 1):\n        if n % i == 0:\n            count += 1\n    return count\n
+###
+2802642
+def divisors_count(n):\n    divisorcnt=0\n    for i in range (n+1):\n    	if i!=0:\n    		if n % i == 0:\n        		divisorcnt=divisorcnt+1\n    return divisorcnt\n
+###
+2926078
+def divisors_count(n):\n	count = 0\n	for i in range(1, n+1):\n		if n%i == 0:\n			count += 1\n	return count\n
+###
+2970482
+def divisors_count(n):\n    a=0\n    for i in range(n):\n        if n%(i+1)==0:\n            a=a+1\n    return a\n
+###
+2983315
+def divisors_count(n):158\n    return 0\n
+###
+2984356
+def divisors_count(n):\n    return 8\n
+def divisors_count(n):\n    return 2\n\n
+def divisors_count(n):\n    return 8\n\n
+def divisors_count(n):\n    return 2\n\n
+def divisors_count(n):\n    return 108\n\n
+###
+2984619
+def divisors_count(n):\n    return 0\n
+def divisors_count(n):\n    return 0\n
+###
+2987327
+def divisors_count(n):\n    return 3\n
+def divisors_count(n):\n    return 3\n
+def divisors_count(n):\n    return 0\n
+###
+2994452
+def divisors_count(n):\n    count = 0\n    for i in range(1, n+1):\n        if n%i == 0:\n            count += 1\n    return count\n
+###
+2812352
+def divisors_count(n):\n    for i in range(1,n+1):\n		if n // i == 2:\n			return i-1
+def divisors_count(n):\n    for i in range(1,n+1):\n		if n // i == 2:\n			return i-1
+def divisors_count(n):\n    for i in range(1,n+1):\n		if n // i == 2:\n			return i-1
+def divisors_count(n):\n    for i in range(1,n+1):\n		if n // i == 2:\n			return i-1
+def divisors_count(n):\n    return 0\n
+###
+2843178
+def divisors_count(n):\n    x = 0\n    for i in range(1, n+1):\n        if n%i==0: \n            x += 1\n    return (x)\n\n\n
+###
+2940162
+def divisors_count(n):\n    pocet = 0\n    for i in range (1, n + 1):\n        if n % i == 0:\n            pocet += 1\n    return pocet\n
+###
+3061156
+def divisors_count(n):\n    return 0\n
+###
+3061969
+def divisors_count(n):\n    for i in range(n):\n        if (n+1)%(i+1)==0:\n            a=0\n            a=a+1\n    return a\n
+def divisors_count(n):\n    for i in range(n):\n        if (n+1)%(i+1)==0:\n            a=1\n            a=a+1\n    return a\n
+def divisors_count(n):\n    a=0\n    for i in range(n):\n        if (n)%(i+1)==0:\n            a=a+1\n    return a\n
+###

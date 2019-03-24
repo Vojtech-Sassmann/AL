@@ -1,0 +1,131 @@
+2128782
+def divisors(n):\n    for i in range(1,n+1):\n        if n%i==0:\n            print(i)\n
+###
+2121562
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n
+###
+2413063
+def divisors(n):\n    for i in range(1,n+1):\n    	if not(n%i):\n        	print(i)\n
+###
+2648081
+def divisors(n):\n    for i in range (n):\n        if n%(i+1)==0:\n    	print(i+1)\n
+###
+2687163
+def divisors(n):\n    pes = []\n    for i in range(n):\n        if n % (i + 1) == 0:\n            pes.append(i + 1)\n    for i in pes:\n    	print(i)\n
+###
+2764732
+def divisors(n):\n    for i in range(1,n+1,1):\n        if n%i==0:\n            print(i)\n        else:\n            pass\n
+###
+2764957
+def divisors(n):\n    for i in range(1,n+1,1):\n    	if n%i==0:\n        	print(i)\n
+###
+2764960
+def divisors(n):\n    for i in range(1,n+1,1):\n        if n%i == 0:\n        	print(i)\n\n
+###
+2692355
+def divisors(n):\n	for i in range(1,n+1,1):\n    	if n%i == 0:\n        	print(i)\n        \n
+###
+2765003
+def divisors(n):\n    for i in range(1,n+1,1):\n        if n%i==0:\n            print(i)\n    \n
+###
+2765006
+def divisors(n):\n    for i in range(1,n+1,1):\n    	if n%i==0:\nprint()\n
+def divisors(n):\n    for i in range(1,n+1,1):\n        if n%i==0:\n            print(i)\n	\n
+###
+2765035
+def divisors(n):\n    for i in range(1,n+1,1):\n        if n%i==0:\n            print(i)\n    \n
+###
+2769021
+def divisors(n):\n    for candidate in range(1, n + 1):\n        if n % candidate == 0:\n            print (candidate)\n    print\n    \n
+###
+2802909
+def divisors(n):\n    count = 1\n    for i in range(1,n+1):\n        if n % i == 0:\n            print(i)\n
+###
+2809298
+def divisors(n):\n    for i in range(1,n+1):\n        if(n%i==0):print(i)\n
+###
+2809764
+def divisors(n):\n    x=1\n    for i in range (1,n+1):\n        if n%i==0:\n            x=i\n            print(x)\n\n            
+###
+2802162
+def divisors(n):\n    divisors = 0\n    for i in range(n):\n        if n%(i+1) == 0:\n            print(i+1)\n
+###
+2805048
+def divisors(n):\n	for i in range(1, n + 1):\n		x = n / i\n		if x % 1 == 0:\n			print(int(x))\n
+###
+2806881
+def divisors(n):\n    for i in range(1,n+1):\n        if n%i==0:\n    	print(i)\n
+###
+2812879
+def divisors(n):\n    print(1)\n
+###
+2810636
+def divisors(n):\n    for i in range(1, n+1):\n        if n % i == 0:\n            print(i)\n
+###
+2813265
+def divisors(n):\n    for divider in range(1,n+1):\n        if n%divider==0:\n            print(divider)\n\n
+###
+2802247
+def divisors(n):\n    for i in range(n):\n        if(n%(i+1)==0):\n            print i\n
+def divisors(n):\n    for i in range(n):\n        if(n%(i+1)==0):\n            print(i)\n
+def divisors(n):\n    for i in range(n):\n        if(n%(i+1)==0):\n            print(i+1)\n
+###
+2818450
+def divisors(n):\n    for i in range(n):\n        if n%(i+1)==0:\n            print(i+1)\n    \n
+###
+2825431
+def divisors(n):\n    for i in range (n):\n        b=n%(i+1)\n        if b==0:\n            print (i+1)\n    \n
+###
+2803158
+def divisors(n):\n    for i in range(1, n+1):\n        if n % i == 0:\n            print(i)\n
+###
+2802642
+def divisors(n):\n    for i in range(1,n+1):\n        if n%i==0:\n            print(i)\n
+###
+2926078
+def divisors(n):\n    for i in range(1, n+1):\n        if n%i == 0:\n            print(i)\n
+###
+2970482
+def divisors(n):\n    for i in range(n):\n        if n%(i+1)==0:\n            print(i+1)\n
+###
+3007533
+def divisors(n):\n    print(1)\n
+def divisors(n):\n    print(1)\n    print(5)\n
+###
+2843178
+def divisors(n):\n    for i in range(1, n+1):\n        if n%i==0:\n		print(i)\n
+###
+2940162
+def divisors(n):\n    for i in range(1, n + 1):\n        if n % i == 0:\n            print(i)\n
+###
+3061969
+def divisors(n):\n    for i in range(n):\n        if n%(i+1)==0:\n            print(i+1)\n \n
+###

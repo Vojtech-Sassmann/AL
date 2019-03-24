@@ -1,0 +1,330 @@
+2257153
+def print_primes(n):
+    print()
+3+3
+
+
+
+2437820
+def print_primes(n):
+	delka =2
+	while delka<n+2:
+		cislo=0
+		for i in range(1,delka):
+			if not(delka%i):
+				cislo = cislo + 1
+		if cislo==2:
+            print(delka)
+		delka=delka+1
+        
+def print_primes(n):
+    delka=2
+    a=1
+    while (a<(n+1)):
+    cislo=0
+    for i in range(1,delka+1):
+        if not(delka%i):
+            cislo = cislo + 1
+    if cislo==2:
+        print(delka)
+        a = a +1
+    delka=delka+1
+def print_primes(n):
+    delka=2
+    a=1
+    while (a<(n+1)):
+    cislo=0
+    for i in range(1,delka+1):
+        if not(delka%i):
+            cislo = cislo + 1
+    if cislo==2:
+        print(delka)
+        a = a +1
+    delka=delka+1
+def print_primes(n):
+    delka=2
+    a=1
+    while (a<(n+1)):
+    cislo=0
+    for i in range(1,delka+1):
+        if not(delka%i):
+            cislo = cislo + 1
+    if cislo==2:
+        print(delka)
+        a = a +1
+    delka=delka+1
+def print_primes(n):
+    delka=2
+    a=1
+    while (a<(n+1)):
+    cislo=0
+    for i in range(1,delka+1):
+        if not(delka%i):
+            cislo = cislo + 1
+    if cislo==2:
+        print(delka)
+        a = a +1
+    delka=delka+1
+def print_primes(n):
+    delka=2
+    a=1
+    while (a<(n+1)):
+    cislo=0
+    for i in range(1,delka+1):
+        if not(delka%i):
+            cislo = cislo + 1
+    if cislo==2:
+        print(delka)
+        a = a +1
+    delka=delka+1
+2587232
+def print_primes(n):
+    print()
+
+2802909
+def is_prime(k):
+    prime = True
+    for i in range(2,k):
+        if k % i == 0:
+            prime = False
+    return prime
+def print_primes(n):
+    for i in range(1,n):
+        if is_prime(i):
+        	print(i)
+
+def print_primes(n):
+    moj = []
+    for i in range(2,500):
+        prime = True
+        for j in range(2,i):
+            if i % j == 0:
+                prime = False
+        if prime == True:
+            moj.append(i)
+    for z in range(n):
+        print(moj[z])
+def print_primes(n):
+    moj = []
+    for i in range(2,10000):
+        prime = True
+        for j in range(2,i):
+            if i % j == 0:
+                prime = False
+        if prime == True:
+            moj.append(i)
+    for z in range(n):
+        print(moj[z])
+def print_primes(n):
+    moj = []
+    for i in range(2,2000):
+        prime = True
+        for j in range(2,i):
+            if i % j == 0:
+                prime = False
+        if prime == True:
+            moj.append(i)
+    for z in range(n):
+        print(moj[z])
+2809298
+def print_primes(n):
+    x=2
+    while(n>0):
+        d=0
+        for i in range(1,x+1):
+			if(x%i==0):d+=1
+        if(d==2):
+            print(x)
+            n-=1
+        x+=1 
+2809764
+def print_primes(n):
+    t=0
+    c=0
+    while c<n:
+        if IsPrime(t)==True:
+            print(t)
+            c+=1
+        t+=1
+            
+
+def IsPrime(p):
+    c=0
+    for i in range (1,p+1):
+        if p%i==0:
+            c+=1
+    if c==2:
+        return True
+2813265
+def cnt_divisors(n):
+    cont = 0
+    for i in range(1, n + 1):
+        if n % i == 0:
+            cont += 1
+    return cont
+
+
+
+def is_prime(n):
+    return cnt_divisors(n) == 2
+
+
+
+
+
+def print_primes(k):
+    i = 1
+    stoper = 0
+    while k > stoper:
+        i += 1
+        if is_prime(i):
+            stoper += 1
+            print(i)
+        else:
+            pass
+    
+
+
+2802247
+def isPrime(n):
+    for i in range(2, n):
+        if n % i==0:
+            return False
+    return True
+
+def print_primes(n):
+    primes = 0
+    i=2
+    while primes<n:
+        if(isPrime(i)):
+            print(i)
+            primes+=1
+        i+=1
+
+2818450
+def print_primes(n):
+    for i in range(n):
+        x=0
+        for j in range(i+1):
+            if (i+1)%(j+1)==0:
+                x+=1
+        if x==2:
+            print(i+1)
+        else:
+            n+=1
+                
+    print()
+
+2926078
+def print_primes(n):
+    count = 0
+    i = 2
+    print(2)
+    while count < (n-1):
+        for j in range(2, i):
+            if i%j == 0 and i != 2:
+                break
+            elif (i-1)==j:
+                print(i)
+                count += 1
+        i += 1
+2940162
+def print_primes(n):
+    x = 2
+    i = 1
+    while i <= n:
+        is_prime = True
+        for j in range(1, x):
+            if x % j == 0 and j != 1:
+                is_prime = False
+                break
+        if is_prime == True:
+            print(x)
+            i += 1
+        x += 1
+    
+            
+        
+        
+        
+        
+
+3103560
+def print_primes(n):
+    i = 0
+    a = 2
+    b = 2
+    while i < n:
+        if a%2==0 and not a == 2:
+            
+        	a = a + 1
+       
+        if a%b==0 and a == b:
+            print(a)
+            a = b + 1
+            i = i + 1
+            b = 2
+        else:
+            b = b + 1
+
+def print_primes(n):
+    i = 0
+    a = 2
+    b = 2
+    while i < n:
+        if a%2==0 and not a == 2:
+            
+        	a = a + 1
+        if a%b==0 and not a == b:
+            
+        	a = a + 1
+       
+        if a%b==0 and a == b:
+            print(a)
+            a = b + 1
+            i = i + 1
+            b = 2
+        else:
+            b = b + 1
+
+def print_primes(n):
+    i = 0
+    a = 2
+    b = 2
+    while i < n:
+        if a%2==0 and not a == 2:
+            
+        	a = a + 1
+        if a%b==0 and not a == b:
+            
+        	a = a + 1
+       
+        if a%b==0 and a == b:
+            print(a)
+            a = b + 1
+            i = i + 1
+            b = 2
+        else:
+            b = b + 1
+
+def print_primes(n):
+    i = 0
+    a = 2
+    b = 2
+    while i < n:
+        if a%2==0 and not a == 2:
+            
+        	a = a + 1
+            
+        if a%b==0 and not a == b:
+            a = a + 1
+            b = 2
+       
+        if a%b==0 and a == b:
+            print(a)
+            a = b + 1
+            i = i + 1
+            b = 2
+        else:
+            b = b + 1
+

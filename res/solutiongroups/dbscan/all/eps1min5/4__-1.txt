@@ -1,0 +1,74 @@
+def alphabet(n,a=65,b=0):
+    for i in range(n):
+        if b == 26:
+            a = a - 26
+            b=0
+        b = b + 1
+        print(chr(a))
+        a = a+ 1
+def alphabet(n):
+    for i in range(n):
+        if i == 0:
+            a=0
+        else:
+            a=(i%26)
+        print(chr(65+a))
+
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord("A")+i%26))
+
+def alphabet(n):
+	for i in range(n//26):
+		for j in range(26):
+			print(chr(65+j))
+	for k in range(n%26):
+		print(chr(65+k))
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord('A')+i%26))
+
+def alphabet(n):
+    import string
+    for i in range (n):
+        if i <len(string.ascii_uppercase):
+            print (string.ascii_uppercase[i])
+        else: print(string.ascii_uppercase[i-(i//len(string.ascii_uppercase))*len(string.ascii_uppercase)])
+
+def alphabet(n,a=65,b=0):
+    for i in range(n):
+        if b == 26:
+            a = a - 26
+            b=0
+        b = b + 1
+        print(chr(a))
+        a = a+ 1
+def alphabet(n):
+    for i in range(n):
+        if i == 0:
+            a=0
+        else:
+            a=(i%26)
+        print(chr(65+a))
+
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord("A")+i%26))
+
+def alphabet(n):
+	for i in range(n//26):
+		for j in range(26):
+			print(chr(65+j))
+	for k in range(n%26):
+		print(chr(65+k))
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord('A')+i%26))
+
+def alphabet(n):
+    import string
+    for i in range (n):
+        if i <len(string.ascii_uppercase):
+            print (string.ascii_uppercase[i])
+        else: print(string.ascii_uppercase[i-(i//len(string.ascii_uppercase))*len(string.ascii_uppercase)])
+

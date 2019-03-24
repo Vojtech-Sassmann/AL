@@ -1,0 +1,30 @@
+def most_common(mylist):
+    
+    pocet = 0
+    num = -1
+    for number in mylist:
+        if num == -1:
+        	num = number
+    	
+        kolko = mylist.count(number)
+        if pocet <= kolko:
+            pocet = kolko
+            num = number
+        
+    return num
+def most_common(mylist):
+    most=0
+    high_freq = 0
+    freq=0
+    for x in mylist:
+        for y in mylist:
+            if x==y:
+                freq+=1
+        if freq > high_freq:
+            high_freq=freq
+            most=x
+        elif freq==high_freq:
+            if x<most:
+                most=x
+        freq=0
+    return most

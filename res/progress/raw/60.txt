@@ -1,0 +1,144 @@
+1727203
+def big_even(a, b):\n    if a>b and a%2 is True:\n        return True\n    if b>a and b%2 is True:\n        return True\n    else: return False\n
+def big_even(a, b):\n    if a>b and a%2 is True:\n        return True\n    if b>a and b%2 is True:\n        return True\n    else: return False\n
+def big_even(a, b):\n    if a>b and a%2 is True:\n        return True\n    if b>a and b%2 is True:\n        return False\n    else: return False\n
+def big_even(a, b):\n    if a>b and a%2 is True:\n        return True\n    if b>a and b%2 is True:\n        return True\n    else: return False\n
+def big_even(a, b):\n    if a>b and a%2 is False:\n           return False\n    if b>a and b%2 is False:\n           return False\n    else: return True\n
+def big_even(a, b):\n    if a>b and a%2 is False:\n           return False\n    if b>a and b%2 is False:\n           return False\n    else: return True\n
+def big_even(a, b):\n    if a>b and a%2 is False:\n           return False\n    if b>a and b%2 is False:\n           return False\n    else: return True\n
+def big_even(a, b):\n    if a>b and a%2 is False:\n        return False\n    if b>a and b%2 is False:\n        return False\n    else: return True\n
+###
+2126139
+def big_even(a, b):\n    vetsiCislo = a\n    if(vetsiCislo < b):\n        vetsiCislo = b\n    if(vetsiCislo % 2 == 0):\n        return True\n    else: \n        return False\n
+###
+359254
+def big_even(a, b):\n    return False\n
+###
+359275
+def big_even(a, b):\n	if max(a,b)%2==0:\n    	return True\n	else:\n    	return False
+###
+2333832
+def big_even(a, b):\n    return a > b and a % 2 is 0 or b % 2 is 0\n
+###
+2326755
+def big_even(a, b):\n    if (a > b):\n        if ((a % 2) == 0):\n            return True\n        else:\n            return False\n    else:\n        if ((b % 2) == 0):\n    		return True\n        else:\n            return False\n
+###
+2413063
+def big_even(a, b):\n    if ((a>b)and(a%2)) or ((b>a)and(b%2)):\n        return True\n    else:\n    	return False\n
+###
+2439201
+def big_even(a, b):\n    if ((a > b) and (a % 2 == 0) or (a < b) and (b % 2 == 0)):\n    	return True\n    else:\n        return False\n    return False\n
+def big_even(a, b):\n    if ((a > b) and (a % 2 == 0) or (a < b) and (b % 2 == 0)):\n    	return True\n    else:\n        return False\n    return False\n\n
+###
+2787290
+def big_even(a, b):\n    moda = a%2\n    modb = b%2\n    if a>b and moda==0:\n        return True\n    if b>a and modb==0:\n        return True\n    else:\n        return False\n
+###
+2807646
+def big_even(a, b):\n    return True if max(a, b) % 2 == 0 else False
+###
+2809764
+def big_even(a, b):\n    if a>b and a%2==0:\n    	return True\n    if a<b and b%2==0:\n        return True\n    else:return False
+###
+2805080
+def big_even(a, b):\n    if a%2==0 and b%2==0 :\n    	return True\n    else :\n    	return False\n
+def big_even(a, b):\n    if a>b :\n		if a%2==0:\n    		return True\n		else:\n			return False\n    else:\n        if a%2==0:\n            return True\n        else:\n			return False\n        \n
+def big_even(a, b):\n    if a>b :\n		if a%2==0:\n    		return True\n		else:\n			return False\n    else:\n        if b%2==0:\n            return True\n        else:\n			return False\n        \n
+###
+2813424
+def big_even(a, b):\n    if (a > b and a / 2 = 0) == True or (b > a and b / 2 = 0) == True:\n        return True\n    else:\n        return False\n
+def big_even(a, b):\n    if (a > b and a / 2 = 0) == True or (b > a and b / 2 = 0) == True:\n        return True\n    else:\n        return False\n
+def big_even(a, b):\n    if (a > b and a / 2 = 0) == True or (b > a and b / 2 = 0) == True:\n        return True\n    else:\n        return False\n
+def big_even(a, b):\n    if (a > b and a / 2 = 0) == True or (b > a and b / 2 = 0) == True:\n        return True\n    else:\n        return False\n
+def big_even(a, b):\n    if (a > b and a / 2 = 0) == True or (b > a and b / 2 = 0) == True:\n        return True\n    else:\n        return False\n
+###
+2810636
+def big_even(a, b):\n    if(a<b and b%2==0)or(a>b and a%2==0):\n        return True\n    else:\n        return False\n
+###
+2807171
+def big_even(a, b):\n    if a>=b and a%2 == 0:\n        return True\n    elif a<b and b%2 == 0:\n        return True\n    else:\n        return False\n
+###
+2805335
+def big_even(a, b):\n    if a>b and (a/2)==True:\n        return True\n    if b>a and (b/2)==True:\n    	return True\n    else:\n        return False\n
+def big_even(a, b):\n    if a>b: \n        if a%2==0:\n        	return True\n        else:\n            return False\n    if b>a: \n    	if b%2==0:\n    		return True\n    	else:\n        	return False\n
+###
+2805831
+def big_even(a, b):\n    if ((a > b) and (a % 2 == 0)):\n        return True\n    elif (b % 2 == 0):\n        return True\n    else:\n    	return False\n
+###
+2818450
+def big_even(a, b):\n    if a>b or a==b:\n        x=a\n    else:\n        x=b\n    if x%2==0:\n        return True\n    else:\n    	return False\n
+###
+2819660
+def big_even(a, b):\n    if a>b and a%2:\n        return False\n    elif a<b and b%2:\n        return False\n    elif a==b:\n        return False\n    else:\n        return True\n
+###
+2846634
+def big_even(a, b):\n    return (a>b and a%2==0) or (a<b and b % 2 == 0)\n
+###
+2803849
+def big_even(a, b):\n    if a>b and a%2==0:\n        return True\n    elif b>a and b%2==0:\n        return True\n    else:\n        return False\n
+###
+2852348
+def big_even(a, b):\n    pole=[a,b]\n    pole.sort()\n    if pole[1]%2==0:\n        return True\n    else:\n        return False\n
+###
+2807182
+def big_even(a, b):\n    if a>b and a%2 == 0:\n        return True\n    elif b>a and b%2 == 0:\n        return True\n    else:\n    	return False\n
+###
+2805045
+def big_even(a, b):\n    if a>b and a%2 == 0 or b>a and b%2 == 0:\n        print("True", end="")\n    else:\n        print("False", end="")\n    return print\n
+def big_even(a, b):\n    if a>b and a%2 == 0 or b>a and b%2 == 0:\n        print("True", end="")\n    else:\n        print("False", end="")\n    return print\n
+def big_even(a, b):\n    if a>b and a%2 == 0 or b>a and b%2 == 0:\n        print(True)\n    else:\n        print(False)\n    return print(end="")
+###
+2883175
+def big_even(a, b):\n    if a>b and a % 2==0 or b>a and b % 2==0:\n    	return True\n    else:\n        return False\n
+###
+2882572
+def big_even(a, b):\n    c=0\n    if a>b:\n        c=a\n    else:\n        c=b\n    \n    if c%2==0:\n        return True\n    else:\n        return False\n    	\n
+###
+2855294
+def big_even(a, b):\n    if a>b:\n        if a %2==0:\n            print("True")\n        else:\n            print("False")\n    if b>a:\n        if a %2==0:\n            print("True")\n        else:\n            print("False")\n\n
+def big_even(a, b):\n    if a>b:\n        if a %2==0:\n            print("True")\n        else:\n            print("False")\n    if b>a:\n        if a %2==0:\n            print("True")\n        else:\n            return False\n\n
+###
+2922684
+def big_even(a, b):\n    if(a>b):\n        if(a%2==0):\n    		return True\n        else:\n            return False\n    else:\n        if(b%2==0):\n            return True\n        else:\n            return False\n
+###
+2924281
+def big_even(a, b):\n    if a>b:\n        if a % 2 == 0:\n        	return True\n        else:\n            return False\n    else:\n        if b % 2 == 0:\n            return True\n        else:\n            return False\n
+###
+2933730
+def big_even(a, b):\n    if(max(a,b)%2==0):\n        return True\n    else:\n        return False\n
+###
+2935008
+def big_even(a, b):\n    if a < b:\n        if b % 2 == 0:\n        	return True\n        else:\n        	return False\n    else:\n        if a % 2 == 0:\n            return True\n        else:\n            return False\n
+###
+2939266
+def big_even(a, b):\n    if (a > b and a%2==0 or b < a and b%2==0):\n    	return True\n    else:\n        return False\n
+###
+2849133
+def big_even(a, b):\n    if ((a > b) and (a % 2 == 0)) or ((a < b) and (b % 2 == 0)):\n        return True\n    else:\n        return False\n
+###
+2964823
+def big_even(a, b):\n    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)\n
+###
+2945481
+def big_even(a, b):\n   if a > b:\n       if a % 2 == 0:\n   	       return True\n       else:\n           return False\n   else:\n       if b % 2 == 0:\n           return True\n       return False\n
+###
+2970482
+def big_even(a, b):\n    if(a>b):\n        if(a%2==0):\n            return True\n        else:\n            return False\n    if(a<b):\n        if(b%2==0):\n            return True\n        else:\n            return False\n
+###
+2969431
+def big_even(a, b):\n   if a > b  and a % 2== 0 or a<b and b %2 == 0:\n        return True	\n   else: \n    	return False\n
+###
+2994452
+def big_even(a, b):\n    if a>b:\n        if a%2==0:\n            return True\n        else: \n            return False\n    else:\n        if b%2==0:\n            return True\n        else: \n            return False\n	\n
+###
+3010469
+def big_even(a, b):\n    return False\n
+###
+3031218
+def big_even(a, b):\n    return max(a,b) % 2 == 0\n
+###
+2803041
+def big_even(a, b):\n	if b < a:\n		if a%2==0:\n			return True\n		else:\n			return False\n	elif b > a:\n		if b%2==0:\n			return True\n		else:\n			return False
+###
+3042251
+def big_even(a, b):\n    if max(a, b) % 2 == 0:\n        return True\n    return False\n
+###

@@ -1,0 +1,24 @@
+2809764
+def big_frame(word_list):
+    print ((longest_len(word_list)+2)*"+")
+    for word in word_list:
+        print("+"+word+(longest_len(word_list)-len(word))*" "+"+")
+    print((longest_len(word_list) + 2)*"+")
+
+
+def longest_len(list):
+    longest=0
+    for word in list:
+        if len(word)>longest:
+            longest=len(word)
+    return longest
+
+2804190
+def big_frame(word_list):
+    max_len = max([len(x) for x in word_list])
+    
+    print((max_len + 2) * "+")
+    for x in word_list:
+        print("+" + x + (max_len - len(x)) * " " + "+")
+    print((max_len + 2) * "+")
+

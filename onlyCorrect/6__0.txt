@@ -1,0 +1,57 @@
+def nonzero_product(numbers):
+    r=1
+    for i in numbers:
+        if i!=0:
+            r*=i
+    return r
+
+def nonzero_product(numbers):
+    
+    sum = 1
+    for num in numbers:
+        if num != 0:
+            sum = sum * num
+    
+    
+    return sum
+
+def nonzero_product(numbers):
+    result = 1
+    for i in numbers:
+        if i != 0:
+            result = result * i
+    return result
+
+def nonzero_product(numbers):
+    soucin=1
+    for i in numbers:
+        if i!=0:
+            soucin=soucin*i
+    return soucin
+
+def nonzero_product(numbers):
+    s=1
+    for i in numbers:
+        if i!=0: s=s*i
+    return(s)
+            
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i != 0:
+            x *= i
+    return x
+
+def nonzero_product(numbers):
+    s = 1
+    for x in numbers:
+        if x != 0:
+            s *= x
+    return s
+
+def nonzero_product(numbers):
+    product = 1
+    for x in numbers:
+        if x!=0:
+            product*=x
+    return product

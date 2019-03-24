@@ -1,0 +1,338 @@
+2126139
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+2128782
+def nonzero_product(numbers):
+    r=1
+    for i in numbers:
+        if i!=0:
+            r*=i
+    return r
+
+2140841
+def nonzero_product(numbers):
+    sum = 1
+    for i in numbers:
+        if i != 0:
+            sum = sum * i;
+    return sum
+2160532
+def nonzero_product(numbers):
+    kontrola = 0
+    vysledek = 1
+    for prvek in numbers:
+        if prvek != 0:
+            vysledek = vysledek * prvek
+            kontrola = kontrola + 1
+        if kontrola == 0:
+            vysledek = 0
+    return vysledek
+  
+
+
+def nonzero_product(numbers):
+    kontrola = 0
+    vysledek = 1
+    for prvek in numbers:
+        if prvek != 0:
+            vysledek = vysledek * prvek
+            kontrola = kontrola + 1
+        if kontrola == 0:
+            vysledek = 0
+    return vysledek
+  
+
+
+2163758
+def nonzero_product(numbers):
+    vysledek=1
+    kontrola=0
+    for prvek in numbers:
+        if prvek!=0:
+        	vysledek=vysledek * prvek
+        	kontrola=kontrola+1
+    if kontrola==0:
+        vyledek=0
+    return vysledek    
+
+2164068
+def nonzero_product(list):
+  kontrola = 0
+  vysledek = 1
+  for prvek in list:
+    if prvek != 0:
+      vysledek = vysledek * prvek
+      kontrola = kontrola + 1
+  if kontrola == 0:
+    vysledek = 0
+  return vysledek
+2165896
+def nonzero_product(numbers):
+    kontrola=0
+    vysledek=1
+    for i in numbers:
+        if i!=0:
+            vysledek= vysledek * i
+            kontrola= kontrola+1
+        if kontrola==0:
+            vysledek=0
+    return (vysledek)        
+
+2166195
+def nonzero_product(numbers):
+    vysledek=1
+    kontrola=0
+    for i in numbers:
+        if i!=0:
+            vysledek=vysledek*i
+            kontrola=kontrola+1
+        if kontrola==0:
+            vysledek=0
+    return vysledek        
+
+def nonzero_product(numbers):
+    vysledek=1
+    kontrola=0
+    for i in numbers:
+        if i!=0:
+            vysledek=vysledek*i
+            kontrola=kontrola+1
+        if kontrola==0:
+            vysledek=0
+            
+    return vysledek        
+
+2095775
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+2168934
+def nonzero_product(numbers):
+    
+    sum = 1
+    for number in numbers:
+        if number == 0:
+        	continue
+        else:
+    		sum = sum * number
+        
+    return sum
+
+def nonzero_product(numbers):
+    
+    sum = 1
+    for num in numbers:
+        if num != 0:
+            sum = sum * num
+    
+    
+    return sum
+
+2180137
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 144
+
+2121562
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+def nonzero_product(numbers):
+    return 0
+
+2231327
+def nonzero_product(numbers):
+    return 0
+
+2369646
+def nonzero_product(numbers):
+    result = 1
+    for i in numbers:
+        if i != 0:
+            result = result * i
+    return result
+
+2437820
+def nonzero_product(numbers):
+    soucin=1
+    for i in numbers:
+        if i!=0:
+            soucin=soucin*i
+    return soucin
+
+2439201
+def nonzero_product(numbers):
+    cislo = 1
+    for x in numbers:
+        cislo = cislo * x         
+    return cislo
+
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    cislo = 1
+    for x in numbers:
+        if x>0:
+			seznam.append(x)
+        cislo = cislo * x  
+    			return cislo
+def nonzero_product(numbers):
+    seznam = []
+    for x in numbers:
+        if x!=0:
+			seznam.append(x)
+    cislo = 1
+    for i in seznam:
+        cislo = cislo * i
+    return cislo
+
+2648081
+def nonzero_product(numbers):
+    s=1
+    for i in numbers:
+        if i!=0: s=s*i
+    return(s)
+            
+2807646
+def nonzero_product(numbers):
+    for i in range(numbers.count(0)):
+        index = numbers.index(0)
+        numbers[index],numbers[len(numbers)-1] = numbers[len(numbers)-1],numbers[index]
+        numbers.pop()
+    if(len(numbers) in [0,1]):
+        return False
+    product = numbers[0] * numbers[1]
+    numbers.pop(0)
+    numbers.pop(0)
+    for i in range(len(numbers)):
+        product *= numbers[i]
+    return product
+2809764
+def nonzero_product(numbers):
+    product = 1
+    for x in numbers:
+        if x!=0:
+            product*=x
+    return product
+2817570
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if numbers[i] != 0:
+            x *= i
+    return x
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i != 0:
+            x *= i
+    return x
+
+2804190
+def nonzero_product(numbers):
+    s = 1
+    for x in numbers:
+        if x != 0:
+            s *= x
+    return s
+
+2971414
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+

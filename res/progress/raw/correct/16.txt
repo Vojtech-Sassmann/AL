@@ -1,0 +1,24 @@
+1111
+def max_pair_sum(num_list):\n k= 0\n t =[]\n for i in num_list:\n  k = k +i\n  t.append(k)\n  k=i\n return(max(t))\n\n
+###
+1111
+def max_pair_sum(num_list):\n k= 0\n t =[]\n for i in num_list:\n  k = k +i\n  t.append(k)\n  k=i\n return(max(t))\n
+###
+1111
+def max_pair_sum(num_list):\n    \n    sum = 0\n    i = 0\n        \n    while i < len(num_list)-1:\n        \n        docasna = num_list[i] + num_list[i+1]\n        \n        if docasna > sum:\n        	sum = docasna\n        \n        i += 1\n        \n    return sum\n
+###
+1111
+def max_pair_sum(num_list):\n    curMax = 0\n    for i in range(len(num_list) - 1):\n        if num_list[i] + num_list[i+1] > curMax:\n            curMax = num_list[i] + num_list[i+1]\n    return curMax\n
+###
+1111
+def max_pair_sum(num):\n    max=num[0]+num[1]\n    for i in range(1,len(num)):\n        if (num[i]+num[i-1])>max:\n            max=num[i]+num[i-1]\n    return max\n
+###
+1111
+def max_pair_sum(num_list):\n    s=[]\n    for i in range(len(num_list)):\n        if i!=0: s.append(num_list[i-1]+num_list[i])\n    s.sort()\n    return(s[len(s)-1])\n
+###
+1111
+def max_pair_sum(num_list):\n    nList = []\n    for i in range (len (num_list)-1):\n        nList.append (num_list[i] + num_list[i+1])\n    return max(nList)\n
+###
+1111
+def max_pair_sum(num_list):\n    sums=0\n    for i in range(1,len(num_list)):\n        if sums < (num_list[i]+num_list[i-1]):\n            sums = (num_list[i] + num_list[i-1])\n\n    return sums\n\n
+###

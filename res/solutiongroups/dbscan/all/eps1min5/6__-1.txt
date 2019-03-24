@@ -1,0 +1,92 @@
+def nonzero_product(numbers):
+    vysledek=1
+    kontrola=0
+    for prvek in numbers:
+        if prvek!=0:
+        	vysledek=vysledek * prvek
+        	kontrola=kontrola+1
+    if kontrola==0:
+        vyledek=0
+    return vysledek    
+
+def nonzero_product(list):
+  kontrola = 0
+  vysledek = 1
+  for prvek in list:
+    if prvek != 0:
+      vysledek = vysledek * prvek
+      kontrola = kontrola + 1
+  if kontrola == 0:
+    vysledek = 0
+  return vysledek
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    vysledek=1
+    kontrola=0
+    for prvek in numbers:
+        if prvek!=0:
+        	vysledek=vysledek * prvek
+        	kontrola=kontrola+1
+    if kontrola==0:
+        vyledek=0
+    return vysledek    
+
+def nonzero_product(list):
+  kontrola = 0
+  vysledek = 1
+  for prvek in list:
+    if prvek != 0:
+      vysledek = vysledek * prvek
+      kontrola = kontrola + 1
+  if kontrola == 0:
+    vysledek = 0
+  return vysledek
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+

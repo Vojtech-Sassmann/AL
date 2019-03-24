@@ -1,0 +1,176 @@
+2439201
+def magic_test(tears, horns, tails):
+    if ((tears <= 3) and (horns <= 3) and (tails <= 3)):
+        return False
+    else:
+        return True
+    return False
+
+def magic_test(tears, horns, tails):
+    if ((tears <= 3) and (horns <= 1) and (tails <= 3)):
+        return False
+    else:
+        return True
+    return False
+
+def magic_test(tears, horns, tails):
+    if ((tears == 3) and (horns == 1) and (tails == 3)):
+        return False
+    else:
+        return True
+    return False
+
+def magic_test(tears, horns, tails):
+    if ((tears <= 3) and (horns <= 1) and (tails <= 3)):
+        return False
+    else:
+        return True
+    return False
+
+12
+def magic_test(tears, horns, tails):
+    return False
+
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1)
+
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or (tails >= 3 and tears >=3)
+
+2803324
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tails >= 3 and tears >= 3):
+        return True
+    return False
+
+2802909
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+    	return True
+    else:
+        return False
+
+2809764
+def magic_test(tears, horns, tails):
+    if tears>4 and horns>0:
+        return True
+    if tails>2 and tears>2:
+        return True
+    else: return False
+
+2818450
+def magic_test(tears, horns, tails):
+    if tails>2:
+        if tears>2:
+            return True
+        else:
+            return False
+    else:
+        if horns>0:
+            if tears>4:
+                return True
+            else:
+                return False
+        else:
+            return False
+
+2819583
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >=1) or (tears >= 3 and tails >=3):
+        return True
+    else:
+        return False
+
+
+2846634
+def magic_test(tears, horns, tails):
+    return (tears>=5 and horns>=1) or (tears>=3 and tails>=3) 
+
+2812655
+def magic_test(tears, horns, tails):
+    if((tears >= 5 and horns >= 1) or (tears >= 5 and tails >= 3)):
+    	return True
+    else:
+    	return False
+
+2849133
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+        return True
+    else:
+    	return False
+
+2964823
+def magic_test(tears, horns, tails):
+    return (tears == 4 and horns == 3 and tails == 3)
+
+def magic_test(tears, horns, tails):
+    return (tears == 10 and horns == 10 and tails == 10)
+
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or( tears >= 3 and tails >=3)
+
+2994452
+def magic_test(tears, horns, tails):
+    if tears>4 and horns>0:
+    	return True
+    elif tears>=3 and tails>2:
+        return True
+    else:
+        return False
+
+3042251
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+        return True
+    return False
+
+2940162
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+        return True
+    else:
+        return False
+
+3051637
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+    	return True
+	
+def magic_test(tears, horns, tails):
+    if (tears >= 5 and horns >= 1) or (tears >= 3 and tails >= 3):
+    	return True
+    else:
+        return False
+	
+3053960
+def magic_test(tears, horns, tails):
+    return False
+
+def magic_test(tears, horns, tails):
+    return False
+
+2856252
+def magic_test(tears, horns, tails):
+    if (tears == 5 and horns == 1) or (horns == 0 and tails == 3 and and tears>2):
+        return True
+    else:
+    	return False
+
+def magic_test(tears, horns, tails):
+    if (tears == 5 and horns == 1) or (horns == 0 and tails > 2) or horns > 0 and tears>2:
+        return True
+    else:
+    	return False
+
+def magic_test(tears, horns, tails):
+    if (tears == 5 and horns > 0):
+        return True
+    return False
+
+def magic_test(tears, horns, tails):
+    if (tears == 5 and horns > 0) or (horns == 0 and tails > 2 and tears>2) :
+        return True
+    else:
+    	return False
+

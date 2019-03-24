@@ -1,0 +1,18 @@
+1111
+def make_fancy(text, n):\n    delka = len(text)\n    index = 0\n    mezera = 0\n    while index < delka:\n        print (" " * (mezera), end = "")\n        for i in range(n):\n          print (text[index], end = " ")\n        print()\n        mezera = mezera + 1\n        index = index + 1
+###
+1111
+def make_fancy(text, n):\n    for i,a in enumerate(text):\n    	print(" "*i, (a+" ")*n)\n
+###
+1111
+def make_fancy(text, n):\n    for i, letter in enumerate(text):\n        print(" "*i + letter + (" "+letter)*(n-1))\n
+###
+1111
+def make_fancy(text, n):\n	for i in range(len(text)):\n		print(i*" "+n*(text[i]+" "))\n
+###
+1111
+def make_fancy(text, n):\n    for i, letter in enumerate(text):\n    	print(" "*i + text[i] + (" "+text[i])*(n-1))\n
+###
+1111
+def make_fancy(text, n):\n    for i in range (len(text)):\n        print(i*" ",end="")\n        print (n*(text[i]+" "))\n
+###

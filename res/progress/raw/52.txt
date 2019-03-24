@@ -1,0 +1,568 @@
+1792769
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+1727203
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin", n*7*24)\n    print("Pocet minut", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2126139
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet hodin:", n*24*60*7)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut:", n*24*60*7)\n
+###
+2102516
+def weeks(n):\n    print("Pocet dnu:", 6*7)\n    print("Pocet hodin:", 6*7*24)\n    print("Pocet minut:", 6*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2081667
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n    
+###
+2065612
+def weeks(n):\n    print("Pocet dnu:", 42)\n    print("Pocet hodin", 42*24)\n    print("Pocet minut", 42*24*60)
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 7*24)\n    print("Pocet minut", 7*24*60)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 168*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n	print("Pocet hodin", 7*24*n)\n	print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n	print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 168*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 7*24*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 7*24*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin", 7*24*n)\n    print("Pocet minut", 7*24*60*n)
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*24*n)\n    print("Pocet minut:", 7*24*60*n)
+###
+2128782
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2144341
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*n*24)\n    print("Pocet minut:", 7*n*24*60)\n
+###
+2147454
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2057798
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+###
+359265
+def weeks(n):\n    print("Pocet dnu:", 42)\n    print("pocet hodin:", 1008)\n    print("pocet minut:", 60480)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("pocet minut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2162341
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet dnu:", n * 7 * 24)\n    print("Pocet dnu:", n * 7 * 24 * 60)\n
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n
+###
+2097497
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)
+def weeks(n):\n	print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:",n*10080)
+def weeks(n):\n	print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:",n*10080)
+def weeks(n):\n	print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:",n*10080)
+def weeks(n):\n	print("Pocet dnu:",n)\n    print("Pocet hodin:",n)\n    print("Pocet minut:",n)
+def weeks(n):\n	print("Pocet dnu:")\n    print("Pocet hodin:")\n    print("Pocet minut:")
+def weeks(n):\n	print("Pocet dnu:", n)\n    print("Pocet hodin:")\n    print("Pocet minut:")
+def weeks(n):\n	print("Pocet dnu:", n*7)\n    print("Pocet hodin:")\n    print("Pocet minut:")
+def weeks(n):\n	print("Pocet dnu:", n**7)\n    print("Pocet hodin:")\n    print("Pocet minut:")
+###
+2174282
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2062967
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+###
+2179992
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+1814200
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 24*7*n)\n    print("Pocet minut:", 60*24*7*n)\n
+###
+2273334
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet dnu:", n*7*24)\n    print("Pocet dnu:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2026013
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet dnu:", n*10080)\n    return\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet dnu:", n*10080)\n    return\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet dnu:", n*10080)\n    return\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet dnu:", n*10080)\n    return\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 168*n)\n    print("Pocet minut:", 10080*n)
+###
+372834
+def weeks(n):\n    print("Pocet dnu:", 6*7)\n    print("Pocet hodin:", 42*24)\n    print("Pocet minut:", 1008*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60)\n
+def weeks(n):\n    print("Pocet dnu:", 1*7)\n    print("Pocet hodin:", 7*24)\n    print("Pocet minut:", 168*60)\n
+###
+2326755
+def weeks(n):\n    dny = n * 7\n    hodiny = dny * 24\n    minuty = hodiny * 60\n    print("Pocet dnu:", dny)\n    print("Pocet hodin:", hodiny)\n    print("Pocet minut:", minuty)\n
+###
+2367501
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n   
+###
+2379408
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2366858
+def weeks(n):\n    print("Pocet dnu:", n*7)\ndef hodin(j):    \n    print("Pocet hodin:", n)\ndef minut(k):\n    print("pocet minut:", n) 
+###
+2390474
+def weeks(n):bbcbnm,b,hcvz \n    print("Pocet dnu:", 0)\n
+def weeks(n):bbcbnm,b,hcvz \n    print("Pocet dnu:", 0)\n
+###
+2413063
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+675989
+def weeks(n):\n	print("Pocet dnu:", 7*n)\n	print("Pocet hodin:", 168*n)\n	print("Pocet minut:", 10080*n)
+###
+2430309
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2439201
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:", (n*7)*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet munut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2453773
+def weeks(n):\n    print("Pocet dnu:", 0)\n
+def weeks(n):\n    print("Pocet dnu:", 0)\n
+def weeks(n):\n    print("Pocet dnu:", 0)\n
+###
+2552001
+def weeks(n):\n    pocetDnu = n * 7\n    pocetHodin = pocetDnu * 24\n    pocetMinut = pocetHodin * 60\n    print("Pocet dnu:", pocetDnu)\n    print("Pocet hodin:", pocetHodin)\n    print("Pocet minut:", pocetMinut)\n
+###
+2648081
+def weeks(n):\n    print("Pocet dnu:",7*n)\n    print("Pocet hodin:",7*n*24)\n    print("Pocet minut:",7*n*24*60)\n
+###
+2701808
+def weeks(n):\n    print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2764989
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2764976
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut:", n*24*7*60)
+###
+2764973
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2765037
+def weeks(n):\n    n = 42\n    print("Pocet dnu:", n)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*60*24)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)
+###
+2765043
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2765034
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("pocet minut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("pocet minut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2773019
+def weeks(n):\n    print("Pocet dnu:", 0)\n
+###
+2769441
+def weeks(n):\n    weeks = 6\n    print("Pocet dnu:", weeks*7)\n    print("Pocet hodin:", weeks*168)\n    print("Pocet minut:", weeks*10080)
+def weeks(n):\n    weeks = 6\n    print("Pocet dnu:", weeks*7)\n    print("Pocet hodin:", weeks*168)\n    print("Pocet minut:", weeks*10080)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)
+###
+2803324
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2802244
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n    \n
+###
+2802909
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n    \n
+###
+2805245
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n
+###
+2807150
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2809298
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*n*24)\n    print("Pocet minut", 7*n*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*n*24)\n    print("Pocet minut:", 7*n*24*60)\n
+###
+2802916
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2810888
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2809764
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2811385
+def weeks(n):\n    days = n * 7\n    hours = days * 24\n    minutes = hours * 60\n    print("Pocet dnu:", days)\n    print("Pocet hodin:", hours)\n    print("Pocet minut:", minutes)\n
+###
+2805670
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2802162
+def weeks(n):\n    days = n*7\n    hours = days*24\n    minutes = hours*60\n    print ("Pocet dnu:", days)\n    print ("Pocet hodin:", hours)\n    print ("Pocet minut:", minutes)\n
+###
+2805048
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2806881
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*24*7)\n    print("Pocet minut:", n*60*24*7)\n
+###
+2813254
+def weeks(n):\n    den_p = n * 7\n    hodin_p = den_p * 24\n    minut_p = hodin_p * 60\n    print("Pocet dnu:", den_p)\n    print("Pocet hodin", hodin_p)\n    print("Pocet minut", minut_p)\n
+def weeks(n):\n    den_p = n * 7\n    hodin_p = den_p * 24\n    minut_p = hodin_p * 60\n    print("Pocet dnu:", den_p)\n    print("Pocet hodin", hodin_p)\n    print("Pocet minut", minut_p)\n
+def weeks(n):\n    den_p = n * 7\n    hodin_p = den_p * 24\n    minut_p = hodin_p * 60\n    print("Pocet dnu:", den_p)\n    print("Pocet hodin", hodin_p)\n    print("Pocet minut", minut_p)\n
+def weeks(n):\n    den_p = n * 7\n    hodin_p = den_p * 24\n    minut_p = hodin_p * 60\n    print("Pocet dnu:", den_p)\n    print("Pocet hodin", hodin_p)\n    print("Pocet minut", minut_p)\n
+def weeks(n):\n    den_p = n * 7\n    hodin_p = den_p * 24\n    minut_p = hodin_p * 60\n    print("Pocet dnu:", den_p)\n    print("Pocet hodin:", hodin_p)\n    print("Pocet minut:", minut_p)\n
+###
+2805080
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet dnu:", n*7*24)\n    print("Pocet dnu:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2805410
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2810636
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2804002
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2807171
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2813265
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2802894
+def weeks(n):\n    print(n*7, (n*7)*24, ((n*7)*24)*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*(7*24))\n	print("Pocet minut:",(n)
+def weeks(n):\n   	print("Pocet dnu:",n*7),\n   	print("Pocet hodin:",n*7*24),\n   	print("Pocet minut:",n*7*24*60)
+###
+2805335
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",(n*7)*24)\n    print("Pocet minut:",(n*7)*24*60)
+###
+2805831
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*60)\n    print("Pocet minut:", n*7*3600)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2802247
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2818450
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print('Pocet hodin:', n*7*24)\n    print('Pocet minut:', n*7*24*60)\n
+###
+2819660
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+###
+2819643
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2819583
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2819521
+def weeks(n):\n    d=n*7\n    print("Pocet dnu:", d)\n    h=d*24\n    print("Pocet dnu:", h)\n    m=h*60\n    print("Pocet dnu:", m)\n
+def weeks(n):\n    d=n*7\n    print("Pocet dnu:", d)\n    h=d*24\n    print("Pocet hodin:", h)\n    m=h*60\n    print("Pocet minut:", m)\n
+###
+2825431
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2802203
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2826866
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*168*60)\n
+###
+2806944
+def weeks(n):\n    z=(n*7)\n    x=(z*24)\n    print("Pocet dnu:", z)\n    print("Pocet hodin:", x)\n    print("Pocet minut:", x*60)\n	
+###
+2828797
+def weeks(n):\n	print("Pocet dnu:", n*7)\n	print("Pocet hodin:", n*168)\n	print("Pocet minut:", n*10080)\n
+###
+2829028
+def weeks(n):\n    n=n*7;\n    print("Pocet dnu:", n);\n    n=n*24;\n    print("Pocet hodin:", n);\n    n=n*60;\n    print("Pocet minut:", n);
+###
+2809748
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2809440
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+###
+2802642
+def weeks(n):\n    days=n*7\n    hours=days*24\n    minuts=hours*60\n    print("Pocet dnu:", days)\n    print("Pocet dnu:", hours)\n    print("Pocet dnu:", minuts)\n
+def weeks(n):\n    days=n*7\n    hours=days*24\n    minuts=hours*60\n    print("Pocet dnu:", days)\n    print("Pocet hodin:", hours)\n    print("Pocet minut:", minuts)\n
+###
+2835101
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2849628
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:", n*7*24*60)
+###
+2803849
+def weeks(n):\n    m=n*7\n    print("Pocet dnu:", m)\n    b=m*24\n    print("Pocet hodin:", b)\n    v=b*60\n    print("Pocet minut:", v)\n
+###
+2806059
+def weeks(n):\n    print("Pocet dnu:",n)\n    print("Pocet hodin:",n*24)\n    print("Pocet minut:",n*24*60)\n\n
+def weeks(n):\n    print("Pocet dnu:", n)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*24*60)\n\n
+def weeks(n):\n    print("Pocet dnu:", n)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*24*60)\n\n
+def weeks(n):\n    print("Pocet dnu:", n)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*(24*60))\n\n
+def weeks(n):\n    print("Pocet dnu:", n)\n    print("Pocet hodin:", n*24)\n    print("Pocet minut:", n*1440)\n\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)
+###
+2827315
+def weeks(n):\n    days = n * 7\n    print("Pocet dnu:", days)\n    hours = days * 24\n    print("Pocet hodin:", hours)\n    minutes = hours * 60\n    print("Pocet minut:", minutes)\n\n
+###
+2852348
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:" , n*7*24)\n    print("Pocet minut:" , n*7*24*60)\n
+###
+2806647
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet dnu:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet dnu:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2857905
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*60)\n    print("Pocet minut:", n*7*60*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*60)\n    print("Pocet minut:", n*7*60*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2807182
+def weeks(n):\n    days = n*7\n    hours = days*24\n    minutes = hours*60\n    print("Pocet dnu:", days)\n    print("Pocet hodin:", hours)\n    print("Pocet minut:", minutes)\n    \n
+###
+2805045
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+###
+2803292
+def weeks(n):\n    days = 7 * n\n    hours = days * 24\n    minutes = hours * 60\n    print("Pocet dnu:", days)\n    print("Pocet hodin:", hours)\n    print("Pocet minut:", minutes)\n
+###
+2817570
+def weeks(n):\n    print("Pocet dnu:", n*7)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print ("Pocet hodin", n*7*24)\n    print("Pocet minut", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print ("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2803836
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*1080)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2879870
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet hodin:",n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2883175
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2882572
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+###
+2804190
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n
+###
+2855294
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin",  (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:",((n*7)*24)*60)\n
+###
+2917717
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2810855
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2805625
+def weeks(n):\n    print("Pocet dnu:", n*7)\n	print("Pocet hodin:", n*7)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n	print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    d=n*7\n	print("Pocet hodin:", d*24)\n    m=d*60\n    print("Pocet minut:",m)
+d = n * 7\nm=d*60\ndef weeks(n):\n    print("Pocet dnu:", n*7)\n	print("Pocet hodin:", d * 24)\n    print("Pocet minut:",m)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut)", n*24*7*60)\n    \n    \n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut)", n*24*7*60)\n    \n    \n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut", n*24*7*60)\n    \n    \n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut", n*24*7*60)\n    \n    \n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut:", n*24*7*60)\n    \n    \n
+###
+2922684
+def weeks(n):\n    print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2925067
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2924281
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n *7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2926078
+def weeks(n):\n    print("Pocet dnu: ", n*7, "\nPocet hodin: ", n*7*24, "\nPocet minut: ", n*7*24*60, sep='')\n
+###
+2928683
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*90)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2876299
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*168*60)\n
+###
+2934866
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2884168
+def weeks(n):\n    print("Pocet dnu:" ,n*7)\n    print("Pocet hodin:" ,n*7*24)\n    print("Pocet minut:" ,n*7*24*60)
+###
+2920927
+def weeks(n):\n    a= n*7\n    b= a*24\n    c= b*60\n    print("Pocet dnu:", a)\n    print("Pocet hodin:", b)\n    print("Pocet minut:", c)\n
+###
+2944662
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2818225
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n	
+###
+2806067
+n = 6\nd = n * 7\nh = n * 168\nm = h * 60\ndef weeks(n):\n    print("Pocet dnu:", d)\n    print("Pocet hodin", h)\n    print("Pocet minut", m)\n
+n = 1\nd = n * 7\nh = n * 168\nm = h * 60\ndef weeks(n):\n    print("Pocet dnu:", d)\n    print("Pocet hodin:", h)\n    print("Pocet minut:", m)\n
+n = 3\nd = n * 7\nh = n * 168\nm = h * 60\n\ndef weeks(n):\n    print("Pocet dnu:", d)\n    print("Pocet hodin:", h)\n    print("Pocet minut:", m)\n
+n = 1\n\ndef weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 168)\n    print("Pocet minut:", n * 10080)\n
+###
+2849133
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("pocet minut:", n*7*24*60)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2817070
+def weeks(n):\n    print("Pocet dnu:", 7 * n)\n    print("Pocet hodin:", 7 * 24 * n)\n    print("Pocet minut:", 7 * 24 * 60 * n)\n
+###
+2811019
+def weeks(n):\n    print("Pocet dnu:", n * 7)\n    print("Pocet hodin:", n * 7 * 24)\n    print("Pocet minut:", n * 7 * 24 * 60)\n
+###
+2924329
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut:", n*60*24*7)\n
+###
+2964823
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*n*24)\n    print("Pocet minut:", 7*n*24*60)
+###
+2936556
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:", n*10080)\n
+###
+2970482
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2988877
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2851539
+def weeks(n):\n    print("Pocet dnu:", 7 * n)\n    print("Pocet hodin:", 7 * 24 * n)\n    print("Pocet sekund:", 7 * 24 * 60 * n)\n
+def weeks(n):\n    days = 7 * n\n    hours = 24 * days\n    seconds = 60 * hours\n    print("Pocet dnu:",days )\n    print("Pocet hodin:",hours )\n    print("Pocet sekund:",seconds )\n
+def weeks(n):\n    days = 7 * n\n    hours = 24 * days\n    seconds = 60 * hours\n    print("Pocet dnu:",days)\n    print("Pocet hodin:",hours)\n    print("Pocet sekund:",seconds)\n
+def weeks(n):\n    days = 7 * n\n    hours = 24 * days\n    seconds = 60 * hours\n    print("Pocet dnu:",days)\n    print("Pocet hodin:",hours)\n    print("Pocet sekund:",seconds)\n
+def weeks(n):\n    days = 7 * n\n    hours = 24 * days\n    minutes = 60 * hours\n    print("Pocet dnu:",days)\n    print("Pocet hodin:",hours)\n    print("Pocet minut:",minutes)\n
+###
+2809071
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2994452
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2806125
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*24*n)\n    print("Pocet minut:", 7*24*60*n)\n
+###
+2091959
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+###
+2091956
+def weeks(n):\n    print("Pocet dnu:", 42)\n    print("Pocet hodin:", 1008)\n    print("Pocet minut:", 60480)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin:", 168)\n    print("Pocet minut:", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 168*n)\n    print("Pocet minut:", 10080*n)\n
+###
+2933140
+def weeks(n):\n    print("Pocet dnu:", 42)\n    print("Pocet dnu:", 1008)\n    print("Pocet dnu:", 60480)\n\n\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet dnu:", 168)\n    print("Pocet dnu:", 10080)\n\n\n
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet dnu:", 168*n)\n    print("Pocet dnu:", 10080*n)\n\n\n
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 168*n)\n    print("Pocet minut:", 10080*n)\n\n\n
+###
+2091985
+def weeks(n):\n    print("Pocet dnu:" ,42)\n    print("Pocet hodin:" ,1008)\n    print("Pocet minut:" ,60480)\n
+def weeks(n):\n    print("Pocet dnu:" ,42)\n    print("Pocet hodin:" ,1008)\n    print("Pocet minut:" ,60480)\n
+def weeks(n):\n    print("Pocet dnu:" ,n*7)\n    print("Pocet hodin:" ,n*7*24)\n    print("Pocet minut:" ,n*7*24*60)\n
+###
+2933157
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:",n*168)\n    print("Pocet minut:",n*10080)\n
+###
+2933126
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:",24*n*7)\n    print("Pocet minut:",n*60*24*7)     \n          \n
+###
+2091960
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*168)\n    print("Pocet minut:", n*10080)\n
+###
+2933130
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("pocet hodin:",168)\n    print("pocet minut:",10080)
+def weeks(n):\n    print("Pocet dnu:",7)\n    print("pocet hodin:",168)\n    print("pocet minut:",10080)
+def weeks(n):\n    print("Pocet dnu:",7*n)\n    print("pocet hodin:",168)\n    print("pocet minut:",10080)
+def weeks(n):\n    print("Pocet dnu:",7*n)\n    print("pocet hodin:",168*n)\n    print("pocet minut:",10080*n)
+def weeks(n):\n    print("Pocet dnu:",7*n)\n    print("Pocet hodin:",168*n)\n    print("Pocet minut:",10080*n)
+###
+2091978
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", (n*7)*24)\n    print("Pocet minut:", ((n*7)*24)*60)\n
+###
+2091957
+def weeks(n):\n    print("Pocet dnu:", 42)\n    print("Pocet hodin", 1008)\n    print("Pocet minut", 60480)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+def weeks(n):\n    print("Pocet dnu:", 7)\n    print("Pocet hodin", 168)\n    print("Pocet minut", 10080)\n
+###
+2934881
+def weeks(n):\n    print("Pocet dnu:",7*n)\n    print("Pocet hodin:",24*7*n)\n    print("Pocet minut:",24*7*60*n)\n
+###
+2934888
+def weeks(n):\n    print("Pocet dnu:",n*7)\n    print("Pocet hodin:",n*7*24)\n    print("Pocet minut:",n*7*24*60)\n
+###
+2934889
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2199617
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2843178
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*24*7)\n    print("Pocet minut:", n*60*24*7)\n
+###
+2803041
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+3042251
+def weeks(n):\n    print("Pocet dnu:", n*7)\n	print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+2940162
+def weeks(n):\n    den = n * 7\n    hodiny = den * 24\n    minuty = hodiny * 60\n    \n    \n    print("Pocet dnu:", den)\n    print("Pocet hodin:", hodiny)\n    print("Pocet minut:", minuty)\n
+###
+3051637
+def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*n*24)\n    print("Pocet minut:", 7*n*24*60)\n\n
+###
+2856252
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+###
+3071796
+def weeks(n):\n    den = n * 7\n    hodin = den*24\n    minut = hodin * 60\n    print("Pocet dnu:", den)\n    print("Pocet hodin:", hodin)\n    print("Pocet minut:", minut)\n
+###

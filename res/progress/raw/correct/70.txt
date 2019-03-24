@@ -1,0 +1,24 @@
+1111
+def frame(text, symbol):\n    row = symbol *(len(text)+2) +"\n"\n    print( row\n          +symbol +text +symbol +"\n"\n          +row )\n
+###
+1111
+def frame(text, symbol):\n    dlzka =	len(text) + 2\n    new = symbol+text+symbol\n    print(dlzka*symbol)\n    print(str(new))\n    print(dlzka*symbol)\n
+###
+1111
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)\n
+###
+1111
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)\n
+###
+1111
+def frame(text, symbol):\n    sym = (len(text) + 2) * symbol\n    tex = symbol + text + symbol\n    print (sym)\n    print (tex)\n    print (sym)\n	  \n
+###
+1111
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+###
+1111
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+###
+1111
+def frame(text, symbol):\n    \n    char_row(symbol,len(text)+2)\n    print(symbol+text+symbol)\n    char_row(symbol, len(text)+2)\ndef char_row(char,lenght):\n    for i in range (lenght):\n        print(char,end="")\n    print()
+###

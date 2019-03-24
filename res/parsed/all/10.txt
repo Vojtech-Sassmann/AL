@@ -1,0 +1,61 @@
+def pyramid(n):\n    for i in range(1,n*2,2):\n    	print(" "*(n-i+4), end=" ")\n    	for j in range(i):\n    		print("#", end=" ")\n    	print()	\n
+def pyramid(n):\n    for i in range(0,n):\n        for j in range(0,n-i-1):\n            print(" ",end=" ")\n        for j in range(0,2*i+1):\n            print("#", end=" ")\n        print()\n
+def pyramid(n):\n    for i in range(n):\n        for j in range(n-i-1):\n            print(" ", end = " ")\n        for k in range(i*2+1):\n            print("#", end=" ")\n        print()\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	pyramid down\n
+pyramid(n)
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print(10)\n    def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print(10)\n    \n
+pyramid(n)\npyramid(n)
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print("2", end=" ")\n    \n
+("#", end=" ")\n    \n
+def pyramid(9):\n
+\n
+def pyramid(4):\n    for i in range(5):\n        print(1, end=10)\n    print(25)	\n
+def pyramid(1):\n    for i in range(5):\n        print(1, end=10)\n    print(25)	\n
+def pyramid(1):\n    for i in range(5):\n        print(1, end=10)\n    print(25)	\n
+def pyramid(6):\n    for i in range(5):\n        print(1, end=10)\n    print(25)	\n
+def pyramid(6):\n    for i in range(5):\n        print(1, end=10)\n    print(25)	\n
+def pyramid(6):\n    for i in range(5):\n        print(1, end=7)\n    print(25)	\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print(25)	\n
+def pyramid(n):\n    for i in range(n):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(6):\n    for i in range(n):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(n):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n    for i in range(6):\n        print("1", end="11")\n    print(25)	\n
+def pyramid(n):\n        for q in range(n):\n            print((n-q)*"  ", (2*q-1)*"# ", (n-q)*"  ", end = "\n")\n        print(""+(2*n -1)*" #")
+def pyramid(n):\n    a=n-1\n    b=n-1\n    for j in range(n):\n        for i in range(2*n-1):\n            if a<=i<=b:\n                print("#", end=" ")\n            else:\n                print(" ", end=" ")\n        a=a-1\n        b=b+1\n        print()	\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    for i in range(1,n+1):\n        print((n-i)*" ",(2*i-1)*"#"," ")\n\n
+def pyramid(n):\n    for i in range(1,n+1):\n        print((2*n-2*i)*" ",(2*i-1)*" #")\n\n
+def pyramid(n):\n    x=0\n    for i in range(n):\n        for j in range(2*n-1):\n            if j>=(n-x-1) and j<=(n+x-1):\n                print("#", end=" ")\n            else:\n                print(" ", end=" ")        	\n        print("\n",end="")\n        x=x+1\n    print()	\n
+def pyramid(n):\n    for i in range(n):\n        row(n, n-i-1)\n        print()\n\ndef row(height, floor):\n    lenght = height*2 - 1\n    for i in range(lenght):\n        if i < (floor) or i >= (lenght - floor):\n            print(" ", end = " ")\n        else:\n    		print("#", end= " ")	
+def firstLine(n):\n    print(2*(n-1)*" ", end="")\n    print("#", end="")\n    print(2*(n-1)*" ", end="")\n    print()\n\ndef pyramid(n):\n    firstLine(n)\n    for i in range(1,n):\n        print((n-1-i)*"  ", end="")\n        print((2*i+1)*"# ", end=" ")\n        print((n-1-i)*"  ", end="")\n        print()\n
+def pyramid(n):\n    h=1\n    #řadky\n    for i in range (1,n+1):\n        #mezery\n        for j in range (n-i):\n            print(" ", end=" ",)\n            \n        #hashe\n        \n        for k in range(1,h+1):\n            print ("#", end=" ")\n        h+=2  \n        print()\n            
+def pyramid(n):\n    x=n\n    y=1\n    for i in range(n):\n        for i in range(x-1):\n            print(" ",end=" ")\n        for i in range(y):\n            print("#",end=" ")\n        for i in range(x-1):\n            print(" ",end=" ")\n        print()\n        x-=1\n        y+=2\n
+def pyramid(n):\n    s=1\n    p=n*2\n    for i in range(n):\n        print(" "*(p//2) , end="")\n        print("#"*s)\n        s+=2\n        p-=2
+def pyramid(n):\n    s=1\n    q=n\n    p=n*2\n    for i in range(n):\n        print(" "*(p//2) ," "*q , end="")\n        print("# "*s)\n        s+=2\n        p-=2\n        q-=1
+def pyramid(n):\n    for i in range(1, n+1):\n        for j in range(n-i):\n        	print(" ", end=" ")\n        print("# "*(i*2-1))\n    print()	\n
+def pyramid(n):\n	for i in range(n):\n		for j in range(n*2-1):\n			if (j+1 <= (n+(i)) and j+1 >= (n-(i))):\n				print("#", end=" ")\n			else:\n				print(' ', end=' ')\n		print()
+def pyramid(2):\n    for i in range(2):\n        print("#", end=" ")\n    print()	\n
+def pyramid(2):\n    for i in range(2):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    for i in range(n):\n        print(" "*(n-i-1) + "#"*(2*i+1))\n\n    \n
+def pyramid(n,step):\n    for i in range(n,step):\n        print(n*" "+i*"#")\n        \n    print()	\n
+def pyramid(n):\n    n1=1\n    n2=1\n    n3=1\n    for x in range(n):\n        for z in range(n-n1):\n            print(" ",end=" ")\n        for e in range(n2):\n            print("#",end=" ")\n        for a in range(n-n3):\n            print(" ",end=" ")\n            \n        n1+=1\n        n3+=1\n        n2+=2\n        print()
+def pyramid(n):\n    for i in range(n):\n        for j in range(2*(n+2) - 1 + i-1):\n            if i + j > 2 * n:\n                print("#", end=" ")\n            else:\n                print(" ", end=" ")\n        print()\n
+def pyramid(n):\n    for i in range(n):\n        print("#", end=" ")\n    print()	\n
+def pyramid(n):\n    hashtag='#'\n    for i in range(n):\n        print((n-i-1)*(' ')+hashtag*((i*2)+1),end='')\n        print()\n
+def pyramid(n):\n    for i in range(1,n+1):\n        print(' '*(n-i)*2,end='')\n        print('# '*(i+(i-1)), end='    ')\n        print()\n

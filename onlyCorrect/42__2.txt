@@ -1,0 +1,43 @@
+def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+def happy(a, b, c):
+    return (a<3)or(b<3)or(c<3)
+
+def happy(a, b, c):
+    return (a<3 or b<3 or c<3)
+    
+def happy(a, b, c):
+    
+    return (a<3 or b < 3 or c<3)
+
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+def happy(a, b, c):
+    return a<3 or b<3 or c<3
+
+def happy(a, b, c):
+    return ((a<3) or (b<3) or (c<3))
+
+def happy(a, b, c):
+    return(a<3 or b<3 or c<3)
+
+def happy(a, b, c):
+    return a<3 or b<3 or c<3
+
+def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+def happy(a, b, c):
+    return ((a < 3) or (b < 3) or (c < 3))
+
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+

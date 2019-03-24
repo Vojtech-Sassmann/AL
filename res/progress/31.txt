@@ -1,0 +1,101 @@
+2126139
+def find_longest_word(words_list):
+    nejdelsiSlovo = words_list[0]
+    for x in range(len(words_list)):
+        if(len(nejdelsiSlovo) < len(words_list[x])):
+        	nejdelsiSlovo = words_list[x]
+    return nejdelsiSlovo
+
+2160606
+def find_longest_word(words_list):
+    return max(words_list)
+
+2095775
+def find_longest_word(wordlist):
+  longestWord = ""
+  max_len = 0
+
+  for word in wordlist:
+    if len(word) > max_len:
+      max_len = len(word)
+      longestWord = word
+  return longestWord
+2090160
+def find_longest_word(words_list):
+    longest_word = ''
+    for word in words_list:
+        if len(word) > len(longest_word):
+            longest_word = word
+    print (longest_word)      
+
+def find_longest_word(words_list):
+    longest_word = ''
+    for word in words_list:
+        if len(word) > len(longest_word):
+            longest_word = word
+    return longest_word      
+
+2168934
+def find_longest_word(words_list):
+    
+    pocet = 0
+    slovo = ''
+    for word in words_list:
+    	if pocet < len(word):
+			slovo = word
+            
+    return slovo
+
+def find_longest_word(words_list):
+    
+    pocet = 0
+    slovo = ''
+    for word in words_list:
+    	if pocet < len(word):
+			slovo = word
+            
+    return slovo
+
+def find_longest_word(words_list):
+    
+    pocet = 0
+    slovo = ''
+    for word in words_list:
+		
+        kolko = len(word)
+        if pocet < kolko:
+            pocet = kolko
+            slovo = word
+            
+    return slovo
+
+2182766
+def find_longest_word(words_list):
+    return ""
+find_longest_word(words_list)
+
+1784330
+def find_longest_word(words_list):
+    return ""
+
+2648081
+def find_longest_word(words_list):
+    k="a"
+    for i in words_list:
+        if (len(i)>len(k)):k=i
+    return(k)
+   
+        
+        
+2809764
+def find_longest_word(list):
+    longest=0
+    for word in list:
+        if len(word)>longest:
+            longest=len(word)
+    return longest
+
+2253595
+def find_longest_word(words_list):
+    return ""
+

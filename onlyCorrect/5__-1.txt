@@ -1,0 +1,50 @@
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    dupe=''
+    for a in range(len(text)):
+    	dupe+=2*text[a]   
+    return dupe
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 += 2*text[i]
+    return text_2
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    result=""
+    for i in range (len(text)):
+        result+=(2*text[i])
+
+    return result
+
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+

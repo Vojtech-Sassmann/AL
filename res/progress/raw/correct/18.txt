@@ -1,0 +1,72 @@
+1111
+def digit_sum(n):\n    s=str(n)\n    r=0\n    for value in s:\n        r=r+int(value)\n    return r\n        \n
+###
+1111
+def digit_sum(n):\n    a=str(n)\n    soucet=0\n    for prvek in a:\n    	soucet=soucet+(ord(prvek)-48)\n    return soucet
+###
+1111
+"5"+"8"\n\n \n
+def digit_sum(n):\n    s=0\n    z=str(n)\n    for i in range (len(z)):\n        a=z[i]\n        s=s+int(a)\n    return(s)\n      \n    
+###
+1111
+def digit_sum(n):\n    l = []\n    k = 0\n    for i in str(n):\n        l.append(i)\n    for i in l:\n        k += int(i)\n    return k
+###
+1111
+def digit_sum(n):\n    n=str(n)\n    b=0\n    for i in range(len(n)):\n        a=n[i]\n        a=int(a)\n        b+=a\n    return b\n
+###
+1111
+def digit_sum(n):\n    text= str(n)\n    soucet = 0\n    for pismeno in text:\n        soucet+=int(pismeno)\n    return soucet
+###
+1111
+def digit_sum(n):\n    text = str(n)   \n    soucet = 0\n    for pismeno in text:        \n        soucet += int(pismeno)        \n    return soucet\n        \n\n
+###
+1111
+def digit_sum(n):\n    text = str(n)\n    soucet = 0\n    for pismeno in text:\n        soucet += int(pismeno)\n   	return soucet\n         	\n
+def digit_sum(n):\n    text = str(n)\n    soucet = 0\n    for pismeno in text:\n        soucet += int(pismeno)\n    return soucet
+###
+1111
+def digit_sum(n):\n    result = 0\n    while n > 0:\n        result += n % 10\n        n = n // 10\n    return result\n
+###
+1111
+def digit_sum(n):\n    vysledok = 0\n    string = str(n)\n    for i in range(len(string)):\n        vysledok += int(string[i])\n    return vysledok\n		\n    	\n
+###
+1111
+def digit_sum(n):\n    x=0\n    string=str(n)\n    for i in range(len(string)):\n        x+=int(string[i])\n        \n    return x\n
+###
+1111
+def digit_sum(n):\n    sucet=0\n    cifra=0\n    while n >0:\n        cifra=n%10\n        sucet=sucet+cifra\n        n=(n-cifra)/10\n        \n    return sucet\n
+def digit_sum(n):\n    sucet=0\n    cifra=0\n    while n >0:\n        cifra=n%10\n        sucet=sucet+cifra\n        n=(n-cifra)/10\n        \n    return int(sucet)\n
+###
+1111
+def digit_sum(n):\n    x=1\n    a=0\n    while n>0:\n        x=n%10\n        n=n//10\n        a+=x\n    return (a)
+###
+1111
+def digit_sum(n):\n    result = 0\n    digit = str(n)\n    for i in range(len(digit)):\n        result = result + int(digit[i])\n    return result\n
+###
+1111
+def digit_sum(n):\n    x=0\n    while n:\n        x+=n%10\n        n//=10\n    return x\n
+###
+1111
+def digit_sum(n):\n    string = str(n)\n    arr = list(string)\n    sum = 0\n    for i in range(len(arr)):\n        sum+=int(arr[int(i)])\n    return sum    \n
+###
+1111
+def digit_sum(n):\n    counter=0\n    string=str(n)\n    length=len(string)\n    for i in range(length):\n        number=string[i]\n        real_number=int(number)\n        counter=counter+real_number\n        \n    return counter\n	
+###
+1111
+def digit_sum(n):\n    a=0\n    b=0\n    while n>0:\n		a=n%10\n		n=n//10\n		b=b+a\n    return b\n
+###
+1111
+def digit_sum(n):\n    result=0\n    while n>0:\n        result+=n%10\n        n=n//10\n	return result
+def digit_sum(n):\n    result=0\n    while n>0:\n        result+=n%10\n        n=n//10\n	return result
+def digit_sum(n):\n    result=0\n    while n>0:\n        result+=n%10\n        n=n//10\n	return result
+def digit_sum(n):\n	result=0\n	while n>0:\n		result+=n%10\n		n=n//10\n	return result
+###
+1111
+def digit_sum(n):\n	result=0\n	while n > 0:\n		result += n % 10\n		n = n // 10\n	return result\n\n
+###
+1111
+def digit_sum(n):\n    sum = 0\n    for i in range(len(str(n))):\n        sum += n % 10\n        n = n // 10\n    return sum\n
+###
+1111
+def digit_sum(n):\n    result = 0\n    while n > 0:\n        result += n % 10\n        n = n // 10\n    return result\n
+###

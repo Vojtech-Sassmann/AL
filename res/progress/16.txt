@@ -1,0 +1,189 @@
+2146576
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+def max_pair_sum(num_list):
+ num_list.sort(reverse =True)
+ t = num_list[0]
+ d = num_list[1]
+ result = d +t
+ return result
+
+2156622
+def max_pair_sum(num_list):
+ k= 0
+ t =[]
+ for i in num_list:
+  k = k +i
+  t.append(k)
+  k=i
+ return(max(t))
+
+
+2162436
+def max_pair_sum(num_list):
+ k= 0
+ t =[]
+ for i in num_list:
+  k = k +i
+  t.append(k)
+  k=i
+ return(max(t))
+
+2168934
+def max_pair_sum(num_list):
+    
+    sum = 0
+    i = 0
+        
+    while i < len(num_list)-1:
+        
+        docasna = num_list[i] + num_list[i+1]
+        
+        if docasna > sum:
+        	sum = docasna
+        
+        i += 1
+        
+    return sum
+
+2369646
+def max_pair_sum(num_list):
+    curMax = 0
+    for i in range(len(num_list) - 1):
+        if num_list[i] + num_list[i+1] > curMax:
+            curMax = num_list[i] + num_list[i+1]
+    return curMax
+
+2437820
+def max_pair_sum(num):
+    max=num[0]+num[1]
+    for i in range(1,len(num)):
+        if (num[i]+num[i-1])>max:
+            max=num[i]+num[i-1]
+    return max
+
+2439201
+def max_pair_sum(num_list):
+    cislo = 1
+    for x in num_list:
+        if x = x + cislo:
+            return cislo
+
+def max_pair_sum(num_list):
+    seznam = list()
+    for x in range(num_list):
+        seznam.append(num_list[x] + num_list[x+1])
+        return seznam
+
+def max_pair_sum(num_list):
+    seznam = []
+    for x in range(num_list):
+            seznam.append(num_list[x] + num_list[x])
+    return seznam
+
+def max_pair_sum(num_list):
+    seznam = []
+    for x in range(len(num_list)):
+        seznam.append(num_list[x] + num_list[x+1])
+    print(x)
+
+2648081
+def max_pair_sum(num_list):
+    s=[]
+    for i in range(len(num_list)):
+        if i!=0: s.append(num_list[i-1]+num_list[i])
+    s.sort()
+    return(s[len(s)-1])
+
+2809764
+def max_pair_sum(num_list):
+    sums=0
+    for i in range(1,len(num_list)):
+        if sums < (num_list[i]+num_list[i-1]):
+            sums = (num_list[i] + num_list[i-1])
+
+    return sums
+
+
+2971414
+def max_pair_sum(num_list):
+    nList = []
+    for i in range (len (num_list)-1):
+        nList.append (num_list[i] + num_list[i+1])
+    return max(nList)
+

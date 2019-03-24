@@ -1,0 +1,200 @@
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+
+def multiples(n):
+    int (n)
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", 3*n)
+    print("Desetinasobek", 10*n)
+
+def multiples(n):
+    a=2*n
+    b=3*n
+    c=10*n
+    print("Dvojnasobek", a)
+    print("Trojnasobek", b)
+    print("Desetinasobek", c)
+
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    m = n*2
+    l = n*3
+    p = n*10
+    print("Dvojnasobek", m)
+    print ("Trojnasobek", l)
+    print("Desetinasobek", p)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    a=n*2
+    b=n*3
+    c=10*n
+    print("Dvojnasobek", a)
+    print("Trojnasobek", b)
+    print("Desetinasobek", c)
+
+def multiples(n):
+    print("Dvojnasobek", n*2),
+    print("Trojnasobek", n*3), 
+    print("Desetinasobek", n*10)
+
+
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=2*n
+    k=3*n
+    l=10*n
+    print("Dvojnasobek",m)
+    print("Trojnasobek",k)
+    print("Desetinasobek",l)
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+
+def multiples(n):
+    int (n)
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", 3*n)
+    print("Desetinasobek", 10*n)
+
+def multiples(n):
+    a=2*n
+    b=3*n
+    c=10*n
+    print("Dvojnasobek", a)
+    print("Trojnasobek", b)
+    print("Desetinasobek", c)
+
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    m = n*2
+    l = n*3
+    p = n*10
+    print("Dvojnasobek", m)
+    print ("Trojnasobek", l)
+    print("Desetinasobek", p)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    a=n*2
+    b=n*3
+    c=10*n
+    print("Dvojnasobek", a)
+    print("Trojnasobek", b)
+    print("Desetinasobek", c)
+
+def multiples(n):
+    print("Dvojnasobek", n*2),
+    print("Trojnasobek", n*3), 
+    print("Desetinasobek", n*10)
+
+
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=2*n
+    k=3*n
+    l=10*n
+    print("Dvojnasobek",m)
+    print("Trojnasobek",k)
+    print("Desetinasobek",l)
+

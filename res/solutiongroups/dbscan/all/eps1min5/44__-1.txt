@@ -1,0 +1,64 @@
+def make_fancy(text, n):
+    delka = len(text)
+    index = 0
+    mezera = 0
+    while index < delka:
+        print (" " * (mezera), end = "")
+        for i in range(n):
+          print (text[index], end = " ")
+        print()
+        mezera = mezera + 1
+        index = index + 1
+def make_fancy(text, n):
+    for i,a in enumerate(text):
+    	print(" "*i, (a+" ")*n)
+
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+        print(" "*i + letter + (" "+letter)*(n-1))
+
+def make_fancy(text, n):
+	for i in range(len(text)):
+		print(i*" "+n*(text[i]+" "))
+
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+    	print(" "*i + text[i] + (" "+text[i])*(n-1))
+
+def make_fancy(text, n):
+    for i in range (len(text)):
+        print(i*" ",end="")
+        print (n*(text[i]+" "))
+
+def make_fancy(text, n):
+    delka = len(text)
+    index = 0
+    mezera = 0
+    while index < delka:
+        print (" " * (mezera), end = "")
+        for i in range(n):
+          print (text[index], end = " ")
+        print()
+        mezera = mezera + 1
+        index = index + 1
+def make_fancy(text, n):
+    for i,a in enumerate(text):
+    	print(" "*i, (a+" ")*n)
+
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+        print(" "*i + letter + (" "+letter)*(n-1))
+
+def make_fancy(text, n):
+	for i in range(len(text)):
+		print(i*" "+n*(text[i]+" "))
+
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+    	print(" "*i + text[i] + (" "+text[i])*(n-1))
+
+def make_fancy(text, n):
+    for i in range (len(text)):
+        print(i*" ",end="")
+        print (n*(text[i]+" "))
+

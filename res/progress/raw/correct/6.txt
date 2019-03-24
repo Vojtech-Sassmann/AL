@@ -1,0 +1,58 @@
+1111
+def nonzero_product(numbers):\n    sum = 1\n    for i in numbers:\n        if i != 0:\n            sum = sum * i;\n    return sum
+###
+1111
+def nonzero_product(numbers):\n    r=1\n    for i in numbers:\n        if i!=0:\n            r*=i\n    return r\n
+###
+1111
+def nonzero_product(numbers):\n    vysledek=1\n    kontrola=0\n    for prvek in numbers:\n        if prvek!=0:\n        	vysledek=vysledek * prvek\n        	kontrola=kontrola+1\n    if kontrola==0:\n        vyledek=0\n    return vysledek    \n
+###
+1111
+def nonzero_product(list):\n  kontrola = 0\n  vysledek = 1\n  for prvek in list:\n    if prvek != 0:\n      vysledek = vysledek * prvek\n      kontrola = kontrola + 1\n  if kontrola == 0:\n    vysledek = 0\n  return vysledek
+###
+1111
+def nonzero_product(numbers):\n    result = 1\n    for x in range(len(numbers)):\n        if(numbers[x] != 0):\n            result *= numbers[x]\n    return result\n            \n  \n            \n
+###
+1111
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i > 0:\n            x = x * i\n    return x\n            \n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i > 0 or i < 0:\n            x = x * i\n    return x\n            \n
+###
+1111
+def nonzero_product(numbers):\n    \n    sum = 1\n    for number in numbers:\n        if number == 0:\n        	continue\n        else:\n    		sum = sum * number\n        \n    return sum\n
+###
+1111
+def nonzero_product(numbers):\n    \n    sum = 1\n    for num in numbers:\n        if num != 0:\n            sum = sum * num\n    \n    \n    return sum\n
+###
+1111
+def nonzero_product(numbers):\n    result = 1\n    for i in numbers:\n        if i != 0:\n            result = result * i\n    return result\n
+###
+1111
+def nonzero_product(numbers):\n    soucin=1\n    for i in numbers:\n        if i!=0:\n            soucin=soucin*i\n    return soucin\n
+###
+1111
+def nonzero_product(numbers):\n    s=1\n    for i in numbers:\n        if i!=0: s=s*i\n    return(s)\n            
+###
+1111
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if numbers[i] != 0:\n            x *= i\n    return x\n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i != 0:\n            x *= i\n    return x\n
+###
+1111
+def nonzero_product(numbers):\n    s = 1\n    for x in numbers:\n        if x != 0:\n            s *= x\n    return s\n
+###
+1111
+def nonzero_product(numbers):\n    if not numbers:\n        return 1\n    if numbers[0] is 0:\n        return nonzero_product(numbers[1:])\n    return numbers[0] * nonzero_product(numbers[1:])\n
+###
+1111
+def nonzero_product(numbers):\n    product = 1\n    for x in numbers:\n        if x!=0:\n            product*=x\n    return product
+###
+1111
+def nonzero_product(numbers):\n    cislo = 1\n    for x in numbers:\n        cislo = cislo * x         \n    return cislo\n
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    for x in numbers:\n        if x!=0:\n			seznam.append(x)\n    cislo = 1\n    for i in seznam:\n        cislo = cislo * i\n    return cislo\n
+###

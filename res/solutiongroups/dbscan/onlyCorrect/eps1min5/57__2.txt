@@ -1,0 +1,45 @@
+def even_numbers(n):
+    for i in range (n):
+        print((i+1)*2)
+
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1) * 2)
+
+def even_numbers(n):
+    for i  in range(n):
+        print((i+1)*2)
+
+
+def even_numbers(n):
+    for i in range (n):
+    	print(2+2*i)
+
+def even_numbers(n):
+    for i in range(n):
+    	print(2+2*i)
+
+def even_numbers(n):
+	for i in range(n):
+		print((i+1)*2)
+
+def even_numbers(n):
+    for i in range (n):
+    		print((i+1)*2)
+
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1)*2)
+
+def even_numbers(n):
+    for i in range(n):
+	    print((i+1)*2)
+
+def even_numbers(n):
+    for i in range(n):
+           print((i+1)*2)
+
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1)*2)
+

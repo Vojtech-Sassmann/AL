@@ -1,0 +1,579 @@
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:", rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print()\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows * columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x )\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n    \n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:",(rows * columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows * columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    m=rows*columns-x\n    print ("Zbytek: "+ str( m))\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek", rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows * columns -x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows * columns -x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:" rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", "28")\n
+def chocolate(rows, columns, x):\n    print("zbytek:", rows*columns-12)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-12)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-16)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    zbytek = (rows * columns) - x\n    print("Zbytek:", zbytek)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n	print("Zbytek:", rows*columns-x)\n	
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: 28")\n
+def chocolate(rows, columns, x):\n    print("Zbytek: 24")\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns-x))\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    vypocet = (rows * columns) - x\n    print("Zbytek: ", vypocet)\n
+def chocolate(rows, columns, x):\n    vypocet = (rows * columns) - x\n    print("Zbytek:", vypocet)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:" rows*columns-x)\n    \n
+def chocolate(rows, columns, x):\n    	print("Zbytek:", rows*columns-x)\n    \n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("rows*columns-x")\n
+def chocolate(rows, columns, x):\n    print("rows*columns-x")\n
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ", (rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    celek = rows * columns\n    zbytek = celek - x\n    print("Zbytek:", zbytek)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    x=rows*columns-x\n    print("Zbytek:", x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", (rows * columns) - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows * columns) - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print('Zbytek: ',(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print('Zbytek:',(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    zbytek = rows*columns-x\n    print("Zbytek:",zbytek )\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    celkom = rows * columns\n    zvysok = celkom - x\n    print("Zbytek:", zvysok)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print( rows * columns - x )\n
+def chocolate(rows, columns, x):\n    	print ("Zbytek:", rows * columns - x)\n\n
+###
+1111
+def chocolate(rows, columns, x):\n    a = rows*columns - x\n    print("Zbytek: ")\n    print(a)\n
+def chocolate(rows, columns, x):\n    a = rows*columns - x\n    print("Zbytek: " + str(a))\n
+###
+1111
+def chocolate(rows, columns, x):\n    rest = rows*columns - x\n    print("Zbytek:", rest)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    z=rows*columns-x\n    print("Zbytek:", z)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print('Zbytek:',rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    y = rows\n    c = columns\n    print("Zbytek:", (y*c) -x )\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    s=rows*columns\n    y=s-x\n    print("Zbytek:", y)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print('Zbytek:',rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n	print("Zbytek: ", rows*columns - x)\n
+def chocolate(rows, columns, x):\n	print("Zbytek: ", rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: " +str((rows*columns)-x))\n
+###
+1111
+def chocolate(rows, columns, x):\n    z= (rows*columns)-x\n    print("Zbytek:", z)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    z = rows*columns - x;\n    print("Zbytek:",z)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    rest=rows*columns-x\n    print(rest)\n
+def chocolate(rows, columns, x):\n    rest=rows*columns-x\n    print(rest)\n
+def chocolate(rows, columns, x):\n    rest=rows*columns-x\n    print("Zbytek:", rest)\n
+###
+1111
+def chocolate(rows, columns, x):\n    zbytek = rows*columns-x\n    print("Zbytek: ", zbytek)\n
+def chocolate(rows, columns, x):\n    zbytek = (rows * columns) - x\n    print("Zbytek: ", zbytek)\n
+def chocolate(rows, columns, x):\n    zbytek = (rows * columns) - x\n    print("Zbytek:", zbytek)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytok:",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    n=rows * columns\n    m=n-x\n    print("Zbytek: ", m)\n
+def chocolate(rows, columns, x):\n    n=rows * columns\n    m=n-x\n    print("Zbytek:", m)\n
+###
+1111
+def chocolate(rows, columns, x):\n    left=int(rows)*int(columns)-int(x)\n    print("Zbytek:",left)\n
+###
+1111
+def chocolate(rows, columns, x):\n    value = (rows * columns) - x\n    print("Zbytek:", value)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:" ,rows*columns-x)\n
+###
+1111
+def chocolate(n, m, x):\n    print("Zbytek:", n*m-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    choco_left = rows * columns - x\n    print("Zbytek:", choco_left)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns - )\n
+def chocolate(rows, columns, x):\n    print(rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:"rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print('Zbytek: ', rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print('Zbytek: ', rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print('Zbytek:', rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ",(rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    n=rows*columns-x\n    print(n)\n
+def chocolate(rows, columns, x):\n    n=rows*columns-x\n    print("Zbytek: ",n)\n
+def chocolate(rows, columns, x):\n    n=rows*columns-x\n    print("Zbytek:",n)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:", rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", ((rows*columns)-x))\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",end=" ")\n    print(rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek",(rows*columns)-x)
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek",rows*columns-x)
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)
+###
+1111
+def chocolate(rows, columns, x):\n    a = rows*columns-x\n    print(a)\n
+def chocolate(rows, columns, x):\n    a = rows*columns-x\n    print("Zbytek: ",a)\n
+def chocolate(rows, columns, x):\n    a = rows*columns-x\n    print("Zbytek:",a)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows * columns) - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    ctverce=rows*columns-x\n    print(ctverce)\n        \n
+def chocolate(rows, columns, x):\n    ctverce=rows*columns-x\n    print("Zbytek: ",ctverce)\n        \n
+def chocolate(rows, columns, x):\n    ctverce=rows*columns-x\n    print("Zbytek:",ctverce)\n        \n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+y = 5\nz = 8\nx = 12\nk = (y * z)\ndef chocolate(rows, columns, x):\n    print("Zbytek:", (k - x))\n    \n
+y = 6\nz = 9\nx = 3\nk = (y * z)\ndef chocolate(rows, columns, x):\n    print("Zbytek:", (k - x))\n    \n
+y = 5\nz = 8\nx = 12\nk = (y * z)\ndef chocolate(rows, columns, x):\n    print ("Zbytek:", (k - x))\n    \n    \n
+y = 6\nz = 9\nx = 3\nk = (y * z)\n\ndef chocolate(rows, columns, x):\n   		print ("Zbytek:", (k - x))\n    \n    \n
+y = 5\nz = 8\nx = 12\nk = (y * z)\n\ndef chocolate(rows, columns, x):\n   		print ("Zbytek:", k - x)\n    \n    \n
+y = 6\nz = 9\nx = 3\nk = (y * z)\nj = (k - x)\ndef chocolate(rows, columns, x):\n   	print ("Zbytek:", j)\n    \n    \n
+y = 5\nz = 8\nx = 12\ndef chocolate(rows, columns, x):\n   	print ("Zbytek:", ((y * z) - x))\n    \n    \n
+y = 5\nz = 8\nx = 12\ndef chocolate(rows, columns, x):\n    print("Zbytek:", y * z - x)\n
+x = 12\ny = 6\nz = 9\ndef chocolate(rows, columns, x):\n    print("Zbytek:", (y * z) - x)\n
+x = 12\ny = 5\nz = 8\n\ndef chocolate(rows, columns, x):\n    	print("Zbytek:", (y * z) - x)\n
+x = 3\ny = 54\n\ndef chocolate(rows, columns, x):\n    	print("Zbytek:", 54 - x)\n
+z = 5\ny = 8\n\ndef chocolate(rows, columns, x):\n    	print("Zbytek:", z * y - x)\n
+z = 6\ny = 9\n\ndef chocolate(rows, columns, x):\n    print("Zbytek:", ((z * y) - x))\n
+a = 5\nb = 8\ndef chocolate(rows, columns, x):\n    print("Zbytek:", a * b - x)\n
+a = 6\nb = 9\ndef chocolate(rows, columns, x):\n    print("Zbytek:", ((a * b) - x))\n
+a = 5\nb = 8\nx = 12\ndef chocolate(rows, columns, x):\n    print("Zbytek:", ((a * b) - x))\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", 40 - x)\n
+def chocolate(y, z, x):\n    print("Zbytek:", y * z - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows * columns) - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek :", rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    y= "Zbytek:"\n    print(y,(rows*columns)-x)\n    
+###
+1111
+def chocolate(rows, columns, x):\n    print((rows*colums)-x)\n
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: " + (rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: " (rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek: " + ((rows*columns)-x))\n
+def chocolate(rows, columns, x):\n    zbytek = (rows*columns)-x\n    print("Zbytek: " + zbytek)\n
+def chocolate(rows, columns, x):\n    zbytek = (rows*columns)-x\n    print("Zbytek: " , zbytek)\n
+def chocolate(rows, columns, x):\n    zbytek = (rows*columns)-x\n    print("Zbytek: " ,zbytek)\n
+def chocolate(rows, columns, x):\n    zbytek = (rows*columns)-x\n    print("Zbytek:" ,zbytek)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n          print ("Zbytek:",(rows * columns - x))\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    rem = rows * columns - x\n    print("Zbytek:", rem)\n
+###
+1111
+def chocolate(rows, columns, x):\n    square=rows*columns-x\n    print("Zbytek: ",square)\n
+def chocolate(rows, columns, x):\n    square=rows*columns-x\n    print("Zbytek:",square)\n
+###
+1111
+def chocolate(rows, columns, x):\n    choco = rows*columns\n    final = choco - x\n    print("Zbytek:", final)\n
+###
+1111
+def chocolate(rows, columns, x):\n    check = (rows*columns)-x\n    print("Zbytek:", check )\n
+###
+1111
+def chocolate(rows, columns, x):\n    y= rows * columns - x\n    print("Zbytek:",y)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:" ,rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(r, c, x):\n    print("Zbytek:",r*c-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(radek, sloupec, x):\n    print("Zbytek:", radek*sloupec-x)\n    \n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",(rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:", rows*columns-x)\n    \n    \n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n    \n    \n
+###
+1111
+def chocolate(rows, columns, x):\n    print((rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:"rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("zbytek:",rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n    \n   \n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",5*8-12)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",5*8-16)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    choco=rows*columns-x\n    print("Zbytek:",choco)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek", rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek: ", rows*columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print("Zbytek:",rows * columns - x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    full = rows * columns\n    result = full - x\n    return result
+def chocolate(rows, columns, x):\n    full = rows * columns\n    result = full - x\n    print (result)
+def chocolate(rows, columns, x):\n    full = rows * columns\n    result = full - x\n    print ("Zbytek:", result)
+###
+1111
+def chocolate(rows, columns, x):\n    print("zbytek:", (rows*columns)-x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", (rows*columns)-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    print(rows*columns-x)\n
+def chocolate(rows, columns, x):\n    print('Zbytek:',rows*columns-x)\n
+###
+1111
+def chocolate(rows, columns, x):\n    celek = rows * columns\n    zbytek = celek - x\n    print('Zbytek: ', zbytek)\n
+def chocolate(rows, columns, x):\n    celek = rows * columns\n    zbytek = celek - x\n    print('Zbytek:', zbytek)\n
+###
+1111
+def chocolate(rows, columns, x):\n    celek = rows * columns\n    zbytek = celek - x\n    print("Zbytek:", zbytek)\n
+###

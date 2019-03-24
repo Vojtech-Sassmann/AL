@@ -1,0 +1,215 @@
+2086966
+def five_multiples(num_list):\n	k = []\n	for i in (num_list):\n		if i % 5 ==0:\n			k.append(i)\n            \n	return k\n
+###
+2164068
+def five_multiples(num_list):\n    \n    k=[]\n    for i in num_list:\n        if i%5==0:\n            k.append(i)\n        	\n        else:\n            \n            continue\n    return (k)        \n
+###
+2166195
+def five_multiples(num_list):\n    k=[]\n    for i in num_list:\n        if i%5==0:\n            k.append(i)\n        else:\n            continue\n    return k        \n            \n
+###
+2095775
+def five_multiples(num_list):\n  x = []\n  for i in num_list:\n    if i % 5 == 0:\n      x.append(i)\n  return x
+###
+2168934
+def five_multiples(num_list):\n    \n    vysledok = []\n    \n    for number in num_list:\n        if number % 5 == 0:\n            vysledok.append(number)\n    \n    return vysledok\n
+###
+1985410
+def five_multiples(num_list):\n    s = []\n    for i in num_list:\n        if i % 5 == 0:\n            s.append(i)\n    return s
+###
+2121562
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+###
+2026013
+def five_multiples(num_list):\n    nasobky_peti = []\n    for i in range(len(num_list)):\n        if (num_list[i]) % 5 == 0:\n            nasobky_peti.append(num_list[i])\n    return nasobky_peti
+###
+2369646
+def five_multiples(num_list):\n    result = []\n	for i in num_list:\n        if i % 5 == 0:\n            result.append(i)\n            \n    return result
+###
+2253937
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+def five_multiples(num_list):\n    return []\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+###
+2437820
+def five_multiples(num_list):\n    nas=[]\n    for i in num_list:\n        if not(i%5):\n        	nas.append(i)\n    return nas\n
+###
+2439201
+def five_multiples(num_list):\n    result = []\n    for x in num_list:\n        if x%5 == 0:\n			result=result+[x]\n    return result
+def five_multiples(num_list):\n    seznam = []\n    for x in num_list:\n		if x % 5 == 0:\n        		seznam.append(x)\n    return seznam
+###
+2634646
+def five_multiples(num_list):\n    return [5, 25, 35]\n
+def five_multiples(num_list):\n    return [5, 25, 35]\n
+def five_multiples(num_list):\n    return [5, 25, 35]\n
+def five_multiples(num_list):\n    return [5, 25]\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return [5, 25]\n
+###
+2648081
+def five_multiples(num_list):\n    s=[]\n    for i in num_list:\n        if i%5==0: s.append(i)\n    return s\n
+###
+2664365
+def five_multiples(num_list):\n    return [i for i in num_list if i%5 == 0]\n
+###
+2714338
+def five_multiples(num_list):\n    output = []\n    for maybe in num_list:\n        if not (maybe % 5):\n            output.append(maybe)\n    return output\n
+###
+2722568
+def five_multiples(num_list):\n    return []\n
+print(five_multiples([3, 5, 25, 4, 7, 49, 35, 12]))
+###
+2807646
+def five_multiples(num_list):\n    temp_list = []\n    for i in range(len(num_list)):\n        if(num_list[i] % 5 == 0):\n            temp_list.append(num_list[i])\n    return temp_list
+###
+2810715
+def five_multiples(num_list):\n    return filter(lambda n : n % 5 == 0, num_list)\n
+###
+2809764
+def five_multiples(num_list):\n    five_folds=[]\n    for x in num_list:\n        if x%5==0:\n            five_folds.append(x)\n\n    return five_folds\n
+###
+2813265
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    for char in num_list:\n        if char%5==0:\n            return[char]
+def five_multiples(num_list):\n    my=[]\n    for char in num_list:\n        if char%5==0:\n            \n            return[my.append(char)]
+def five_multiples(num_list):\n    my=[]\n    for char in num_list:\n        \n        if char%5==0:\n            my.append(char)\n    return my\n            
+###
+2817570
+def five_multiples(num_list):\n    x = []\n    for i in num_list:\n        if i % 5 == 0:\n            x.append(i)\n    return x\n
+###
+1901001
+def five_multiples(num_list):\n    return [x for x in num_list if x%5==0]\n
+###
+2880210
+def five_multiples(num_list):\n    return []\n
+###
+2804190
+def five_multiples(num_list):\n    return [x for x in num_list if x % 5 == 0]\n
+###
+2926078
+def five_multiples(num_list):\n    new_list = []\n    for i in range(len(num_list)):\n        if num_list[i]%5 == 0:\n            new_list.append(num_list[i])\n    return new_list\n
+###
+2944691
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+###
+2971414
+def five_multiples(num_list):\n    return [i for i in num_list if not i%5]\n
+five_multiples = lambda num_list : [i for i in num_list if not i%5]
+###
+3081379
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+###
+3082636
+def five_multiples(num_list):\n    return [5]\n
+def five_multiples(num_list):\n    return [5]\n
+###
+2069633
+def five_multiples(25):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+###
+3084119
+def five_multiples(num_list):\n    return [5, 25, 35]\n
+###
+3085168
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+def five_multiples(num_list):\n    return []\n
+###
+3086238
+def five_multiples(num_list):\n    return [/5]\n
+###

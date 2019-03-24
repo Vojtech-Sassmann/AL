@@ -130,7 +130,7 @@ def analyze_file(file_name, t):
 
     statistics = Statistics(t)
 
-    with codecs.open('./res/parsed/' + file_name, 'rb', encoding='UTF-8') as f:
+    with codecs.open('./res/parsed/all/' + file_name, 'rb', encoding='UTF-8') as f:
         reader = csv.reader(f, delimiter=';', quoting=csv.QUOTE_NONE)
 
         previous_code = None
@@ -212,18 +212,22 @@ def show_pca(df):
     plt.show()
 
 
-output = "./res/solutiongroups/dbscan/"
+output = "./res/solutiongroups/dbscan/all/"
 similarity_threshold = 0
 DBSCAN_MIN_SIZE = 5
 DBSCAN_EPSILON = 1
 
 
-start_time = time.time()
-analyze_file('47.txt', similarity_threshold)
-analyze_file('48.txt', similarity_threshold)
-analyze_file('49.txt', similarity_threshold)
-end_time = time.time()
-print("Calculation finished in time: {}s".format(end_time - start_time))
+if __name__ == '__main__':
+    start_time = time.time()
+    for i in range(1, 75):
+        try:
+            analyze_file(str(i) + '.txt', similarity_threshold)
+        except:
+            pass
+    end_time = time.time()
+    print("Calculation finished in time: {}s".format(end_time - start_time))
+
 # start_time = time.time()
 # analyze_file('Palindrom.txt', similarity_threshold)
 # end_time = time.time()

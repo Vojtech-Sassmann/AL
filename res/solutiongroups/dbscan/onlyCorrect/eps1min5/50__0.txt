@@ -1,0 +1,30 @@
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+def cross(z):
+    print(z + "   " + z) 
+    print("  " + z + " ")
+    print(z + "   " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+

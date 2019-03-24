@@ -1,0 +1,37 @@
+2807646
+def check_sudoku(row):
+    missing = 0
+    for i in range(1,10):
+        try:
+            index = row.index(i)
+        except ValueError:
+            missing += 1
+        else:
+            row.pop(index)
+    if(len(row) == 0 and missing == 0):
+        return True
+    else:
+        return False
+2809764
+def check_sudoku(row):
+    check_row=[1, 2, 3, 4, 5, 6, 7, 8, 9]
+    if check_row!=sorted(row):
+        return False
+    else: return True
+
+
+2804190
+def check_sudoku(row):
+    numbers = {}
+    for x in range(min(row), max(row) + 1):
+        numbers[x] = False
+    for x in row:
+        if 9 < x or x < 1 or numbers[x]:
+    		return False
+        else:
+        	numbers[x] = True
+    for key, val in numbers.items():
+        if not val:
+            return False
+    return True
+

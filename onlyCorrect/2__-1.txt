@@ -1,0 +1,83 @@
+def fibonacci(n):
+    xold = 1
+    yold = 1
+    vysledok = 0
+    for i in range(n):
+        if i == 0 or i == 1:
+            print(1)
+        else:
+            vysledok = xold + yold
+            print(vysledok)
+            xold = yold
+            yold = vysledok
+
+def fibonacci(n):
+    j=1
+    k=1
+    for i in range(n):
+        if i==0 or i==1:
+            print(1)
+        else:
+            print(j+k)
+            if j>k:
+                k+=j
+            else:
+                j+=k
+def fibonacci(n):
+    x=1
+    y=1
+    f=0
+    print("1")
+    print("1")
+    for i in range(1,n-1):
+        f=x+y
+        x=y
+        y=f
+        print (f)
+
+def fibonacci(n):
+    a = 1
+    b = 2
+    print(1)
+    print(a)
+    print(b)
+    for i in range(n -3):
+        c = a + b
+        print(c)
+        a = b
+        b = c
+
+def fibonacci(n):
+    a0=0
+    a1=1
+    print(1)
+    for i in range(n-1):
+        an=a0+a1
+        print(an)
+        a0=a1
+        a1=an
+        
+    print()
+
+def fibonacci(n):
+    current_element = 1
+    next_element = 1 
+    
+    for i in range(n):
+        print(current_element)
+        new = current_element
+        current_element = next_element
+        next_element += new
+
+def fibonacci(n):
+    a=1
+    b=0
+
+    for i in range(1,n+1):
+                  
+            print(a+b)
+            b=a+b
+            a=b-a
+          
+        
+

@@ -1,0 +1,166 @@
+def unique(mylist):
+    k=[]
+    for i in mylist:
+        if i not in k:
+            k.append(i)
+    return (k)        
+    
+
+def unique(mylist):
+    t=[]
+    for i in mylist:
+        if i not in t:
+            t.append(i)
+        else:
+            continue
+    return t        
+
+def unique(mylist):
+    
+    unique = []
+    for i in mylist:
+        if not i in unique:
+        	unique.append(i)
+    
+    
+    
+    return unique
+
+def unique(mylist):
+    seznam=[]
+    for i in mylist:
+        if not(i in seznam):
+            seznam.append(i)
+    return seznam
+
+def unique(mylist):
+    s=[]
+    for i in range (len(mylist)):
+        for j in range (len(mylist)):
+        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"
+    for p in range (len(mylist)): 
+        if mylist[p]!="a" : s.append(mylist[p])
+    return(s)
+   	
+    
+ 	
+def unique(mylist):
+    ulist = []
+    for i in mylist:
+        if i not in ulist:
+            ulist.append(i)
+    return ulist            
+                
+
+def unique(mylist):
+    taken = list()
+    to_return = list()
+    for x in mylist:
+        if x not in taken:
+            taken.append(x)
+            to_return.append(x)
+    return to_return
+
+def unique(mylist):
+    whitelist=[]
+    for i in mylist:
+        if contains(whitelist,i)==False:
+            whitelist.append(i)
+    return whitelist
+def contains (summary,element):
+    result=False
+    for x in summary:
+        if x!=element:
+            result = False
+        else: return True
+    return result
+def unique(mylist):
+    seznam = []
+    for x in mylist:
+        if x not in seznam:
+        	seznam.append(x)
+    return seznam
+
+def unique(mylist):
+    k=[]
+    for i in mylist:
+        if i not in k:
+            k.append(i)
+    return (k)        
+    
+
+def unique(mylist):
+    t=[]
+    for i in mylist:
+        if i not in t:
+            t.append(i)
+        else:
+            continue
+    return t        
+
+def unique(mylist):
+    
+    unique = []
+    for i in mylist:
+        if not i in unique:
+        	unique.append(i)
+    
+    
+    
+    return unique
+
+def unique(mylist):
+    seznam=[]
+    for i in mylist:
+        if not(i in seznam):
+            seznam.append(i)
+    return seznam
+
+def unique(mylist):
+    s=[]
+    for i in range (len(mylist)):
+        for j in range (len(mylist)):
+        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"
+    for p in range (len(mylist)): 
+        if mylist[p]!="a" : s.append(mylist[p])
+    return(s)
+   	
+    
+ 	
+def unique(mylist):
+    ulist = []
+    for i in mylist:
+        if i not in ulist:
+            ulist.append(i)
+    return ulist            
+                
+
+def unique(mylist):
+    taken = list()
+    to_return = list()
+    for x in mylist:
+        if x not in taken:
+            taken.append(x)
+            to_return.append(x)
+    return to_return
+
+def unique(mylist):
+    whitelist=[]
+    for i in mylist:
+        if contains(whitelist,i)==False:
+            whitelist.append(i)
+    return whitelist
+def contains (summary,element):
+    result=False
+    for x in summary:
+        if x!=element:
+            result = False
+        else: return True
+    return result
+def unique(mylist):
+    seznam = []
+    for x in mylist:
+        if x not in seznam:
+        	seznam.append(x)
+    return seznam
+

@@ -1,0 +1,144 @@
+2126139
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", 12-i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-1-i)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-1-i)\n
+###
+2128782
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2057798
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2162341
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-i-1)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+1358252
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+###
+1040488
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", \n              \n              \n
+###
+1653385
+def print_sums(n):\n    for i in range(n - 1):\n        print(n, "=", i + 1, "+", (n-1) - i)\n
+###
+2041617
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", i)\n
+###
+2413063
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+2439201
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", (n-i))\n
+###
+2459580
+def print_sums(n):13\n    for i in range(n):15\n        print(n,+, i,;, i)\n
+###
+2648081
+def print_sums(n):\n    for i in range(n):\n        if i+1!=n:\n        	print(n, "=", i+1, "+", n-(i+1))
+###
+2717821
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2773780
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2802909
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2802655
+def print_sums(n):\n    for i in range(1, n):\n        print(n, "=", i, "+", n - i)\n
+###
+2809298
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2809764
+def print_sums(n):\n    for i in range(1,n+1):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2802162
+def print_sums(n):\n    for i in range(1, n):\n        print(n, "=", i, "+", n-i)\n
+###
+2806881
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", 12-i)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-1-i)\n
+###
+2810636
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2813265
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+",n- i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+",n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2802247
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2818450
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-i-1)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+2819660
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-(i+1))\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-(i+1))\n
+###
+2819643
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+2821810
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", (i + 1), "+", (n - i - 1))\n
+###
+2828797
+def print_sums(n):\n    for i in range(1,n+1):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2802642
+def print_sums(n):\n    for i in range(n):\n        print(n, "=", i+1, "+", n-i-1)\n
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+2882572
+def print_sums(n):\n    for i in range(1,n):\n        n-=1\n        print(13, "=", i, "+", n)\n
+def print_sums(n):\n    for i in range(1,n):\n        n-=1\n        print(i+n, "=", i, "+", n)\n
+###
+2804190
+def print_sums(n):\n    for i in range(1, n):\n        print(n, "=", i, "+", n - i)\n
+###
+2926078
+def print_sums(n):\n    for i in range(1, n):\n        print(n, "=", i, "+", n-i)\n
+###
+2876299
+def print_sums(n):\n    for i in range(1, n+1):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+2970482
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", i+1, "+", n-i-1)\n
+###
+2812352
+def print_sums(n):\n    for i in range(1,n+1):\n        if n-i != 0:\n			print(n, "=", i, "+", n-i)\n
+###
+2940162
+def print_sums(n):\n    for i in range(1, n + 1):\n        print(n, "=", i, "+", n - i)\n
+def print_sums(n):\n    for i in range(1, n):\n        print(n, "=", i, "+", n - i)\n
+###
+3047465
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###
+3059777
+def print_sums(n):\n    for i in range(n-1):\n        print(n, "=", (i+1), "+", n-i-1)\n
+###
+2828593
+def print_sums(n):\n    for i in range(1,n+1):\n        print(n, "=", i, "+", n-i)\n
+def print_sums(n):\n    for i in range(1,n):\n        print(n, "=", i, "+", n-i)\n
+###

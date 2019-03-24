@@ -1,0 +1,340 @@
+2126139
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i*2)
+
+2128782
+def even_numbers(n):
+    for i in range(2,(n+1)*2,2):
+   	print(i)
+
+2057798
+def even_numbers(n):
+    for i in range (1, n+1):
+    	print(2*i)
+
+2078992
+def even_numbers(n):
+    for i in range(n):
+        print(2*(i+1))
+
+2087952
+def even_numbers(n):
+    for i in range(2,n*2+1,2):
+        print(i)
+2413063
+def even_numbers(n):
+    for i in range(n): 
+    	print(2*i+2)
+
+2439201
+def even_numbers(n):
+    for i in range(1,n+1):
+        a = i*2
+        print(a)
+
+
+2625181
+def even_numbers(n):
+    for even_numbers in range(1,n+1):
+    		print(2*even_numbers)
+
+2648081
+def even_numbers(n):
+    for i in range (n): print(2*i+2)
+       
+2801103
+def even_numbers(n):
+    for i in range(1,n+1):
+    	print(i*2)
+
+2802184
+def even_numbers(n):
+    y = 2;
+    for x in range(n):
+        print(y);
+        y = y + 2;
+2804640
+def even_numbers(n):
+    for i in range(1, n+1):
+    	print(i*2)
+
+2802909
+def even_numbers(n):
+    for i in range(n):
+        if i % 2 == 0:
+    		print(i+2)
+
+def even_numbers(n):
+    for i in range(2*n):
+        if i % 2 == 0:
+    		print(i+2)
+
+2802655
+def even_numbers(n):
+    for i in range(1, n + 1):
+        print(2*i)
+
+2806077
+def even_numbers(n):
+    for i in range (n):
+        print((i+1)*2)
+
+2805885
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+        
+
+2806888
+def even_numbers(n):
+    for i in range(n):
+        print(2*i+2)
+
+2806962
+def even_numbers(n):
+    for i in range(n):
+        print(i+2)
+
+2806381
+def even_numbers(n):
+    i = 0
+    a = 2
+    while i < n:
+        print(a)
+        a += 2
+        i += 1
+
+2809188
+def even_numbers(n):
+    i = 1
+    while i <= n:
+        print(2 * i)
+        i += 1
+
+2809298
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i*2)
+            
+
+2802916
+def even_numbers(n):
+    for i in range(2, n):
+        if(i % 2 == 0):
+            print(i)
+
+def even_numbers(n):
+    for i in range(2, n*2+1):
+        if(i % 2 == 0):
+            print(i)
+
+2809764
+def even_numbers(n):
+    x=2
+    for i in range(n):
+        print(x)
+        x=x+2
+
+2802162
+def even_numbers(n):
+    for i in range (n):
+    		print((i+1)*2)
+
+2805048
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1) * 2)
+
+2805080
+def even_numbers(n):
+    for i in range (2, n*2+2, 2):
+    	print(i)
+
+2805410
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i*2)
+    
+
+2810636
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(i*2)
+
+2813265
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i*2)
+    
+
+2802247
+def even_numbers(n):
+    for i in range(1,n*2+1):
+        if i%2==0:
+            print(i)
+
+2818450
+def even_numbers(n):
+    for i  in range(n):
+        print((i+1)*2)
+
+
+2819660
+def even_numbers(n):
+    for i in range(n):
+    	print(2+2*i)
+
+2819643
+def even_numbers(n):
+    for i in range (n):
+    	print(2+2*i)
+
+2819583
+def even_numbers(n):
+    for i in range (1, n+7):
+        if i%2==0:
+            print (i)
+
+def even_numbers(n):
+    for i in range (1, n+n+1):
+        if i%2==0:
+            print (i)
+
+2816717
+def even_numbers(n):
+    x=2
+    for i in range(n):
+    	print(x)
+    	x=x+2
+
+2828797
+def even_numbers(n):
+	for i in range(n):
+		print((i+1)*2)
+
+2831385
+def even_numbers(n):
+    for i in range(n):
+        if i%2==0:
+            print (i+2)
+        else:
+            print('')
+   			 
+
+2802642
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1)*2)
+
+2803849
+def even_numbers(n):
+    x=2
+    for i in range(n):
+        print(x)
+        x=x+2
+
+2805045
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(i*2)
+
+2882572
+def even_numbers(n):
+    for i in range(1,n+1):
+    	print(2*i)
+
+2855294
+def even_numbers(n):
+    for n in range(2, (n*2)+2):
+        if n %2 ==0:
+    		print(n)
+
+2926078
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+
+2876299
+def even_numbers(n):
+    for i in range(1, 2*n+1):
+        if i % 2 == 0:
+            print(i)
+
+2961202
+def even_numbers(n):
+    for i in range(n):
+	    print((i+1)*2)
+
+2964823
+def even_numbers(n):
+    for i in range(n):
+         print(i*2+2)
+
+2936556
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i+i)
+
+2970482
+def even_numbers(n):
+    a=0
+    for i in range(n):
+		a=a+2
+		print(a)
+
+2988877
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+
+2812352
+def even_numbers(n):
+    for i in range(1,(n+1)*2):
+        if i % 2 == 0:
+            print(i)
+3042251
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+
+3045028
+def even_numbers(n):
+    for i in range(1,n+1):
+    	print(i*2)
+
+2803949
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+
+def even_numbers(n):
+    for i in range(1, n+1):
+        print(2*i)
+
+2790330
+def even_numbers(n):
+    for i in range(n):
+     print(i*2+2)
+
+3047465
+def even_numbers(n):
+	for i in range(1,n*2+1):
+		if i % 2 == 0:
+			print(i)
+
+def even_numbers(n):
+	for i in range(1,n*2+1):
+		if i%2 == 0:
+			print(i)
+
+3059777
+def even_numbers(n):
+    for i in range(n):
+           print((i+1)*2)
+
+3071998
+def even_numbers(n):
+    for i in range(n):
+    	print((i+1)*2)
+

@@ -1,0 +1,81 @@
+def five_multiples(num_list):
+    
+    k=[]
+    for i in num_list:
+        if i%5==0:
+            k.append(i)
+        	
+        else:
+            
+            continue
+    return (k)        
+
+def five_multiples(num_list):
+    k=[]
+    for i in num_list:
+        if i%5==0:
+            k.append(i)
+        else:
+            continue
+    return k        
+            
+
+def five_multiples(num_list):
+  x = []
+  for i in num_list:
+    if i % 5 == 0:
+      x.append(i)
+  return x
+def five_multiples(num_list):
+	k = []
+	for i in (num_list):
+		if i % 5 ==0:
+			k.append(i)
+            
+	return k
+
+def five_multiples(num_list):
+    
+    vysledok = []
+    
+    for number in num_list:
+        if number % 5 == 0:
+            vysledok.append(number)
+    
+    return vysledok
+
+def five_multiples(num_list):
+    s = []
+    for i in num_list:
+        if i % 5 == 0:
+            s.append(i)
+    return s
+def five_multiples(num_list):
+    s=[]
+    for i in num_list:
+        if i%5==0: s.append(i)
+    return s
+
+def five_multiples(num_list):
+    x = []
+    for i in num_list:
+        if i % 5 == 0:
+            x.append(i)
+    return x
+
+def five_multiples(num_list):
+    five_folds=[]
+    for x in num_list:
+        if x%5==0:
+            five_folds.append(x)
+
+    return five_folds
+
+def five_multiples(num_list):
+    my=[]
+    for char in num_list:
+        
+        if char%5==0:
+            my.append(char)
+    return my
+            

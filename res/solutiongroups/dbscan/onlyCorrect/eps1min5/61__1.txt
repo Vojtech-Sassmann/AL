@@ -1,0 +1,175 @@
+def power_test(a, b):
+    if a**2 == b:
+        print(b,"je druhou mocninou", a)
+    elif b**2 == a:
+        print(a,"je druhou mocninou", b)
+    else:
+    	print("bagr")
+
+def power_test(a, b):
+    if a**2==b: print (b,"je druhou mocninou",a)
+    elif b**2==a: print (a,"je druhou mocninou",b)
+    else: print("bagr")
+
+def power_test(a, b):
+    if a**2==b:
+        print(b, "je druhou mocninou", a)
+    elif b**2==a:
+    	print(a, "je druhou mocninou", b)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+	if (a**2 == b):
+		print(b, "je druhou mocninou", a)
+	else:
+		if (b**2 == a):
+			print(a, "je druhou mocninou", b)
+		else:
+			print("bagr")
+def power_test(a, b):
+    if a**2 == b:
+        print (b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print (a, "je druhou mocninou", b)
+    else:
+        print ("bagr")
+
+def power_test(a, b):
+    if (a**2==b):
+        print(b, "je druhou mocninou", a)
+    elif (b**2==a):
+        print(a, "je druhou mocninou", b)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a == b ** 2:
+        print(a, "je druhou mocninou", b)
+    elif b == a ** 2:
+        print(b, "je druhou mocninou", a)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a==b**2:
+        print(a,"je druhou mocninou",b)
+    elif b==a**2:
+        print(b,"je druhou mocninou",a)
+    else:
+        print("bagr")
+    
+    
+    #print("bagr neni druhou mocninou")
+
+def power_test(a, b):
+    if a**2 == b:
+        print(b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print(a, "je druhou mocninou", b)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a**2==b:
+    	print(b,"je druhou mocninou",a)
+	
+    elif b**2==a:
+    	print(a, "je druhou mocninou",b)
+	
+    else:
+    	print("bagr")
+
+
+def power_test(a, b):
+    if (a == b**2):
+    	print(a, "je druhou mocninou", b)
+    elif (b == a**2):
+        print(b, "je druhou mocninou", a)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a**2==b:
+        print(b,"je druhou mocninou",a)
+    elif b**2==a:
+        print(a,"je druhou mocninou",b)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a ** 2 == b:
+        print(b, "je druhou mocninou", a)
+    elif b**2==a:
+        print(a, "je druhou mocninou", b)
+    else:
+    	print("bagr")
+
+def power_test(a, b):
+    if a**2 ==b:
+        print (b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print (a, "je druhou mocninou", b)
+    else:
+        print ("bagr")
+
+def power_test(a, b):
+	if a**2==b:
+		print(b,"je druhou mocninou",a)
+	elif b**2==a:
+		print(a,"je druhou mocninou",b)
+	else:
+		print("bagr")
+
+def power_test(a, b):
+    if(a**2==b):
+        print(b,"je druhou mocninou",a)
+    elif(b**2==a):
+        print(a,"je druhou mocninou",b)
+    else:
+    	print("bagr")
+
+def power_test(a, b):
+        if a**2 == b:
+            print(b,"je druhou mocninou",a)
+        elif b**2 == a:    
+             print(a,"je druhou mocninou",b)
+        else:
+            print("bagr")
+
+def power_test(a, b):
+    if a**2 == b:
+    	print(b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print(a, "je druhou mocninou", b)
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a**2==b: print(b,"je druhou mocninou",a)
+    elif b**2==a: print(a,"je druhou mocninou",b)
+    else: print("bagr")
+
+def power_test(a, b):
+    if a**2 == b:
+        print(b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print(a, "je druhou mocninou", b)
+    else:
+    	print("bagr")
+
+def power_test(a, b):
+	if a**2 == b:
+		print(b, "je druhou mocninou", a)
+	elif b**2 == a:
+		print(a, "je druhou mocninou", b)
+	else:
+		print("bagr")
+def power_test(a, b):
+    if a**2 == b:
+        print(b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print(a, "je druhou mocninou", b)
+    else:
+    	print("bagr")
+

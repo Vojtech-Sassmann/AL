@@ -1,0 +1,509 @@
+2126139
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2081667
+def hej_rup(n):
+    for n in range(n):
+        print("hej")
+        print("rup")
+
+2128782
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2057798
+def hej_rup(n):
+    for i in range(1, n+1):
+        print("hej")
+        print("rup")
+
+2078992
+def hej_rup(n):
+    for i in range (n):
+        print("hej")
+        print("rup")
+1712803
+def hej_rup(n):
+    for i in range (n*2):
+        if i % 2 == 0:
+            print("hej")
+        else:
+            print("rup")
+
+2234933
+def hej_rup(n):
+    print("hej")
+
+372834
+def hej_rup(n):
+    for i in range(n):   
+        print("hej")
+        print("rup")
+
+
+2353513
+def hej_rup(n):
+    print("hej")
+
+def hej_rup(n):
+    print("hej")
+
+def hej_rup(n):
+    print("hej")
+
+def hej_rup(n):
+    print("hej")
+
+2297115
+def hej_rup(n):
+    print("rup")
+	
+
+def hej_rup(n):
+    for x in range(n):
+        	print("hej")
+            print("rup")
+
+2408490
+def hej_rup(n):
+    for n in range(n):
+        print("hej")
+        print("rup")
+   
+2413063
+def hej_rup(n):
+    for i in range(n):
+    	print("hej\nrup")
+
+2439201
+def hej_rup(n):
+    for hej in range(n):
+    	print("hej")
+    for rup in range(n):
+        print("Rup")
+
+
+def hej_rup(n):
+    for hej in range(n):
+    	print("hej")
+    for rup in range(n):
+        print("Rup")
+
+
+def hej_rup(n):
+    for hej in range(n):
+    	print("hej")
+    	print("rup")
+
+
+2625181
+def hej_rup(n):
+    for hej_rup in range(n):
+        print("hej")
+        print("rup")
+
+2648081
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print ("rup")
+
+2769348
+def hej_rup(n):
+    for i in range(1,n+1,1):        
+    	if n%2==0:
+            print("hej")
+        else:
+            print("rup")
+def hej_rup(n):
+    for i in range(1,n+1):
+        if i%2==0:
+            print("rup")
+        else:
+            print("hej")
+def hej_rup(n):
+    for i in range(1,n+3):
+        if i%2==0:
+            print("rup")
+        else:
+            print("hej")
+def hej_rup(n):
+    for i in range(1,n*2,1):
+        if i%2==0:
+            print("rup")
+        else:
+            print("hej")
+2801103
+def hej_rup(n):
+    for i in range(n):
+    	print("hej\nrup")
+
+2802184
+def hej_rup(n):
+    for x in range(n):
+        print("hej");
+        print("rup");
+
+2802266
+def hej_rup(n):
+    for i in range(0,n):
+    	print("hej")
+    	print("rup")
+
+2804640
+def hej_rup(n):
+    for i in range(n):
+    	print("hej\nrup")
+
+2802909
+def hej_rup(n):
+    for i in range(n):
+    	print("hej")
+        print("rup")
+
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2802655
+def hej_rup(n):
+    for _ in range(n):
+    	print("hej\nrup")
+
+2806077
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2805885
+def hej_rup(n):
+    for i in range(n):
+        print('hej')
+        print('rup')
+
+2806888
+def hej_rup(n):
+    for i in range(n):
+       print("hej")
+       print("rup")
+2806962
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2806381
+def hej_rup(n):
+    i = 0
+    while i < n:
+        print("hej")
+        print("rup")
+        i += 1
+        
+   
+
+2809188
+def hej_rup(n):
+    i = 1
+    while i <= n:
+        print("hej")
+        print("rup")
+        i += 1
+
+2809298
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2802916
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2809764
+def hej_rup(n):
+    for i in range(n): 
+        if (i+1)%2==1:
+            print("hej")
+        else: print ("rup")
+    
+
+
+def hej_rup(n):
+    for i in range(2*n): 
+        if (i+1)%2==1:
+            print("hej")
+        else: print ("rup")
+    
+
+
+2802162
+def hej_rup(n):
+    for i in range (n):
+		print("hej")
+		print("rup")
+
+2805048
+def hej_rup(n):
+    for n in range(n):
+        print("hej")
+        print("rup")
+
+  
+2805080
+def hej_rup(n):
+    for i in range (n) :
+        
+    	print("hej", "rup")
+
+def hej_rup(n):
+    for i in range (n) :
+		print ("hej")
+		print("rup")
+
+2805410
+def hej_rup(n):
+    for i in range(n):
+    	print("hej""\n""rup")
+      
+
+2810636
+def hej_rup(n):
+    for i in range(n):
+        print("hej\nrup")
+
+2813265
+def hej_rup(n):
+    for slovo in range(1,n+1):
+        print("hej")
+        print("rup")
+2802247
+def hej_rup(n):
+    for i in range(n):  
+    	print("hej")
+        print("rup")
+
+def hej_rup(n):
+    for i in range(n):  
+    	print("hej")
+        print("rup")
+
+def hej_rup(n):
+	for i in range(n):  
+		print("hej")
+		print("rup")
+
+2818450
+def hej_rup(n):
+    for i in range(n):
+        print('hej')
+        print('rup')
+
+2819660
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+2819643
+def hej_rup(n):
+    k=1
+    for i in range (n):
+    	print("hej")
+    	for j in range (k):
+        	print ("rup")
+
+2819583
+def hej_rup(n):
+    for i in range (n):
+        print("hej")
+        print ("rup")
+2816717
+def hej_rup(n):
+    for i in range(n):
+    	print("hej")
+  	    print("rup")
+
+def hej_rup(n):
+    for i in range(n):
+        print("hej")    
+        print("rup")
+
+ 
+
+2828797
+def hej_rup(n):
+	for i in range(n):
+		print("hej")
+		print("rup")
+
+2831385
+def hej_rup(n):
+    for i in range(n):
+        print("hej",sep='')
+        print("rup",sep='')
+
+2802642
+def hej_rup(n):
+    for i in range(n):
+    	print("hej")
+    	print("rup")
+
+2803849
+def hej_rup(n):
+    for i in range(10):
+        print("hej")
+        print("rup")
+
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2857905
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2805045
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+    
+
+2882572
+def hej_rup(a):
+    for i in range(a):
+    	print("hej\nrup")
+
+2855294
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2926078
+def hej_rup(n):
+    for i in range(2*n):
+    	if i%2 == 0:
+    		print("hej")
+    	else:
+        	print("rup")
+
+2876299
+def hej_rup(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print("hej")
+        else:
+            print("rup")
+
+def hej_rup(n):
+    for i in range(1, 2*n+1):
+        if i % 2 == 1:
+            print("hej")
+        else:
+            print("rup")
+
+2944070
+def hej_rup(n):
+    for i in range(n):
+    	print("hej")
+    	print("rup")
+
+2961202
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2964823
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2936556
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2970482
+def hej_rup(n):
+    for i in range(n):
+		print("hej")
+		print("rup")
+2977336
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+2988877
+def hej_rup(n):
+    for i in range(n):
+    	print("hej\nrup")
+
+2812352
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+3042251
+def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+3045028
+def hej_rup(n):
+    for i in range(1,n+1):
+        print("hej")
+        print('rup')
+
+2803949
+def hej_rup(n):
+    for i in range(1, n+1):
+        print("hej")
+        print("rup")
+
+def hej_rup(n):
+    for i in range(1, n+1):
+        print("hej")
+        print("rup")
+
+2790330
+def hej_rup(n):
+    for i in range(n):
+     print("hej")
+     print("rup")
+
+3047465
+def hej_rup(n):
+	for i in range(n):
+		print("hej")
+		print("rup")
+
+3059777
+def hej_rup(n):
+    for i in range(n):
+    	print("hej","\n","rup")
+        	
+    
+3071998
+def hej_rup(n):
+    for i in range(n):
+     print ("hej")
+     print ("rup")

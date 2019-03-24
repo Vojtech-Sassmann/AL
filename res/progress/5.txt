@@ -1,0 +1,230 @@
+2130226
+def duplication(text):
+    for i in text:
+        text2 = i
+    return text
+
+2086966
+def duplication(text):
+	for i in range(len(text)):
+		print(text[i],end="")
+		print(text[i],end="")
+
+def duplication(text):
+	for i in range(len(text)):
+		for y in range(2):
+			return text[i]
+
+def duplication(text):
+	for i in range(len(text)):
+		for y in range(2):
+			print(text[i],end="")
+
+2158629
+def duplication(text):
+    a=len(text) - 1
+    for i in a:
+        
+
+def duplication(text):
+    for i in range (len(text)-1):
+        print(text[i]*2)
+
+def duplication(text):
+    for i in range (len(text)-1):
+        print(text*2)
+
+def duplication(text):
+    for i in range (len(text)-1):
+        print(text[i]*2)
+
+def duplication(text):
+    for i in range(len(text)-1):
+        print(text[i]*2)
+
+def duplication(text):
+    for i in range (int(len(text))):
+        
+
+2160532
+def duplication(text):
+    for i in range(len(text)):
+        return text[i] * 2, end=""
+
+2161267
+def duplication(text):
+    for i in range(len(text)):
+        print(((text[i]) * 2), end="")
+
+2163690
+def duplication(text):
+    for i in range(len(text)):
+        print = (text[i]*2,end="")
+
+2095775
+def duplication(text):
+    return text
+
+2437820
+def duplication(text):
+    for i in text:
+        print(i*2, end="")
+    print(end="\n")
+
+def duplication(text):
+    text2=""
+    for i in text:
+        text2=text2+i+i
+    return text2
+
+2439201
+def duplication(text):
+    dup1 = str()
+    for char in text:
+	    dup1 += char + char
+    return dup1
+
+2648081
+def duplication(text):
+    for i in range (len(text)):
+        print(2*text[i],end="")
+
+def duplication(text):
+    n=len(text)
+    for i in range (n):
+    	print(2*text[i],end="")
+
+def duplication(text):
+    n=len(text)
+    for i in range (n):
+    	print(2*text[i],end="")
+
+def duplication(text):
+    n=len(text)
+    for i in range (n):
+    	print(2*text[i],end="")
+def duplication(text):
+    n=len(text)
+    for i in range (n):
+    	print(2*text[i],end="")
+  
+       
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+2801103
+def duplication(text):
+  out = ""
+  for i in text :
+      out += i+i
+  return out
+
+2802909
+def duplication(text):
+    moj = ""
+    for i in text:
+        moj += 2*i
+    return moj
+
+2809764
+def duplication(text):
+    result=""
+    for i in range (len(text)):
+        result+=(2*text[i])
+
+    return result
+
+
+2813265
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    x=''
+    for let in text:
+        x+=(let*2)
+    return x
+
+2844811
+def duplication(text):
+    duplikat = ""
+    for i in text:
+        duplikat+=2*i
+    return duplikat
+
+2849628
+def duplication(text):
+    dupe=''
+    for a in range(len(text)):
+    	dupe+=2*text[a]   
+    return dupe
+
+2853743
+def duplication(text):
+    new=""
+    for char in text:
+    	new += char + char
+    return new
+2805873
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+2856023
+def duplication(text):
+    newstr = ""
+    for letter in text:
+        newstr += letter * 2
+    return newstr
+
+2856992
+def duplication(text):
+	return text[0]*2+text[1]*2+text[2]*2+text[3]*2+text[4]*2+text[5]*2
+
+def duplication(text):
+	return text*2
+
+2857905
+def duplication(text):
+    return "".join([l+l for l in text])
+
+2858625
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 += 2*text[i]
+    return text_2
+
+2872092
+def duplication(text):
+    new = ""
+    for i in text:
+        new+= i+i
+    return new
+
+3045540
+def duplication(text):
+    
+    return text
+
+def duplication(text):
+    
+    return text
+

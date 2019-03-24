@@ -1,0 +1,67 @@
+2132664
+def string_intersection(left, right):
+    for k in (left):
+        for j in right:
+            if i==k:
+             print(i)
+
+2162436
+def string_intersection(left, right):
+ for i, prvek in enumerate(left):
+  for s, prvek2 in enumerate(right):
+    if s==i and prvek == prvek2:
+     print(prvek)
+2437820
+def string_intersection(left, right):
+    for i in range(len(left)):
+    	if left[i]==right[-1-i]:
+            print(i)
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+    	if left[i]==right[-1-i]:
+            print(i)
+
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+2802909
+def string_intersection(left, right):
+    if len(left) > len(right):
+        for i in range(len(right)):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+
+2809764
+def string_intersection(left, right):
+
+    for i in range (len(shorter(left,right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+
+2856023
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+2857905
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+

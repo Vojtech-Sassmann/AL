@@ -1,0 +1,1361 @@
+1792769
+def happy(a, b, c):
+    if a<3 and b<3 and c<3:
+    	return True
+    else: return False
+
+def happy(a, b, c):
+    if a<3 and b<3 and c<3:
+    	return True
+    else: return False
+
+def happy(a, b, c):
+    if a<3 and b<3 and c<3:
+    	return True
+    else: return False
+
+def happy(a, b, c):
+    if a<3 and b<3 and c<3:
+    	return True
+    else: return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else: return False
+
+1727203
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else: return False
+
+2126139
+def happy(a, b, c):
+    if(a < 3 or b < 3 or c < 3):
+        return True
+    else:
+        return False
+
+2102516
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    return False
+
+2081667
+def happy(a, b, c):
+    return (a<3 or b<3 or c<3)
+    
+1532891
+def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+359275
+def happy(a, b, c):
+	if a<3 or b<3 or c<3:
+		return True
+	else:
+		return False
+359281
+def happy(a, b, c):
+    return (a < 3) and (b < 3) and (c < 3)
+
+1880528
+def happy(a, b, c):
+    return (a<3)or(b<3)or(c<3)
+
+2128782
+def happy(a, b, c):
+    if a < 3 or b<3 or c<3:
+        return True
+    return False
+
+1938409
+def happy(a, b, c):
+    (a, b, c) > 6
+    return False or True 
+467048
+def happy(a, b, c):
+    if a<3:
+        return True
+    elif b<3:
+        return True
+    elif c<3:
+        return True
+    else:
+        return False
+
+2057798
+def happy(a, b, c):
+    
+    return (a<3 or b < 3 or c<3)
+
+2157730
+def happy(a, b, c):
+    return False
+
+2080112
+def happy(a, b, c):
+    return True
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    print(happy(3, 4, 2))
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+def happy(a, b, c):
+    def happy(a, b, c):
+
+2173063
+def happy(a, b, c):
+    return False
+
+1712803
+def happy(a, b, c):
+    if (a<3) or (b<3) or (c<3):
+        return True
+    return False
+
+1814200
+def happy(a, b, c):
+    if a or b or c<=3:
+     return True
+    return False
+
+def happy(a, b, c):
+    if (a or b or c)<3:
+     return True
+    return False
+
+def happy(a, b, c):
+    if (a or b or c)<=3:
+     return True
+    if (a or b or c)>3:
+     return False
+
+def happy(a, b, c):
+    if (a or b or c)<3:
+     return True
+    return False
+    
+
+def happy(a, b, c):
+    if (a or b or c)<3:
+     return True;
+    return False
+    
+
+2121562
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+2206036
+def happy(a, b, c):
+    if a or b:
+     return True
+    elif c:
+        return False
+
+def happy(a, b, c):
+    if a or b:
+     return True
+    elif c:
+        return False
+
+2026013
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+    	return False
+
+2299780
+def happy(a, b, c):
+    for i in a, b, c:
+        if i < 3: return True
+    return False
+
+2319246
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return True
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+def happy(c, c, c):
+    return False
+
+def happy(a, b, c):
+    return False
+
+2148602
+def happy(a, b, c):
+    if a = 3:
+    	return True
+	else:
+        return False
+
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+        return False
+
+2333832
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+321541
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    return False
+372834
+def happy(a, b, c):
+    if a<=3 or b<=3 or c<=3:
+        print("True")
+    else:
+        print("False")
+
+2326755
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+    if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+	if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+    if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+2150934
+def happy(a, b, c):
+    return False
+
+2368896
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    return False
+print(happy(3, 4, 2))
+def happy(a,b,c):print(happy(3, 4, 2))
+    return False
+
+def happy(a, b, c):print(happy(3, 4, 2))
+    return False
+
+def happy(a, b, c):print(happy(3, 4, 2))
+    return False
+
+def happy(a, b, c):print(happy(3, 4, 4))
+    return False
+
+def happy(a, b, c):print(happy(3, 4, 4))
+    
+
+2393840
+def happy(a, b, c): (3) happy 
+    (1) happy - "print"
+    (2) happy -"print"
+    (2) happy -"print"
+    
+    return False
+
+def happy(a, b, c): (3) happy 
+    print (happy(3,4,4,))
+    (2) happy -"print"
+    (2) happy -"print"
+    
+    return False
+
+def happy(a, b, c): (3) happy 
+    print (happy(3,4,4,))
+    (1) happy - "print"
+    (2) happy -"print"
+    
+    return False
+
+2087952
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+2408490
+def happy(a, b, c):
+    if a <= 2:
+        return True
+    elif b <=2:
+        return True
+    elif c <=2:
+        return True
+    else:
+        return False
+2408400
+def happy(a, b, c):
+    if a < 3 or b < 3 or c <3:
+        return True
+    else:
+        return False
+
+
+2413063
+def happy(a, b, c):
+    if (a<3)or(b<3)or(b<3): 
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if (a<3)or(b<3)or(c<3): 
+        return True
+    else:
+        return False
+
+2439201
+def happy(a, b, c):
+    if a or b or c > 2:
+    	return False
+    else:
+        return True
+
+def happy(a, b, c):
+    if ((a >= 1,2) and (b >= 1,2) and (b >= 1,2)):
+    	return True
+def happy(a, b, c):
+    if ((a > 2) and (b > 2) and (c > 2)):
+        return False
+    else:
+        return True
+    return False
+
+2648081
+def happy(a, b, c):
+    if a<3 or b<3 or c<3: return True
+    else: return False
+
+2711857
+def happy(a, b, c):
+    for i in (a, b, c):
+        if i > 3:
+            return True
+        else:
+            return False
+
+def happy(a, b, c):
+    hap =[]
+    for i in (a, b, c):
+        if i < 3:
+            hap.append(i)
+    if hap != []:
+        return True
+    else:        
+    	return False
+
+2764973
+def happy(a, b, c):
+    if a < 3:
+        return True
+    if b < 3:
+        return True
+    if c < 3:
+        return True
+    else:
+        return False
+
+2765143
+def happy(a, b, c):
+    if a < 3:
+        return True
+    if b < 3:
+        return True
+    if c < 3:
+        return True
+    else:
+    	return False
+
+2773019
+def happy(a, b, c):
+    if a 
+    return False
+2773780
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+2787290
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+  	return False
+
+2803324
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+   		 return True
+    else:
+        return False
+
+2802909
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+    	return True
+    else:
+        return False
+
+2807150
+def happy(a, b, c):
+    if (a<3) or (b<3) or (c<3):
+        return True
+    else:
+        return False
+
+2807646
+def happy(a, b, c):
+    return True if any(x < 3 for x in (a, b, c)) else False
+2809298
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3: return True
+    return False
+
+2802916
+def happy(a, b, c):
+    if (a > 2) and (b > 2) and (c > 2):
+        return False
+    else:
+        return True
+
+2809764
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else: return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:return False
+
+2811385
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+    	return True
+    else:
+        return False
+
+2805670
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+
+2802162
+def happy(a, b, c):
+	if a < 3 or b < 3 or c < 3:
+    	return True
+	else:
+    	return False
+
+2805048
+def happy(a, b, c):
+    if a < 3:
+        return True
+    elif b < 3:
+        return True
+    elif c < 3:
+        return True
+    else:
+        return False 
+   
+
+2805080
+def happy(a, b, c):
+    if a<3 or b<3 or c<3 :
+    	return True
+    else :
+    	return False
+
+2813424
+def happy(a, b, c)
+    if a <= 3 or b <= 3 or c <=3:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a <= 3 or b <= 3 or c <=3:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <=2:
+        return True
+    else:
+        return False
+
+2810636
+def happy(a, b, c):
+    if(a<3 or b<3 or c<3):
+        return True
+    else:
+        return False
+
+2807171
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+        return False
+
+2802894
+def happy(a, b, c):
+    if a or b or c <3:
+    	return False
+    else:
+        return True
+
+def happy(a, b, c):
+    if a or b or c <3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c <=3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c <=3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c < 3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c < 3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c < 4:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c <=2:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c <=2:
+    	return False
+    else:
+        return True
+
+def happy(a, b, c):
+    if a or b or c > 3 :
+    	return False
+    else:
+        return True
+
+def happy(a, b, c):
+    if a or b or c < 3 :
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a and b and c < 3 :
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a or b or c < 3 :
+    	return True
+    else:
+        return False
+
+2805335
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+
+def happy(a, b, c):
+    if a<=3 or b<=3 or c<=3:
+    	return True
+    else:
+        return False
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+2805831
+def happy(a, b, c):
+    if ((a < 3) or (b < 3) or (c < 3)):
+    	return True
+    else:
+        return False
+
+2802247
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2818450
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+    	return False
+
+2819660
+def happy(a, b, c):
+    if a<=3 or b<=3 or c<=3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2819643
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+
+2819583
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2803158
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+    	return False
+
+2828797
+def happy(a, b, c):
+	if (a<3) or (b<3) or (c<3):
+		return True
+	else:
+		return False
+
+
+2809440
+def happy(a, b, c):
+    if((a<3 or b<3 or c<3)):
+        return True
+    else: return False
+
+2802642
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+    	return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2846634
+def happy(a, b, c):
+    return a<3 or b<3 or c<3
+
+2803849
+def happy(a, b, c):
+    if (a or b or c)<3:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if (a or b or c)<3:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2806059
+def happy(a, b, c):
+    return(a<3 or b<3 or c<3)
+
+2807182
+def happy(a, b, c):
+    happiness = (a<3) or (b<3) or (c<3)
+    return happiness
+
+2805045
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        print("True")
+    else:
+        print("False")
+    return print
+
+
+
+2803292
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+2817570
+def happy(a, b, c):
+    return a<3 or b<3 or c<3
+
+2883175
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else:
+        return False
+
+2882572
+def happy(a, b, c):
+    if ((a<3) or (b<3) or (c<3)) and (0<a<6) and (0<b<6) and (0<c<6):
+    	return True
+    else:
+        return False
+
+
+2804190
+def happy(a, b, c):
+    for i in a, b, c:
+        if i < 3:
+            return True
+    return False;
+
+2810855
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2922684
+def happy(a, b, c):
+    if (a<3)or(b<3)or(c<3):
+    	return True
+    else:
+        return False
+
+2924281
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+    	return True
+    else:
+        return False
+
+2926078
+def happy(a, b, c):
+    return ((a<3) or (b<3) or (c<3))
+
+2928683
+def happy(a, b, c):
+    if(a<=3 or b<=3 or c<=3):
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if(a<3 or b<3 or c<3):
+    	return True
+    else:
+        return False
+
+2933730
+def happy(a, b, c):
+    if (a<3 or b<3 or c<3):
+        return True
+    else:
+    	return False
+
+2935008
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+    	return True
+    else:
+        return False
+
+2812655
+def happy(a, b, c):
+    if(a < 3 or b < 3 or c < 3):
+    	return True
+    else:
+        return False
+2939266
+def happy(a, b, c):
+    if(a or b or c <= 3):
+    	return True 
+    else: 
+    	return False 
+
+def happy(a, b, c):
+    if(a or b or c <= 3):
+    	return False
+    else: 
+    	return True 
+
+def happy(a, b, c):
+    if(a or b or c < 3):
+    	return True
+    else: 
+    	return False
+
+def happy(a, b, c):
+    if(a or b or c >3):
+    	return False
+    else: 
+    	return True
+
+def happy(a, b, c):
+    if(a or b or c <3):
+    	return True
+    else: 
+    	return False
+
+def happy(a, b, c):
+    if(a , b , c <3):
+    	return True
+    else: 
+    	return False
+
+def happy(a, b, c):
+    if(a < 3 or b < 3 or c <3):
+    	return True
+    else: 
+    	return False
+
+2944657
+def happy(a, b, c):
+    if a < 3 or b <3 or c <3:
+        return True
+    else:
+    	return False
+
+2944672
+def happy(a, b, c):
+    if a<3 or b<3 or c <3:
+    	return True 
+    else:
+        return False
+2849133
+def happy(a, b, c):
+    if (a < 3) or (b < 3) or (c < 3):
+        return True
+    else:
+    	return False
+
+2924329
+def happy(a, b, c):
+    if a < 3:
+        return True
+    if b < 3:
+        return True
+    if c < 3:
+		return True
+    else:
+        return False
+
+2964823
+def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+2945481
+def happy(a, b, c):
+   if a+b+c <= 11:
+    	return True
+   else:
+        return False
+
+def happy(a, b, c):
+   if a > 3 or b > 3 or c > 3 :
+    return True
+   else :
+    return False
+def happy(a, b, c):
+   if a < 3 or b < 3 or c < 3 :
+    return True
+   else :
+    return False
+2936556
+def happy(a, b, c):
+    if a+b+c<=10:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+        return False
+
+2970482
+def happy(a, b, c):
+    if (a<3 or b<3 or c<3):
+        return True
+    else:
+    	return False
+
+2969431
+def happy(a, b, c):
+   if a<3 or b <3 or c< 3 :
+       return True
+   else:
+       return False
+
+2933544
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    else:
+    	return False
+
+2988877
+def happy(a, b, c):
+    return ((a < 3) or (b < 3) or (c < 3))
+
+2994452
+def happy(a, b, c):
+    if (a or b or c) < 3:
+    	return True
+    else: 
+        return False
+
+def happy(a, b, c):
+    if (a or b or c) <= 2:
+    	return True
+    else: 
+        return False
+
+def happy(a, b, c):
+    if (a or b or c) <= 2:
+    	return True
+    else: 
+        return False
+
+def happy(a, b, c):
+    if (a and b and c) > 2:
+    	return False
+    else: 
+        return True
+
+def happy(a, b, c):
+    if (a and b and c) > 2:
+    	result = False
+    else: 
+        result = True
+    if result == True:
+        return True
+    else: 
+    	return False
+
+def happy(a, b, c):
+    if (a & b & c) > 2:
+    	result = False
+    else: 
+        result = True
+    if result == True:
+        return True
+    else: 
+    	return False
+
+def happy(a, b, c):
+    if (a & b & c) > 2:
+    	return True
+    else: 
+        return False
+
+2806125
+def happy(a, b, c):
+	if ((a<3) or (b<3) or (c<3)):
+		return True
+	else: return False
+
+3010469
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+    	return False
+
+2843178
+def happy(a, b, c):
+    x = 3
+    while (a, b, c)>=x:
+    	return False
+    while (a, b, c)<x:
+        return True
+
+3031218
+def happy(a, b, c):
+    return a < 3 or b < 3 or c < 3
+
+3042251
+def happy(a, b, c):
+    if (a or b or c) < 3:
+        return True
+    return False
+
+def happy(a, b, c):
+    if a < 3 or b < 3 or c < 3:
+        return True
+    return False
+
+3049489
+def happy(a, b, c):
+    x = a + b + c
+    x = x / 3
+    if(x <= 3) :
+    	return True;
+    else :
+    	return False
+
+
+def happy(a, b, c):
+    x = a + b + c
+    x = x / 3
+    if(x < 3) :
+    	return True;
+    else :
+    	return False
+
+
+def happy(a, b, c):
+    x = a + b + c
+    x = x / 3
+    if(x < 4) :
+    	return True;
+    else :
+    	return False
+
+
+def happy(a, b, c):
+    if(a <= 3) :
+        return True
+    if(b <= 3) :
+        return True
+    if(c <= 3) :
+        return True
+
+def happy(a, b, c):
+    if(a < 3) :
+        return True
+    if(b < 3) :
+        return True
+    if(c < 3) :
+        return True
+    else :
+        return False
+
+3051637
+def happy(a, b, c):
+    if (a > 3) and (b > 3) and (c > 3):
+   		return False
+    if (a <= 3) or (b <= 3) or (c <= 3):
+   		return True
+	
+
+
+3052598
+def happy(a, b, c):
+    arr = [a, b ,c]
+    if 1 in arr or 2 in arr :
+    	return True
+    else :
+        return False
+
+3053960
+def happy(a, b, c):
+    return False
+
+def happy(a, b, c):
+    if (a, b, c > 1)
+    
+    
+    
+    return True
+
+2856252
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+        return True
+    else:
+    	return False
+
+3071998
+def happy(a, b, c):
+    if a or b or c < 3:
+        return True
+    else:
+    	return False
+
+def happy(a, b, c):
+    if a < 3:
+        return True
+    elif b < 3:
+        return True
+    elif c < 3:
+        return True
+    else:
+    	return False
+

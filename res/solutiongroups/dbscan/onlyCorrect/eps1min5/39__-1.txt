@@ -1,0 +1,31 @@
+def queen(x, y):
+    for rows in range(1,9):
+        for cols in range(1,9):
+            if cols==x and rows==y:
+                print("D",end="")
+            elif cols==x or rows==y:
+                print("*",end="")
+            elif cols-rows==x-y or cols+rows==x+y:
+                print("*",end="")
+            else:
+                print(".", end="")
+        print()
+
+def queen(x, y):
+
+    for i in range(1,9):
+        for j in range (1,9):
+            if i==y and j==x:
+                print("D",end="")
+            elif i==y and j!=x:
+                print("*",end="")
+            elif j==x and i!=y:
+                print ("*",end="")
+            elif i-y==j-x:
+                print ("*",end="")
+            elif i-y==x-j:
+                print("*",end="")
+                
+            else:print (".",end="")
+        print()
+

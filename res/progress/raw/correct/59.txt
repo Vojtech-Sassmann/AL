@@ -1,0 +1,164 @@
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for s in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range (n):\n    	print("sob")\n    for i in range (n*2):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for x in range(n*2):\n    	print("los")
+###
+1111
+def animals(n):\n    for i in range (n):\n        print("sob")\n    for j in range (n*2):\n        print("los")\n        
+###
+1111
+def animals(n):\n    for i in range (n): print("sob")\n    for i in range (n):\n        print ("los")\n        print ("los")\n
+###
+1111
+def animals(n):\n	for i in range(n):\n		print("sob")\n	for i in range(n*2):\n		print("los")
+###
+1111
+def animals(n):\n   for x in range(n):\n       print("sob");\n\n   for x in range(n*2):\n       print("los");
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for _ in range(n):\n    	print("sob")\n    for _ in range(2*n):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print('los')\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(2*n):\n        print("los")
+###
+1111
+def animals(n):\n    i = 0\n    while i < n:\n        print("sob")\n        i += 1\n\n    i = 0\n\n    while i < (n * 2):\n        print("los")\n        i += 1\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for j in range(2*n):\n    	print("los")      \n
+###
+1111
+def animals(n):\n    for i  in range(n):\n    	print("sob")\n    for j in range(2*n):\n        print ("los")\n
+###
+1111
+def animals(n):\n    print("\n".join(["sob" for i in range(1,n*1+1) ]))\n    print("\n".join(["los" for i in range(1,n*2+1) ]))
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for j in range(n * 2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print('sob')\n    for j in range(n):\n        print('los')\n        print('los')\n\n
+###
+1111
+def animals(n):\n	for i in range(n):\n		print("sob")\n	for j in range(n*2):\n		print("los")
+###
+1111
+def animals(n):\n    for i in range (n):\n        print ("sob")\n    for i in range (2*n):\n        print ("los")
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for j in range(2*n):\n    	print("los")\n
+###
+1111
+def animals(n):\n	for i in range(n):\n		print("sob")\n	for i in range(n*2):\n		print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n        print("los")\n  \n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range (n):\n    	print("sob")\n    for i in range (n*2):\n    	print ("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range (n) :\n    	print("sob")\n    for i in range (n*2):\n        print ("los")\n    \n
+###
+1111
+def animals(n):\n    for i in range(n):\n  	    print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(2*n):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(n*2):\n    	print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(2*n):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range (n):\n        print("sob")\n    for i in range (n*2):\n    	print ("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(2*n):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for j in range(2*n):\n        print("los")\n            \n       \n        \n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n        print("los")\n        print("los")\n
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for j in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n	for i in range(n):\n    	print("sob")\n	for i in range(n*2):\n		print("los")\n
+###
+1111
+def animals(n):\n    for word in range(n):\n        print("sob")\n        print(2*"los")\n    \n    
+def animals(n):\n    for word in range(n):\n        print("sob")\n    for word in range(2*n):\n          print("los")\n        \n       
+###
+1111
+def animals(n):\n    for i in range(1, n+1):\n        print("sob")\n    for j in range(1, 2*n+1):\n        print("los")
+###
+1111
+def animals(n):\n    for i in range(1,n+1):\n    	print("sob")\n    for j in range(1,n*2+1):\n        print('los')\n
+###
+1111
+def animals(n):\n    for i in range(1, n+1):\n        print("sob")\n    for j in range(1, 2*n+1):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n     print("sob")\n    for i in range(n*2):\n     print("los")\n
+###
+1111
+def animals(n):\n	for i in range(n):\n		print("sob")\n	for i in range(n*2):\n		print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n):\n        print("los")\n        print("los")
+###
+1111
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n   		print("sob")\n    for i in range(n*2):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for j in range(2*n):\n        print("los")\n
+###
+1111
+def animals(n):\n    for i in range(n):\n    	print("sob")\n    for i in range(2*n):\n		print("los")
+###

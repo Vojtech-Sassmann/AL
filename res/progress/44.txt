@@ -1,0 +1,61 @@
+2094880
+def make_fancy(text, n):
+    delka = len(text)
+    index = 0
+    mezera = 0
+    while index < delka:
+        print (" " * (mezera), end = "")
+        for i in range(n):
+          print (text[index], end = " ")
+        print()
+        mezera = mezera + 1
+        index = index + 1
+2004391
+def makefancy(slovo, n):
+  for i in range(len(slovo)):
+    print((" ") * i, end="")
+    print(slovo[i] * n)
+  
+  
+  
+makefancy("tucnák", 3)
+def make_fancy(slovo, n):
+  for i in range(len(slovo)):
+    print((" ") * i, end="")
+    print(slovo[i] * n)
+  
+  
+  
+make_fancy("tucnák", 3)
+2090160
+def make_fancy(text, n):
+    for i in range(len(text)):
+    	print((" ") * i, end="")
+    	print(text[i] * n)
+
+2437820
+def make_fancy(text, n):
+    for i,a in enumerate(text):
+    	print(" "*i, (a+" ")*n)
+
+2809764
+def make_fancy(text, n):
+    for i in range (len(text)):
+        print(i*" ",end="")
+        print (n*(text[i]+" "))
+
+2844811
+def make_fancy(text, n):
+	for i in range(len(text)):
+		print(i*" "+n*(text[i]+" "))
+
+2856023
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+        print(" "*i + letter + (" "+letter)*(n-1))
+
+2857905
+def make_fancy(text, n):
+    for i, letter in enumerate(text):
+    	print(" "*i + text[i] + (" "+text[i])*(n-1))
+

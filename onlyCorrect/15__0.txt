@@ -1,0 +1,30 @@
+def every_second_number(num_list):
+    for i in range (len(num_list)):
+        if i % 2 == 0:
+            print (num_list[i])
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i%2==0: print(num_list[i])
+    		
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i%2==0:
+        	print(num_list[i])
+
+def every_second_number(num_list):
+    for i in range (len(num_list)):
+        if i%2==0:
+            print (num_list[i])
+            
+
+def every_second_number(num_list):
+    for x in range(len(num_list)):
+    	if x % 2 == 0:
+                print(num_list[x])
+
+def every_second_number(num_list):
+    for pos in range(len(num_list)):
+        if pos%2==0:
+            print(num_list[pos])
+
+

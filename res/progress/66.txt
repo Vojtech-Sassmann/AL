@@ -1,0 +1,889 @@
+2439201
+def decide(symbol1, symbol2):
+    if symbol1 < symbol2:
+        print("K")
+    if symbol1 > symbol2:
+        print("P")
+    else:
+        print("Remiza")
+    #print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol1 > symbol2:
+        print("K")
+    if symbol2 < symbol1:
+        print("P")
+    if symbol2 == symbol1:
+        print("Remiza")
+    #else:
+        #print("Remiza")
+    #if symbol2 > symbol2:
+        #print("Remiza")
+    #print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol1 > symbol2:
+        print("K")
+    if symbol2 < symbol1:
+        print("P")
+    if symbol2 == symbol1:
+        print("Remiza")
+    #else:
+        #print("Remiza")
+    #if symbol2 > symbol2:
+        #print("Remiza")
+    #print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol2 > symbol1:
+        print("K")
+    if symbol1 < symbol2:
+        print("P")
+    if symbol1 == symbol2:
+        print("Remiza")
+def decide(symbol1, symbol2):
+    if symbol2 > symbol1:
+        print("K")
+    if symbol1 > symbol2:
+        print("P")
+    if symbol1 == symbol2:
+        print("Remiza")
+def decide(symbol1, symbol2):
+    if symbol1 > symbol2:
+        print("K")
+    if symbol1 < symbol2:
+        print("P")
+    if symbol1 == symbol2:
+        print("Remiza")
+def decide(symbol1, symbol2):
+    if symbol1 < symbol2 or symbol1 > symbol2:
+        print("K")
+    if symbol1 < symbol2 or symbol1 > symbol2:
+        print("P")
+    if symbol1 < symbol2 or symbol1 > symbol2 or symbol1 == symbol2:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol1 < symbol2 or symbol1 > symbol2:
+        print("K")
+    if symbol1 < symbol2 or symbol1 > symbol2:
+        print("P")
+    if symbol1 < symbol1 or symbol2 == symbol2:
+        print("Remiza")
+
+2648081
+def decide(symbol1, symbol2):
+    if symbol1=="K" and symbol2=="N": print("K")
+    elif symbol1=="K" and symbol2=="P": print("P")
+    elif symbol1=="P" and symbol2=="K": print("P")
+    elif symbol1=="P" and symbol2=="N": print("N")
+    elif symbol1=="N" and symbol2=="K": print("K")
+    elif symbol1=="N" and symbol2=="P": print("N")
+    else: print("Remiza")
+
+2773780
+def decide(symbol1, symbol2):
+    symbols = symbol1 + symbol2
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbols == 'KN' or symbols == 'NK':
+        print("K")
+    elif symbols == 'NP' or symbols == 'PN':
+        print("N")
+    elif symbols == 'KP' or symbols == 'PK':
+        print("P")
+        
+
+2802909
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K":
+        if symbol2 == "N":
+            print(symbol1)
+        else:
+            print(symbol2)
+    elif symbol1 == "N":
+        if symbol2 == "P": 
+            print(symbol1)
+        else:
+            print(symbol2)
+    elif symbol1 == "P":
+        if symbol2 == "K": 
+            print(symbol1)
+        else:
+            print(symbol2)
+
+2809298
+def decide(symbol1, symbol2):
+    if symbol1=="K":
+        if symbol2=="N": print(symbol1)
+        elif symbol2=="P": print(symbol2)
+        else: print("Remiza")
+    if symbol1=="N":
+        if symbol2=="P": print(symbol1)
+        elif symbol2=="K": print(symbol2)
+        else: print("Remiza")
+    if symbol1=="P":
+        if symbol2=="K": print(symbol1)
+        elif symbol2=="N": print(symbol2)
+        else: print("Remiza")
+2802916
+def decide(symbol1, symbol2):
+    if(symbol1 != symbol2):
+        if symbol1 == "K":
+            if symbol2 == "P":
+                print("P")
+            else:
+                print("K")
+        if symbol2 == "K":
+            if symbol1 == "P":
+                print("P")
+            else:
+                print("K")
+        if symbol1 == "N":
+            if symbol2 == "P":
+                print("N")
+        if symbol2 == "N":
+            if symbol1 == "P":
+                print("N")
+    else:
+        print("Remiza")
+
+2809764
+def decide(symbol1, symbol2):
+    if symbol1=="K" and symbol2=="N":
+        print ("K")
+    elif symbol2=="K" and symbol1=="N":
+        print ("K")
+    elif symbol1=="K" and symbol2=="P":
+        print ("P")
+    elif symbol1=="P" and symbol2=="K":
+        print ("P")
+    elif symbol1=="P" and symbol2=="N":
+        print ("N")
+    elif symbol1=="N" and symbol2=="P":
+        print ("N")
+    else: print("Remiza")
+    
+    
+    
+2802162
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    if (symbol1 == "K" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "K"):
+    	print ("K")
+    if (symbol1 == "P" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "P"):
+    	print ("N")
+    if (symbol1 == "K" and symbol2 == "P") or (symbol1 == "P" and symbol2 == "K"):
+    	print ("P")
+2805080
+def decide(symbol1, symbol2):
+    if symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "K" :
+        print ("K")
+    elif symbol1 == "P" and symbol2 == "K" or symbol1 == "K" and symbol2 == "P" :
+        print ("P")
+    elif symbol1 == "N" and symbol2 == "P" or symbol1 == "P" and symbol2 == "N" :
+        print ("N")
+    else :
+    	print("Remiza")
+
+2810636
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == 'K' and symbol2 == 'N':
+        print(symbol1)
+    elif symbol1 == 'K' and symbol2 == 'P':
+        print(symbol2)
+    else:
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == 'K' and symbol2 == 'N':
+        print(symbol1)
+    elif symbol1 == 'K' and symbol2 == 'P':
+        print(symbol2)
+    elif symbol1 == 'N' and symbol2 == 'P':
+        print(symbol1)
+    elif symbol1 == 'N' and symbol2 == 'K':
+        print(symbol2)
+    elif symbol1 == 'P' and symbol2 == 'K':
+        print(symbol1)
+    else:
+        print(symbol2)
+
+2805831
+def decide(symbol1, symbol2):
+    if (symbol1 == symbol2):
+    	print("Remiza")
+    elif ((symbol1 == 'K' and symbol2 == 'N') or (symbol1 == 'N' and symbol2 == 'P') or (symbol1 == 'P' and symbol2 == 'K')):
+    	print(symbol1)
+    else:
+    	print(symbol2)
+
+2802247
+def decide(symbol1, symbol2):
+    if (symbol1==symbol2):
+        print("remiza")
+    else:
+        if(symbol1=="K" and symbol2=="N")or(symbol1=="N" and symbol2=="K"):
+            print("K")
+        elif(symbol1=="N" and symbol2=="P")or(symbol1=="P" and symbol2=="N"):
+            print("N")
+        else:
+            print("P")
+
+def decide(symbol1, symbol2):
+    if (symbol1==symbol2):
+        print("Remiza")
+    else:
+        if(symbol1=="K" and symbol2=="N")or(symbol1=="N" and symbol2=="K"):
+            print("K")
+        elif(symbol1=="N" and symbol2=="P")or(symbol1=="P" and symbol2=="N"):
+            print("N")
+        else:
+            print("P")
+
+2818450
+def decide(symbol1, symbol2):
+    if symbol1 != symbol2:
+        if symbol1=='K':
+            if symbol2 == 'N':
+                print(symbol1)
+            else:
+                print(symbol2)
+        else:
+            if symbol1 =='N':
+                if symbol2 =='P':
+                    print(symbol1)
+                else:
+                    print(symbol2)
+            else:
+                if symbol2 =='K':
+                    print(symbol1)
+                else:
+                    print(symbol2)
+                	
+    else:    	
+    	print("Remiza")
+
+2819660
+def decide(symbol1, symbol2):
+    if symbol1=="P" and symbol2=="K" or symbol1=="K" and symbol2=="P":
+        print("P")
+    elif symbol1=="K" and symbol2=="N" or symbol1=="N" and symbol2=="K":
+        print("K")
+    elif symbol1=="P" and symbol2=="N" or symbol1=="N" and symbol2=="P":
+        print("N")
+    else:
+        print("Remiza")
+
+2819643
+def decide(symbol1, symbol2):
+    if symbol1=="K" and symbol2=="N" or symbol1=="N" and symbol2=="K":
+        print ("K")
+    else:
+        if symbol1=="K" and symbol2=="P" or symbol1=="P" and symbol2=="K":
+            print ("P")
+        else:
+            if symbol1=="N" and symbol2=="P" or symbol1=="P" and symbol2=="N":
+                print ("N")
+            else:
+                print ("Remiza")
+2819583
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print ("K")
+    elif symbol1 == "K" and symbol2 == "P":
+        print ("P")
+    elif symbol1 == "P" and symbol2 == "N":
+        print ("N")
+    elif symbol1 == "P" and symbol2 == "K":
+        print ("P")
+    elif symbol1 == "N" and symbol2 == "P":
+        print ("N")
+    elif symbol1 == "N" and symbol2 == "K":
+        print ("K")
+        
+
+2802203
+def decide(symbol1, symbol2):
+    if symbol1=="K" and symbol2=="N":
+    	print("K")
+	elif symbol2 == "K" and symbol1 == "N":
+    	print("K")
+    elif symbol1 == "K" and symbol2 == "P":
+    	print("P")
+    elif symbol2 == "K" and symbol1 == "P":
+    	print("P")
+    elif symbol1 == "N" and symbol2 == "P":
+    	print("N")
+    elif symbol2 == "n" and symbol1 == "P":
+    	print("N")
+    elif symbol1 == symbol2:
+    	print("Remiza")
+        
+2802642
+def decide(symbol1, symbol2):
+    	if symbol1=="K" and symbol2=="P":
+            print()
+        elif symbol1=="K" and symbol2=="N":
+            print("K")
+        elif symbol1=="P" and symbol2=="N":
+            print("N")
+        else:
+            print("Remiza")
+
+def decide(symbol1, symbol2):
+    	if symbol1=="K" and symbol2=="P":
+            print()
+        elif symbol1=="K" and symbol2=="N":
+            print("K")
+        elif symbol1=="P" and symbol2=="N":
+            print("N")
+        else:
+            print("Remiza")
+
+def decide(symbol1, symbol2):
+    	if symbol1=="K" and symbol2=="P":
+            print("P")
+        elif symbol1=="K" and symbol2=="N":
+            print("K")
+        elif symbol1=="P" and symbol2=="N":
+            print("N")
+        else:
+            print("Remiza")
+
+def decide(symbol1, symbol2):
+	if symbol1=="K" and symbol2=="P":
+        print("P")
+    elif symbol1=="K" and symbol2=="N":
+        print("K")
+    elif symbol1=="P" and symbol2=="N":
+        print("N")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if (symbol1=="K" and symbol2=="P") or (symbol2=="K" and symbol1=="P"):
+        print("P")
+    elif (symbol1=="K" and symbol2=="N") or (symbol2=="N" and symbol1=="K"):
+ 		print("K")
+    elif (symbol1=="N" and symbol2=="P") or (symbol2=="P" and symbol1=="N"):
+        print("N")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if (symbol1=="K" and symbol2=="P") or (symbol2=="K" and symbol1=="P"):
+        print("P")
+    elif (symbol1=="K" and symbol2=="N") or (symbol2=="K" and symbol1=="N"):
+ 		print("K")
+    elif (symbol1=="N" and symbol2=="P") or (symbol2=="N" and symbol1=="P"):
+        print("N")
+    else:
+        print("Remiza")
+
+2803849
+def decide(symbol1, symbol2):
+    if (symbol1=="K" and symbol2=="N") or (symbol2=="K" and symbol1=="N"):
+        print("K")
+    if symbol1=="K" and symbol2=="P" or (symbol2=="K" and symbol1=="P"):
+        print("P")
+    if symbol1=="N" and symbol2=="P" or (symbol2=="N" and symbol1=="P"):
+        print("N")
+    elif symbol1==symbol2:
+        print("remiza")
+
+def decide(symbol1, symbol2):
+    if (symbol1=="K" and symbol2=="N") or (symbol2=="K" and symbol1=="N"):
+        print("K")
+    if symbol1=="K" and symbol2=="P" or (symbol2=="K" and symbol1=="P"):
+        print("P")
+    if symbol1=="N" and symbol2=="P" or (symbol2=="N" and symbol1=="P"):
+        print("N")
+    elif symbol1==symbol2:
+        print("Remiza")
+
+2803292
+def decide(symbol1, symbol2):
+    if symbol1 == "K" or symbol2 == "K":
+        if symbol1 == "N" or symbol2 == "N":
+            print("K")
+        elif symbol1 == "P" or symbol2 == "P":
+            print("P")
+        else:
+            print("Remiza")
+    elif symbol1 == "P" or symbol2 == "P":
+        if symbol1 == "N" or symbol2 == "N":
+            print("N")
+        else:
+            print("Remiza")
+    else:
+        print("Remiza")
+
+2817570
+def decide(symbol1, symbol2):
+    x = symbol1 + symbol2
+    if x=="KN" or x=="NK":
+        print("K")
+    elif x=="PN" or x=="NP":
+        print("N")
+    elif x=="KP"or =="PK":
+        print ("P")
+    else:
+        
+        
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    x = symbol1 + symbol2
+    if x=="KN" or x=="NK":
+        print("K")
+    elif x=="PN" or x=="NP":
+        print("N")
+    elif x=="KP"or =="PK":
+        print ("P")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    x = symbol1 + symbol2
+    if x=="KN" or x=="NK":
+        print("K")
+    elif x=="PN" or x=="NP":
+        print("N")
+    elif x=="KP"or =="PK":
+        print ("P")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    x = symbol1 + symbol2
+    if x=="KN" or x=="NK":
+        print("K")
+    elif x=="PN" or x=="NP":
+        print("N")
+    elif x=="KP"or x=="PK":
+        print ("P")
+    else:
+        print("Remiza")
+
+2882572
+def decide(symbol1, symbol2):
+	if (symbol1=="K" and symbol2=="N")or(symbol2=="K" and symbol1=="N"):
+    	print("K") 
+	elif (symbol1=="K" and symbol2=="P")or(symbol2=="K" and symbol1=="P"):
+    	print("P")
+	elif (symbol1=="N" and symbol2=="P")or(symbol2=="N" and symbol1=="P"):
+    	print("N")
+	elif (symbol1==symbol2):
+    	print("Remiza")
+
+def decide(symbol1, symbol2):
+	if ((symbol1=="K") and (symbol2=="P")) or ((symbol1=="P") and (symbol2=="K")):
+		print("P")
+
+	elif ((symbol1=="N") and (symbol2=="K")) or ((symbol1=="K") and (symbol2=="N")):
+		print("K")
+
+	elif ((symbol1=="P") and (symbol2=="N")) or ((symbol1=="N") and (symbol2=="P")):
+		print("N")
+
+	elif symbol1 == symbol2:
+		print("Remiza")
+
+2810855
+def decide(symbol1, symbol2):
+    if (symbol1=="K" and symbol2=="N") or (symbol1=="N" and symbol2=="P") or (symbol1=="P" and symbol2=="K"):
+        print(symbol1)
+    elif symbol1==symbol2: 
+        print("Remiza")
+    else:
+        print(symbol2)
+
+2926078
+def decide(symbol1, symbol2):
+	if (symbol1 == "K") and (symbol2 == "N"):
+		print("K")
+	elif (symbol1 == "K") and (symbol2 == "P"):
+		print("P")
+	elif (symbol1 == "N") and (symbol2 == "K"):
+		print("K")
+	elif (symbol1 == "N") and (symbol2 == "P"):
+		print("N")
+	elif (symbol1 == "P") and (symbol2 == "N"):
+		print("N")
+	elif (symbol1 == "P") and (symbol2 == "K"):
+		print("P")
+	elif symbol1 == symbol2:
+		print("Remiza")
+2939266
+def decide(symbol1, symbol2):
+    if(symbol1=="K" and symbol2=="N"):
+    	print("K")
+    if(symbol1=="P" and symbol2=="K"):
+        print("P")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if(symbol1=="K" and symbol2=="N"):
+    	print("K")
+    if(symbol1=="P" and symbol2=="K"):
+        print("P")
+    if(symbol1==symbol2):
+        print("Remiza")
+
+2943966
+def decide(symbol1, symbol2):
+    seznam=[]
+    seznam.append(symbol1)
+    seznam.append(symbol2)
+    if "K"and"N" in seznam:
+        print("K")
+    elif "P" and "K" in seznam:
+        print("P")
+    elif "P" and "N" in seznam:
+        print("N")
+    else:
+        print("Remiza")
+
+2943976
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print("K")
+    elif symbol1 == "P" and symbol2 == "K":
+        print("P")
+    
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print("K")
+    elif symbol1 == "P" and symbol2 == "K":
+        print("P")
+    elif symbol1 == "N" and symbol2 == "K":
+        print("K")
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print("K")
+    elif symbol1 == "P" and symbol2 == "K":
+        print("P")
+    elif symbol1 == "N" and symbol2 == "K":
+        print("K")
+    elif symbol1 == "K" and symbol2 == "P":
+        print("P")
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print("K")
+    elif symbol1 == "P" and symbol2 == "K":
+        print("P")
+    elif symbol1 == "N" and symbol2 == "K":
+        print("K")
+    elif symbol1 == "K" and symbol2 == "P":
+        print("P")
+    elif symbol1 == "P" and symbol2 == "N":
+        print("N")
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print("K")
+    elif symbol1 == "P" and symbol2 == "K":
+        print("P")
+    elif symbol1 == "N" and symbol2 == "K":
+        print("K")
+    elif symbol1 == "K" and symbol2 == "P":
+        print("P")
+    elif symbol1 == "P" and symbol2 == "N":
+        print("N")
+    elif symbol1 == "N" and symbol2 == "P":
+        print("N")
+2849133
+def decide(symbol1, symbol2):
+    if symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "K":
+        print("K")
+    elif symbol1 == "K" and symbol2 == "P" or symbol1 == "P" and symbol2 == "K":
+		print("P")
+    elif symbol1 == "P" and symbol2 == "N" or symbol1 == "N" and symbol2 == "P":
+		print("N")
+    else:
+    	print("Remiza")
+
+2964823
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N":
+        print ("K")
+    elif symbol1 == "K" and symbol2 == "P":
+        print ("P")
+        
+    elif symbol1 == "P" and symbol2 == "N":
+        print ("N")
+        
+    elif symbol1 == "P" and symbol2 == "K":
+        print ("P")
+    elif symbol1 == "N" and symbol2 == "P":
+        print ("N")
+    else:
+        print("K")
+
+2970482
+def decide(symbol1, symbol2):
+    if(symbol1==symbol2):
+        print("Remiza")
+    elif((symbol1=="K" and symbol2=="N") or (symbol2=="K" and symbol1=="N")):
+        print("K")
+    elif((symbol1=="N" and symbol2=="P") or (symbol2=="N" and symbol1=="P")):
+        print("N")
+    elif((symbol1=="K" and symbol2=="P") or (symbol2=="K" and symbol1=="P")):
+        print("P")
+
+2988877
+def decide(symbol1, symbol2):
+    if (symbol1 == symbol2):
+        print("Remiza")
+    elif ((symbol1 == "K" and symbol2) == "N" or \
+          (symbol1 == "N" and symbol2) == "P" or \
+          (symbol1 == "P" and symbol2) == "K"):
+        print(symbol1)
+    else:
+        print(symbol2)
+
+2994452
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    else:
+        if (symbol1+symbol2 == "KN" or symbol1+symbol2 == "NK"):
+            print("K")
+        elif (symbol1+symbol2 == "PK" or symbol1+symbol2 == "KP"):
+            print("P")
+        elif (symbol1+symbol2 == "PN" or symbol1+symbol2 == "NP"):
+            print("N")
+   
+
+2812352
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    elif (symbol1 == "K" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "P") or (symbol1 == "P" and symbol2 == "K"):
+        print(symbol1)
+    else:
+        print(symbol2)
+3019721
+def decide(symbol1, symbol2):
+    if symbol1 is "K" and symbol2 is "N":
+        print("K")
+    elif symbol1 is "P" and symbol2 is "K":
+        print("P")
+    elif symbol1 is "P" and symbol2 is "N":
+        print("N")
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if (symbol1 is "K" and symbol2 is "N") or (symbol1 is "N" and symbol2 is "K"):
+        print("K")
+    elif(symbol1 is "P" and symbol2 is "K") or (symbol1 is "K" and symbol2 is "P"):
+        print("P")
+    elif (symbol1 is "P" and symbol2 is "N") or (symbol1 is "N" and symbol2 is "P"):
+        print("N")
+    else:
+        print("Remiza")
+
+3042251
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    elif (symbol1 == "K" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "P") or (symbol1 == "P" and symbol2 == "K"):
+        print(symbol1)
+    else:
+        print(symbol2)
+
+3047465
+def decide(symbol1, symbol2):
+	if symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "P" or symbol1 == "P" and symbol2 == "K":
+		print(symbol1)
+	elif symbol1 == symbol2:
+		print("remiza")
+	else:
+		print(symbol2)
+def decide(symbol1, symbol2):
+	if symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "P" or symbol1 == "P" and symbol2 == "K":
+		print(symbol1)
+	elif symbol1 == symbol2:
+		print("Remiza")
+	else:
+		print(symbol2)
+3059276
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1>symbol2:
+        print(symbol1)
+    else:
+        print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1>symbol2:
+        print(symbol1)
+    else:
+        print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1>symbol2:
+        print(symbol1)
+    if symbol1<symbol2:
+        print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    if symbol1=="N" and symbol2=="P":
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    if symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    if symbol1=="P" and symbol2=="K":
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    if symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    else:
+        print(symbol2)
+    if symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    if symbol1=="P" and symbol2=="K":
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    elif symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    elif symbol1=="K" and symbol2=="P":
+        print(symbol2)
+    if symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    if symbol1=="P" and symbol2=="K":
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    elif symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    elif symbol1=="K" and symbol2=="P":
+        print(symbol2)
+    elif symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    elif symbol1=="N" and symbol2=="K":
+        print(symbol2)
+    if symbol1=="P" and symbol2=="K":
+        print(symbol1)
+
+def decide(symbol1, symbol2):
+    if symbol1==symbol2:
+    	print("Remiza")
+    elif symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    elif symbol1=="K" and symbol2=="P":
+        print(symbol2)
+    elif symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    elif symbol1=="N" and symbol2=="K":
+        print(symbol2)
+    elif symbol1=="P" and symbol2=="K":
+        print(symbol1)
+    elif symbol1=="P" and symbol2=="N":
+        print(symbol2)
+
+3071998
+def decide(symbol1, symbol2):
+    if symbol1 == 'K' and symbol2 == 'N':
+        print('K')
+    elif symbol1 == 'P' and symbol2 == 'K':
+        print('P')
+        
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol1 == 'K'and symbol2 == 'N':
+        print('K')
+    elif symbol1 == 'N'and symbol2 == 'P':
+        print('N')
+    elif symbol1 == 'P'and symbol2 == 'K':
+        print('P')
+    elif symbol1 == 'N'and symbol2 == 'P':
+        print('N')
+    elif symbol1 == 'N'and symbol2 == 'N':
+        print('Remiza')
+    elif symbol1 == 'P'and symbol2 == 'P':
+        print('Remiza')
+    elif symbol1 == 'K'and symbol2 == 'K':
+        print('Remiza')
+
+
+
+def decide(symbol1, symbol2):
+    if symbol1 == 'K'and symbol2 == 'N':
+        print('K')
+    elif symbol1 == 'N'and symbol2 == 'P':
+        print('N')
+    elif symbol1 == 'P'and symbol2 == 'K':
+        print('P')
+    elif symbol1 == 'N'and symbol2 == 'P':
+        print('N')
+    elif symbol1 == 'N'and symbol2 == 'N':
+        print('Remiza')
+    elif symbol1 == 'P'and symbol2 == 'P':
+        print('Remiza')
+    elif symbol1 == 'K'and symbol2 == 'K':
+        print('Remiza')
+    elif symbol2 == 'K'and symbol1 == 'N':
+        print('K')
+    elif symbol2 == 'N'and symbol1 == 'P':
+        print('N')
+    elif symbol2 == 'P'and symbol1 == 'K':
+        print('P')
+    elif symbol2 == 'N'and symbol1 == 'P':
+        print('N')
+    elif symbol2 == 'N'and symbol1 == 'N':
+        print('Remiza')
+    elif symbol2 == 'P'and symbol1 == 'P':
+        print('Remiza')
+    elif symbol2 == 'K'and symbol1 == 'K':
+        print('Remiza')
+
+
+

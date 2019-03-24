@@ -1,0 +1,20 @@
+2120936
+def bigX(n):\n    x = 3 * (n)\n    y = 0\n    for i in range(n-1):\n        print(" " * y, "#", " " * (x), "#")\n        x = x - 4\n        y = y + 2\n    print(" " * (y + 1), "#")\n    x = n - 2\n    for i in range(n-1):\n        print(" " * (y - 2), "#", " " * (x), "#")\n        x = x + 4\n        y = y - 2\n    pass\n#               #
+###
+2128782
+def bigX(n):\n    for row in range(1,n*2):\n        for col in range(1,n*2):\n            if col-row==0 or row+col==10:\n                print("*", end=" ")\n            else:\n                print(" ", end=" ")\n        print()\n
+def bigX(n):\n    for row in range(1,n*2):\n        for col in range(1,n*2):\n            if col-row==0 or row+col==n*2:\n                print("*", end=" ")\n            else:\n                print(" ", end=" ")\n        print()\n
+def bigX(n):\n    for row in range(1,n*2):\n        for col in range(1,n*2):\n            if col-row==0 or row+col==n*2:\n                print("#", end=" ")\n            else:\n                print(" ", end=" ")\n        print()\n
+###
+2437820
+def bigX(n):\n    a=0\n    b=2*n-1\n    for i in range(2*n-1):\n        for j in range(2*n-1):\n            if (a==b) and a==j:\n            	print("#", end=" ")\n            else:\n                if (j==a) or (j==b):\n                    print("#", end=" ")\n                else:\n                    print(" ", end=" ")\n        a=a+1\n        b=b-1\n        print()\n
+def bigX(n):\n    a=0\n    b=2*n-2\n    for i in range(2*n-1):\n        for j in range(2*n-1):\n            if (a==b) and a==j:\n            	print("#", end=" ")\n            else:\n                if (j==a) or (j==b):\n                    print("#", end=" ")\n                else:\n                    print(" ", end=" ")\n        a=a+1\n        b=b-1\n        print()\n
+###
+2648081
+def bigX(n):\n    for i in range (n-1):\n		print(2*i*" "+"#"+(4*n-4*i-5)*" "+"#")\n    for i in range (1):\n		print((2*n-2)*" "+"#")	\n    for i in range (n-1):\n		print((2*n-2*i-5)*" ","#",(4*i+1)*" ","#")
+###
+2813265
+def bigX(n):\n    pass\n
+def bigX(side):\n    for row in range(1,2*(side)):\n        for col in range(1,2*(side)):\n            if ((row==1 or row==side+1) and (col==1 or col==side+1)) or (row==side+1//2 and col==side+1//2):\n        		print("#",end='')\n            else:\n                print(" ",end='')\n        print()\n            \n          \n    	\n
+def bigX(side):\n    for row in range(1,2*(side)):\n        for col in range(1,2*(side)):\n            if row==col or   row==(2*side)-col:\n                print('#',end=' ')\n            else:\n                print(' ',end=' ')\n        print()\n
+###

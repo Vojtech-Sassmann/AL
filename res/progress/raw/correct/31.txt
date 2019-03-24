@@ -1,0 +1,18 @@
+1111
+def find_longest_word(words_list):\n    nejdelsiSlovo = words_list[0]\n    for x in range(len(words_list)):\n        if(len(nejdelsiSlovo) < len(words_list[x])):\n        	nejdelsiSlovo = words_list[x]\n    return nejdelsiSlovo\n
+###
+1111
+def find_longest_word(wordlist):\n  longestWord = ""\n  max_len = 0\n\n  for word in wordlist:\n    if len(word) > max_len:\n      max_len = len(word)\n      longestWord = word\n  return longestWord
+###
+1111
+def find_longest_word(words_list):\n    longest_word = ''\n    for word in words_list:\n        if len(word) > len(longest_word):\n            longest_word = word\n    print (longest_word)      \n
+def find_longest_word(words_list):\n    longest_word = ''\n    for word in words_list:\n        if len(word) > len(longest_word):\n            longest_word = word\n    return longest_word      \n
+###
+1111
+def find_longest_word(words_list):\n    \n    pocet = 0\n    slovo = ''\n    for word in words_list:\n    	if pocet < len(word):\n			slovo = word\n            \n    return slovo\n
+def find_longest_word(words_list):\n    \n    pocet = 0\n    slovo = ''\n    for word in words_list:\n    	if pocet < len(word):\n			slovo = word\n            \n    return slovo\n
+def find_longest_word(words_list):\n    \n    pocet = 0\n    slovo = ''\n    for word in words_list:\n		\n        kolko = len(word)\n        if pocet < kolko:\n            pocet = kolko\n            slovo = word\n            \n    return slovo\n
+###
+1111
+def find_longest_word(words_list):\n    k="a"\n    for i in words_list:\n        if (len(i)>len(k)):k=i\n    return(k)\n   \n        \n        
+###

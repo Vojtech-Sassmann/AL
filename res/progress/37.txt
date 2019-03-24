@@ -1,0 +1,480 @@
+2126139
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+2128782
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+2413063
+def stars(n):
+    for i in range(n+1):
+        print("*", end="")
+        if i % 5 == 0 and i!=0:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if not((i+1) % 5):
+            print("|", end="")
+    print()
+
+2439201
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i+1 == 5:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(1,n):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print("|")
+
+def stars(n):
+    for i in range(1,n):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print("|")
+
+def stars(n):
+    for i in range(1,n):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(1,n):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i%5 == 4:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i%5 == 4:
+            print("|", end="")
+    print()
+
+2648081
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 4 or i==9:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 4 or i==9 or i==14:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        for k in range (n):
+        	if (i+1) == 5*(k+1):
+            	print("|", end="")
+    print()
+
+2717821
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i+1) % 5 == 0:
+            print("|", end="")
+    print()
+
+2736527
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+2743909
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i%5 == 0) and (i!=0):
+           	print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if(i == 4):
+        	print("|", end="")
+        if ((i-4)%5 == 0) and (i>5):
+           	print("|", end="")
+    print()
+
+2773780
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5 == 0 and i > 0:
+            print("|", end="")
+    print()
+
+2802909
+def stars(n):
+    for i in range(n):
+        if i == 0:
+			None            	
+        elif i % 5 == 0:
+            print("|", end="")
+        print("*", end="")
+        
+        
+    print()
+
+2802655
+def stars(n):
+    for i in range(1, n + 1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+2809298
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 ==0:
+            print("|", end="")
+    print()
+
+2809568
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+        if i == 10:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n+1):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+        if i == 10:
+            print("|", end="")
+    print()
+
+2809764
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+2802162
+def stars(n):
+    for i in range(1, n+1):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(1, n+1):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+2806881
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i %5==0:
+            print("|", end="")
+    print()
+
+2810636
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+2813265
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 4:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        if (i+1) %5==0:
+            print("|", end="")
+        else:
+            print("*", end="")
+    print()
+
+def stars(n):
+    for i in range(n+2):
+        if (i+1) %6==0:
+            print("|", end="")
+        else:
+            print("*", end="")
+    print()
+
+def stars(n):
+    for i in range(n+1):
+        if (i+1) %6==0:
+            print("|", end="")
+        else:
+            print("*", end="")
+    print()
+
+def stars(n):
+    for i in range(n+1):
+        if (i+1) %6==0:
+            print("|", end="")
+        else:
+            print("*", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i+1) %5==0:
+            print("|", end="")
+    print()
+
+2802247
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if ((i+1) % 5 == 0):
+            print("|", end="")
+    print()
+
+2818450
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if ((i+1)%5) == 0:
+            print("|", end="")
+    print()
+
+2819660
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i-4)%5==0 and not i==0:
+            print("|", end="")
+    print()
+
+2819643
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i%5==4: 
+            print("|", end="")
+    print()
+
+2821810
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i + 1) % 5 == 0:
+            print("|", end="")
+    print()
+
+2828797
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i == 5:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+2802642
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i+1)%5==0:
+            print("|", end="")
+    print()
+
+2882572
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5==0:
+            print("|", end="")
+    print()
+
+2804190
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i != 1 and (i + 1) % 5 == 0:
+            print("|", end="")
+    print()
+
+2926078
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i-4)%5 == 0:
+            print("|", end="")
+    print()
+
+2928683
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+2876299
+def stars(n):
+    for i in range(1, n+1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+2970482
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if ((i+1)%5==0):
+            print("|", end="")
+    print()
+
+2994452
+def stars(n):
+    for i in range(1, n+1):
+        print("*", end="")
+        if i%5 == 0:
+            print("|", end="")
+    print()
+
+2812352
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+2940162
+def stars(n):
+    for i in range(1, n + 1):
+        print("*", end="")
+        if i % 5 == 0 and i != 0:
+            print("|", end="")
+    print()
+
+2925538
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if i == 4:
+            print("|", end="")
+    print()
+
+def stars(n):
+    for i in range(1, 1+n):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+3047465
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 == 0:
+            print("|", end="")
+    print()
+
+3059777
+def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i+1) % 5 ==0:
+            print("|", end="")
+    print()
+
+2828593
+def stars(n):
+    for i in range(1,n+1):
+        print("*", end="")
+        if i % 5 ==0 and i>1 :
+            print("|", end="")
+    print()
+

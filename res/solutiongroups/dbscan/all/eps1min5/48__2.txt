@@ -1,0 +1,78 @@
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print("Zbytek:", zbytek)
+
+def chocolate(rows, columns, x):
+    celkom = rows * columns
+    zvysok = celkom - x
+    print("Zbytek:", zvysok)
+
+def chocolate(rows, columns, x):
+    s=rows*columns
+    y=s-x
+    print("Zbytek:", y)
+
+def chocolate(rows, columns, x):
+    n=rows * columns
+    m=n-x
+    print("Zbytek:", m)
+
+def chocolate(rows, columns, x):
+    choco = rows*columns
+    final = choco - x
+    print("Zbytek:", final)
+
+def chocolate(rows, columns, x):
+    full = rows * columns
+    result = full - x
+    print ("Zbytek:", result)
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print('Zbytek:', zbytek)
+
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print("Zbytek:", zbytek)
+
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print("Zbytek:", zbytek)
+
+def chocolate(rows, columns, x):
+    celkom = rows * columns
+    zvysok = celkom - x
+    print("Zbytek:", zvysok)
+
+def chocolate(rows, columns, x):
+    s=rows*columns
+    y=s-x
+    print("Zbytek:", y)
+
+def chocolate(rows, columns, x):
+    n=rows * columns
+    m=n-x
+    print("Zbytek:", m)
+
+def chocolate(rows, columns, x):
+    choco = rows*columns
+    final = choco - x
+    print("Zbytek:", final)
+
+def chocolate(rows, columns, x):
+    full = rows * columns
+    result = full - x
+    print ("Zbytek:", result)
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print('Zbytek:', zbytek)
+
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print("Zbytek:", zbytek)
+

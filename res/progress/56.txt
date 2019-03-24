@@ -1,0 +1,321 @@
+2126139
+def reverse_numbers(n):
+    for i in range(n,0, -1):
+        print(i)
+
+2128782
+def reverse_numbers(n):
+    for i in range(n,0,-1):
+        print(i)
+
+2057798
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2078992
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2408490
+def reverse_numbers(n):
+    for i in reversed(range(n)):
+        print(i+1)
+
+2413063
+def reverse_numbers(n):
+    for i in range(n:0:-1):
+        print(i)
+
+def reverse_numbers(n):
+    for i in range(n,0,-1):
+        print(i)
+
+2439201
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2625181
+def reverse_numbers(n):
+    for reverse_numbers in range(n,0,-1):
+        print(reverse_numbers)
+
+2648081
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2672040
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2801103
+def reverse_numbers(n):
+    for i in range(n,0,-1):
+        print(i)
+
+2802184
+def reverse_numbers(n):
+    for x in range(n):
+        print(n);
+        n -= 1;
+2802266
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2804640
+def reverse_numbers(n):
+    for i in range(n, 0, -1):
+        print(i)
+
+2802909
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2802655
+def reverse_numbers(n):
+    for i in range(n, 0, -1):
+        print(i)
+
+2806077
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2805885
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2806888
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2806962
+def reverse_numbers(n):
+    for i in range(n):
+        print(n)
+        n=n-1
+
+2806381
+def reverse_numbers(n):
+	for i in range(n , 0 , -1):
+    	print (i)
+
+2809188
+def reverse_numbers(n):
+    for i in reversed(range(1, n + 1)):
+        print(i)
+
+2809298
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2802916
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2809764
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2802162
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2805048
+def reverse_numbers(n):
+    for i in range(n):
+        print(n - i)
+
+2805080
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2805410
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2810636
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2813265
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2802247
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2818450
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2819660
+def reverse_numbers(n):
+    for i in range(n):
+		print(n-i)
+2819643
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2819583
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2816717
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2828797
+def reverse_numbers(n):
+	for i in range(n):
+		print(n-i)
+
+2802642
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2803849
+def reverse_numbers(n):
+    for i in range(n):
+        print(n)
+        n = n-1
+
+2805045
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2882572
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2855294
+def reverse_numbers(n):
+    for i in range(n+1, 1):
+        print(i)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(i, n-1)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2926078
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2876299
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2944679
+n = 10
+def reverse_numbers(n):
+    for i in range(10, 0, -1):
+        print(i)
+
+reverse_numbers(n)       
+
+2961202
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2964823
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2936556
+def reverse_numbers(n):
+    
+    for i in range(n):
+        print(n-i)
+
+2970482
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2988877
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2812352
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+3042251
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+3045028
+def reverse_numbers(n):
+    for i in range(1,n+1):
+        print(n+1-i)
+
+2803949
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+2790330
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+3047465
+def reverse_numbers(n):
+	for i in range(n):
+		print(n-i)
+
+3059777
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+3071998
+def reverse_numbers(n):
+    for i in range(n, 0, -1):
+        print((i))
+
+
