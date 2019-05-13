@@ -1,0 +1,570 @@
+Rate:  49.84615384615385
+1944.0
+def line_odd(n):
+	for k in range(n//2):
+		print('#', end=' ')
+		print('.', end=' ')
+	if n%2 == 1:
+		print('#', end=' ')
+	print()
+def line_even(n):
+    for l in range(n//2):
+        print('.', end=' ')
+        print('#', end=' ')
+    if n%2 == 1:
+        print('.', end=' ')
+    print()
+def chessboard(n):
+    for i in range(n//2):
+        line_odd(n)
+        line_even(n)
+    if n%2 == 1:
+        line_odd(n)
+1646.0
+def chessboard(n):
+    if n % 2 == 0:
+        for i in range(n//2):
+            print((n//2) * ("# " + ". "))
+            print((n//2) * (". " + "# "))
+    elif n % 2 == 1:
+        for j in range(n//2):
+            print((n//2) * ("# " + ". ") + "#")
+            print((n//2) * (". " + "# ") + ".")
+        print((n//2) * ("# " + ". ") + "#")
+            
+
+1646.0
+def chessboard(n): # nakreslí ASCII šachovnici o n délce a šířce
+    if n % 2 == 0:
+        for i in range(n//2):
+            print((n//2) * ("# " + ". "))
+            print((n//2) * (". " + "# "))
+    elif n % 2 == 1:
+        for j in range(n//2):
+            print((n//2) * ("# " + ". ") + "#")
+            print((n//2) * (". " + "# ") + ".")
+        print((n//2) * ("# " + ". ") + "#")
+
+1425.0
+def chessboard(n):
+	if n % 2 == 0:
+		for i in range(n//2):
+			print("# . "*(n//2))
+			print(". # "*(n//2))
+	else:
+		for i in range((n//2)):
+			print("# . "*(n//2), end='')
+			print('#')
+			print(". # "*(n//2), end='')
+			print('.')
+		print('# . '*(n//2), end='')
+		print('#')
+1293.0
+def chessboard(n):
+    for i in range(n):
+        for x in range(n):
+            if i%2==0 and x%2==0:
+                print("#", end=" ")
+            elif i%2==0 and x%2==1:
+                print(".", end=" ")
+            elif i%2==1 and x%2==0:
+                print(".", end=" ")
+            elif i%2==1 and x%2==1:
+                print("#", end=" ")
+        print()
+
+1183.0
+def chessboard(n):
+    for i in range(1,n+1):
+        print("")
+        for j in range(1,n+1):
+            if ((i+1)%2==1 or (j+1)%2==0) and ((i+2)%2==1 or (j+2)%2==0):
+                print("#", end=" ")
+            
+            else:
+                print(".", end=" ")
+  
+
+1042.0
+def chessboard(n):
+    a=1
+    for i in range(n):
+        for j in range(n):
+            operator= a%2==0
+            if operator ==False:
+                print("#",end=" ")
+                a+=1
+            elif operator==True:
+                print("." , end=" ")
+                a+=1
+        if n%2==0:
+            a+=1
+        print()
+
+1007.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            field(i, j)
+        print()
+
+def field(i, j):
+    if (i + j) % 2 == 0:
+        print("#", end=" ")
+    else:
+    	print(".", end=" ")
+960.0
+def line(n, parity):
+    for i in range(n):
+        if i % 2 == parity:
+            print(" #", end="")
+        else:
+            print(" .", end="")
+    print()
+
+def chessboard(n):
+    for i in range(n):
+        line(n, i % 2)
+936.0
+def chessboard(side):
+    for row in range(1,side+1):
+        for col in range(1,side+1):
+      
+            if (row%2==0 and col%2==0) or ( row%2==1 and col%2==1):
+                print('#', end=' ')
+            else:
+                print('.', end=' ')
+        print()
+
+909.0
+def chessboard(n):
+    striedanie=1
+    for x in range(n):
+        if(x%2!=0):
+            striedanie=0
+        else:
+            striedanie=1
+        for y in range(n):
+            if(striedanie==1):
+                print("#",end=" ")
+                striedanie=0
+            else:
+                print(".",end=" ")
+                striedanie=1
+        print("\t")
+902.0
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2!=0:
+            for j in range(1,n+1):
+                if j%2!=0:
+                    print("#", end=" ")
+                else: print(".", end=" ")
+            print()
+        else: 
+            for k in range(1,n+1):
+                if k%2!=0:
+                    print(".", end=" ")
+                else: print("#", end=" ")
+            print ()
+882.0
+def chessboard(n):
+	for row in range(n):
+		for col in range(n):
+			if row % 2 == 0 and col % 2 != 0:
+				print(".", end=" ")
+			elif row % 2 != 0 and col % 2 == 0:
+				print(".", end=" ")
+			else:
+				print("#", end=" ")
+		print()
+
+856.0
+def chessboard(n):
+    k = 1
+    for i in range(n):
+        k *= -1 
+        for j in range(n):
+            if k == -1:
+                if j % 2 == 0:
+                	print('#', end=' ')
+                else:
+                    print('.', end=' ')
+            else:
+                if j % 2 == 0:
+                	print('.', end=' ')
+                else:
+                    print('#', end=' ')
+             
+        print()	
+847.0
+def chessboard(n):
+    d=0
+    for i in range(n):
+        if(i%2==0):
+            d=0
+        else: d=1
+        for j in range(n):
+            if(d%2==0):
+                print("#", end=" ")
+                d+=1
+            else: 
+                print(".", end=" ")
+                d+=1
+        print()
+
+832.0
+def chessboard(n):
+    for k in range(n):
+        if k % 2 == 0:
+            x = "#"
+            y = "."
+        else:
+            x = "."
+            y = "#"
+        for i in range(n):
+            if i % 2 == 0:
+                print(x, end=" ")
+            else:
+                print(y, end=" ")
+        print()
+
+824.0
+def chessboard(n):
+    pom = 1
+    for i in range(n):
+        for j in range(n):
+            if pom % 2 == 1:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+            pom += 1
+        if n % 2 == 0:    
+            pom += 1
+        else:
+            pom = pom
+        print()
+
+809.0
+def chessboard(n):
+    for i in range(n):
+        if (i % 2 == 0):
+            for u in range(n):
+                if (u % 2 == 0):
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+        if (i % 2 == 1):
+            for u in range(n):
+                if (u % 2 == 1):
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+
+798.0
+def chessboard(n):
+    for i in range(n):
+        if i%2 == 0:
+            posun = 0
+        else:
+            posun = 1
+        for j in range(0+posun,n+posun):
+            if j%2 == 0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")       
+        print()
+                    
+            
+    print()
+
+766.0
+def chessboard(n):
+    for j in range(n):
+        for i in range(n):
+            if not(j%2):
+                if not(i%2):
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            else:
+                if (i%2):
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+        print()
+
+764.0
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+            print()
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+            print()
+    print()
+
+764.0
+def chessboard(n):
+    for i in range(n):
+        if i%2==0:
+            for x in range(n):
+                if x%2==0:
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+        else:
+            for x in range(n):
+                if x%2==1:
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+    print()
+
+743.0
+def chessboard(n):
+    for j in range(n):
+        for i in range(n):
+            if (i^j)&1==0:
+            	print("#", end=" ")
+            else:
+            	print(".", end=" ")
+        print()
+
+722.0
+def chessboard(n):
+     for i in range(n):
+        for j in range(n):
+            if i % 2 == 0:
+                if j % 2 == 0:
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            if i % 2 == 1:
+                if j % 2 == 0:
+                    print(".", end=" ")
+                else:
+                    print("#", end=" ")
+        print()
+
+718.0
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for i in range(n):
+                if i % 2 == 0:
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+        else:
+            for i in range(n):
+                if i % 2 == 0:
+                    print(".", end=" ")
+                else:
+                    print("#", end=" ")
+            print()
+718.0
+def chessboard(n):
+    for j in range(n):
+        if j%2 == 0:
+            for i in range(n):
+                if i%2 == 0:
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            print()
+        else:
+            for i in range(n):
+                if i%2 == 0:
+                    print(".", end=" ")
+                else:
+                    print("#", end=" ")
+            print()
+
+705.0
+def chessboard(n):
+	for i in range(n):
+		for j in range(n):
+			if (i+j)%2==0:
+				print("#", end=" ")
+			else:
+				print(".", end=" ")
+		print()
+705.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if (i + j) % 2 == 0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+705.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if (i+j) % 2 == 0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+705.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if (i+j) % 2 == 0:
+                print("#", end=" ")
+            else:
+                print('.',end=' ')
+        print()
+
+705.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if (i+j) % 2 == 0: print("#", end=" ")
+            else:
+                print (".", end=" ")
+        print()
+
+705.0
+def chessboard(n):
+    for row in range(n):
+        for col in range(n):
+            if (row +col)%2 == 0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+697.0
+def chessboard(n):
+    for i in range(1,n+1):
+        for j in range(1,n+1):
+            if i%2==0:
+                if j%2 == 0:
+                    print('#',end=' ')
+                else:
+                    print('.',end=' ')
+            else:
+                if j%2 == 0:
+                    print('.',end=' ')
+                else:
+                    print('#',end=' ')
+        print()
+695.0
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+667.0
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+667.0
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+638.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if i % 2 == 0:
+                if j % 2 == 0:
+                    print("#", end=" ")
+                else:
+                    print(".", end=' ')
+            else:
+                if j % 2 == 0:
+                    print(".", end=" ")
+                else:
+                    print("#", end=' ')
+        print()
+
+638.0
+def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if i%2==0:
+                if j%2==0: 
+                    print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            else:
+                if j%2==0:
+                    print(".", end=" ")
+                else:
+                    print("#", end=" ")
+        print()
+638.0
+def chessboard(n):
+    for i in range(n):
+        for k in range(n):
+            if i % 2 == 1:
+                if k % 2 == 1:
+        	        print("#", end=" ")
+                else:
+                    print(".", end=" ")
+            else:
+                if k % 2 == 0:
+        	        print("#", end=" ")
+                else:
+                    print(".", end=" ")
+        print()
+

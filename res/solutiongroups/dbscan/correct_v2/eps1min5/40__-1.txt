@@ -1,0 +1,464 @@
+def bigN(n):
+    for rows in range(1,n+1):
+        for cols in range(1,n+3):
+            if cols-rows==1:
+                print("\\",end="")
+            elif cols==1 or cols==n+2:
+                print("|",end="")
+            else:
+                print(" ",end="")
+        print()
+
+def bigN(n):
+    prvni_retezec = ""
+    druhy_retezec = " "*(n-1)
+    for i in range(n):
+        retezec = "|{0}\\{1}|".format(prvni_retezec, druhy_retezec)
+        prvni_retezec=prvni_retezec+" "
+        druhy_retezec=druhy_retezec[:-1]
+        print(retezec)
+
+def bigN(n):
+    for i in range(n):
+        print("|"+(i)*" "+"\\"+(n-i-1)*" "+"|")
+
+def middle(n,pos):
+    for i in range(n):
+    	if pos != i:
+        	print(" ",end="")
+    	else:
+        	print("\\",end="")
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        middle(n,i)
+        print("|")
+
+def bigN(n):
+    for i in range(n):
+        print("|",end="")
+        for j in range(i):
+            print(end=" ")
+        print(end="\\")
+        for k in range(n-i-1):
+            print(end=" ")
+        print("|")
+        
+def bigN(n):
+    d=0
+    for i in range(n):
+        print("|",end="")
+        for j in range(n):
+            if(j==d):
+                print("\\",end="")
+            else: print(" ",end="")
+        print("|",end="")
+        print()
+        d+=1
+            
+    
+
+def bigN(n):
+    a=n-1
+    b=0
+    for i in range(n):
+        space1=" "*b
+        space2=" "*a
+        b+=1
+        a-=1
+        print("|{0}\\{1}|".format(space1 , space2))
+def bigN(n):
+    for row in range(0, n):
+        print("|", end="")
+        print(" "*row, end="")
+        print("\\", end="")
+        print(" "*((n-1)-row), end="")
+        print("|", end="")
+        print()
+
+def bigN(n):
+    for i in range(n):
+        for j in range(n+2):
+            if j == 0 or j == n+1:
+                print('|', end='')
+            elif j == i+1:
+                print('\\', end='')
+            else:
+                print(' ', end='')
+        print()
+
+def bigN(n):
+    n1=n
+    n2=1
+    n3=1
+    for x in range(n):
+        print("|",end="")
+        for z in range(n-n1):
+            print("",end=" ")
+        for e in range(n2):
+            print("\\",end="")
+        for a in range(n-n3):
+            print("",end=" ")
+        print("|",end="")    
+        n1-=1
+        n3+=1
+        print()
+def bigN(n):
+    for row in range(n):
+        for col in range(-1,n+1):
+            if col==-1 or col==n :
+                print("|",end='')
+            elif row==col :
+                print("\\",end='')
+            else:
+                print(end=' ')
+        print()
+            
+                
+    
+
+
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        for j in range(n):
+            print("\\", end="") if j == i else print(" ", end="")
+        print("|")
+
+def bigN(n):
+    
+    for i in range(1, n+1):
+        print("|"+ (i-1)*" " + "\\" + (n-i)*" " +"|")
+
+def bigN(n):
+    for i in range(n):
+        print("|",end="")
+        print(" "*i,end="\\")
+        print(" "*(n-i-1),end="|")
+        print()
+
+def bigN(n):
+    p = 1
+
+    for i in range(n):
+        for j in range(n+1):
+            if j == 0 or j == n:
+                print("|", end='')
+            if j == p-1 and i == p-1:
+                print("\\", end='')
+                p = p+1
+            else:
+                print('', end=' ')
+        print()
+
+
+def bigN(n):
+    a=n-1
+    b=0
+    for i in range(n):
+        print("|",end="")
+        for y in range(b):
+            print(" ", end="")
+        print("\\",end="")
+        for x in range(a):
+            print(" ", end="")
+        print("|", end="")
+        a=a-1
+        b=b+1
+        print()
+        
+
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        print(" "*i, end="")
+        print("\\", end="")
+        print(" "*(n-1-i), end="")
+        print("|")
+
+def bigN(n):
+    for i in range(n):
+        print("|", i * " ", "\\", (n-i-1) * " ", "|", sep="")
+
+def bigN(n):
+    for i in range(n):
+        print ("|", end=" "*i)
+        print ("\\", end=" "*(n-i-1))
+        print ("|")
+def bigN(n):
+    for row in range(n):
+  	    print("|", " " * row, "\\", " " * (n - row - 1), "|", sep="") 
+	
+
+
+def bigN(n):
+    if n == 1:
+        print("|\|",end = '')
+        return
+    for i in range(n):
+        print("|", end = '')
+        if i == 0:
+            print("\\",' '*(n-i-2),end = '')
+        elif i == n-1:
+            print(' '*(n-2),"\\",end = '')
+        else:
+            print(' '*(i-1),"\\",' '*(n-i-2),end = '')
+        print("|",end = '')
+        print()
+   
+def bigN(n):
+	for i in range(n):
+		for j in range(n+2):
+			if j==0:
+				print("|", end="")
+			elif j==n+1:
+				print("|")
+			elif j==i+1:
+				print("\\",end="")
+			else:
+				print(" ",end="")
+def bigN(n):
+    sirka = n+2
+    vyska = n
+    for j in range(vyska):
+        for i in range(0,sirka):
+            if (i-j) == 1:
+                print("\\", end ="")
+            elif i == 0 or i==sirka-1:
+                print("|", end = "")
+            elif not (i-j) == 1 or not i == 0 or not i == sirka-1:
+                print(" ", end = "")
+        print()
+
+def bigN(n):
+    for rows in range(1,n+1):
+        for cols in range(1,n+3):
+            if cols-rows==1:
+                print("\\",end="")
+            elif cols==1 or cols==n+2:
+                print("|",end="")
+            else:
+                print(" ",end="")
+        print()
+
+def bigN(n):
+    prvni_retezec = ""
+    druhy_retezec = " "*(n-1)
+    for i in range(n):
+        retezec = "|{0}\\{1}|".format(prvni_retezec, druhy_retezec)
+        prvni_retezec=prvni_retezec+" "
+        druhy_retezec=druhy_retezec[:-1]
+        print(retezec)
+
+def bigN(n):
+    for i in range(n):
+        print("|"+(i)*" "+"\\"+(n-i-1)*" "+"|")
+
+def middle(n,pos):
+    for i in range(n):
+    	if pos != i:
+        	print(" ",end="")
+    	else:
+        	print("\\",end="")
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        middle(n,i)
+        print("|")
+
+def bigN(n):
+    for i in range(n):
+        print("|",end="")
+        for j in range(i):
+            print(end=" ")
+        print(end="\\")
+        for k in range(n-i-1):
+            print(end=" ")
+        print("|")
+        
+def bigN(n):
+    d=0
+    for i in range(n):
+        print("|",end="")
+        for j in range(n):
+            if(j==d):
+                print("\\",end="")
+            else: print(" ",end="")
+        print("|",end="")
+        print()
+        d+=1
+            
+    
+
+def bigN(n):
+    a=n-1
+    b=0
+    for i in range(n):
+        space1=" "*b
+        space2=" "*a
+        b+=1
+        a-=1
+        print("|{0}\\{1}|".format(space1 , space2))
+def bigN(n):
+    for row in range(0, n):
+        print("|", end="")
+        print(" "*row, end="")
+        print("\\", end="")
+        print(" "*((n-1)-row), end="")
+        print("|", end="")
+        print()
+
+def bigN(n):
+    for i in range(n):
+        for j in range(n+2):
+            if j == 0 or j == n+1:
+                print('|', end='')
+            elif j == i+1:
+                print('\\', end='')
+            else:
+                print(' ', end='')
+        print()
+
+def bigN(n):
+    n1=n
+    n2=1
+    n3=1
+    for x in range(n):
+        print("|",end="")
+        for z in range(n-n1):
+            print("",end=" ")
+        for e in range(n2):
+            print("\\",end="")
+        for a in range(n-n3):
+            print("",end=" ")
+        print("|",end="")    
+        n1-=1
+        n3+=1
+        print()
+def bigN(n):
+    for row in range(n):
+        for col in range(-1,n+1):
+            if col==-1 or col==n :
+                print("|",end='')
+            elif row==col :
+                print("\\",end='')
+            else:
+                print(end=' ')
+        print()
+            
+                
+    
+
+
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        for j in range(n):
+            print("\\", end="") if j == i else print(" ", end="")
+        print("|")
+
+def bigN(n):
+    
+    for i in range(1, n+1):
+        print("|"+ (i-1)*" " + "\\" + (n-i)*" " +"|")
+
+def bigN(n):
+    for i in range(n):
+        print("|",end="")
+        print(" "*i,end="\\")
+        print(" "*(n-i-1),end="|")
+        print()
+
+def bigN(n):
+    p = 1
+
+    for i in range(n):
+        for j in range(n+1):
+            if j == 0 or j == n:
+                print("|", end='')
+            if j == p-1 and i == p-1:
+                print("\\", end='')
+                p = p+1
+            else:
+                print('', end=' ')
+        print()
+
+
+def bigN(n):
+    a=n-1
+    b=0
+    for i in range(n):
+        print("|",end="")
+        for y in range(b):
+            print(" ", end="")
+        print("\\",end="")
+        for x in range(a):
+            print(" ", end="")
+        print("|", end="")
+        a=a-1
+        b=b+1
+        print()
+        
+
+def bigN(n):
+    for i in range(n):
+        print("|", end="")
+        print(" "*i, end="")
+        print("\\", end="")
+        print(" "*(n-1-i), end="")
+        print("|")
+
+def bigN(n):
+    for i in range(n):
+        print("|", i * " ", "\\", (n-i-1) * " ", "|", sep="")
+
+def bigN(n):
+    for i in range(n):
+        print ("|", end=" "*i)
+        print ("\\", end=" "*(n-i-1))
+        print ("|")
+def bigN(n):
+    for row in range(n):
+  	    print("|", " " * row, "\\", " " * (n - row - 1), "|", sep="") 
+	
+
+
+def bigN(n):
+    if n == 1:
+        print("|\|",end = '')
+        return
+    for i in range(n):
+        print("|", end = '')
+        if i == 0:
+            print("\\",' '*(n-i-2),end = '')
+        elif i == n-1:
+            print(' '*(n-2),"\\",end = '')
+        else:
+            print(' '*(i-1),"\\",' '*(n-i-2),end = '')
+        print("|",end = '')
+        print()
+   
+def bigN(n):
+	for i in range(n):
+		for j in range(n+2):
+			if j==0:
+				print("|", end="")
+			elif j==n+1:
+				print("|")
+			elif j==i+1:
+				print("\\",end="")
+			else:
+				print(" ",end="")
+def bigN(n):
+    sirka = n+2
+    vyska = n
+    for j in range(vyska):
+        for i in range(0,sirka):
+            if (i-j) == 1:
+                print("\\", end ="")
+            elif i == 0 or i==sirka-1:
+                print("|", end = "")
+            elif not (i-j) == 1 or not i == 0 or not i == sirka-1:
+                print(" ", end = "")
+        print()
+

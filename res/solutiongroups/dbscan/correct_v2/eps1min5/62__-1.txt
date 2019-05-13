@@ -1,0 +1,68 @@
+def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+def area_perimeter(a):
+    print("obsah",a*a)
+    print("obvod",a+a+a+a)
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = 4 * a
+    print("obsah", obsah)
+    print("obvod", obvod)
+def area_perimeter(a):
+    b=a**2
+    print("obsah", b)
+    c=a*4
+    print("obvod", c)
+
+def area_perimeter(a):
+    print("obsah",end=" ")
+    print(a**2)
+    print("obvod", end=" ")
+    print(a*4)
+
+def area_perimeter(a):
+    print("obsah " + str(a*a))
+    print("obvod " + str(a*4))
+
+def area_perimeter(a):
+    obsah = a*a
+    obvod = a*4
+    print("obsah " + str(obsah))
+    print("obvod " + str(obvod))
+
+def area_perimeter(a):
+    print("obsah " + str(a*a))
+    print("obvod " + str(a+a+a+a))
+
+def area_perimeter(a):
+    print("obsah",a**2),
+    print("obvod", a*4)
+
+def area_perimeter(a):
+    print('obsah {}'.format(a**2))
+    print('obvod {}'.format(a*4))
+
+def area_perimeter(a):
+    S = a*a
+    O = a+a+a+a
+    print("obsah", S)
+    print("obvod", O)
+    
+
+def area_perimeter(a):
+    obsah = a*a
+    obvod = a*4
+    print("obsah" ,str(obsah))
+    print("obvod" ,str(obvod))
+def area_perimeter(a):
+    print("obsah",a*a),
+    print("obvod",4*a),
+    
+
+def area_perimeter(a):
+    print(str("obsah"),int(a*a))
+    print(str("obvod"),int(a+a+a+a))
+

@@ -1,0 +1,368 @@
+4.445316657796701
+def unique(mylist):
+    whitelist=[]
+    for i in mylist:
+        if contains(whitelist,i)==False:
+            whitelist.append(i)
+    return whitelist
+def contains (summary,element):
+    result=False
+    for x in summary:
+        if x!=element:
+            result = False
+        else: return True
+    return result
+4.1306546035125065
+def unique(mylist):
+    s=[]
+    for i in range (len(mylist)):
+        for j in range (len(mylist)):
+        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"
+    for p in range (len(mylist)): 
+        if mylist[p]!="a" : s.append(mylist[p])
+    return(s)
+   	
+    
+ 	
+2.9692655667908463
+def unique(mylist):
+        output = [875]
+        for i in range(len(mylist)):
+            for j in range(len(output)):
+                if mylist[i] == output[j]:
+                    break
+                elif j == len(output)-1:
+                    output.append(mylist[i])
+        del output[0]
+        return output
+1.8193187865886111
+def unique(mylist):
+    taken = list()
+    to_return = list()
+    for x in mylist:
+        if x not in taken:
+            taken.append(x)
+            to_return.append(x)
+    return to_return
+
+1.77354976051091
+def unique(mylist):
+    new_list = []
+    unique_numbers = set(mylist)
+    for item in mylist:
+        if item in unique_numbers and item not in new_list:
+            new_list.append(item)        
+    return new_list
+
+1.4989356040447046
+def unique(mylist):
+    mynewlist=[]
+    for i in mylist:
+        if i not in mynewlist:
+            mynewlist=mynewlist+[i]
+    return mynewlist
+
+1.4131186801490154
+def unique(mylist):
+    copy = list()
+    for i in range(0, len(mylist)):
+        if mylist[i] not in mylist[0:i]: #and mylist[i:len(mylist)]:
+            copy.append(mylist[i])
+    return(copy)
+
+1.1899946780202235
+def unique(mylist):
+	unik=[]
+	for i in range(len(mylist)):
+		if mylist[i] not in mylist[:i]:
+			unik.append(mylist[i])
+	return unik
+
+1.1499467802022354
+def unique(mylist):
+    seznam=[]
+    for i in mylist:
+        if not(i in seznam):
+            seznam.append(i)
+    return seznam
+
+1.1499467802022354
+def unique(mylist):
+    r=[]
+    for i in mylist:
+        if not i in r:
+            r.append(i)
+    return r
+
+0.9439861628525812
+def unique(mylist):
+    alist = []
+    for number in mylist:
+        if number in alist:
+            continue
+        else:
+            alist.append(number)
+    return alist
+
+0.9382650345928686
+def unique(mylist):
+    unique = []  
+    for n in mylist:
+        if n in unique:
+            pass
+        else:
+            unique.append(n)
+    return unique
+        
+0.9382650345928686
+def unique(mylist):
+    new_list = []
+    for i in mylist:
+        if i in new_list:
+            pass
+        else:
+            new_list.append(i)
+    return new_list
+
+0.7723523150612028
+def unique(mylist):
+    uni = []
+    for i in range(len(mylist)):
+        if mylist[i] not in uni:
+            uni.append(mylist[i])
+    return uni
+
+0.7723523150612028
+def unique(mylist):
+    final_list = []
+    for i in range (0,len(mylist)):
+        if mylist[i] not in final_list:
+        	final_list.append(mylist[i])
+    return final_list
+
+0.7723523150612028
+def unique(mylist):
+    new = []
+    for i in range(len(mylist)):
+        if mylist[i] not in new:
+            new.append(mylist[i])
+    return new
+
+0.7723523150612028
+def unique(mylist):
+    result = []
+    for i in range(len(mylist)):
+        if mylist[i] not in result:
+            result.append(mylist[i])
+    return result
+
+0.7723523150612028
+def unique(mylist):
+    unique = []
+    for i in range(len(mylist)):
+        if mylist[i] not in unique:
+            unique.append(mylist[i])
+    return unique
+
+0.7723523150612028
+def unique(mylist):
+    unique_list = []
+    for i in range(len(mylist)):
+        if mylist[i] not in unique_list:
+            unique_list.append(mylist[i])
+    return unique_list
+
+0.7723523150612028
+def unique(mylist):
+    newList = []
+    for i in range(len(mylist)):
+        if mylist[i] not in newList:
+            newList.append(mylist[i])
+    return newList
+
+0.7723523150612028
+def unique(mylist):
+    unique_list = []
+    for i in range(len(mylist)):
+        if mylist[i] not in unique_list:
+            unique_list.append(mylist[i])
+    return unique_list
+
+0.5663916977115487
+def unique(mylist):
+    ulist = []
+    for i in mylist:
+        if i not in ulist:
+            ulist.append(i)
+    return ulist            
+                
+
+0.5663916977115487
+def unique(mylist):
+    seznam = []
+    for x in mylist:
+        if x not in seznam:
+        	seznam.append(x)
+    return seznam
+
+0.5663916977115487
+def unique(mylist):
+  nedup = []
+  for x in mylist:
+    if x not in nedup:
+      nedup.append(x)
+  return nedup
+
+0.5663916977115487
+def unique(mylist):
+    unique_list = []
+    for i in mylist:
+        if i not in unique_list:
+            unique_list.append(i)
+    return unique_list
+
+0.5663916977115487
+def unique(mylist):
+    new = []
+    for number in mylist:
+        if number not in new:
+            new.append(number)
+    return new
+
+0.5663916977115487
+def unique(mylist):
+    alist = []
+    for this in mylist:
+        if this not in alist:
+            alist.append(this)
+    return alist
+
+0.5663916977115487
+def unique(mylist):
+    vys = []
+    for x in mylist:
+        if x not in vys:
+            vys.append(x)
+    return vys
+
+0.5663916977115487
+def unique(mylist):
+    new_list = []
+    for i in mylist:
+        if i not in new_list:
+            new_list.append(i)
+    return new_list
+
+0.5663916977115487
+def unique(mylist):
+    blist = []
+    for item in mylist:
+        if item not in blist:
+            blist.append(item)
+    return blist
+
+0.5663916977115487
+def unique(mylist):
+    l=[]
+    for a in mylist:
+        if a not in l:
+            l.append(a)
+    return l
+
+0.5663916977115487
+def unique(mylist):
+    list_of_uniques = []
+    for number in mylist:
+        if number not in list_of_uniques:
+            list_of_uniques.append(number)
+    return list_of_uniques
+
+0.5663916977115487
+def unique(mylist):
+    alist = []
+    for i in mylist:
+        if i not in alist:
+            alist.append(i)
+    return(alist)
+0.5663916977115487
+def unique(mylist):
+    alist = []
+    for i in mylist:
+        if i not in alist:
+            alist.append(i)
+    return alist
+
+0.5663916977115487
+def unique(mylist):
+    vysl = []
+    for i in mylist:
+        if i not in vysl:
+            vysl.append(i)
+    return vysl        
+
+
+0.5663916977115487
+def unique(mylist):
+    new = []
+    for i in mylist:
+        if i not in new:
+            new.append(i)
+    return new
+
+0.5663916977115487
+def unique(mylist):
+    unique_list = [] 
+    for x in mylist: 
+        if x not in unique_list: 
+            unique_list.append(x)
+    return unique_list
+
+0.5663916977115487
+def unique(mylist):
+    alist = []
+    for i in mylist:
+        if i not in alist:
+            alist.append(i)
+    return alist
+
+0.5663916977115487
+def unique(mylist):
+    newlist = []
+    for x in mylist:
+        if x not in newlist:
+            newlist.append(x)
+    return newlist
+
+0.5663916977115487
+def unique(mylist):
+    new= []
+    for i in mylist:
+        if i not in new:
+            new.append(i)
+    return new
+
+0.5663916977115487
+def unique(mylist):
+    new_list = []
+    for item in mylist:
+        if item not in new_list:
+            new_list.append(item)
+    return new_list
+            
+
+0.5663916977115487
+def unique(mylist):
+    final_list = []
+    for num in mylist:
+        if num not in final_list:
+            final_list.append(num)
+    return final_list
+
+0.5663916977115487
+def unique(mylist):
+    new = []
+    
+    for element in mylist:
+        if element not in new:
+            new.append(element)
+    return new

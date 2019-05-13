@@ -1,0 +1,74 @@
+def reverse_numbers(n):
+    for i in range(n,0, -1):
+        print(i)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+def reverse_numbers(n):
+    for i in reversed(range(n)):
+        print(i+1)
+
+def reverse_numbers(n):
+    for i in range(n):
+        print(n)
+        n=n-1
+
+def reverse_numbers(n):
+    for i in reversed(range(1, n + 1)):
+        print(i)
+
+def reverse_numbers(n):
+    for i in range(1,n+1):
+        print(n+1-i)
+
+def reverse_numbers(n):
+        odpocet = n
+        while True:
+            if odpocet != 0:
+            	print(odpocet)
+            	odpocet -= 1
+            else:
+                break
+        
+
+def reverse_numbers(n):
+    for i in range(n):
+        s = n - i
+        print(s)
+
+def reverse_numbers(n):
+    x=n
+    while x!=0:
+        print(x)
+        x-=1
+
+def reverse_numbers(n):
+    for i in range(1,n +1):
+        print(n)
+        n-=1
+
+def reverse_numbers(n):
+    alist = []
+    for i in range(1, n+1):
+        alist.append(i)
+    alist =alist[::-1]
+    for j in range(len(alist)):
+        print(alist[j])
+
+def reverse_numbers(n):
+    for i in range(-n,0):
+        print(-i)
+
+def reverse_numbers(n):
+    x=1
+    for i in range(1, n+1):
+        print(i+n-x)
+        x += 2
+        
+     
+def reverse_numbers(n):
+    for i in range(n):
+    	print (-i + n)
+

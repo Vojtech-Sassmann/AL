@@ -1,0 +1,108 @@
+def factorial(n):\n    vysledek = 1\n    for i in range(2,n+1):\n        vysledek = vysledek*i\n    return vysledek\n
+def factorial(n):\n    r=1\n    for i in range(1,n):\n        r*=(i+1)\n    return r\n    \n
+def factorial(n):\n    f = 1\n    for i in range(1,n+1): \n        f = f*i\n    \n    return (f)\n	\n
+def factorial(n):\n    cislo = 1\n    for i in range(n):\n        cislo = cislo * (i+1)\n    return(cislo)\n
+def factorial(n):\n    k=1\n    for i in range (n):\n    	k=k*(i+1)\n    return(k)\n \n\n \n    \n        \n    \n
+def factorial(n):\n  f = 1\n  for i in range(2, n+1):\n      f *= i\n  return f\n
+def factorial(n):\n    temp = 1\n    for i in range(n):\n        temp *= (i+1)\n    return temp\n
+def factorial(n):\n    if n <= 1:\n        return 1\n    else:\n        return n * factorial(n - 1)\n
+def factorial(n):\n    i = n\n    result = 1\n    while i > 0:\n        result *= i\n        i -= 1\n    return(result)\n
+def factorial(n):\n    factorial = 1\n    for i in range(1, n + 1):\n        factorial *= i\n    return factorial\n
+def factorial(n):\n    if n == 0:\n    	return 1\n    else:\n        return n * factorial(n-1)\n
+def factorial(n):\n    x=1\n    for i in range (1, n+1):\n        x=x*i\n    return(x)\n   
+def factorial(n):\n    x = 1\n    for i in range(n):\n        x = x * (i+1)\n    return x\n
+def factorial(n):\n    x=1\n    for i in range(n):\n        x=x*(i+1)\n    return(x)\n        \n
+def factorial(n):\n	x=1\n	for i in range(1,n+1):\n		x*=i\n	return x
+def factorial(n):\n    res = 1\n    for i in range(2, n + 1):\n        res *= i\n    return res
+def factorial(n):\n    if n==1:\n        return 1\n    else:\n        return n* factorial (n-1)
+def factorial(n):\n	fact = 1\n	for i in range(1,n+1):\n		fact = fact*i\n	return fact\n
+def factorial(n):\n    count = 1\n    for i in range(1,n+1):\n        count = count * i\n    return(count)
+def factorial(n):\n    sum = 1\n    for i in range (1,n+1):\n        sum*=i\n    return sum\n
+def factorial(n):\n    f = 1\n    for i in range (1, n+1):\n    	f = f * i\n    return f\n
+def factorial(n):\n    product=1\n    for i in range(n):\n        product=product*(i+1)\n    return product\n
+def factorial(n):\n	if n == 1:\n		return 1\n	else:\n		return n*factorial(n-1)
+def factorial(n):\n    temp=1\n    for i in range(n):\n        temp=temp*(n-i)\n    return temp\n
+def factorial(n):\n    a=1\n    for i in range(n):\n        a=(i+1)*a\n    return(a)
+def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)
+import math\ndef factorial(n): \n    return math.factorial(n)\n\n
+def factorial(n):\n    if n <= 0:\n        return 1\n    else:\n        f = 1\n        for i in range(n):\n            f = f*(i+1)\n        return f \n\n
+def factorial(n):\n   \n    num = 1\n    while n >= 1:\n        num = num * n\n        n = n - 1\n    return num\n   
+def factorial(n):\n    x = 1\n    for i in range(1,n+1):\n        x = x * i\n    return x
+def factorial(n):\n    sucin=1\n    for i in range(n):\n        sucin=sucin*(n-i)\n    return(sucin)\n
+def factorial(n):\n    f=1\n    for i in range(1, n+1):\n        f=f*i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1, n+1):\n        f=f*i\n    return f\n
+def factorial(n):\n	x = 1\n	for i in range(1,n+1):\n		x = x * i\n	return x\n
+def factorial(n):\n    a=1\n    for i in range(n):\n        a = a*(i+1)\n    return a\n
+def factorial(n):\n    result = 1\n    for i in range(1, n + 1):\n        result *= i\n    return result\n
+def factorial(n):\n    if n < 2:\n        return 1\n    return n * factorial(n - 1)
+def factorial(n):\n    if (n == 1):\n        return 1\n    return factorial(n-1)*n\n
+def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)\n
+def factorial(n):\n    a = 1\n    for i in range(1, n+1):\n        a *= i\n    return a\n
+def factorial(n):\n    x = 1\n    for i in range(1, n+1):\n        x *= i\n    return x
+def factorial(n):\n    f=1\n    for i in range(n): f=f*(i+1)\n    return f\n
+def factorial(n):\n    if n == 1: return 1\n    else: return n*factorial(n-1)\n
+def factorial(n):\n    f=1\n    for x in range(n):\n     f*=(x+1)\n    return f\n
+def factorial(n):\n    a=1\n    for i in range(1,n+1):\n        a = a*i\n    return a\n        \n        \n   
+def factorial(n):\n    x = 1\n    for i in range(1,n + 1):\n        x *= i\n    return x\n
+def factorial(n):\n    fact = 1\n    for x in range (1, n+1):\n        fact = fact*x\n    return(fact)\n    \n        \n     \n      \n        \n        \n
+def factorial(n):\n    y = 1\n    for x in range(n):\n        y = y * (x + 1)\n    return y\n
+def factorial(n):\n    fact = 1\n    for x in range(1, n+1):\n        fact=fact*x\n    return(fact)\n    \n
+def factorial(n):\n    x = 1\n    for i in range(1,n+1):\n        x = i*x\n    return x
+def factorial(n):\n    f = 1\n    for i in range(1, n + 1):\n        f = i * f\n        if i == n:\n            return f\n
+def factorial(n):\n    y = 1\n    for x in range(n):\n        y = y * (x + 1)\n    return y\n
+def factorial(n):\n    x = 1\n    for i in range (1, n +1):\n    	x = x*i    \n    return x\n
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f = f * i\n    return f\n
+def factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return n * factorial(n-1)\n
+def factorial(n):\n    if n == 1:\n    	return 1\n    else:\n        return n * factorial(n-1)\n
+def factorial(n):\n    faktorial=1\n    for i in range(1,n+1):\n        faktorial=faktorial*i\n    return(faktorial)\n    \n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f=f*i\n    return(f)\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f=f*i\n    return(f)\n\n
+def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f = f * i\n    return f\n
+def factorial(n):\n    res=1\n    for x in range(2,n+1):\n        res*=x\n    return res\n    \n
+def factorial(n):\n    number = 1\n    for i in range(1, n+1):\n        number *= i\n    return number\n
+def factorial(n):\n    total = 1\n    for i in range(1, n+1):\n        total *= i\n    return total\n
+def factorial(n):\n    number = 1\n    for i in range(n):\n        number *= n-i\n    return number\n
+def factorial(n):\n    if n==0:\n        return 1\n    return n*factorial(n-1)\n
+def factorial(n):\n    m = 1\n    for i in range(1, n+1):\n        m *= i\n    return m\n
+def factorial(n):\n    result = 1\n    for i in range(1, n+1):\n        result *= i\n    return result\n
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f = f * i\n    return f\n
+def factorial(n):\n    x = 1\n    for i in range(1, n+1):\n        x = i * x\n    return x\n
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f *= i\n    return f\n
+def factorial(n):\n    x = 1\n    for i in range(1, n+1):\n        x = x*i\n    return x\n
+def factorial(n):\n    a = 1\n    while n != 0:\n        a *= n\n        n -= 1\n    return a\n
+def factorial(n):\n    if n == 1:\n        return 1\n    else:\n        return factorial(n-1)*n\n
+def factorial(n):\n    fakt=1\n    for i in range(n+1):\n        if i>0:\n            fakt=fakt*i\n    return fakt\n
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f = f * i\n    return f\n
+def factorial(n):\n    x = 1\n    for i in range(1,n+1):\n        x = i * x\n    return x\n
+def factorial(n):\n    fct = 1\n    for i in range(1,n+1):\n        fct *= i\n    return fct\n
+def factorial(n):\n	if (n <= 1):\n        	return 1 \n	else: return(n*factorial(n-1))\n\n
+def factorial(n):\n    if(n==1): return 1\n    else: return(n*factorial(n-1))
+def factorial(n):\n	if (n == 1): return 1\n	else: return(n*factorial(n-1))
+def factorial(n):\n    fak = 1\n    for i in range(n):\n        fak *= i+1\n    return fak\n
+def factorial(n):\n    s=1\n    for i in range(1,n+1):\n        s=s*i\n    return s\n
+def factorial(n):\n    f = 1\n    for i in range(2 ,n + 1):\n        f *= i\n    return f\n
+def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)
+def factorial(n):\n    a = 1\n    for i in range(1, n+1):\n        a *= i\n    return a\n
+def factorial(n):\n    p = 1\n    for i in range(n):\n        p = p*(i+1)\n    return p\n
+def factorial(n):\n    j=1\n    for i in range(n):\n        j=j*(i+1)\n    return j\n
+def factorial(n):\n    x=1\n    for i in range (1,n):\n        x += x*i\n    return x\n
+def factorial(n):\n    f = 1\n    for i in range(1,n + 1):\n        f *=i\n    return f\n
+def factorial(n):\n    x=1\n    for i in range(1,n+1):\n        x = x * i\n    return(x)\n
+def factorial(n):\n    fact = 1\n    for i in range(n):\n        fact *= (i+1)\n    return fact\n
+def factorial(n):\n    num = 1\n    while n >= 1:\n        num = num * n\n        n = n - 1\n    return num
+def factorial(n):\n    num=1\n    while n>=1:\n        num = num * n\n        n = n - 1\n    return(num)\n    \n    \n
+def factorial(n):\n    fact = 1\n    for i in range(1,n+1):\n    	fact *= i\n    return fact\n
+def factorial(n):\n    p = 1\n    for i in range(n):\n        p = p * (i + 1)\n    return p    \n        \n
+def factorial(n):\n    f = 1\n    for i in range(1, n+1):\n        f = f * i\n    return f
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return  f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1, n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(1,n+1):\n        f*=i\n    return f\n
+def factorial(n):\n    f=1\n    for i in range(2,n+1):\n        f=f*i\n    return f\n

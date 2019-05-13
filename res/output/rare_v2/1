@@ -1,0 +1,952 @@
+6.378537106246664
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+4.827282434596904
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+3.9978643886812604
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+3.9631607047517354
+def numbers(n):
+    num=1
+    while (num<=n):
+        print(num)
+        num = num +1
+3.952749599572878
+def numbers(n):
+    i = 1
+    while i <= n:
+        print(i)
+        i += 1
+
+3.952749599572878
+def numbers(n):
+    x=1
+    while x<=n:
+        print(x)
+        x+=1
+
+3.5848905499199146
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+2.581954084356647
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+2.4813134009610254
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+    print("")
+
+	
+2.2835024025627337
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+2.2036839295248267
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+2.200213561131874
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+1.8601174586225309
+def numbers(n):
+    for i in range (1,n+1):
+    	print(i)
+        
+    print()    
+
+1.617191671115857
+def numbers(n):
+    for i in range(n):
+        i=i+1
+        print(i)
+1.617191671115857
+def numbers(n):
+    for n in range (n):
+        x=n+1
+        print (x)
+     
+
+1.617191671115857
+def numbers(n):
+    for x in range (n):
+        i=x+1
+        print(i)
+
+1.6033101975440471
+def numbers(n):
+    a=1
+    for i in range(n):
+    	print(i+1)
+		
+1.0341697810998398
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for n in range(n):
+        print(n+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        
+    
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n): 
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+        print (i+1)
+    
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for n in range(n):
+        print (n+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+    
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+	for i in range(n):
+		print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+        print(i + 1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    
+
+1.0341697810998398
+def numbers(n):
+    for n in range (n) :
+    	print(n+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+         print(i+1)
+         
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for a in range(n):
+        print(a+1)
+
+1.0341697810998398
+def numbers(n):
+    for a in range(n):print(a+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+1.0341697810998398
+def numbers(n):
+    for x in range(n):
+        print(x + 1)
+
+1.0341697810998398
+def numbers(n):
+    for n in range(n):
+    	print(n+1)
+
+1.0341697810998398
+def numbers(n):
+    for n in range(n):
+        print(n+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for x in range(n):
+    	print(x+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for a in range (n):
+        print(a+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i +1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n): 
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range (n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i + 1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+
+1.0341697810998398
+def numbers(n):
+    for i in range(n):
+    	print(i+1)
+    
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1, n+1): print(i)
+    	
+
+0.6663107314468767
+def numbers(n):
+    for n in range(1, n+1):
+        print (n)
+    
+0.6663107314468767
+def numbers(n):
+    for r in range(1, n+1):
+        print(r)
+
+0.6663107314468767
+def numbers(n):
+    for n in range(1,n+1):
+    	print(n)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+
+0.6663107314468767
+def numbers(n): 
+    for i in range(1,n+1,1):
+        print(i)
+        
+    
+
+0.6663107314468767
+def numbers(n):
+  for i in range(1,n+1):
+  	  print(i)
+
+0.6663107314468767
+def numbers(n):
+  for i in range(1,n+1):
+      print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n + 1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n + 1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+	for i in range(1,n+1):
+		print(i)
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1, 1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+     print(i)
+
+0.6663107314468767
+def numbers(n):
+	for i in range(1,n+1):
+		print(i)
+
+0.6663107314468767
+def numbers(n):
+    for x in range(1,n+1):
+        print(x)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print (i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+        
+   
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+    	
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n + 1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for x in range(1, n+1):
+    	print (x)
+   
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+       print(i)
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+   
+   
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+      print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+      
+    
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+0.6663107314468767
+def numbers(n):
+    for i in range (1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+        print (i)
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+        print(i)
+        
+
+0.6663107314468767
+def numbers(n):
+    for x in xrange(1, n+1):
+        print(x)
+0.6663107314468767
+def numbers(n):
+    for x in range(1,n+1):
+        print(x)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n + 1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+        print (i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for n in range(1,n+1):
+    	print(n)
+
+0.6663107314468767
+def numbers(n):
+    for num in range(1, n+1):
+        print(num)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in  range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+ 	   print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):   
+    for i in range(1, n + 1, 1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+	for i in range (1,n+1):
+		print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): 
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range (1,n+1): 
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1,1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n + 1):
+        print(i)
+       
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): (print(i))
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+    
+    
+0.6663107314468767
+def numbers(n):
+	for i in range(1,n+1): print(i)
+	
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+        
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1): print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+ 
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1,1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):  
+    for x in range (1,n+1):
+        print(x)
+
+0.6663107314468767
+def numbers(n):
+    for n in range(1,n+1):
+    	print(n)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+     print(i)
+
+0.6663107314468767
+def numbers(n):
+    for n in range (1, n+1):
+        print(n)
+
+0.6663107314468767
+def numbers(n):
+    for n in range(1,n+1):
+        print(n)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+    	print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print (i)
+
+
+0.6663107314468767
+def numbers(n):
+    for i in range(1,n+1):
+        print(i)
+

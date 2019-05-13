@@ -1,0 +1,267 @@
+Rate:  9.113636363636363
+401.0
+def every_second_number(num_list):
+    lst = [x for c, x in enumerate(num_list) if c % 2 == 0]
+    for x in lst:
+        print(x)
+
+399.0
+def every_second_number(num_list):
+    for i in range(int(len(num_list)/2) + 1):
+    	print(num_list[i*2])
+
+395.0
+def every_second_number(A):
+    b=True
+    for i in A:
+        if b:
+            print(i)
+        b=not b
+
+392.0
+def every_second_number(num_list):
+    every_sec = []
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            every_sec.append(i)
+    for k in every_sec:
+        print(num_list[k])
+
+372.0
+def every_second_number(num_list):
+    [print(i) for i in num_list[::2]]
+
+367.0
+def every_second_number(num_list):
+    
+    for i in range(len(num_list)):
+        if i % 2 == 0 and i <= len(num_list):
+            print(num_list[i])
+
+322.0
+def every_second_number(num_list):
+    alen = len(num_list)
+    new = []
+    for i in range(0, alen):
+        if i % 2 == 0:
+            print(num_list[i])
+
+
+295.0
+def every_second_number(num_list):
+    num_list = num_list[::2]
+    for i in num_list:
+    	print(i)
+
+295.0
+def every_second_number(num_list):
+    num_list = num_list[::2]
+    for item in num_list:
+    	print(item)
+
+283.0
+def every_second_number(num_list):
+    x = 0
+    for i in num_list:
+        if x % 2 == 0:
+        	print(i)
+        x += 1
+                   
+
+283.0
+def every_second_number(num_list):
+    x=2
+    for i in num_list:
+        if x%2==0:
+            print(i)
+         
+        x+=1
+        
+
+265.0
+def every_second_number(num_list):
+    print(num_list[0])
+    for i in range(1, len(num_list)+1):
+        if i % 2 == 0:
+            print(num_list[i])
+231.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i == 0 or i % 2 == 0:
+            print(num_list[i])
+
+218.0
+def every_second_number(num_list):
+    for x in num_list[0:len(num_list):2]:
+        print(x)
+
+212.0
+def every_second_number(num_list):
+    new_list = []
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+    
+
+211.0
+def every_second_number(num_list):
+    for i in num_list[0::2]:
+        print(i)
+
+211.0
+def every_second_number(num_list):
+    for i in num_list[::2]:
+        print(i)
+
+211.0
+def every_second_number(num_list):
+    for number in num_list[::2]:
+        print(number)
+
+211.0
+def every_second_number(num_list):
+    for x in num_list[::2]:
+        print(x)
+
+
+207.0
+def every_second_number(num_list):
+    for index, value in enumerate(num_list):
+        if index % 2 == 0:
+            print(value)
+
+158.0
+def every_second_number(num_list):
+         for i in range(0, len(num_list), 2):
+              print(num_list[i])
+
+158.0
+def every_second_number(num_list):
+    for i in range (0,len(num_list),2):
+        print(num_list[i])
+    
+
+158.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list), 2):
+    	print(num_list[i])
+
+158.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list), 2):
+            print(num_list[i])
+158.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list), 2):
+        print(num_list[i])
+
+158.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list), 2):
+        print(num_list[i])
+        
+158.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list),2):
+        print(num_list[i])
+
+158.0
+def every_second_number(num_list):
+    for i in range(0,len(num_list), 2):
+    	print(num_list[i])
+
+158.0
+def every_second_number(num_list):
+    for num in range(0, len(num_list), 2):
+        print(num_list[num])
+        
+
+142.0
+def every_second_number(num_list):
+	for i in range(len(num_list)):
+		if i % 2 == 0:
+			print(num_list[i])
+142.0
+def every_second_number(num_list):
+	for i in range(len(num_list)):
+		if i%2==0:
+			print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range (len(num_list)):
+        if i%2==0:
+            print (num_list[i])
+            
+
+142.0
+def every_second_number(num_list):
+    for i in range(0, len(num_list)):
+        if i % 2 == 0:
+        	print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range(0,len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+           
+
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i% 2 == 0:
+            print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i%2==0:
+        	print(num_list[i])
+
+142.0
+def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i%2==0: print(num_list[i])
+    		
+142.0
+def every_second_number(num_list):
+    for item in range (len(num_list)):
+        if item%2 == 0:
+            print(num_list[item])
+142.0
+def every_second_number(num_list):
+    for pos in range(len(num_list)):
+        if pos%2==0:
+            print(num_list[pos])
+
+
+142.0
+def every_second_number(num_list):
+    for x in range(len(num_list)):
+    	if x % 2 == 0:
+                print(num_list[x])
+
+142.0
+def every_second_number(num_list):
+    for x in range(len(num_list)):
+        if x % 2 == 0:
+            print(num_list[x])
+

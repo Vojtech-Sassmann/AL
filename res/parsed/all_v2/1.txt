@@ -1,0 +1,483 @@
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (1, n+1): print(i)\n    	\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n    print(6)\n    print(7)\n    print(8)\n    print(9)\n    print(10)\n    \n    \n
+def numbers(n):\n    for n in range(1, n+1):\n        print (n)\n    
+def numbers(n):\n    for n in range(10):\n	print(n+1)\n
+def numbers(n):\n    for n in range(n):\n	print(n+1)\n
+def numbers(n):\n    cislo = n\n    while (cislo <= 10):\n        print(n)\n        cislo = cislo + 1\n
+def numbers(n):\n    for n in range(1, 4):\n        print(n)\n
+def numbers(n):\n    for r in range(1, n):\n        print(r)\n
+def numbers(n):\n    for r in range(1, n+1):\n        print(r)\n
+\ndef numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i)
+def numbers(n):\n    for i in range(n+1):\n        print(i)
+def numbers(n):\n    for i in range(n):\n        i=i+1\n        print(i)
+def numbers(n):\n    for n in range(10):\n        print(n+1)\n
+def numbers(n):\n    for n in range(n):\n        print(n+1)\n
+def numbers(n):\n    for x in range(1,11):\n    	print(x)\n
+def numbers(n):\n    for i in range(1,11):\n    	print(i)\n
+def numbers(n):\n    for n in range(1,n+1):\n    	print(n)\n
+def numbers(n):\n    for i in range(1,11): print(i)\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+def numbers(n):\n    print(n)\ndef numbers(n):\n
+def numbers(n): \n    for i in range(1,11,1):\n        print(i)\n        \n    \n
+def numbers(n): \n    for i in range(1,n+1,1):\n        print(i)\n        \n    \n
+def numbers(n):\n  for i in range(1,n+1):\n  	  print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i);
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n    print("")\n\n	
+def numbers(n):\n  for i in range(1,n+1):\n      print(i)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1, n + 1):\n    	print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(1n)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n    print()\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n        \n    \n
+def numbers(n):\n    i = 0\n    while i < n:\n        i += 1\n        print(i)\n
+def numbers(n):\n    for i in range(1, n + 1):\n        print(i)\n
+def numbers(n):\n    for i in range(n): \n    	print(i+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range (n):\n        print (i+1)\n    \n
+def numbers(n):\n    i = 1\n    while i <= n:\n        print(i)\n        i += 1\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for n in range(10):\n        print (n+1)\n
+def numbers(n):\n    for n in range(n):\n        print (n+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        \n    	print(n+1)\n
+def numbers(n):\n    for i in range(n):\n        \n    	print(i+1)\n
+def numbers(n):\n    for i in range(10):\n        print(11-n)\n        n-=1\n
+def numbers(n):\n    x=1\n    for i in range(10):\n        print(x)\n        x+=1\n
+def numbers(n):\n    x=1\n    for i in range(n):\n        print(x)\n        x+=1\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n    \n
+def numbers(n):\n    for i in range (n):\n    	print(i+1)\n
+def numbers(n):\n	for i in range(n):\n		print(i+1)\n
+def numbers(n):\n	for i in range(1,n+1):\n		print(i)
+def numbers(n):\n    for i in range(n):\n        print(n+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range (n):\n        print(i + 1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n    \n
+def numbers(n):\n    for n in range (n) :\n    	print(n+1)\n
+def numbers(n):\n    a=1\n    for i in range(n):\n    	print(i+1)\n		
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(5)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n
+def numbers(n):\n    print(1)\n    print(2)\n    print(3)\n    print(4)\n    print(5)\n
+def numbers(n):\n    print(n)\n    numbers(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):1\n    print(n)\n
+def numbers(n):3\n    print(n)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n	for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\ndef numbers(n):\n    print(n)
+def numbers(n):\n    print(n)\ndef numbers(a):\n    print(a)
+def numbers(n):\n    
+def numbers(n):\n    for i in range(n):\n        print(i)
+def numbers(n):\n    for i in range(1, n):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1, n+1, 1):\n    	print(i)\n
+def numbers(n):\n    for i in range (1, n+1):\n		print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(10):\n         print(i+1)\n
+def numbers(n):\n    a = 1\n    for i in range(3):\n         print(a)\n         a = a+1\n
+def numbers(n):\n    for i in range(n):\n         print(i+1)\n         \n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range (n):\n    	print(i+1, sep='')\n \n\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+numbers(n)
+numbers(n)
+numbers(n)
+numbers(n)\nprint(n)
+numbers(n)\n	print(n)
+numbers(n)\n print(n)
+numbers(n)\n 
+t = numbers(n)\n print(t)
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n\n
+def numbers(n):\n    print(n)\n
+def numbers(m):\n    print(m)\n
+def numbers(m):\n    print(m)\n
+def numbers(m):\n    print(m)\n
+def numbers(n):\n    for i in range(1,n+1):\n		print(i)\n
+def numbers(11)\nfor i in range(11)\n    print(11)\n         \n
+def numbers(11)\nfor i in range(11)\n    print(11)\n         \n
+def numbers(10)\nprint(10)\n         \n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n     print(i)\n
+def numbers(n):\n	for i in range(1,n+1):\n		print(i)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for x in range(n+1):\n        print(x)\n
+def numbers(n):\n    for x in range(1,n+1):\n        print(x)\n
+def numbers(n):\n    for i in range(10):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(10):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n	for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\nfor i in range(11):\n    print(i)\n    \n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i, end="\n")\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print (i)\n
+def numbers(n):\n    for i in range(1, n):\n    	print(i)\n        \n   \n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n        \n   \n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, i+1):\n        print(i)
+def numbers(n):\n    for i in range(1, n+1):\n        print(n)
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for a in range(n):\n        print(a+1)\n
+def numbers(n):\n    for a in range(n):print(a+1)\n
+def numbers(n):\n	for x in range(1,n+1):\n    	print(x)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+numbers=10\nfor i in range numbers(n):\n     print(n)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n    	\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n    	\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)
+def numbers(n):\nfor i in range(n):  \nprint(n)\n
+def numbers(n):\nprint(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\nn=6
+def numbers(n):\n    print(n)\nn=67
+def numbers(n):\n    a=1\n    while a<n:\n    	print (a)\n    	if a == n:\n    		break\n    	a +=1 \n    print (a)\n\n    \n
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n + 1):\n    	print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    x=1\n    while x<=n:\n        print(x)\n        x+=1\n
+def numbers(n):\n    a = 0\n    while(a < n):\n        a += 1\n        print(str(a))\n
+def numbers(n):\n    for x in range(n):\n        print(x + 1)\n
+def numbers(n):\n    for x in range(n):\n        print(x + 1)\n
+def numbers(n):\n    for x in range(1, n+1):\n    	print (x)\n   \n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for _ in range(n):\n    	x = range(1,11)\n        print(str(x))\n
+def numbers(n):\n    for _ in range(n):\n        print(random(1,n) for _ in range(n))\n
+def numbers(n):\n       print(random(1,n) for _ in range(n))\n
+def numbers(n):\n	for i in range(1, n + 1):\n    	print(i)\n\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (1,n+1):\n		print (i)\n
+def numbers(n):\n    for i in range (1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n       print(i)
+a=0\nfor i in range (5):\n    a=a+i\n    print(a)\n
+def numbers(n):\n    for n in range (n):\n        x=n+1\n        print (x)\n     \n
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n   \n   \n
+def numbers(10):\n    print(n)\n
+def numbers(n):\n    for i in range(1,4):\n        print(i)\n   \n   \n
+def numbers(n):\n    for n in range (1,11):\n    	print(n)\n
+def numbers(11):\n    print(n)\n
+def numbers(n):\n    for i in range(1,6):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(n-1):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,n-1):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,4):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,6):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,4):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(1,4):\n        print(i)\n   \n   \n
+def numbers(n):\n    for n in range (1,4):\n    	print(n)\n
+def numbers(n):\n    for n in range (1,6):\n    	print(n)\n
+def numbers(n):\n    for i in range(1,6):\n        print(i)\n   \n   \n
+def for i in range(10):\n    print(n+1)\n
+def numbers(n):\n    for i in range(n+1):\n        print(i+1)\n   \n   \n
+def numbers(n):\n    for i in range(n+1):\n        print(i)\n   \n   \n
+def numbers(n):\n    for i in range(n+1):\n        print(i+1)\n   \n   \n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n   \n   \n
+def numbers(n):\n    for n in range(1,10)    \n    print(n)\n
+def numbers(n):\n    for n in range(1,10):\n        print(n)\n
+def numbers(n):\n    for n in range(1,11):\n        print(n)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for n in range(1,11)\n        print(n)\n
+def numbers(n):\n    for n in range(1,11):\n        print(n)\n
+def numbers(n):\n    for i in range (n,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (n,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range (n,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range (1,n+1):\n    	print(i)\n
+def numbers(n):\n    for n in range(1,11):\n    	print(n)\n
+def numbers(n):\n    for n in range(1,11):\n        print(n)\n
+def numbers(n):\n   for n in range(1, 11)\nprint(n)\n\n
+def numbers(n):\n    for n in range(1,11):\n        print(n-1)\n
+def numbers(n):\n    for n in range(n):\n    	print(n+1)\n
+def numbers(n):\n    for n in range(1,11):\n        print(n+1)\n
+def numbers(n):\n    for i in range(n,n+1):\n        print(i)\n
+def numbers(n):\n    for n in range(n):\n        print(n+1)\n
+def numbers(n):\n   for n in range(1, 11)\nprint(n)\n\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n   for i in range(1,n+1)\n  \nprint(i)\n\n
+def numbers(n):\n   for i in range(1,n+1)\n  \n print(i)\n\n
+def numbers(n):\n    for i in range(1,n+1):\n      print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n      \n    \n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)
+def numbers(n):\n    for i in range (1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n): 12345567\n    print(n) \n
+for i in range(1,11):\n    print(i)\n\n
+for i in range(1,11):\n    print(i)\n\n
+for i in range(1,11):\n    print(i)
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (1,n+1):\n        print (i)
+numbers(n)\nfor in range(n):\n    print(n)
+numbers(n)\nfor i in range(n):\n    print(i)
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n    \n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range (1,10+1):\n        print(i)\n        \n
+def numbers(n):\n    for i in range (1,n+1):\n        print(i)\n        \n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for x in xrange(1, n+1):\n        print(x)
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for x in range(n):\n    	print(x+1)\n
+def numbers(n):\n	for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for x in range(1,n+1):\n        print(x)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(n)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    \n	for i in range(1, n+1):\n        print(i)
+def numbers(n):\n	for i in range(1, n+1):\n        print(i)
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n + 1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (1,n+1):\n        print (i)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for a in range (n):\n        print(a+1)\n
+def numbers(n):\n    for n in range(1,n):\n    	print(n)\n
+def numbers(n):\n    for n in range(1,n+1):\n    	print(n)\n
+def numbers(n):\n    for i in range(n):\n    	print(i +1)\n
+def numbers(n):\n    for num in range(1, n):\n        print(num)\n
+def numbers(n):\n    for num in range(1, n+1):\n        print(num)\n
+def numbers(n):\n	cislo = 1\n	while (cislo <= n):\n    	print(cislo)\n    	cislo = cislo + 1\n   		\n    	\n
+def numbers(n):\n    for i in range (1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range (n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in  range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n): \n    	print(i+1)\n
+def numbers(n):\n    for i in range(n+1):\n        print(i)
+def numbers(n):\n    num=1\n    while (num<=n):\n        print(num)\n        num = num +1
+def numbers(n):\n    for i in range(1,11): print(i)\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n 	   print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):   \n    for i in range(1, n + 1, 1):\n    	print(i)\n
+def numbers(n):\n	for i in range (1,n+1):\n		print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1): \n    	print(i)\n
+def numbers(n):\n    for i in range (1,n+1): \n        print(i)\n
+n = 10\nfor n in range:\n    print(n)\n
+def numbers(n):\n    for i in range(n+1):\n    	print(n)\n
+def numbers(n):\n    for i in range(n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1,1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,11):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range (1,n+1):\n    	print(i)\n        \n    print()    \n
+def numbers(n):\n    for i in range(1, n+1):\n    	print(i)\n
+def numbers(n):\n    print(n-9)\n    print(n-8)\n    print(n-7)\n    print(n-6)\n    print(n-5)\n    print(n-4)\n    print(n-3)\n    print(n-2)\n    print(n-1)\n    print(n)\n
+def numbers(n):\n    for i in range(1,n + 1):\n        print(i)\n       \n
+def numbers(10)\n\nprint(n)
+def numbers(10)\n\nprint(n)
+def numbers(n):\n    for i in range(1,+1):\n        print(n)\n
+def numbers(n):\n    for i in range(1,+1): print(n)\n        
+def numbers(n):\n    for i in range(1,+1) : print(n)\n        
+def numbers(n):\n    for i in range(n) : print(n)\n        
+def numbers(n):\n    for i in range(n) : print(n)\n        
+def numbers(n):\n    for i in range(n): print(n)\n        
+def numbers(n):\n    for i in range(n): print(n)\n        
+def numbers(n):\n    for i in range(n): print(i)\n        
+def numbers(n):\n    for i in range(1,11): print(i)\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+def numbers(n):\n    for i in range(1,n+1): (print(i))\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n    \n    
+def numbers(n):\n	for i in range(1,n+1): print(i)\n	
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+def numbers(n):\n    for i in range(1,n+1):print(i)\n
+def numbers(n):\n    for i in range(1,n+1): print(i)\n        
+def numbers(n):\n    for i in range(1,n+1): print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(n)\n        n += 1\n
+a = 1\ndef numbers(n):\n    for i in range(n):\n        print(a)\n        a += 1\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range (n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n \n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n
+def numbers(n):\n    for i in range(1,11,1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1,1):\n        print(i)\n
+def numbers(n):  \n    for x in range (1,n+1):\n        print(x)\n
+def numbers(n):\n    for n in range(1,11):\n    	print(n)\n
+def numbers(n):\n    for n in range(1,n+1):\n    	print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(3):\n    print(n)\n
+def numbers(n):\n    print(3)\n
+def numbers(n):\n    print(3)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for i in range (n):\n        print(i+1)\n
+def numbers(n):\n    print(10)\n
+def numbers(n):\n	for i in range(1, 11):\n    	print(i)
+def numbers(n):\n	for i in range(1, n+1):\n    	print(i)
+def numbers(n):\n    print(n)\nhzgkbujlkjik
+def numbers(n):\n    print(n)\nhana
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(222222\n    print(n)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(10):\n    print(i)\n
+def numbers(10):\n    for i in range(n+1):\n    print(i)\n
+def numbers(i):\n    for i in range(n+1):\n    print(i)\n
+def numbers(n):\n    for i in range(n+1):\n    print(i)\n
+def numbers(n):\n    for i in range(n+1):\n    print(i)\n
+def numbers(n):\n    x = 0\n    while(n != 0):\n        x = x+1\n        n = n-1\n        print(x)\n
+def numbers(n):\n    for i in range(n):\n        print(n)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)
+def numbers(n):\n    print(n - 9)\n    print(n - 8)\n    print(n - 7)\n    print(n - 6)\n    print(n - 5)\n    print(n - 4)\n    print(n - 3)\n    print(n - 2)\n    print(n - 1)\n    print(n)\n
+def numbers(n):\n    print(n - 9)\n    print(n - 8)\n    print(n - 7)\n    print(n - 6)\n    print(n - 5)\n    print(n - 4)\n    print(n - 3)\n    print(n - 2)\n    print(n - 1)\n    print(n)\n
+def numbers(n):   \n    print(n - 2)\n    print(n - 1)\n    print(n)\n
+def numbers(n):   \n    print(n)\n  \n\n
+def numbers(n):   \n    print(n)\n  \n\n
+def numbers(n):   \n    print(n)\n  \n\n
+def numbers(n):   \n    print(n)\n  \n\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n        i+=1\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    print(10)\n
+def numbers(n):\n    for i in range(1,n+1):\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1)\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1)\n    print(i)\n
+def numbers(n):\n    for i in range:(1,n+1)\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1)"\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1)"\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1)"\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1)"\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1)\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n    print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n     print(i)\n
+def numbers(n):\n    for i in range(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)\n    print(i)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    print(n)\nfor i in range(9):\n    print(i+1)
+def numbers(n):\n    for i in range(1,11):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,4):\n    	print(i)\n        print( )\n
+def numbers(n):\n    for i in range(1,4):\n		print(i)\n
+def numbers(n):\n    for n in range (1, 11):\n        print(n)\n
+def numbers(n):\n    for n in range (1, n+1):\n        print(n)\n
+def numbers(n):\n    print(n)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n        \n
+def numbers(n):\n    for i in range(n):\n        print(i + 1)\n
+def numbers(n):\n    for n in range(1,n):\n        print(n)\n
+def numbers(n):\n    for n in range(1,n+1):\n        print(n)\n
+def numbers(n):\n    for i in range(n):\n        print(i)\n
+def numbers(n):\n    for i in range(1, n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(n):\n        print(i+1)\n
+def numbers(n):\n    for i in range(1,n+1):\n    	print(i)\n
+def numbers(n):\n    for i in range(1,n+1);\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print (i)\n\n
+def numbers(n):\n    for i in range(n):\n    	print(i+1)\n    \n
+def numbers(n):\n    for i in range(n):\n	print(i+1)\n
+def numbers(n):\n    for x in range (10):\n        i=x+1\n        print(i)\n
+def numbers(n):\n    for x in range (n):\n        i=x+1\n        print(i)\n
+def numbers(n):\n    for i in range(1,n+1):\n        print(i)\n

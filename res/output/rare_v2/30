@@ -1,0 +1,286 @@
+1.2872680742162508
+def most_common(mylist):
+    numbers = numbers_in_list(mylist)
+    previous = 0
+    previous_num = max(mylist)
+    for n in numbers:
+        count = mylist.count(n)
+        number = n
+        if count > previous:
+            previous = count
+            previous_num = number
+            result = n
+        if count == previous:
+            if number < previous_num:
+                previous = count
+                previous_num = number
+                result = n
+    return result
+
+
+def numbers_in_list(mylist):
+    numbers = []
+    for num in mylist:
+        if num not in numbers:
+            numbers.append(num)
+    return numbers
+
+1.220729366602687
+def most_common(mylist):
+	pocet=[]
+	for i in range(len(mylist)):
+		pocet.append(1)
+	for i in range(len(mylist)):
+		if mylist[i] in mylist[:i]:
+			for j in range(len(mylist[:i])):
+				if mylist[i]==mylist[j]:
+					pocet[i]=pocet[j]+1
+	nej=max(pocet)
+	if nej==1:
+		return min(mylist)
+	for k in range(len(pocet)):
+		if pocet[k]==nej:
+			return mylist[k]
+
+1.1900191938579654
+def most_common(mylist):
+    worklist=[]
+    workvalues=[]
+    
+    for a in mylist:
+        counter=0
+        for b in worklist:
+            if b==a:
+                workvalues[counter]+=1
+            counter+=1
+        if(not(a in worklist)):
+            worklist.append(a)
+            workvalues.append(1)
+    vysledek = 0
+    bestvalue = 0
+    for a in range(len(workvalues)):
+        if workvalues[a] > bestvalue:
+            bestvalue=workvalues[a]
+            vysledek=worklist[a]
+        if bestvalue == workvalues[a]:
+            if vysledek>worklist[a]:
+                vysledek=worklist[a]
+            
+  
+        
+    return vysledek 
+1.1490722968650031
+def most_common(mylist):
+    x = 0
+    y = list()
+    pocet = len(mylist)
+    for j in range(0,pocet):
+        x = 0
+        for i in range(pocet):
+            if mylist[j] in mylist[i:i+1]:
+                if j != i:
+                    x = x + 1
+        y.append(x + 1)
+##        print(mylist[j]," = ", x + 1)
+    nej = y[0]
+    index = 0
+    for i in range(0,pocet):
+        if nej > y[i]:
+            pass
+        else:
+            nej = y[i]
+            index = i
+    return(mylist[index])
+1.0774152271273192
+def most_common(mylist):
+    nums = {}
+    for num in mylist:
+        if num in nums:
+            curr_value = nums.pop(num)
+            new_value = int(curr_value) + 1
+            nums[num] = new_value
+        else:
+            nums[num] = 1
+    new_nums = sorted(nums, key=lambda x: nums[x], reverse=True)
+    max_num = new_nums[0]
+    for i in range(len(new_nums)):
+        if nums[max_num] == nums[new_nums[i]]:
+            if new_nums[i] < max_num:
+                max_num = new_nums[i]
+    return max_num
+
+1.054382597568778
+def most_common(mylist):
+    def get_my_value(key):
+        return output[key]
+    
+    output = {}
+    result = []
+    for number in mylist:
+        output.setdefault(number,0)
+        output[number]+=1
+
+    i=max(output.values())
+    result = (([k for k, v in output.items() if v == i]))
+    return min(result)
+1.0467050543825975
+def most_common(mylist): # vypíše nejčastější prvek ze seznamu
+    max_count = 0
+    alist = []
+    for prvek in mylist:
+
+        if mylist.count(prvek) > max_count:
+            alist = [prvek]
+            max_count = mylist.count(prvek)
+
+        elif mylist.count(prvek) == max_count:
+            alist.append(prvek)
+
+    if len(alist) > 1:
+        return (sorted(alist)[0])
+    else:
+        return (alist[0])
+0.9904030710172744
+def most_common(A):
+    p=-1
+    im=0
+    nm=0
+    n=0
+    A.sort()
+    A.append(-1)
+    for i in A:
+        if i==p:
+            n+=1
+        else:
+            if n>nm:
+                nm=n
+                im=p
+            p=i
+            n=1
+    return im
+
+0.9315419065898912
+def most_common(mylist):
+    counts = []
+    for item in mylist:
+        counts.append(mylist.count(item))
+    
+    most_frequent = []
+    for index, value in enumerate(counts):
+        if value == max(counts):
+            most_frequent.append(mylist[index])
+    
+    return sorted(most_frequent)[0]
+
+0.90850927703135
+def most_common(mylist):
+	counts = {}
+	for n in mylist:
+		if n in counts:
+			counts[n] += 1
+		else:
+			counts[n] = 0
+            
+	count = 0
+	mostCommon = mylist[0]
+	for n in counts:
+		if counts[n] > count:
+			count = counts[n]
+			mostCommon = n
+            
+	for n in counts:
+		if counts[n] == count and n < mostCommon:
+			mostCommon = n
+            
+	return mostCommon
+
+0.8880358285348688
+def most_common(mylist):
+    d = {}
+    for x in mylist:
+        if x in d:
+            d[x] = d[x] + 1
+        else:
+            d[x] = 1
+    amax = 0
+    for i in d:
+        if d[i] > amax:
+            amax = d[i]
+    for key in sorted(d, reverse=True):
+        if d[key] == amax:
+            result = key
+    return result
+
+0.8854766474728087
+def most_common(mylist):
+    count = {}
+    l = []
+    for x in mylist:
+        count[x] = count.get(x, 0) + 1
+    maximum = max(count.values())
+    for key, values in count.items():
+        if values == maximum:
+            l.append(key)
+    return min(l)
+
+0.872680742162508
+def most_common(mylist):
+    pocet = 0
+    prvek = mylist[0]
+    for i in range(len(mylist)):
+        pocet_2 = 0
+        for j in range(i, len(mylist)):
+            if mylist[i] == mylist[j]:
+                pocet_2 += 1
+        if pocet_2 > pocet:
+            pocet = pocet_2
+            prvek = mylist[i]
+        elif pocet_2 == pocet:
+            if mylist[i] < prvek:
+                prvek = mylist[i]
+    return prvek
+
+0.8496481126039668
+def most_common(mylist):
+    most = 0
+    num = 0
+    for number in mylist:
+        if mylist.count(number) >= num:
+            most = number
+            num = mylist.count(number)
+    return most
+                       
+
+0.8317338451695457
+def most_common(mylist):
+    most=0
+    high_freq = 0
+    freq=0
+    for x in mylist:
+        for y in mylist:
+            if x==y:
+                freq+=1
+        if freq > high_freq:
+            high_freq=freq
+            most=x
+        elif freq==high_freq:
+            if x<most:
+                most=x
+        freq=0
+    return most
+0.8163787587971849
+def most_common(mylist):
+    help1 = {}
+    x = 0
+    c = ''
+    for m in sorted(mylist):
+        if m not in help1:
+            help1[m] = 1
+        else:
+            help1[m] += 1
+    for d in help1:
+        if help1[d] > x:
+            x = help1[d]
+            c = d
+    return c
+

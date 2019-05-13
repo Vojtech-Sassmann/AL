@@ -1,0 +1,26 @@
+def powers(base, n):
+    for i in range (n):
+        print(base**(i+1))
+
+def powers(base, n):
+    for i in range(n):
+        print(base**(i+1))
+    
+
+
+def powers(base, n):
+    for i in range (n):
+        print (base**(i+1))
+    
+
+def powers(base, n):
+    for i in range(n):
+        print(base**(i+1))
+
+def powers(base, n):
+    for i in range(n):
+        print (base**(i+1))
+
+def powers(base, n):
+    for i in range(n):
+        print(base**(i+1))

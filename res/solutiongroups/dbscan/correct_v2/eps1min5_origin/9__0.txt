@@ -1,0 +1,155 @@
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i==0 or i==n-1 or j==0 or j==n-1:
+            	print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+        
+
+def empty_square(n):
+    for j in range(n):
+        for i in range(n):
+            if j==0 or j==(n-1) or i==0 or i==(n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j == 0 or i == (n-1) or j == (n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j == 0 or i == (n-1) or j == (n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j == 0 or i == n -1 or j == n -1:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+def empty_square(n):
+    for i in range(n):
+        for x in range(n):
+            if x==0 or x==(n-1) or i==(n-1) or i==0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+    for i in range(n):
+        for x in range(n):
+            if i==0 or i==(n-1) or x==0 or x==(n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j == 0 or i == n-1 or j == n-1:
+            	print("#", end=" ")
+            else:
+                print(".", end=' ')
+        print()	
+
+def empty_square(n):
+    for row in range(n):
+        for col in range(n):
+            if row == 0 or row == n-1 or col==0 or col==n-1 :
+                print("#", end=" ")
+
+            else:
+                print('.', end=" ")
+
+        print()
+    	
+
+def empty_square(n):
+    for j in range(n):
+        for i in range(n):
+            if j==0 or i==0 or j == n-1 or i == n-1:
+                print("#", end=" ")
+            else:
+                print('.',end=' ')
+        print()
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j==0 or i ==n-1 or j ==n-1:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+	for i in range(n):
+		for j in range(n):
+			if i==0 or i==n-1 or j==0 or j==n-1:
+				print("#", end=" ")
+			else:
+				print(".", end=" ")
+		print()	
+
+def empty_square(n):
+    for i in range(n):
+        for u in range(n):
+            if (i == 0 or i == n-1 or u == 0 or u == n-1):
+            	print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()	
+
+def empty_square(n):
+    for j in range(0,n):
+        for i in range(0,n):
+            if (i==0 or j==0 or j==n-1 or i==n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print() #skok na dalsi radek pri prechodu z vnitrniho cyklu
+
+def empty_square(n):
+	for i in range(n):
+		for j in range(n):
+			if i==0 or i==n-1 or j==0 or j==n-1:
+				print("#", end=" ")
+			else:
+				print(".", end=" ")
+		print()	
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if(i==0 or i==n-1 or j==0 or j==n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+def empty_square(n):
+    for i in range(n):
+        for x in range(n):
+            if(i==0 or i==n-1 or x==0 or x==n-1):
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+

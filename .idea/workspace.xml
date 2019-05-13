@@ -1,88 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5567b266-a03d-4182-a2f2-aa5dc0fe3161" name="Default" comment="" />
+    <list default="true" id="5567b266-a03d-4182-a2f2-aa5dc0fe3161" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/MostOriginalSolutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/originalData/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/output/err_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UmimeProgramovatAnalyzy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UmimeProgramovatAnalyzy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/37.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/39.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/42.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/48.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/49.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/51.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/52.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/54.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/55.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/56.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/57.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/58.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/61.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/62.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/66.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/67.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/69.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataPreparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataPreparation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DbscanClustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/DbscanClustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolutionsClassesAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/SolutionsClassesAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/UmimeProgramovatAnalyzy$SolutionsClassesAnalysis.coverage" NAME="SolutionsClassesAnalysis Coverage Results" MODIFIED="1538844640095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/UmimeProgramovatAnalyzy$DataPreparation.coverage" NAME="DataPreparation Coverage Results" MODIFIED="1538844602030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$DbscanClustering.coverage" NAME="DbscanClustering Coverage Results" MODIFIED="1553615502916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/UmimeProgramovatAnalyzy$DbscanClustering.coverage" NAME="DbscanClustering Coverage Results" MODIFIED="1538848961038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$DataPreparation.coverage" NAME="DataPreparation Coverage Results" MODIFIED="1553443726252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$NewAnalysis.coverage" NAME="NewAnalysis Coverage Results" MODIFIED="1553441170427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$MostOriginalSolutions.coverage" NAME="MostOriginalSolutions Coverage Results" MODIFIED="1553621025752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$SolutionsClassesAnalysis.coverage" NAME="SolutionsClassesAnalysis Coverage Results" MODIFIED="1553446377909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UmimeProgramovatAnalyzy$DataPreparation.coverage" NAME="DataPreparation Coverage Results" MODIFIED="1538844602030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$UserItemsProgress.coverage" NAME="UserItemsProgress Coverage Results" MODIFIED="1541586535977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UmimeProgramovatAnalyzy$SolutionsClassesAnalysis.coverage" NAME="SolutionsClassesAnalysis Coverage Results" MODIFIED="1538844640095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DbscanClustering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DbscanClustering.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/25">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/26">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rates.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="105" column="18" lean-forward="true" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="34.svg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/34.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="47.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/47.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="48.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/48.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="49.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/49.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="47.pkl_0" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/47.pkl_0">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/4">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="48.pkl_0" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/48.pkl_0">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/2">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1122" />
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="49.pkl_0" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/49.pkl_0">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/20">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1572" />
+            <state relative-caret-position="240">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="49.pkl_1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/49.pkl_1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2652" />
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/3">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="DataPreparation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataPreparation.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/32">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/17">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-              <folding>
-                <element signature="e#58#76#0" />
-                <element signature="e#111#254#1" />
-              </folding>
+            <state relative-caret-position="8595">
+              <caret line="573" selection-start-line="573" selection-end-line="573" />
             </state>
           </provider>
         </entry>
@@ -101,61 +203,90 @@
       <find>adjustText</find>
       <find>output</find>
       <find>save_data</find>
+      <find>plt.sa</find>
+      <find>plt.savefig</find>
+      <find>found</find>
+      <find>found groups</find>
+      <find>palindrom</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv" />
+        <option value="$PROJECT_DIR$/res/parsed/all/67.txt" />
+        <option value="$PROJECT_DIR$/res/progress/raw/all.txt" />
+        <option value="$PROJECT_DIR$/res/progress/9.txt" />
+        <option value="$PROJECT_DIR$/UserItemsProgress.py" />
+        <option value="$PROJECT_DIR$/res/output/output.csv" />
+        <option value="$PROJECT_DIR$/res/output/err_stats.txt" />
+        <option value="$PROJECT_DIR$/NewAnalysis.py" />
         <option value="$PROJECT_DIR$/DataPreparation.py" />
         <option value="$PROJECT_DIR$/SolutionsClassesAnalysis.py" />
         <option value="$PROJECT_DIR$/DbscanClustering.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+        <option value="$PROJECT_DIR$/MostOriginalSolutions.py" />
+        <option value="$PROJECT_DIR$/notes.txt" />
+        <option value="$PROJECT_DIR$/rates.txt" />
+        <option value="$PROJECT_DIR$/res/output/rare_v2/17" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="936" />
+    <option name="x" value="-102" />
+    <option name="y" value="32" />
+    <option name="width" value="1845" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="UmimeProgramovatAnalyzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UmimeProgramovatAnalyzy" type="462c0819:PsiDirectoryNode" />
+              <item name="AL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AL" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../perun" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ALSeminar\UmimeProgramovatAnalyzy" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v2/eps1min5" />
+      <recent name="$PROJECT_DIR$/res/solutiongroups/dbscan/all" />
+      <recent name="$PROJECT_DIR$/res/parsed/correct" />
       <recent name="E:\ALSeminar\UmimeProgramovatAnalyzy\res\originalData" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/originalData" />
+      <recent name="E:\ALSeminar\UmimeProgramovatAnalyzy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -170,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DbscanClustering">
+  <component name="RunManager" selected="Python.MostOriginalSolutions">
     <configuration name="DataPreparation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UmimeProgramovatAnalyzy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,6 +320,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="DbscanClustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UmimeProgramovatAnalyzy" />
@@ -208,6 +342,53 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MostOriginalSolutions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UmimeProgramovatAnalyzy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MostOriginalSolutions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NewAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UmimeProgramovatAnalyzy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="SolutionsClassesAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UmimeProgramovatAnalyzy" />
@@ -227,22 +408,29 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.DataPreparation" />
       <item itemvalue="Python.SolutionsClassesAnalysis" />
       <item itemvalue="Python.DbscanClustering" />
+      <item itemvalue="Python.NewAnalysis" />
+      <item itemvalue="Python.MostOriginalSolutions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MostOriginalSolutions" />
         <item itemvalue="Python.DbscanClustering" />
         <item itemvalue="Python.SolutionsClassesAnalysis" />
         <item itemvalue="Python.DataPreparation" />
+        <item itemvalue="Python.NewAnalysis" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -251,195 +439,280 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538319875116</updated>
+      <workItem from="1544606960205" duration="221000" />
+      <workItem from="1553436633754" duration="12459000" />
+      <workItem from="1553614442620" duration="6769000" />
+      <workItem from="1553681539719" duration="575000" />
+      <workItem from="1553691478856" duration="1327000" />
+      <workItem from="1556269874898" duration="251000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21602000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="22" width="1855" height="1058" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.048884165" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1734375" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14759536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06434024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.28057554" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14609851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06434024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.28057554" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UserItemsProgress.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SolutionsClassesAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3519">
-          <caret line="220" column="18" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataPreparation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-          <folding>
-            <element signature="e#58#76#0" />
-            <element signature="e#111#254#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/parsed/34.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8381">
-          <caret line="493" column="24" selection-start-line="493" selection-start-column="24" selection-end-line="493" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataPreparation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-          <folding>
-            <element signature="e#58#76#0" />
-            <element signature="e#111#254#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8381">
-          <caret line="493" column="24" selection-start-line="493" selection-start-column="24" selection-end-line="493" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataPreparation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding>
-            <element signature="e#58#76#0" />
-            <element signature="e#111#254#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adjustText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#37#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/parsed/34.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UP_dvojnasobek_DBSCAN.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/5">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/34.pkl_0">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/6">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/34.pkl_1">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/7">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/34.pkl_-1">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/8">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SolutionsClassesAnalysis.py">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/9">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare/10">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare/11">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare/12">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="227" column="19" lean-forward="true" selection-start-line="227" selection-start-column="19" selection-end-line="227" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="444">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/47.pkl_0">
+    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/48.pkl_0">
+    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122" />
+        <state relative-caret-position="-110" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/49.pkl_0">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1572" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/eps1min5/49.pkl_1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2652" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataPreparation.py">
+    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_item.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#58#76#0" />
-            <element signature="e#111#254#1" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" column="648" selection-start-line="14" selection-start-column="428" selection-end-line="14" selection-end-column="648" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DbscanClustering.py">
+    <entry file="file://$PROJECT_DIR$/res/output/rare/13">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare/14">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare/15">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MostOriginalSolutions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="105" column="18" lean-forward="true" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="466">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/49.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/34">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/48.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/6">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/47.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6189">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/34.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/9">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/10">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/11">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/12">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/13">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/14">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/15">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/16">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/err.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="112" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/18">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/19">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/21">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/22">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/23">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/69">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/68">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/67">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/66">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/27">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/25">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/26">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/4">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/32">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/17">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8595">
+          <caret line="573" selection-start-line="573" selection-end-line="573" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/20">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

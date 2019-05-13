@@ -1,0 +1,19 @@
+def square(n):
+    for i in range(n):
+        print(n*" #")
+
+
+def square(n):
+    for i in range(n):
+        print(n*" ""#")
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+

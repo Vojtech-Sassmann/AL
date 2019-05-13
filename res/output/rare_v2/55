@@ -1,0 +1,520 @@
+1.6792906178489704
+def check(p, k):
+    if(p%k!=0):
+        if(k*4<p):
+            print("Prebyva:",p-(k*4))
+        else:
+            print("Chybi:",(k*4)-p)
+    elif(p%k==0 and k*4!=p):
+        print("Prebyva:",p-(k*4))
+    else:
+        print("OK")
+  
+
+1.5216247139588102
+def check(p, k):
+    if k%(p/4)==0:
+        print("OK")
+    else:
+        if (4*k)-p<0:
+            print("Prebyva: "+str(((4*k)-p)*-1))
+        elif (4*k)-p>0:
+            print("Chybi: "+str(((4*k)-p)))
+
+1.4100686498855837
+def check(p, k):
+	number = 0
+	if p == k*4:
+		print("OK")
+	if p > k*4:
+		number = p - k*4
+		print("Prebyva:",number)
+	if p < k*4:
+		number = k*4 - p
+		print("Chybi:",number)
+
+1.230091533180778
+def check(p, k):
+    if p % (k*4) == 0:
+        print("OK")
+    else:
+        if (p - (k*4)) > 0:
+            print("Prebyva:",p - (k*4))
+        if (p - (k*4)) < 0:
+            print("Chybi:",-1 * (p - (k*4)))
+1.2286041189931352
+def check(p, k):
+    k=k*4
+    v=p-k
+    if v==0:
+        print("OK")
+    if v>0:
+        print("Prebyva:", v)
+    if v<0:
+        print("Chybi:", -v)
+   
+
+1.1839816933638445
+def check(p, k):
+    if p%(4*k)==0: 
+        print("OK")
+    elif p%(4*k)>0 and p>(4*k):
+        print("Prebyva:",p%(4*k))
+    else:
+        print("Chybi:",(4*k)-p)
+
+1.1839816933638445
+def check(p, k):
+    x = p % (4 * k)
+    if x > 0 and x != p:
+        print("Prebyva:", x)
+    elif x == p:
+        z = k * 4
+        print("Chybi:", z - p)
+    else:
+        print("OK")
+    
+
+1.161670480549199
+def check(p, k):
+    if  (p>4*k):
+        x= p% (4*k)
+        print ("Prebyva:",x)
+    elif (p<4*k):
+        x= (4*k)%p
+        print ("Chybi:",x)
+    else:
+        print("OK")
+
+1.15720823798627
+def check(p, k):
+    if k*4 == p:
+    	print("OK")
+    elif k*4 > p:
+        chybi = k*4 - p
+        print("Chybi: " + str(chybi))
+    else:
+        prebyva = p - k*4
+        print("Prebyva: " + str(prebyva))
+
+1.1393592677345539
+def check(p, k):
+    x=p-4*k
+    if x<0:
+        print ("Chybi:", 0-x)
+    if x>0:
+        print ("Prebyva:",x)
+    if x==0:
+        print ("OK")
+
+1.136384439359268
+def check(p, k):
+    temp1=0
+    temp2=0
+
+    if k*4>p:
+         temp2=k*4
+         print("Chybi:",temp2-p)
+
+    elif p/k==4:
+            print("OK")
+
+    else: #ak je k*4<p
+        temp1=k*4
+        print("Prebyva:",p-temp1)
+1.1334096109839817
+def check(p, k):
+	if 4*k<p:
+		print("Prebyva:",p-4*k)
+	if 4*k>p:
+		print("Chybi:",4*k-p )
+	if 4*k==p:
+		print("OK")
+
+1.1066361556064075
+def check(p, k):
+    if 4*k > p:
+        print("Chybi:", 4*k - p)
+    if 4*k < p:
+        print("Prebyva:", p - 4*k)
+    if 4*k == p:
+        print("OK")
+1.1066361556064075
+def check(p, k):
+    if p / k == 4:
+        print("OK")
+    else:
+        if k* 4 > p:
+        	chybi = k * 4 - p
+        	print("Chybi:",chybi)
+        else:
+            prebyva = p - k * 4
+            print("Prebyva:",prebyva)
+    
+
+1.0947368421052632
+def check(p, k):
+    surplus = (p % 4)
+    shoes = (k * 4)
+    missing = (shoes - p)
+    
+    if (p > shoes):
+    	print('Prebyva:', surplus)
+    elif (p < shoes):
+        print('Chybi:', missing)
+    else:
+        print('OK')
+
+1.0635011441647597
+def check(p, k):
+    if p%4 == 0 and p/4 == k:
+    	print("OK")
+    elif p < k*4:
+        print("Chybi:", k*4-p)
+    else:
+        print("Prebyva:", p-k*4)
+
+1.0545766590389016
+def check(p, k):
+    if (p==k*4):
+    	print("OK")
+    if (p<k*4):
+    	print ("Chybi:", 4*k-p)
+    if (p>k*4):
+    	print ("Prebyva:", p-4*k)
+
+1.0397025171624714
+def check(p, k):
+    if ((p - k * 4) > 0):
+    	print("Prebyva:", p - k * 4)
+    elif ((p - k * 4) == 0):
+        print("OK")
+    else:
+        print("Chybi:", abs(p - k * 4))
+
+1.0382151029748286
+def check(have, horses):
+    need = horses*4
+    result = need-have
+    if result==0:
+        print("OK")
+    elif result<0:
+        print("Prebyva:",-result)
+    else:
+        print("Chybi:",result)
+
+1.0263157894736843
+def check(p, k):
+    if (p%(4*k)==0):
+        print("OK")
+    if (p>(4*k)):
+        print("Prebyva:", (p-(4*k)))
+    if (p<(4*k)):
+        print("Chybi:", ((4*k)-p))
+        
+
+1.0248283752860412
+def check(p, k):
+    if p==4*k:
+        print ("OK")
+        
+    if p>4*k:
+         print ("Prebyva:",p%4)
+        
+    if p<4*k:
+         print ("Chybi:",4*k-p)        
+1.01441647597254
+def check(p, k):
+    if 4*k == p:
+        print("OK")
+    elif 4*k < p:
+        print('Prebyva: {}'.format(p-4*k))
+    else: print('Chybi: {}'.format(4*k-p))
+
+1.009954233409611
+def check(p, k):
+    if p == k * 4:
+        print("OK")
+    if p / 4 > k:
+        print("Prebyva:", p - k * 4)
+    if p / 4 < k:
+        print("Chybi:", k * 4 - p)
+
+
+0.9921052631578948
+def check(p, k):
+	if (k*4==p):
+		print("OK")
+	if (4*k<p):
+		print("Prebyva:", p-4*k)
+	if (4*k>p):
+		print("Chybi:", 4*k-p)
+        	
+
+0.9876430205949658
+def check(p, k):
+    m=k*4
+    if m==p:
+        print("OK")
+    elif m<p:
+        print("Prebyva:", p-m)
+    elif m>p:
+        print("Chybi:", m-p)
+    else:
+        print("nonsense")
+    
+    
+
+0.9876430205949658
+def check(p, k):
+    if p - 4*k == 0:
+    	print("OK")
+    elif (p - (4*k)) > 0:
+        print("Prebyva:", p - 4*k)
+    elif (p - (4*k)) < 0:
+        print("Chybi:", 4*k - p)
+
+0.9816933638443937
+def check(p, k):
+    diff = p - k * 4
+    if diff == 0:
+        print("OK")
+    elif diff > 0:
+        print("Prebyva:", diff)
+    else:
+        print("Chybi:", -diff)
+
+0.9668192219679634
+def check(p, k):
+   # vysledok = 0
+    vysledok = p - 4*k
+    if vysledok == 0:
+        print("OK")
+    elif vysledok < 0:
+        print("Chybi:", -vysledok)
+    else:
+        print("Prebyva:", vysledok)
+
+0.9638443935926774
+def check(p, k):
+    if p % 4 == 0 and k*4 == p:
+        print("OK")
+    elif k*4 < p :
+        print("Prebyva:", p-k*4)
+    else:
+        print("Chybi:", k*4-p)
+        
+        
+
+0.941533180778032
+def check(p, k):
+    if p==4*k:
+        print("OK")
+    elif p<4*k:
+        print("Chybi:",abs(p-(4*k)))
+    elif p>4*k:
+        print("Prebyva:",p-(4*k))
+    
+
+0.9177345537757438
+def check(p, k):
+    if p / 4 > k:
+        print("Prebyva:", p - 4*k)
+    elif p / 4 < k:
+        print("Chybi:", 4*k - p)
+    else: print("OK")
+0.9177345537757438
+def check(p, k):
+    if p/4==k:
+    	print("OK")
+    elif p/4>k:
+        print("Prebyva:", p-k*4)
+    elif p/4<k:
+        print("Chybi:", k*4-p) 
+    
+
+0.9073226544622426
+def check(p, k):
+    if (k*4) > p:
+    	print("Chybi:", ((k*4) - p))
+    elif (k*4) == p:
+        print("OK")
+    else:
+        print("Prebyva:", (p - (k * 4)))
+
+0.8775743707093822
+def check(p, k):
+    if (p > k*4):
+        print("Prebyva:",p - k*4)
+    elif (p < k*4):
+        print("Chybi:", k*4 - p)
+    else:
+    	print("OK")
+
+0.8745995423340962
+def check(p, k):
+    pocetNoh = k*4
+    if(pocetNoh == p):
+        print("OK")
+    if(p > pocetNoh):
+        print("Prebyva:", p - pocetNoh)
+    elif(p < pocetNoh):
+        print("Chybi:", pocetNoh - p)
+0.8716247139588101
+def check(p, k):
+    if k*4>p:
+        print ("Chybi:",k*4 - p)
+    elif k*4<p:
+        print ("Prebyva:",p-k*4)
+    else:
+        print ("OK")
+0.8716247139588101
+def check(p, k):
+    if p>k*4:
+        print("Prebyva:",p-k*4)
+    elif k*4>p:
+        print("Chybi:",k*4-p)
+    else:
+    	print("OK")
+
+0.8686498855835241
+def check(p, k):
+    if(p>4*k):
+        print("Prebyva:",p-4*k)
+    else:
+        if(p==4*k):
+            print("OK")
+        else:
+            print("Chybi:",4*k-p)
+
+0.862700228832952
+def check(p, k):
+    k = k*4
+    if p == k:
+        print("OK")
+    elif k < p:
+        print("Prebyva:", p-k)
+    elif p < k:
+        print("Chybi:", k-p)
+
+0.8522883295194509
+def check(p, k):
+    potrebuju = k * 4
+    mam = p
+    if potrebuju == mam:
+        print("OK")
+    elif mam > potrebuju:
+        print("Prebyva:", mam - potrebuju)
+    else:
+        print("Chybi:", potrebuju - mam)
+      
+
+0.8522883295194509
+def check(p, k):
+    if k == p/4:
+    	print("OK")
+    elif (k - p/4) < 0:
+        print("Prebyva:",p-4*k)
+    else:
+        print("Chybi:",4*k-p)
+0.8448512585812358
+def check(p, k):
+    if (k*4==p): print ("OK")
+    elif (k*4<p): print ("Prebyva:",p-k*4)
+    elif (k*4>p): print ("Chybi:",k*4-p)
+        
+    
+
+0.8448512585812358
+def check(p, k):
+    if p / k == 4:
+    	print("OK")
+    elif p / k < k:
+        print("Chybi:",k*4 - p)
+    else:
+        print("Prebyva:",p - k*4)
+
+0.8344393592677346
+def check(p, k):
+    pp = k * 4
+    if pp > p:
+        print("Chybi:", pp - p)
+    elif pp < p:
+        print("Prebyva:", p -pp)
+    else:
+        print("OK")
+
+0.8225400457665905
+def check(p, k):
+    if p==4*k:
+        print ("OK")
+    elif p>4*k:
+        print ("Prebyva:", p-(4*k))
+    else:
+        print ("Chybi:", abs(p-(4*k)))
+
+0.8121281464530893
+def check(p, k):
+    if p-(k*4)==0:
+        print("OK")
+    elif p-(k*4) > 0:
+        print("Prebyva:", p-(k*4))
+    else:
+        print("Chybi:", (k*4)-p)
+
+0.791304347826087
+def check(p, k):
+    need = k*4
+    if need == p:
+        print("OK")
+    else:
+        if need < p:
+            print("Prebyva:", p - need)
+        else:
+            print("Chybi:", need - p)
+
+0.789816933638444
+def check(p, k):
+    if p/k==4:
+        print('OK')
+    else:
+        if p/k>4:
+            print('Prebyva:',p-(k*4))
+        else:
+            print('Chybi:',(k*4)-p)
+        
+0.7853546910755149
+def check(p, k):
+    if p==(k*4):
+    	print("OK")
+    elif p<k*4:
+        print("Chybi:", (k*4)-p)
+    else:
+        print("Prebyva:", p-(k*4))
+
+0.7764302059496568
+def check(p, k):
+    if k*4 == p:
+    	print("OK")
+    elif k*4 > p:
+        print("Chybi:", k*4 - p)
+    else:
+        print("Prebyva:", p - k*4)
+
+0.7347826086956523
+def check(p, k):
+    if 4*k==p:#(p-(p//k)*k)==0 and p-(p//4)*4==0:
+    	print("OK")
+    elif p>4*k:
+        print("Prebyva:", p-4*k)
+    else:
+        print("Chybi:", 4*k-p)
+
+0.722883295194508
+def check(p, k):
+    if k*4 == p:
+        print("OK")
+    elif k*4<p:
+        print("Prebyva:",p-k*4)
+    else:
+        print ("Chybi:",k*4-p)

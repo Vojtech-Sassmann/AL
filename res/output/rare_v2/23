@@ -1,0 +1,342 @@
+2.0529913595100076
+def greatest_common_divisor(a, b):
+    x = list()
+    y = list()
+    for i in range(1,a+1):
+        if a %i == 0:
+            x.append(i)
+    for j in range(1,b+1):
+        if b %j == 0:
+        	y.append(j)
+    x.sort(reverse=True)
+    y.sort(reverse=True)
+    index1 = len(x)
+    index2 = len(y)    
+    for i in range(0,index1):
+        for j in range(0,index2):
+            if (x[i] % y[j] == 0) and (y[j] % x[i] == 0):
+                return(x[i])
+
+1.947883626818331
+def greatest_common_divisor(a, b):
+    s=[]
+    t=[]
+    for i in range (a):
+        if a%(i+1)==0: s.append(i+1)
+    for j in range (b):
+        if b%(j+1)==0: s.append(j+1)
+    for k in range (len(s)):
+        for l in range (len(s)):
+            if k>l and s[k]==s[l]:t.append(s[k])
+    t.sort
+    return(t[len(t)-1])
+
+1.56813956031937
+def greatest_common_divisor(a, b):
+
+	a_divlist = []
+	b_divlist = []
+	
+	for ano in range(1, a + 1):
+		if a % ano == 0:
+			a_divlist.append(ano)
+	for bno in range(1, b + 1):
+		if b % bno == 0:
+			b_divlist.append(bno)
+
+	a_d = a_divlist[::-1]
+	b_d = b_divlist[::-1]
+	
+	for anom in a_d:
+		for bnom in b_d:
+			if anom == bnom:
+				return anom
+1.5579678442524336
+def divisors(x):
+    alist = []
+    for i in range(1, x+1):
+        if x%i == 0:
+            alist.append(i)
+    return alist
+
+def greatest_common_divisor(a, b):
+    a = divisors(a)
+    b = divisors(b)
+    c = []
+    for i in range(len(a)):
+        if a[i] in b:
+            c.append(a[i])
+    return max(c)
+            
+
+1.38674395712567
+def greatest_common_divisor(a, b):
+    div = 1
+    if a == b:
+        return a
+    elif a < b:
+        for i in range(1, a+1):
+            if a % i == 0:
+                if b % i == 0:
+                    if i > div:
+                        div = i
+        return div
+    else:
+        for i in range(1, b+1):
+            if b % i == 0:
+                if a % i == 0:
+                    if i > div:
+                        div = i
+        return div     
+
+1.2273870720769988
+
+def greatest_common_divisor(a, b):
+    x = 0
+    if a > b:
+        for i in range(1, b + 1):
+            if a % i == 0 and b % i == 0:
+                if i > x:
+                    x = i
+    else:
+        for i in range(1, a + 1):
+            if a % i == 0 and b % i == 0:
+                if i > x:
+                    x = i
+    return x
+1.2138247839877503
+def greatest_common_divisor(a, b):
+    D=1
+    if a<b:
+        for i in range(1,a+1):
+            if a%i==0 and b%i==0:
+                D=i      
+    elif a>b:
+        for i in range(1,b+1):
+            if a%i==0 and b%i==0:
+                D=i     
+    elif a==b:
+        D=a
+    return D
+
+1.1494039155638194
+def greatest_common_divisor(a, b):
+	a_set=set()
+	b_set=set()
+	for i in range (1,a+1):
+		if a % i == 0:
+			a_set.add(i)
+	for j in range (1,b+1):
+		if b % j == 0:
+			b_set.add(j)
+	s=a_set.intersection(b_set)
+	return max(s)
+
+1.0629443289948595
+def greatest_common_divisor(a, b):
+    if b>a:
+        z = a
+        a = b
+        b = z
+    if a % b == 0:
+        return b
+    else:
+    	while a % b != 0:
+        	c = a % b
+        	a = b
+        	b = c
+    	return c
+
+1.0002187465820847
+def greatest_common_divisor(a, b):
+    divisor = 1
+    if a > b:
+        for i in range(1, b + 1):
+            if b % i == 0 and a % i == 0:
+            	divisor = i
+    else:
+        for i in range(1, a + 1):
+            if a % i == 0 and b % i == 0:
+            	divisor = i
+    return divisor
+
+0.9391884501804659
+def greatest_common_divisor(a, b):
+    if b == 0:
+        return a
+    else:
+        return greatest_common_divisor(b, a%b)
+
+    
+    
+
+0.9391884501804659
+def greatest_common_divisor(a, b):
+    if b == 0:
+        return a
+    else:
+        return greatest_common_divisor(b, a %b)
+
+0.9290167341135295
+def greatest_common_divisor(a, b):
+    divs = []
+    for i in range(1, a+1):
+        if a % i == 0:
+            if b % i == 0:
+                divs.append(i)
+    return(divs[-1])
+
+0.9205403040577491
+def greatest_common_divisor(a, b):
+    while b:
+        a, b = b, a%b
+    return a
+
+0.9018921579350323
+def greatest_common_divisor(a, b):
+    while b != 0:
+    	(a, b) = (b, a % b)
+    return a
+
+
+0.9018921579350323
+def greatest_common_divisor(a, b):
+    while b != 0:
+        (a, b) = (b, a % b)
+    return a
+
+0.8595100076561304
+def greatest_common_divisor(a, b):
+    while b>0:
+        w=b
+        b=a%b
+        a=w
+    return a
+
+0.8425571475445696
+def greatest_common_divisor(a, b):
+    najvacsi = 0
+    if a > b:
+        x = a
+    else:
+        x = b
+    for i in range(1, x+1):
+        if a % i == 0 and b % i == 0:
+            if i > najvacsi:
+                najvacsi = i
+    return najvacsi
+
+0.8256042874330088
+def greatest_common_divisor(a, b):
+    for i in range(a):
+        if a%(i+1)==0 and b%(i+1)==0:
+            x=i+1
+    return x
+
+0.8188231433883846
+def greatest_common_divisor(a, b): # vrátí největšího spol. dělitele 2 čísel
+    potencial_maxA = 0
+    potencial_maxB = 0
+    for i in range(1, a+1):
+        if a % i == 0:
+            potencial_maxA = i
+
+        if b % i == 0:
+            potencial_maxB = i
+
+        if potencial_maxB == potencial_maxA:
+            x = potencial_maxB
+    return x
+0.8086514273214481
+def greatest_common_divisor(a, b):
+    for i in range(1, int((a+b)/2+1)):
+        if a%i == 0 and b%i == 0:
+            d = i
+    return d
+
+0.806956141310292
+def greatest_common_divisor(a, b):
+    x = 1
+    if a < b:
+        a,b = b,a
+    for i in range (1,a):
+        if a % i == 0 and b%i == 0:
+            x = i
+    return x
+
+0.7798315651317949
+def greatest_common_divisor(a, b):
+    alist = []
+    for i in range(1,a+1):
+        if a % i == 0 and b % i ==0:
+            alist.append(i)
+    return max(alist)
+0.7544022749644537
+def greatest_common_divisor(a, b):
+    maximal = 0
+    for i in range(1, a+1):
+        if a % i == 0 and b % i == 0:
+            potencial = i
+            if potencial > maximal:
+                maximal = potencial
+    return maximal
+
+0.7340588428305808
+def greatest_common_divisor(a, b):
+    if a>=b:
+        c=b
+    else: c=a
+    for i in range(1,c+1):
+        if a%i==0 and b%i==0:
+            d=i
+    return d
+
+0.7035436946297714
+def greatest_common_divisor(a, b):
+    for i in range (1, a + 1):
+        if a % i == 0:
+            if b % i == 0:
+                x = i
+    return x
+
+0.6967625505851471
+def greatest_common_divisor(a, b):
+    gdc = 1
+    for i in range(1, min(a, b)+1):
+        if a % i == 0 and b % i == 0:
+            gdc = i
+    return gdc
+
+
+0.6815049764847424
+def greatest_common_divisor(a, b):
+    new = 0
+    amin = min(a,b)
+    for i in range(1, amin+1):
+    	if a % i == 0 and b % i == 0:
+        	new = i
+    return new
+0.6764191184512742
+def greatest_common_divisor(a, b):
+    divisor = 1
+    for i in range(1, max(a,b)):
+    	if a % i == 0 and b % i == 0:
+        	divisor = i
+             
+            
+    return divisor
+
+0.6560756863174013
+def greatest_common_divisor(a, b):
+    number = 0
+    for i in range(1, a+1):
+        if a % i == 0 and b % i == 0:
+            number = i
+    return number
+0.6560756863174013
+def greatest_common_divisor(a, b):
+    nsd=1
+    for i in range(1,a+1):
+        if a%i==0 and b%i==0: nsd=i
+    return nsd
+

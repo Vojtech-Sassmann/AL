@@ -1,0 +1,79 @@
+Rate:  12.0
+180.0
+def chocolate(rows, columns, x):
+    if ((rows * columns - x) == 0): print("Já to nebyl")
+    if ((rows * columns - x) > 0) : print("Zbytek:",rows * columns - x)
+
+115.0
+def chocolate(rows, columns, x):
+    print("Zbytek:" + " " + str((rows*columns)-x))
+
+108.0
+def chocolate(rows, columns, x):
+    print("Zbytek:",end=" ")
+    print(rows*columns-x)
+
+103.0
+def chocolate(rows, columns, x):
+    left=int(rows)*int(columns)-int(x)
+    print("Zbytek:",left)
+
+93.0
+rows = 6
+columns = 9
+
+def chocolate(rows, columns, x):
+    x = (rows * columns) - x
+    
+    print("Zbytek:", x)
+
+92.0
+def chocolate(rows, columns, x):
+    print("Zbytek: " +str((rows*columns)-x))
+
+87.0
+def chocolate(rows, columns, x):
+    rest = rows * columns - x
+    print("Zbytek: {}".format(rest))
+
+85.0
+def chocolate(rows, columns, x):
+    celek = rows * columns
+    zbytek = celek - x
+    print("Zbytek:", zbytek)
+
+81.0
+def chocolate(rows, columns, x):
+    sum =rows*columns
+    print('Zbytek: {0}'.format(sum-x))
+
+77.0
+def chocolate(rows, columns, x):
+    y = rows
+    c = columns
+    print("Zbytek:", (y*c) -x )
+
+75.0
+def chocolate(rows, columns, x):
+    a = rows*columns - x
+    print("Zbytek: " + str(a))
+
+75.0
+def chocolate(rows, columns, x):
+    print("Zbytek:",rows*columns-x)
+
+73.0
+def chocolate(rows, columns, x):
+    y= "Zbytek:"
+    print(y,(rows*columns)-x)
+    
+67.0
+def chocolate(rows, columns, x):
+    zbytek = (rows * columns) - x
+    print("Zbytek:", zbytek)
+
+61.0
+def chocolate(rows, columns, x):
+    y = rows*columns
+    print("Zbytek:", y-x)
+

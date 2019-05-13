@@ -1,0 +1,95 @@
+Rate:  20.25
+324.0
+def sum_dif(a, b):
+    print(a,end=" + ")
+    print(b,end=" = ")
+    print(a+b)
+    print(a,end=" - ")
+    print(b,end=" = ")
+    print(a-b)
+
+275.0
+def sum_dif(a, b):
+    soucet = a + b
+    rozdil = a - b
+    print(str(a) + " + " + str(b) + " = " + str(soucet))
+    print(str(a) + " - " + str(b) + " = " + str(rozdil))
+
+260.0
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a+b))
+    print(str(a) + " - " + str(b) + " = " + str(a-b))
+
+220.0
+def sum_dif(a, b):
+    print("{a} + {b} = {res}".format(a=a, b=b, res=a+b))
+    print("{a} - {b} = {res}".format(a=a, b=b, res=a-b))
+
+175.0
+def sum_dif(a, b):
+    print(a, "+", b, "=", sum((int(a),int(b))))
+    print(a, "-", b, "=", int(a)-int(b))
+    
+
+172.0
+def sum_dif(a, b):
+    plus = a + b
+    minus = a - b
+    print("%d + %d = %d" % (a, b, plus))
+    print("%d - %d = %d" % (a, b, minus))
+172.0
+def sum_dif(a, b):
+    print("{} + {} = {}".format(a,b,(a+b)))
+    print("{} - {} = {}".format(a,b,(a-b)))     
+
+169.0
+def sum_dif(a, b):
+    print(a,"+", b,"=",a+b), print(a, "-",b,"=",a-b)
+165.0
+def sum_dif(a, b):
+    print(str(a),"+", str(b), "=", str(a+b))
+    print(str(a),"-", str(b), "=", str(a-b))
+
+161.0
+def sum_dif(a, b):
+    c=a+b
+    print(a, "+", b, "=", c)
+    c=a-b
+    print(a, "-", b, "=", c)
+
+153.0
+def sum_dif(a, b):
+    print("%s + %s = %s" %(a, b, a+b))
+    print("%s - %s = %s" %(a, b, a-b))
+
+152.0
+def sum_dif(a, b):
+    minus = a - b
+    plus = a + b
+    print(a, "+", b, "=", plus)
+    print(a, "-", b, "=", minus)
+
+149.0
+def sum_dif(a, b):
+    plus=a+b
+    minus=a-b
+    print(a,"+",b,"=",plus)
+    print(a,"-",b,"=",minus)
+141.0
+def sum_dif(a, b):
+    print(a,"+",b,"=",a+b),
+    print(a,"-",b,"=",a-b),
+    
+
+125.0
+def sum_dif(a, b):
+    x = a
+    z = b
+    print(a, "+", b, "=", a+b)
+    print(a, "-", b, "=", a-b)
+	   
+	
+117.0
+def sum_dif(a, b):
+    print(a, "+", b, "=", a + b)
+    print(a, "-", b, "=", a - b)

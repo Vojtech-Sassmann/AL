@@ -130,7 +130,7 @@ def analyze_file(file_name, t):
 
     statistics = Statistics(t)
 
-    with codecs.open('./res/parsed/all/' + file_name, 'rb', encoding='UTF-8') as f:
+    with codecs.open('./res/parsed/correct_v2/' + file_name, 'rb', encoding='UTF-8') as f:
         reader = csv.reader(f, delimiter=';', quoting=csv.QUOTE_NONE)
 
         previous_code = None
@@ -151,9 +151,6 @@ def analyze_file(file_name, t):
     distance_matrix = []
     solutions = []
 
-    # save_data(file_name, groups)
-    # save_details(file_name, groups)
-    distances_cache = {}
     finished = 0
     for group in groups:
 
@@ -161,20 +158,10 @@ def analyze_file(file_name, t):
         group_distances = list()
 
         for other_group in groups:
-            # solution_pair = SolutionsPair(group.get_base_tree(), other_group.get_base_tree())
-
-            # check if distance has not already been computed
-            # if distances_cache.__contains__(solution_pair):
-            #     distance = distances_cache[solution_pair]
-            #
-            # else:
             distance = group.calc_distance(other_group.get_base_tree())
-
-            # save calculation to cache
-            # distances_cache[solution_pair] = distance
-            # first iteration
             group_distances.append(distance)
         distance_matrix.append(group_distances)
+
         new_finished = int(float(distance_matrix.__len__()) / groups.__len__() * 100)
         if new_finished > finished:
             print("finished: {}%".format(new_finished))
@@ -184,7 +171,7 @@ def analyze_file(file_name, t):
     # print distance_matrix
     metrics_frame = pd.DataFrame(data=distance_matrix, index=solutions)
 
-    metrics_frame.to_pickle(output + "distances/" + file_name[:-3] + "pkl")
+    metrics_frame.to_pickle(output + "distances_l1/" + file_name[:-3] + "pkl")
 
     # show_df(metrics_frame)
     # show_pca(metrics_frame)
@@ -212,8 +199,8 @@ def show_pca(df):
     plt.show()
 
 
-output = "./res/solutiongroups/dbscan/all/"
-similarity_threshold = 0
+output = "./res/solutiongroups/dbscan/correct_v2/"
+similarity_threshold = 1
 DBSCAN_MIN_SIZE = 5
 DBSCAN_EPSILON = 1
 

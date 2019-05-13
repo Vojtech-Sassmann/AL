@@ -1,0 +1,384 @@
+def digit_sum(n):
+    s=str(n)
+    r=0
+    for value in s:
+        r=r+int(value)
+    return r
+        
+
+def digit_sum(n):
+    s=0
+    z=str(n)
+    for i in range (len(z)):
+        a=z[i]
+        s=s+int(a)
+    return(s)
+      
+    
+def digit_sum(n):
+    l = []
+    k = 0
+    for i in str(n):
+        l.append(i)
+    for i in l:
+        k += int(i)
+    return k
+def digit_sum(n):
+    n=str(n)
+    b=0
+    for i in range(len(n)):
+        a=n[i]
+        a=int(a)
+        b+=a
+    return b
+
+def digit_sum(n):
+    result = 0
+    while n > 0:
+        result += n % 10
+        n = n // 10
+    return result
+
+def digit_sum(n):
+    vysledok = 0
+    string = str(n)
+    for i in range(len(string)):
+        vysledok += int(string[i])
+    return vysledok
+		
+    	
+
+def digit_sum(n):
+    sucet=0
+    cifra=0
+    while n >0:
+        cifra=n%10
+        sucet=sucet+cifra
+        n=(n-cifra)/10
+        
+    return int(sucet)
+
+def digit_sum(n):
+    x=1
+    a=0
+    while n>0:
+        x=n%10
+        n=n//10
+        a+=x
+    return (a)
+def digit_sum(n):
+    x=0
+    while n:
+        x+=n%10
+        n//=10
+    return x
+
+def digit_sum(n):
+    string = str(n)
+    arr = list(string)
+    sum = 0
+    for i in range(len(arr)):
+        sum+=int(arr[int(i)])
+    return sum    
+
+def digit_sum(n):
+    counter=0
+    string=str(n)
+    length=len(string)
+    for i in range(length):
+        number=string[i]
+        real_number=int(number)
+        counter=counter+real_number
+        
+    return counter
+	
+def digit_sum(n):
+    sum = 0
+    for i in range(len(str(n))):
+        sum += n % 10
+        n = n // 10
+    return sum
+
+def digit_sum(n):
+    num_str = str(n)
+    sum = 0
+    for i in range(0, len(num_str)):
+        sum += int(num_str[i])
+    return sum
+
+def digit_sum(n):
+    count = 0
+    for i in str(n):
+        count += int(i)
+    return count
+
+def digit_sum(n):
+    count = 0
+    for i in range(len(str(n))):
+        count += int(str(n)[i])
+    return count
+        
+
+def digit_sum(n):
+    if n == 0:
+        return 0
+    count = 0
+    num = n
+    for no in range(len(str(n))):
+        count += num % 10
+        num = num // 10
+    return count
+def digit_sum(n):
+	num = str(n)
+	return sum([int(i) for i in num])
+
+def digit_sum(n):
+    sum = 0
+    while n >= 10:
+        sum += n % 10
+        n //= 10
+    sum += n
+    return sum
+
+def digit_sum(n):
+    return (sum(int(digit) for digit in str(n)))
+
+def digit_sum(n):
+    s = 0
+    while n > 9:
+        s = s + (n % 10)
+        n = n //10
+        
+    return s+n
+
+
+def digit_sum(n):
+    x = 0
+    count = list(map(int, str(n)))
+    for i in range(len(count)):
+        x += count[i]
+    return x
+
+def digit_sum(n):
+    k = len(str(n))
+    sum = n % 10
+    j=1
+    for i in range(1,k):
+        j=j*10
+        sum = (n//j)%10 + sum
+    return sum
+
+def digit_sum(n):
+    x = 0
+    z = int(len(str(n)))
+    y = str(n)
+    for i in range(z):
+        x = x + int(y[i])
+    return(print(x))
+
+
+
+
+def digit_sum(n):
+    b = 0
+    while n != 0:
+        c = n%10
+        b += c
+        n -= c
+        n = int(n) / 10
+    return int(b)
+        
+        
+
+def digit_sum(n):
+    s=str(n)
+    r=0
+    for value in s:
+        r=r+int(value)
+    return r
+        
+
+def digit_sum(n):
+    s=0
+    z=str(n)
+    for i in range (len(z)):
+        a=z[i]
+        s=s+int(a)
+    return(s)
+      
+    
+def digit_sum(n):
+    l = []
+    k = 0
+    for i in str(n):
+        l.append(i)
+    for i in l:
+        k += int(i)
+    return k
+def digit_sum(n):
+    n=str(n)
+    b=0
+    for i in range(len(n)):
+        a=n[i]
+        a=int(a)
+        b+=a
+    return b
+
+def digit_sum(n):
+    result = 0
+    while n > 0:
+        result += n % 10
+        n = n // 10
+    return result
+
+def digit_sum(n):
+    vysledok = 0
+    string = str(n)
+    for i in range(len(string)):
+        vysledok += int(string[i])
+    return vysledok
+		
+    	
+
+def digit_sum(n):
+    sucet=0
+    cifra=0
+    while n >0:
+        cifra=n%10
+        sucet=sucet+cifra
+        n=(n-cifra)/10
+        
+    return int(sucet)
+
+def digit_sum(n):
+    x=1
+    a=0
+    while n>0:
+        x=n%10
+        n=n//10
+        a+=x
+    return (a)
+def digit_sum(n):
+    x=0
+    while n:
+        x+=n%10
+        n//=10
+    return x
+
+def digit_sum(n):
+    string = str(n)
+    arr = list(string)
+    sum = 0
+    for i in range(len(arr)):
+        sum+=int(arr[int(i)])
+    return sum    
+
+def digit_sum(n):
+    counter=0
+    string=str(n)
+    length=len(string)
+    for i in range(length):
+        number=string[i]
+        real_number=int(number)
+        counter=counter+real_number
+        
+    return counter
+	
+def digit_sum(n):
+    sum = 0
+    for i in range(len(str(n))):
+        sum += n % 10
+        n = n // 10
+    return sum
+
+def digit_sum(n):
+    num_str = str(n)
+    sum = 0
+    for i in range(0, len(num_str)):
+        sum += int(num_str[i])
+    return sum
+
+def digit_sum(n):
+    count = 0
+    for i in str(n):
+        count += int(i)
+    return count
+
+def digit_sum(n):
+    count = 0
+    for i in range(len(str(n))):
+        count += int(str(n)[i])
+    return count
+        
+
+def digit_sum(n):
+    if n == 0:
+        return 0
+    count = 0
+    num = n
+    for no in range(len(str(n))):
+        count += num % 10
+        num = num // 10
+    return count
+def digit_sum(n):
+	num = str(n)
+	return sum([int(i) for i in num])
+
+def digit_sum(n):
+    sum = 0
+    while n >= 10:
+        sum += n % 10
+        n //= 10
+    sum += n
+    return sum
+
+def digit_sum(n):
+    return (sum(int(digit) for digit in str(n)))
+
+def digit_sum(n):
+    s = 0
+    while n > 9:
+        s = s + (n % 10)
+        n = n //10
+        
+    return s+n
+
+
+def digit_sum(n):
+    x = 0
+    count = list(map(int, str(n)))
+    for i in range(len(count)):
+        x += count[i]
+    return x
+
+def digit_sum(n):
+    k = len(str(n))
+    sum = n % 10
+    j=1
+    for i in range(1,k):
+        j=j*10
+        sum = (n//j)%10 + sum
+    return sum
+
+def digit_sum(n):
+    x = 0
+    z = int(len(str(n)))
+    y = str(n)
+    for i in range(z):
+        x = x + int(y[i])
+    return(print(x))
+
+
+
+
+def digit_sum(n):
+    b = 0
+    while n != 0:
+        c = n%10
+        b += c
+        n -= c
+        n = int(n) / 10
+    return int(b)
+        
+        
+

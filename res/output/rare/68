@@ -1,0 +1,52 @@
+Rate:  8.0
+40.0
+def big_five(n):
+    print(n*"#")
+    for i in range(n-2):
+        print("#")
+    print(n*"#")
+    for i in range(n-2):
+        print((n-1)*" " + 1*"#")
+    print(n*"#")
+    
+30.0
+def big_five(n):
+    p = n - 2
+    print("#"*n)
+    for i in range(p):
+        print("#")
+    print("#"*n)
+    for i in range(p):
+        print(" "*(n-1) + "#")
+    print("#"*n)
+
+24.0
+def big_five(n):
+    print("#"*n)
+    for i in range(int(n-2)):
+        print("#")
+    print("#"*n)
+    for i in range(int(n-2)):
+        print(" "*(n - 1) + "#")
+    print("#"*n)
+
+19.0
+def big_five(n):
+    print("#"*n)
+    for i in range(n - 2):
+        print("#")
+    print("#"*n)
+    for i in range(n - 2):
+        print(" "*n + "#")
+    print("#"*n)
+
+19.0
+def big_five(n):
+    print("#"*n)
+    for i in range(n-2):
+        print("#")
+    print("#"*n)
+    for i in range(n-2):
+        print((n-1)*" " + "#")
+    print("#"*n)
+

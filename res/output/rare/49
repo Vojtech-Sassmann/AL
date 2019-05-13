@@ -1,0 +1,165 @@
+Rate:  17.095238095238095
+359.0
+def powers(n):
+  t = ( ("druhou",2), ("treti",3), ("ctvrtou",4) )
+  for p in t:
+    m = 1
+    for i in range(p[1]):
+        m *= n
+    print( "{} na {} je {}".format(n, p[0], m) )
+321.0
+def powers(n):
+    words = ["druhou", "treti", "ctvrtou"]
+    for i in range(2,5):
+    	m =n**i
+    	print(n, "na", words[i-2], "je", m)
+
+264.0
+from math import pow
+def powers(n):
+    print(n, "na druhou je", int(pow(n, 2)))
+    print(n, "na treti je", int(pow(n, 3)))
+    print(n, "na ctvrtou je", int(pow(n, 4)))
+
+247.0
+def powers(n):
+    print(n, "na druhou je", n*n),
+    print(n, "na treti je", n*n*n),
+    print(n, "na ctvrtou je", n*n*n*n)
+
+245.0
+def powers(n):
+    druha = n*n
+    tretia = n*n*n
+    stvrta = n*n*n*n
+    print(n, "na druhou je", druha)
+    print(n, "na treti je", tretia)
+    print(n, "na ctvrtou je", stvrta)
+
+244.0
+def powers(n):
+    x=n
+    x=x**2
+    print(n, "na druhou je", x)
+    y=n
+    y=y**3
+    print(n, "na treti je", y)
+    z=n
+    z=z**4
+    print(n, "na ctvrtou je", z)
+
+240.0
+def powers(n):
+    n2 = n*n
+    print(n, "na druhou je", n2)
+    n3 = n*n*n
+    print(n, "na treti je", n3)
+    n4 = n*n*n*n
+    print(n, "na ctvrtou je", n4)
+
+233.0
+def powers(n):
+    for i in range (2,5):
+        m = n**i
+        if i == 2:
+            print(n, "na druhou je", m)
+        elif i == 3:
+            print(n, "na treti je", m)
+        elif i == 4:
+            print(n, "na ctvrtou je", m)
+
+214.0
+def powers(n):
+    print(n, "na druhou je", n*n)
+    print(n, "na treti je", n*n*n)
+    print(n, "na ctvrtou je", n*n*n*n)
+
+208.0
+def powers(n):
+    druha=n*n
+    treti=n*n*n
+    ctvrta=n**4
+    print(n, "na druhou je", druha)
+    print(n, "na treti je", treti)
+    print(n, "na ctvrtou je", ctvrta)
+
+208.0
+def powers(n):
+    print(n, "na druhou je", n**2)
+    print(n,'na treti je',(n**2)*n)
+    print(n,'na ctvrtou je',(n**2)*(n**2))
+198.0
+def powers(n):
+    m = n**2
+    l = n**3
+    o = n**4
+    print (n, "na druhou je", m)
+    print (n, "na treti je", l)
+    print (n, "na ctvrtou je", o)
+198.0
+def powers(n):
+    print(n, "na druhou je", n**2),
+    print(n, "na treti je", n**3),
+    print(n, "na ctvrtou je", n**4)
+
+198.0
+def powers(n):
+    y = n * n
+    print(n, "na druhou je", y)
+    y *= n
+    print(n, "na treti je", y)
+    y *= n
+    print(n, "na ctvrtou je", y)
+
+193.0
+def powers(n):
+    x = n * n
+    y = x * n
+    z = y * n
+    print(n, "na druhou je", x)
+    print(n, "na treti je", y)
+    print(n, "na ctvrtou je", z)
+
+192.0
+def powers(n):
+    m = n**2
+    print(n, "na druhou je", m)
+    m=n**3
+    print(n, "na treti je", m)
+    m=n**4
+    print(n, "na ctvrtou je", m)
+
+190.0
+def powers(n):
+    for i in range(1):
+        print(n, "na druhou je", n**2)
+        print(n, "na treti je", n**3)
+        print(n, "na ctvrtou je", n**4)
+
+188.0
+def powers(n):
+    i = n*n
+    print(n,'na druhou je',i)
+    k = i*n
+    print(n, "na treti je", k)
+    c = k*n
+    print(n,'na ctvrtou je',c)
+
+179.0
+def powers(n):
+    print(n, "na druhou je", n**2)
+    print(n, "na treti je", n*n*n)
+    print(n, "na ctvrtou je", n**4)
+
+174.0
+def powers(n):
+    print(n, "na druhou je", pow(n,2))
+    print(n, "na treti je", pow(n,3))
+    print(n, "na ctvrtou je", pow(n,4))
+
+165.0
+def powers(n):
+    print(n, "na druhou je", n**2)
+    print(n, "na treti je", n**3)
+    print(n, "na ctvrtou je", n**4)
+

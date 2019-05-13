@@ -1,0 +1,126 @@
+Rate:  9.35
+187.0
+def even_numbers(n):
+    i = 0
+    a = 2
+    while i < n:
+        print(a)
+        a += 2
+        i += 1
+
+185.0
+def even_numbers(n):
+    for i in range(n*2+1):
+        if i>0 and i%2==0:
+            print(i)
+
+184.0
+def even_numbers(n):
+    for i in range(1, n+1):
+       nasobek = 2
+       if i <= n+1:
+           print(i*nasobek)
+           nasobek += 2
+       else:
+           break
+145.0
+def even_numbers(n):
+    seznam = list(range(2, 2*n+1, 2))
+    for number in seznam:
+        print(number)
+143.0
+def even_numbers(n):
+    i = 1
+    while i <= n:
+        print(2 * i)
+        i += 1
+
+135.0
+def even_numbers(n):
+    for x in reversed(range(n*2, 0, -2)):
+    	print(x)
+
+125.0
+def even_numbers(n):
+    m = 2 * n
+    for i in range(n):
+        print((i + 1) * 2)
+
+121.0
+def even_numbers(n):
+    for i in range(1,(n+1)*2):
+        if i % 2 == 0:
+            print(i)
+118.0
+def even_numbers(n):
+    x = 0
+    for i in range(n):
+        print(x+2)
+        x += 2
+
+118.0
+def even_numbers(n):
+    x=2
+    for i in range(n):
+        print(x)
+        x=x+2
+
+114.0
+def even_numbers(n):
+    for i in range(2, n*2+1):
+        if(i % 2 == 0):
+            print(i)
+
+112.0
+def even_numbers(n):
+    for i in range (n*2):
+        if i % 2 == 0:
+            
+            print (i+2)
+       
+
+
+111.0
+def even_numbers(n):
+    a=0
+    for i in range(1,n+1):
+        	a=a+2
+        	print(a)
+
+109.0
+def even_numbers(n):
+    for i in range (n):
+        print((i+1)*2)
+
+109.0
+def even_numbers(n):
+    for i in range (n): print(2*i+2)
+       
+108.0
+def even_numbers(n):
+    for i in range(1,n+1):
+        a = i*2
+        print(a)
+
+
+107.0
+def even_numbers(n):
+	x = 0
+	for i in range(n):
+		x += 2
+		print(x)
+
+95.0
+def even_numbers(n):
+    for i in range(2,n*2+1,2):
+        print(i)
+94.0
+def even_numbers(n):
+    for i in range(0,n*2,2):
+    	print(i+2)
+
+92.0
+def even_numbers(n):
+    for i in range(1,n+1):
+        print(i*2)
+

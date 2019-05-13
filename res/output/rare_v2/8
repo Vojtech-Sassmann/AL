@@ -1,0 +1,768 @@
+3.5668789808917194
+def square(n):
+    s=("# "*n)
+    s=s[0:len(s)-1]
+    for i in range(n):        
+       print(s)
+
+2.778547032216376
+def square(n):
+    l = '{}'.format('# ') * n
+    for i in range(n):
+        print(l)
+
+
+2.6544816763592722
+def square(n):
+    for i in range(n):
+        print("#", end=" ")
+    print()
+    for i in range(n - 1):
+        print("#"" " * n)
+
+2.1323733037939627
+def square(n):
+    znak = "# "
+    for i in range(n):
+        print(n*znak)
+
+
+
+
+
+
+2.0315702021600663
+def square(n):
+    for i in range(n):
+        print(n*"# ", end=" ")
+        print(sep="")
+    print()
+
+1.9488599649219975
+def square(n):
+    for i in range(n):
+        for k in range(n):
+            print("#", end='')
+            print(' ',end='')
+
+        print()
+
+1.6593741345887565
+def square(n):
+    for i in range(n):
+    	print("")
+    	for i in range(n):
+        	print("#", end=" ")
+
+
+1.6309424905381702
+def square(n):
+    for i in range(n):
+       	print("# "*n)
+
+
+1.6309424905381702
+def square(n):
+    for i in range(n):
+        print("# "*n)
+
+1.6309424905381702
+def square(n):
+    for i in range(n):
+        print("# "*n,)
+
+1.6309424905381702
+def square(n):
+    for i in range(n):
+        print("# "*n)
+
+    
+1.6309424905381702
+def square(n):
+    for i in range(n):
+        print("# "*n)
+
+
+
+1.610264931228653
+def square(n):
+    for i in range(n):
+        print(n*" #")
+
+
+1.610264931228653
+def square(n):
+    for i in range(n):
+        print(n*" ""#")
+1.610264931228653
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+
+1.610264931228653
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+1.610264931228653
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+
+1.581833287178067
+def square(n):
+    for i in range(n):
+        for x in range(n - 1):
+            print("#", end=" ")
+        print("#")
+    print()
+
+1.581833287178067
+def square(n):
+    for i in range(n):
+        for x in range(n - 1):
+            print("#", end=" ")
+        print("#")
+    print()
+1.431920982184067
+def square(n):
+    for i in range(n):
+        print()
+        for j in range(n):
+        	print("#", end=" ")
+
+1.431920982184067
+def square(n):
+    for i in range(n):
+        print()
+        for j in range(n):
+        	print("#", end=" ")
+   
+
+1.431920982184067
+def square(n):
+    for i in range(n):
+        print()
+        for _ in range(n):
+            print('#', end = ' ')
+		
+1.431920982184067
+def square(n):
+    for i in range(n):
+        print()
+        for k in range(n):
+	        print("#", end=" ")
+
+1.431920982184067
+def square(n):
+    for i in range(n):
+        print()
+        for j in range(n):
+            print('#',end = ' ')
+        
+1.403489338133481
+def square(n):	
+    for i in range(n):	
+        print()
+        for i in range(n):
+    		 		
+           	print("#", end=" ")
+        	
+    print()
+
+1.403489338133481
+def square(n):
+    for i in range (n):
+        print()
+        for i in range(n):
+            print('#', end=' ')
+    print()
+
+1.403489338133481
+def square(n):
+    for i in range(n):
+        print()
+        for j in range(n):
+       		print("#", end=" ")
+    print()
+
+1.3026862364995846
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print("")
+    print()
+
+1.2509923382257915
+def square(n):
+    for i in range(n):
+        print("# " * n)
+    print()
+
+1.2509923382257915
+def square(n):
+    for i in range(n):
+        print("# "*n)
+    print()
+
+1.2509923382257915
+def square(n):
+    for i in range(n):
+        print("# "*n)
+    print()
+
+1.2509923382257915
+def square(n):
+    for i in range(n):
+        print("# " * n)
+    print()
+
+1.2509923382257915
+def square(n):
+    for i in range(n):
+        print("# " * n)
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ",)
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n * "# ")
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+            print(n*"# ")
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+    print()
+    
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ")
+    print()
+
+1.2277300840025847
+def square(n):
+    for i in range(n):
+        print(n*"# ") 
+    print()
+
+1.1812055755561708
+def square(n):
+    for i in range(n):
+        print(n*"# ", end = " ")
+        print()
+
+1.1812055755561708
+def square(n):
+    for i in range(n):
+        print(n*"# ", end=" ")
+        print()
+
+1.157943321332964
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", sep=" ", end=" ")
+        print()
+1.0597249146127572
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            
+        	print("#", end=" ")
+        print()
+    print()
+
+1.0597249146127572
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+    print()
+
+1.0597249146127572
+def square(n):
+    for row in range(n):
+        for col in range(n):
+            print("#", end=" ")
+        print()
+    print()
+
+1.0597249146127572
+def square(n):
+    for _ in range(n):
+        for _ in range(n):
+        	print("#", end=" ")
+        print()
+    print()
+
+0.8426105418628265
+def square(n):
+    for i in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print ("")
+
+0.8426105418628265
+def square(n):
+    for i in range(n):
+        for i in range(n):
+        	print("#", end=" ")
+        print("")
+0.8426105418628265
+def square(n):
+    for i in range(n):
+        
+        for j in range(n):          
+        	print("#", end=" ")
+        print("")
+            
+
+0.8426105418628265
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("# ",end="")
+        print("")
+
+0.5996492199759992
+def square(n):
+    for k in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range (n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+         print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+    	for j in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+    	for i in range(n):
+        	print("#", end = " ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for k in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for x in range(n):
+        for i in range(n):
+        	print("#", end=" ")
+        print()
+
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print('#', end=' ')
+        print()
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+0.5996492199759992
+def square(n):
+    for i in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+       		print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#",end=' ')
+        print()
+ 
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+	
+0.5996492199759992
+def square(n):
+    for j in range (n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for k in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for x in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in  range(n):
+    	for j in range(n):
+      	  print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for x in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range (n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for x in range(n):
+            print("#",end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+        
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for k in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n): # Cyklus pro počet řádků (výšky) u domu
+        for j in range(n): # Cyklus pro počet sloupců (šířky) u domu 
+            print('#', end=" ")
+        print()
+0.5996492199759992
+def square(n):
+    for y in range(n): 
+        for x in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+	for j in range(n):
+            for i in range(n):
+                print('#',end=' ')
+            print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+        	print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range (n):
+            print("#", end=" ")
+        print ()
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+	for i in range(n):
+		for j in range(n):
+			print("#", end=" ")
+		print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for u in range(n):
+            print("#", end=" ")
+        print()
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for i in range(n):
+            print("#", end=" ")
+        print()
+
+0.5996492199759992
+def square(n):
+    for i in range(n):
+    	for j in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for j in range(n):
+    	for i in range(n):
+        	print("#", end=" ")
+    	print()
+
+0.5996492199759992
+def square(n):
+    for y in range(n):
+        for x in range(n):
+            print("# ", end="")
+        print()
+0.5996492199759992
+def square(n):
+    for i in range(n):
+        for y in range(n):
+            print("#", end=" ")
+        print()
+

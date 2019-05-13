@@ -1,0 +1,44 @@
+def unique(mylist):\n    seznam=[]\n    for i in mylist:\n        if not(i in seznam):\n            seznam.append(i)\n    return seznam\n
+def unique(mylist):\n    s=[]\n    for i in range (len(mylist)):\n        for j in range (len(mylist)):\n        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"\n    for p in range (len(mylist)): \n        if mylist[p]!="a" : s.append(mylist[p])\n    return(s)\n   	\n    \n 	
+def unique(mylist):\n    ulist = []\n    for i in mylist:\n        if i not in ulist:\n            ulist.append(i)\n    return ulist            \n                \n
+def unique(mylist):\n    taken = list()\n    to_return = list()\n    for x in mylist:\n        if x not in taken:\n            taken.append(x)\n            to_return.append(x)\n    return to_return\n
+def unique(mylist):\n    whitelist=[]\n    for i in mylist:\n        if contains(whitelist,i)==False:\n            whitelist.append(i)\n    return whitelist\ndef contains (summary,element):\n    result=False\n    for x in summary:\n        if x!=element:\n            result = False\n        else: return True\n    return result
+def unique(mylist):\n    seznam = []\n    for x in mylist:\n        if x not in seznam:\n        	seznam.append(x)\n    return seznam\n
+def unique(mylist):\n  nedup = []\n  for x in mylist:\n    if x not in nedup:\n      nedup.append(x)\n  return nedup\n
+def unique(mylist):\n    uni = []\n    for i in range(len(mylist)):\n        if mylist[i] not in uni:\n            uni.append(mylist[i])\n    return uni\n
+def unique(mylist):\n    r=[]\n    for i in mylist:\n        if not i in r:\n            r.append(i)\n    return r\n
+def unique(mylist):\n    unique_list = []\n    for i in mylist:\n        if i not in unique_list:\n            unique_list.append(i)\n    return unique_list\n
+def unique(mylist):\n    unique = []  \n    for n in mylist:\n        if n in unique:\n            pass\n        else:\n            unique.append(n)\n    return unique\n        
+def unique(mylist):\n    new = []\n    for number in mylist:\n        if number not in new:\n            new.append(number)\n    return new\n
+def unique(mylist):\n    alist = []\n    for this in mylist:\n        if this not in alist:\n            alist.append(this)\n    return alist\n
+def unique(mylist):\n    new_list = []\n    unique_numbers = set(mylist)\n    for item in mylist:\n        if item in unique_numbers and item not in new_list:\n            new_list.append(item)        \n    return new_list\n
+def unique(mylist):\n    final_list = []\n    for i in range (0,len(mylist)):\n        if mylist[i] not in final_list:\n        	final_list.append(mylist[i])\n    return final_list\n
+def unique(mylist):\n    vys = []\n    for x in mylist:\n        if x not in vys:\n            vys.append(x)\n    return vys\n
+def unique(mylist):\n    new_list = []\n    for i in mylist:\n        if i not in new_list:\n            new_list.append(i)\n    return new_list\n
+def unique(mylist):\n    blist = []\n    for item in mylist:\n        if item not in blist:\n            blist.append(item)\n    return blist\n
+def unique(mylist):\n    l=[]\n    for a in mylist:\n        if a not in l:\n            l.append(a)\n    return l\n
+def unique(mylist):\n    list_of_uniques = []\n    for number in mylist:\n        if number not in list_of_uniques:\n            list_of_uniques.append(number)\n    return list_of_uniques\n
+def unique(mylist):\n    new = []\n    for i in range(len(mylist)):\n        if mylist[i] not in new:\n            new.append(mylist[i])\n    return new\n
+def unique(mylist):\n    new_list = []\n    for i in mylist:\n        if i in new_list:\n            pass\n        else:\n            new_list.append(i)\n    return new_list\n
+def unique(mylist):\n    alist = []\n    for i in mylist:\n        if i not in alist:\n            alist.append(i)\n    return(alist)
+def unique(mylist):\n    alist = []\n    for i in mylist:\n        if i not in alist:\n            alist.append(i)\n    return alist\n
+def unique(mylist):\n    vysl = []\n    for i in mylist:\n        if i not in vysl:\n            vysl.append(i)\n    return vysl        \n\n
+def unique(mylist):\n    new = []\n    for i in mylist:\n        if i not in new:\n            new.append(i)\n    return new\n
+def unique(mylist):\n    new = []\n    for i in mylist:\n        if i not in new:\n    		new.append(i)\n    return new\n
+def unique(mylist):\n    result = []\n    for i in range(len(mylist)):\n        if mylist[i] not in result:\n            result.append(mylist[i])\n    return result\n
+def unique(mylist):\n    unique_list = [] \n    for x in mylist: \n        if x not in unique_list: \n            unique_list.append(x)\n    return unique_list\n
+def unique(mylist):\n    alist = []\n    for i in mylist:\n        if i not in alist:\n            alist.append(i)\n    return alist\n
+def unique(mylist):\n    newlist = []\n    for x in mylist:\n        if x not in newlist:\n            newlist.append(x)\n    return newlist\n
+def unique(mylist):\n    unique = []\n    for i in range(len(mylist)):\n        if mylist[i] not in unique:\n            unique.append(mylist[i])\n    return unique\n
+def unique(mylist):\n    new= []\n    for i in mylist:\n        if i not in new:\n            new.append(i)\n    return new\n
+def unique(mylist):\n    new_list = []\n    for item in mylist:\n        if item not in new_list:\n            new_list.append(item)\n    return new_list\n            \n
+def unique(mylist):\n        output = [875]\n        for i in range(len(mylist)):\n            for j in range(len(output)):\n                if mylist[i] == output[j]:\n                    break\n                elif j == len(output)-1:\n                    output.append(mylist[i])\n        del output[0]\n        return output
+def unique(mylist):\n    final_list = []\n    for num in mylist:\n        if num not in final_list:\n            final_list.append(num)\n    return final_list\n
+def unique(mylist):\n    alist = []\n    for number in mylist:\n        if number in alist:\n            continue\n        else:\n            alist.append(number)\n    return alist\n
+def unique(mylist):\n	unik=[]\n	for i in range(len(mylist)):\n		if mylist[i] not in mylist[:i]:\n			unik.append(mylist[i])\n	return unik\n
+def unique(mylist):\n    unique_list = []\n    for i in range(len(mylist)):\n        if mylist[i] not in unique_list:\n            unique_list.append(mylist[i])\n    return unique_list\n
+def unique(mylist):\n    copy = list()\n    for i in range(0, len(mylist)):\n        if mylist[i] not in mylist[0:i]: #and mylist[i:len(mylist)]:\n            copy.append(mylist[i])\n    return(copy)\n
+def unique(mylist):\n    new = []\n    \n    for element in mylist:\n        if element not in new:\n            new.append(element)\n    return new
+def unique(mylist):\n    newList = []\n    for i in range(len(mylist)):\n        if mylist[i] not in newList:\n            newList.append(mylist[i])\n    return newList\n
+def unique(mylist):\n    mynewlist=[]\n    for i in mylist:\n        if i not in mynewlist:\n            mynewlist=mynewlist+[i]\n    return mynewlist\n
+def unique(mylist):\n    unique_list = []\n    for i in range(len(mylist)):\n        if mylist[i] not in unique_list:\n            unique_list.append(mylist[i])\n    return unique_list\n

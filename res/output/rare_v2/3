@@ -1,0 +1,724 @@
+2.094951204939255
+import math
+def factorial(n): 
+    return math.factorial(n)
+
+
+2.0924118701453893
+def factorial(n):
+    if n < 2:
+        return 1
+    return n * factorial(n - 1)
+2.0060744871539535
+def factorial(n):
+    if n <= 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+2.0060744871539535
+def factorial(n):
+	if (n <= 1):
+        	return 1 
+	else: return(n*factorial(n-1))
+
+
+1.8537143995220076
+def factorial(n):
+    i = n
+    result = 1
+    while i > 0:
+        result *= i
+        i -= 1
+    return(result)
+
+1.8105457080262894
+def factorial(n):
+    if n==0:
+        return 1
+    return n*factorial(n-1)
+
+1.7496016729735113
+def factorial(n):
+    if n <= 0:
+        return 1
+    else:
+        f = 1
+        for i in range(n):
+            f = f*(i+1)
+        return f 
+
+
+1.6937363075084644
+def factorial(n):
+    if n == 0:
+    	return 1
+    else:
+        return n * factorial(n-1)
+
+1.6937363075084644
+def factorial(n):
+    if n==1:
+        return 1
+    else:
+        return n* factorial (n-1)
+1.6937363075084644
+def factorial(n):
+	if n == 1:
+		return 1
+	else:
+		return n*factorial(n-1)
+1.6937363075084644
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+1.6937363075084644
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+1.6937363075084644
+def factorial(n):
+    if n == 1: return 1
+    else: return n*factorial(n-1)
+
+1.6937363075084644
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+1.6937363075084644
+def factorial(n):
+    if n == 1:
+    	return 1
+    else:
+        return n * factorial(n-1)
+
+1.6937363075084644
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+1.6937363075084644
+def factorial(n):
+    if(n==1): return 1
+    else: return(n*factorial(n-1))
+1.6937363075084644
+def factorial(n):
+	if (n == 1): return 1
+	else: return(n*factorial(n-1))
+1.6937363075084644
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+1.6073989245170284
+def factorial(n):
+    a = 1
+    while n != 0:
+        a *= n
+        n -= 1
+    return a
+
+1.569308902609042
+def factorial(n):
+    if (n == 1):
+        return 1
+    return factorial(n-1)*n
+
+1.5642302330213105
+def factorial(n):
+   
+    num = 1
+    while n >= 1:
+        num = num * n
+        n = n - 1
+    return num
+   
+1.5642302330213105
+def factorial(n):
+    num = 1
+    while n >= 1:
+        num = num * n
+        n = n - 1
+    return num
+1.5642302330213105
+def factorial(n):
+    num=1
+    while n>=1:
+        num = num * n
+        n = n - 1
+    return(num)
+    
+    
+
+1.5032861979685321
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return factorial(n-1)*n
+
+1.3712407886875124
+def factorial(n):
+    fakt=1
+    for i in range(n+1):
+        if i>0:
+            fakt=fakt*i
+    return fakt
+
+1.279824736108345
+def factorial(n):
+    f = 1
+    for i in range(1, n + 1):
+        f = i * f
+        if i == n:
+            return f
+
+1.010655247958574
+def factorial(n):
+    x=1
+    for i in range (1,n):
+        x += x*i
+    return x
+
+0.9751045608444533
+def factorial(n):
+    a=1
+    for i in range(n):
+        a=(i+1)*a
+    return(a)
+0.8862278430591516
+def factorial(n):
+    r=1
+    for i in range(1,n):
+        r*=(i+1)
+    return r
+    
+
+0.8862278430591516
+def factorial(n):
+    temp = 1
+    for i in range(n):
+        temp *= (i+1)
+    return temp
+
+0.8862278430591516
+def factorial(n):
+    f=1
+    for x in range(n):
+     f*=(x+1)
+    return f
+
+0.8862278430591516
+def factorial(n):
+    fak = 1
+    for i in range(n):
+        fak *= i+1
+    return fak
+
+0.8862278430591516
+def factorial(n):
+    fact = 1
+    for i in range(n):
+        fact *= (i+1)
+    return fact
+
+0.8760705038836885
+def factorial(n):
+    number = 1
+    for i in range(n):
+        number *= n-i
+    return number
+
+0.8481378211511651
+def factorial(n):
+    cislo = 1
+    for i in range(n):
+        cislo = cislo * (i+1)
+    return(cislo)
+
+0.8481378211511651
+def factorial(n):
+    k=1
+    for i in range (n):
+    	k=k*(i+1)
+    return(k)
+ 
+
+ 
+    
+        
+    
+
+0.8481378211511651
+def factorial(n):
+    x = 1
+    for i in range(n):
+        x = x * (i+1)
+    return x
+
+0.8481378211511651
+def factorial(n):
+    x=1
+    for i in range(n):
+        x=x*(i+1)
+    return(x)
+        
+
+0.8481378211511651
+def factorial(n):
+    product=1
+    for i in range(n):
+        product=product*(i+1)
+    return product
+
+0.8481378211511651
+def factorial(n):
+    a=1
+    for i in range(n):
+        a = a*(i+1)
+    return a
+
+0.8481378211511651
+def factorial(n):
+    f=1
+    for i in range(n): f=f*(i+1)
+    return f
+
+0.8481378211511651
+def factorial(n):
+    y = 1
+    for x in range(n):
+        y = y * (x + 1)
+    return y
+
+0.8481378211511651
+def factorial(n):
+    y = 1
+    for x in range(n):
+        y = y * (x + 1)
+    return y
+
+0.8481378211511651
+def factorial(n):
+    p = 1
+    for i in range(n):
+        p = p*(i+1)
+    return p
+
+0.8481378211511651
+def factorial(n):
+    j=1
+    for i in range(n):
+        j=j*(i+1)
+    return j
+
+0.8481378211511651
+def factorial(n):
+    p = 1
+    for i in range(n):
+        p = p * (i + 1)
+    return p    
+        
+
+0.8405198167695678
+def factorial(n):
+    temp=1
+    for i in range(n):
+        temp=temp*(n-i)
+    return temp
+
+0.8405198167695678
+def factorial(n):
+    sucin=1
+    for i in range(n):
+        sucin=sucin*(n-i)
+    return(sucin)
+
+0.7160924118701454
+def factorial(n):
+  f = 1
+  for i in range(2, n+1):
+      f *= i
+  return f
+
+0.7160924118701454
+def factorial(n):
+    factorial = 1
+    for i in range(1, n + 1):
+        factorial *= i
+    return factorial
+
+0.7160924118701454
+def factorial(n):
+	x=1
+	for i in range(1,n+1):
+		x*=i
+	return x
+0.7160924118701454
+def factorial(n):
+    res = 1
+    for i in range(2, n + 1):
+        res *= i
+    return res
+0.7160924118701454
+def factorial(n):
+    sum = 1
+    for i in range (1,n+1):
+        sum*=i
+    return sum
+
+0.7160924118701454
+def factorial(n):
+    result = 1
+    for i in range(1, n + 1):
+        result *= i
+    return result
+
+0.7160924118701454
+def factorial(n):
+    a = 1
+    for i in range(1, n+1):
+        a *= i
+    return a
+
+0.7160924118701454
+def factorial(n):
+    x = 1
+    for i in range(1, n+1):
+        x *= i
+    return x
+0.7160924118701454
+def factorial(n):
+    x = 1
+    for i in range(1,n + 1):
+        x *= i
+    return x
+
+0.7160924118701454
+def factorial(n):
+    res=1
+    for x in range(2,n+1):
+        res*=x
+    return res
+    
+
+0.7160924118701454
+def factorial(n):
+    number = 1
+    for i in range(1, n+1):
+        number *= i
+    return number
+
+0.7160924118701454
+def factorial(n):
+    total = 1
+    for i in range(1, n+1):
+        total *= i
+    return total
+
+0.7160924118701454
+def factorial(n):
+    m = 1
+    for i in range(1, n+1):
+        m *= i
+    return m
+
+0.7160924118701454
+def factorial(n):
+    result = 1
+    for i in range(1, n+1):
+        result *= i
+    return result
+
+0.7160924118701454
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f *= i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    fct = 1
+    for i in range(1,n+1):
+        fct *= i
+    return fct
+
+0.7160924118701454
+def factorial(n):
+    f = 1
+    for i in range(2 ,n + 1):
+        f *= i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    a = 1
+    for i in range(1, n+1):
+        a *= i
+    return a
+
+0.7160924118701454
+def factorial(n):
+    f = 1
+    for i in range(1,n + 1):
+        f *=i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    fact = 1
+    for i in range(1,n+1):
+    	fact *= i
+    return fact
+
+0.7160924118701454
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f*=i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f*=i
+    return  f
+
+0.7160924118701454
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f*=i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    f=1
+    for i in range(1, n+1):
+        f*=i
+    return f
+
+0.7160924118701454
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f*=i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    vysledek = 1
+    for i in range(2,n+1):
+        vysledek = vysledek*i
+    return vysledek
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1,n+1): 
+        f = f*i
+    
+    return (f)
+	
+
+0.6780023899621589
+def factorial(n):
+    x=1
+    for i in range (1, n+1):
+        x=x*i
+    return(x)
+   
+0.6780023899621589
+def factorial(n):
+	fact = 1
+	for i in range(1,n+1):
+		fact = fact*i
+	return fact
+
+0.6780023899621589
+def factorial(n):
+    count = 1
+    for i in range(1,n+1):
+        count = count * i
+    return(count)
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range (1, n+1):
+    	f = f * i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range(1,n+1):
+        x = x * i
+    return x
+0.6780023899621589
+def factorial(n):
+    f=1
+    for i in range(1, n+1):
+        f=f*i
+    return f
+
+0.6780023899621589
+def factorial(n):
+	x = 1
+	for i in range(1,n+1):
+		x = x * i
+	return x
+
+0.6780023899621589
+def factorial(n):
+    a=1
+    for i in range(1,n+1):
+        a = a*i
+    return a
+        
+        
+   
+0.6780023899621589
+def factorial(n):
+    fact = 1
+    for x in range (1, n+1):
+        fact = fact*x
+    return(fact)
+    
+        
+     
+      
+        
+        
+
+0.6780023899621589
+def factorial(n):
+    fact = 1
+    for x in range(1, n+1):
+        fact=fact*x
+    return(fact)
+    
+
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range(1,n+1):
+        x = i*x
+    return x
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range (1, n +1):
+    	x = x*i    
+    return x
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f = f * i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    faktorial=1
+    for i in range(1,n+1):
+        faktorial=faktorial*i
+    return(faktorial)
+    
+
+0.6780023899621589
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f=f*i
+    return(f)
+
+0.6780023899621589
+def factorial(n):
+    f=1
+    for i in range(1,n+1):
+        f=f*i
+    return(f)
+
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f = f * i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f = f * i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range(1, n+1):
+        x = i * x
+    return x
+
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range(1, n+1):
+        x = x*i
+    return x
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f = f * i
+    return f
+
+0.6780023899621589
+def factorial(n):
+    x = 1
+    for i in range(1,n+1):
+        x = i * x
+    return x
+
+0.6780023899621589
+def factorial(n):
+    s=1
+    for i in range(1,n+1):
+        s=s*i
+    return s
+
+0.6780023899621589
+def factorial(n):
+    x=1
+    for i in range(1,n+1):
+        x = x * i
+    return(x)
+
+0.6780023899621589
+def factorial(n):
+    f = 1
+    for i in range(1, n+1):
+        f = f * i
+    return f
+0.6780023899621589
+def factorial(n):
+    f=1
+    for i in range(2,n+1):
+        f=f*i
+    return f
+

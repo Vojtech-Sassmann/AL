@@ -1,0 +1,51 @@
+1.5151515151515151
+def big_five(n):
+    print(n*"#")
+    for i in range(n-2):
+        print("#")
+    print(n*"#")
+    for i in range(n-2):
+        print((n-1)*" " + 1*"#")
+    print(n*"#")
+    
+1.1363636363636365
+def big_five(n):
+    p = n - 2
+    print("#"*n)
+    for i in range(p):
+        print("#")
+    print("#"*n)
+    for i in range(p):
+        print(" "*(n-1) + "#")
+    print("#"*n)
+
+0.9090909090909092
+def big_five(n):
+    print("#"*n)
+    for i in range(int(n-2)):
+        print("#")
+    print("#"*n)
+    for i in range(int(n-2)):
+        print(" "*(n - 1) + "#")
+    print("#"*n)
+
+0.7196969696969697
+def big_five(n):
+    print("#"*n)
+    for i in range(n - 2):
+        print("#")
+    print("#"*n)
+    for i in range(n - 2):
+        print(" "*n + "#")
+    print("#"*n)
+
+0.7196969696969697
+def big_five(n):
+    print("#"*n)
+    for i in range(n-2):
+        print("#")
+    print("#"*n)
+    for i in range(n-2):
+        print((n-1)*" " + "#")
+    print("#"*n)
+

@@ -1,0 +1,92 @@
+def nonzero_product(numbers):\n    r=1\n    for i in numbers:\n        if i!=0:\n            r*=i\n    return r\n
+def nonzero_product(numbers):\n    kontrola = 0\n    vysledek = 1\n    for prvek in numbers:\n        if prvek != 0:\n            vysledek = vysledek * prvek\n            kontrola = kontrola + 1\n        if kontrola == 0:\n            vysledek = 0\n    return vysledek\n  \n\n
+def nonzero_product(numbers):\n    kontrola = 0\n    vysledek = 1\n    for prvek in numbers:\n        if prvek != 0:\n            vysledek = vysledek * prvek\n            kontrola = kontrola + 1\n        if kontrola == 0:\n            vysledek = 0\n    return vysledek\n  \n\n
+def nonzero_product(numbers):\n    result = 1\n    for x in range(len(numbers)):\n        if(numbers[x] != 0):\n            result *= numbers[x]\n    return result\n            \n  \n            \n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i > 0:\n            x = x * i\n    return x\n            \n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i > 0 or i < 0:\n            x = x * i\n    return x\n            \n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 144\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    return 0\n
+def nonzero_product(numbers):\n    soucin=1\n    for i in numbers:\n        if i!=0:\n            soucin=soucin*i\n    return soucin\n
+def nonzero_product(numbers):\n    s=1\n    for i in numbers:\n        if i!=0: s=s*i\n    return(s)\n            
+def nonzero_product(numbers):\n    for i in range(numbers.count(0)):\n        index = numbers.index(0)\n        numbers[index],numbers[len(numbers)-1] = numbers[len(numbers)-1],numbers[index]\n        numbers.pop()\n    if(len(numbers) in [0,1]):\n        return False\n    product = numbers[0] * numbers[1]\n    numbers.pop(0)\n    numbers.pop(0)\n    for i in range(len(numbers)):\n        product *= numbers[i]\n    return product
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if numbers[i] != 0:\n            x *= i\n    return x\n
+def nonzero_product(numbers):\n    x = 1\n    for i in numbers:\n        if i != 0:\n            x *= i\n    return x\n
+def nonzero_product(numbers):\n    s = 1\n    for x in numbers:\n        if x != 0:\n            s *= x\n    return s\n
+def nonzero_product(numbers):\n    if not numbers:\n        return 1\n    if numbers[0] is 0:\n        return nonzero_product(numbers[1:])\n    return numbers[0] * nonzero_product(numbers[1:])\n
+def nonzero_product(numbers):\n    product = 1\n    for x in numbers:\n        if x!=0:\n            product*=x\n    return product
+def nonzero_product(numbers):\n    cislo = 1\n    for x in numbers:\n        cislo = cislo * x         \n    return cislo\n
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    cislo = 1\n    for x in numbers:\n        if x>0:\n			seznam.append(x)\n        cislo = cislo * x  \n    			return cislo
+def nonzero_product(numbers):\n    seznam = []\n    for x in numbers:\n        if x!=0:\n			seznam.append(x)\n    cislo = 1\n    for i in seznam:\n        cislo = cislo * i\n    return cislo\n
+def nonzero_product(numbers):\n    nenulove = []\n    celek = 0\n    for x in numbers:\n    	if x != 0:\n        	nenulove.append(x)\n    print(nenulove)\n    celek = nenulove[0]*nenulove[1]*nenulove[2]\n    print(celek)\n    \n\n
+def nonzero_product(numbers):\n	x = 1\n	for i in range(len(numbers)):\n		if numbers[i] > 0:\n			x *= numbers[i]\n	return x
+def nonzero_product(numbers):\n	x = 1\n	for i in range(len(numbers)):\n		if numbers[i] != 0:\n			x *= numbers[i]\n	return x
+def nonzero_product(numbers):\n    celek = 1\n    for x in numbers:\n    	if x != 0:\n        	celek *= x\n    print(celek)\n\n
+def nonzero_product(numbers):\n    celek = 1\n    for x in numbers:\n\n        if x != 0:\n            celek *= x\n    return celek\n\n    \n
+def nonzero_product(numbers):\n    b = 1\n    for i in range(len(numbers)):\n        if numbers[i]!=0:\n            b = b * numbers[i]\n    return b\n
+def nonzero_product(numbers):\n    multi = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            multi *= numbers[i]\n    return multi\n
+def nonzero_product(numbers):\n    s=1\n    for i in numbers:\n        if i!=0:\n            s*=i\n    return s\n
+def nonzero_product(numbers):\n    x = 1\n    for number in numbers:\n        if number == 0:\n            continue\n        else:\n            x = x * number\n            \n    return x\n
+def nonzero_product(numbers):\n    res = 1\n    for i in numbers:\n        if i != 0:\n            res *= i\n            \n    return res\n
+def nonzero_product(numbers):\n    res = 1\n    for num in numbers:\n        if num != 0:\n            res = res * num\n    return res\n
+def nonzero_product(numbers):\n    total = 1\n    for i in numbers:\n        if i != 0:\n            total *= i\n    return total\n
+def nonzero_product(numbers):\n    sum = 1\n    for number in numbers:\n        if number != 0:\n        	sum *= number\n    return sum\n
+def nonzero_product(numbers):\n    asum = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n			asum *= numbers[i]\n    return asum
+def nonzero_product(numbers):\n    multiplication = 1\n    for item in numbers:\n        if item != 0:\n            multiplication = multiplication * item\n    return multiplication\n
+def nonzero_product(numbers):\n    num_sum = 1\n    for i in range (0,len(numbers)):\n        if numbers[i] != 0:\n            num_sum = num_sum * numbers[i]\n    return num_sum
+def nonzero_product(numbers):\n    newlist = []\n    for i in numbers:\n        if i != 0:\n            newlist.append(i)\n	product = 1\n    for j in newlist:\n    	product *= j\n    return product\n	
+def nonzero_product(numbers):\n    sucin = 1\n    for i in numbers:\n        if i != 0:\n        	sucin *= i\n    return sucin\n
+def nonzero_product(numbers):\n    sum = 1\n    for i in numbers:\n        if i != 0:\n            sum *= i\n    return sum\n
+def nonzero_product(numbers):\n    y = 1\n    for i in numbers:\n        if i > 0:\n            y = y * i\n    return y\n
+def nonzero_product(numbers):\n    y = 1\n    for i in numbers:\n        if i > 0 or i < 0:\n            y = y * i\n    return y\n
+def nonzero_product(numbers):\n    product = 1\n    for number in numbers:\n        if number != 0:\n            product *= number\n    return product\n
+def nonzero_product(numbers):  \n    new = []\n    x = 0\n    for p in numbers:\n        if p != 0:\n            new.append(p)\n            x = 1\n    for p in new:\n        x *= p\n    return x\n
+def nonzero_product(numbers):\n    res = 1\n    for k in numbers:\n        if k not 0:\n          res *= k\n    return res\n
+def nonzero_product(numbers):\n    res = 1\n    for k in numbers:\n        if k is not 0:\n          res *= k\n    return res\n
+def nonzero_product(numbers):\n    newlist = []\n    for i in numbers:\n        if i != 0:\n            newlist.append(i)\n    x = 1\n    for i in newlist:\n        x = x * i\n    print(x)\n
+def nonzero_product(numbers):\n    newlist = []\n    for i in numbers:\n        if i != 0:\n            newlist.append(i)\n    x = 1\n    for i in newlist:\n        x = x * i\n    return x\n
+\ndef nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu\n    alist = []\n    sth = 1\n    for i in numbers:\n        if i != 0:\n            alist.append(i)\n   \n    for j in alist:\n        sth *= j\n    return sth 
+def nonzero_product(numbers):\n    prod = 1\n    for i in numbers:\n        if i != 0:\n            prod = prod * i\n    return prod\n
+def nonzero_product(numbers):\n    new = 1\n    for i in numbers:\n        if i != 0:\n            new = new*i\n    return new\n
+def nonzero_product(numbers):\n    s = 0\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            s += numbers[i]\n    return s\n
+def nonzero_product(numbers):\n    s = 1\n    n = 0\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            n = numbers[i]\n            s = s * n\n    return s\n
+def nonzero_product(numbers):\n    result = 1\n    for x in numbers:\n		if x != 0:\n			result = result * x  \n    return result  \n
+def nonzero_product(numbers):\n    suma = 1\n    for i in numbers:\n        if i != 0:\n            suma *= i\n    return suma\n
+def nonzero_product(numbers):\n    suma = []\n    sumatra = 1 \n    for i in numbers:\n        if i != 0:\n            suma.append(i)\n    if suma == []:\n        return 0\n    else:\n        for x in suma:\n            sumatra *= x\n        return sumatra \n            \n        
+def nonzero_product(numbers):\n    x = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            x *= numbers[i]\n    return x
+def nonzero_product(numbers):\n    product = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            product *= numbers[i]\n    return product\n
+def nonzero_product(numbers):\n    s = 1\n    for i in numbers:\n        if i != 0:\n            s *= i\n    return s\n
+def nonzero_product(numbers):\n    s = 1\n    for item in numbers:\n        if item != 0:\n            s = s * item\n    return s\n
+def nonzero_product(numbers):\n    suma = 1\n    for number in numbers:\n        if number != 0:\n            suma*=number\n    return suma\n
+def nonzero_product(numbers):\n    result = 0\n    for num in numbers:\n        if num != 0:\n            result = result * num\n    return result\n
+def nonzero_product(numbers):\n    result = 1\n    for num in numbers:\n        if num != 0:\n            result = result * num\n    return result\n
+def nonzero_product(numbers):\n    x = 1\n    for number in numbers:\n        if number == 0:\n            continue\n        else:\n            x = x * number\n    return x\n
+def nonzero_product(numbers):\n	soucin=1\n	for i in range(len(numbers)):\n		if numbers[i]!=0:\n			soucin=soucin*numbers[i]\n	return soucin
+def nonzero_product(numbers):\n    soucin = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            soucin *= numbers[i]\n    return soucin\n
+def nonzero_product(numbers):\n    x = 1\n    for i in range(0, len(numbers)):\n        if numbers[i] > 0:\n            x = numbers[i] * x\n    return(x)\n
+def nonzero_product(numbers):\n    x = 1\n    for i in range(0, len(numbers)):\n        if numbers[i] != 0:\n            x = numbers[i] * x\n    return(x)\n\n
+def nonzero_product(numbers):\n    for element in numbers:\n        if element:\n        	product *= element\n    return product\n
+def nonzero_product(numbers):\n    product = 1\n    for element in numbers:\n        if element:\n        	product *= element\n    return product\n
+def nonzero_product(numbers):\n    a = 1\n    for item in numbers:\n        if item != 0:\n            a = a * item\n        else:\n            continue\n            \n    return a\n
+def nonzero_product(numbers):\n    soucin = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            soucin = soucin*numbers[i]\n    return soucin\n
+def nonzero_product(numbers):\n    soucin=1\n    for cislo in numbers:\n        if cislo!=0:\n            soucin=soucin*cislo\n        else:\n            pass\n    return soucin\n
+def nonzero_product(numbers):\n    prod = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            prod *= numbers[i]\n    return prod\n
+def nonzero_product(numbers):\n    x=1\n    for i in numbers:\n        if i!=0:\n            x*=i\n       \n    return x\n            \n    \n
+def nonzero_product(numbers):\n    a = 24\n    return a
+def nonzero_product(numbers):\n    a = 144\n    return a
+def nonzero_product(numbers):\n    a = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            a = a * numbers[i]\n        else:\n            pass\n	return a
+def nonzero_product(numbers):\n    soucin = 1\n    for i in range(len(numbers)):\n        if numbers[i] !=0:\n            soucin *= numbers[i]\n    return soucin\n

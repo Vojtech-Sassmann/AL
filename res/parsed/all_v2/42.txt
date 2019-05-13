@@ -1,0 +1,554 @@
+def happy(a, b, c):\n    if a<3 and b<3 and c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 and b<3 and c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 and b<3 and c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 and b<3 and c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if(a < 3 or b < 3 or c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return (a < 3 or b < 3 or c < 3)\n
+def happy(a, b, c):\n    return (a<3)or(b<3)or(c<3)\n
+def happy(a, b, c):\n    return (a < 3) and (b < 3) and (c < 3)\n
+def happy(a, b, c):\n    if a < 3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3:\n        return True\n    elif b<3:\n        return True\n    elif c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return (a<3 or b<3 or c<3)\n    
+def happy(a, b, c):\n    \n    return (a<3 or b < 3 or c<3)\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False
+def happy(a, b, c):\n    truth = 0\n    if (a < 3):\n        truth = 1\n    if (b < 3):\n        truth = 1\n    if (c < 3):\n        truth = 1\n    if (truth == 1):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    truth = 0\n    if (a < 3):\n        truth = 1\n	if (b < 3):\n        truth = 1\n    if (c < 3):\n        truth = 1\n    if (truth == 1):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    truth = 0\n    if (a < 3):\n        truth = 1\n    if (b < 3):\n        truth = 1\n    if (c < 3):\n        truth = 1\n    if (truth == 1):\n        return True\n    else:\n        return False
+def happy(a, b, c):\n	if a<3 or b<3 or c<3:\n		return True\n	else:\n		return False
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<=3 or b<=3 or c<=3:\n        print("True")\n    else:\n        print("False")\n
+def happy(a, b, c):\n    if a <= 2:\n        return True\n    elif b <=2:\n        return True\n    elif c <=2:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a or b or c > 2:\n    	return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if ((a >= 1,2) and (b >= 1,2) and (b >= 1,2)):\n    	return True
+def happy(a, b, c):\n    if ((a > 2) and (b > 2) and (c > 2)):\n        return False\n    else:\n        return True\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3: return True\n    else: return False\n
+def happy(a, b, c):\n    for i in (a, b, c):\n        if i > 3:\n            return True\n        else:\n            return False\n
+def happy(a, b, c):\n    hap =[]\n    for i in (a, b, c):\n        if i < 3:\n            hap.append(i)\n    if hap != []:\n        return True\n    else:        \n    	return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    if b < 3:\n        return True\n    if c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    if b < 3:\n        return True\n    if c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n  	return False\n
+def happy(a, b, c):\n    if a \n    return False
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n   		 return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a > 2) and (b > 2) and (c > 2):\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3: return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:return False\n
+def happy(a, b, c)\n    if a <= 3 or b <= 3 or c <=3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a <= 3 or b <= 3 or c <=3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a <= 2 or b <= 2 or c <=2:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3 :\n    	return True\n    else :\n    	return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    else:\n        return False \n   \n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return True if any(x < 3 for x in (a, b, c)) else False
+def happy(a, b, c):\n    if a<=3 or b<=3 or c<=3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n	if a < 3 or b < 3 or c < 3:\n    	return True\n	else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n	if (a<3) or (b<3) or (c<3):\n		return True\n	else:\n		return False\n\n
+def happy(a, b, c):\n    if((a<3 or b<3 or c<3)):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n
+def happy(a, b, c):\n    if a<=3 or b<=3 or c<=3:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if (a or b or c)<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a or b or c)<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    happiness = (a<3) or (b<3) or (c<3)\n    return happiness\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if ((a < 3) or (b < 3) or (c < 3)):\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    for i in a, b, c:\n        if i < 3:\n            return True\n    return False;\n
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)) and (0<a<6) and (0<b<6) and (0<c<6):\n    	return True\n    else:\n        return False\n\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if (a<3)or(b<3)or(c<3):\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return ((a<3) or (b<3) or (c<3))\n
+def happy(a, b, c):\n    if(a<=3 or b<=3 or c<=3):\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return(a<3 or b<3 or c<3)\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if a < 3 or b <3 or c <3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c <3:\n    	return True \n    else:\n        return False
+def happy(a, b, c):\n    if(a or b or c <= 3):\n    	return True \n    else: \n    	return False \n
+def happy(a, b, c):\n    if(a or b or c <= 3):\n    	return False\n    else: \n    	return True \n
+def happy(a, b, c):\n    if(a or b or c < 3):\n    	return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if(a or b or c >3):\n    	return False\n    else: \n    	return True\n
+def happy(a, b, c):\n    if(a or b or c <3):\n    	return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if(a , b , c <3):\n    	return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3):\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if(a < 3 or b < 3 or c < 3):\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if(a < 3 or b < 3 or c <3):\n    	return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n   if a+b+c <= 11:\n    	return True\n   else:\n        return False\n
+def happy(a, b, c):\n   if a > 3 or b > 3 or c > 3 :\n    return True\n   else :\n    return False
+def happy(a, b, c):\n   if a < 3 or b < 3 or c < 3 :\n    return True\n   else :\n    return False
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n   if a<3 or b <3 or c< 3 :\n       return True\n   else:\n       return False\n
+def happy(a, b, c):\n    return (a < 3 or b < 3 or c < 3)\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        print("True")\n    else:\n        print("False")\n    return print\n\n\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    if b < 3:\n        return True\n    if c < 3:\n		return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c <3:\n    	return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c <3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c <=3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c <=3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 4:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c <=2:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c <=2:\n    	return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c > 3 :\n    	return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c < 3 :\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a and b and c < 3 :\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3 :\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n	if ((a<3) or (b<3) or (c<3)):\n		return True\n	else: return False\n
+def happy(a, b, c):\n    if (a or b or c) < 3:\n    	return True\n    else: \n        return False\n
+def happy(a, b, c):\n    if (a or b or c) <= 2:\n    	return True\n    else: \n        return False\n
+def happy(a, b, c):\n    if (a or b or c) <= 2:\n    	return True\n    else: \n        return False\n
+def happy(a, b, c):\n    if (a and b and c) > 2:\n    	return False\n    else: \n        return True\n
+def happy(a, b, c):\n    if (a and b and c) > 2:\n    	result = False\n    else: \n        result = True\n    if result == True:\n        return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if (a & b & c) > 2:\n    	result = False\n    else: \n        result = True\n    if result == True:\n        return True\n    else: \n    	return False\n
+def happy(a, b, c):\n    if (a & b & c) > 2:\n    	return True\n    else: \n        return False\n
+def happy(a, b, c):\n    if a+b+c<=10:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return ((a < 3) or (b < 3) or (c < 3))\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    x = 3\n    while (a, b, c)>=x:\n    	return False\n    while (a, b, c)<x:\n        return True\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    x = a + b + c\n    x = x / 3\n    if(x <= 3) :\n    	return True;\n    else :\n    	return False\n\n
+def happy(a, b, c):\n    x = a + b + c\n    x = x / 3\n    if(x < 3) :\n    	return True;\n    else :\n    	return False\n\n
+def happy(a, b, c):\n    x = a + b + c\n    x = x / 3\n    if(x < 4) :\n    	return True;\n    else :\n    	return False\n\n
+def happy(a, b, c):\n    if(a <= 3) :\n        return True\n    if(b <= 3) :\n        return True\n    if(c <= 3) :\n        return True\n
+def happy(a, b, c):\n    if(a < 3) :\n        return True\n    if(b < 3) :\n        return True\n    if(c < 3) :\n        return True\n    else :\n        return False\n
+def happy(a, b, c):\n    arr = [a, b ,c]\n    if 1 in arr or 2 in arr :\n    	return True\n    else :\n        return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if (a, b, c > 1)\n    \n    \n    \n    return True\n
+def happy(a, b, c):\n    if (a > 3) and (b > 3) and (c > 3):\n   		return False\n    if (a <= 3) or (b <= 3) or (c <= 3):\n   		return True\n	\n\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if (a or b or c) < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if(a<3) or (b<3) or (c<3):\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n    
+def happy(a, b, c):\n    if a <= 2 or b <= 2 or c <= 2:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return False happy(a,b,c)\n                      \n
+def happy(a, b, c):\n    return False happy(a,c,c)\n                    \n                      \n                      \n
+def happy(a, b, c):\n    return False happy(c):\n                    \n                      \n                      \n
+def happy(a, b, c):\n    \n\n                    \n                      \n                      \n
+def happy(a, b, c):\n    print(happy(3, 4, 4))\n    \n\n                    \n                      \n                      \n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if (a < 3) & (b < 3) & (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3) | (b < 3) | (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if (a<3 | b<3 | c<3):\n        return True\n    \n    return False\n
+def happy(a, b, c):\n    if a<3:\n        return True\n    elif b<3:\n        return True\n    elif c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if (a<=2 or b<=2 or c<=2):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n	else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    return False\n
+def happy(a, b, c):\n    return ((a or b or c)< 3 )\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a and b and c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a and b and c < 3 or a or b or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a and b and c < 3) and (a or b or c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a and b or c < 3) and (a or b or c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a and b and c < 3) and (a or b or c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return True\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n    return False\n    return True
+def happy(a, b, c):\n    return False\n    return False\n    return True
+def happy(a, b, c):\n    return True\n    return False\n    return True
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n   \n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a <3 or b < 3 or c < 3:\n    	return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n if a <3 or b<3 or c<3:\n   return True\n else:\n   return False\n
+def happy(a, b, c):\n    if a and b and c>3:\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a and b and c>3:\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c < 4:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c 3 4:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c < 3:\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if (a or b or c) < 3:\n        return True\n    else:\n        return False\n        \n
+def happy(a, b, c):\n    if (a or b or c) < 3:\n        return True\n    else:\n        return False\n        \n
+def happy(a, b, c):\n    if a+b+c <6:\n        return True\n    else:\n        return False\n        \n
+def happy(a, b, c):\n    if a+b+c <6:\n        return True\n    else:\n        return False\n        \n
+def happy(a, b, c):\n    if a+b+c >6:\n        return True\n    else:\n        return False\n        \n
+def happy(a, b, c):\n    if a+b+c >6:\n        return False\n    else:\n        return True\n        \n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(1, 1, 1):\n    return False\n
+def happy(1, 1, 1):\n    return False\n
+def happy(a, b, c):\n    if a <= 2 or b <= 2 or c <= 2:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < b) or (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if  (a < 3) or (b < 3) or (c < 3):\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else: return False\n\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n    	return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n	    return True\n    else:\n        return False\n
+def happy(a, b, c):\n	if a<3 or b<3 or c<3:\n    	return True\n	else: \n    	return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3:\n    	return True\n    if b < 3:\n    	return True\n    if c < 3:\n    	return True\n    else a > 2:\n    	return False\n
+def happy(a, b, c):\n    if a < 3:\n    	return True\n    if b < 3:\n    	return True\n    if c < 3:\n    	return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3): return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n    return True     \n   else: return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True     \n   else: return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True     \n    else: return False\n
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if ((a<2) or (b<2) or (c<2)):\n		return False\n	else: return false
+def happy(a, b, c):\n    if ((a<2) or (b<2) or (c<2))\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if ((a<=2) or (b<=2) or (c<=2))\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<=2) or (b<=2) or (c<=2):  \n    return True\n    else: return False
+def happy(a, b, c):\n    if (a<=2) or (b<=2) or (c<=2):  \n            return True\n    else: return False
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if ((a<=2) or (b<=2) or (c<=2))\n                  return True\n    else: return False\n
+def happy(a, b, c):\n    if ((a<=2) or (b<=2) or (c<=2)):\n                  return True\n    else: return False\n
+def happy(a, b, c):\n    if ((a<2) or (b<2) or (c<2)):\n		return False\n	else: \n        return false
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)):\n		return true\n	else: return False
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)):\n		return True\n	else: return False
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n		return False\n
+def happy(a, b, c):\n    return (a<3 or b<3 or c<3)\n
+def happy(a, b, c):\n    if (a and b and c) < 3:\n		return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3):\n		return True\n    else:\n        return False
+def happy(a, b, c):\n    if a or b or c <=2:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a or b or c >=3:\n    	return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if a or b or c <=2:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if (a, b, c) <= 2:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if a <= 2 or b <= 2 or c <= 2:\n    	return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return(True)\n    else:\n        return(False)\n
+def happy(a, b, c):\n    if a <= 3 or b <= 3 or c <= 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a <= 3 or b <= 3 or c <= 3:\n        return False\n    return True\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n   		return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True \n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    t = False\n    h = [a,b,c]\n    for i in h:\n        if i < 3:\n    		t = True\n    return t\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if 1 in [a,b,c] or 2 in [a,b,c]:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if int(a) >= 3 or int(b) >= 3 or int(c) >= 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if int(a) < 3 or int(b) < 3 or int(c) < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a < 3 or b <3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    t = False\n    if a < 3 or b < 3 or c < 3:\n        t = True\n    return t
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3): \n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    grades = [a,b,c]\n    for item in grades:\n        if item < 3:\n            return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n\n
+def happy(a, b, c):\n	if a<3:\n    	return True\n	if b<3:\n		return True\n	if c<3:\n		return True\n	return False\n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c <3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if(a <4 ||<b||c<4):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if(a <4 ||<b||c<4):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a <4 ||<b||c<4):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a <4 ||b<3||c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<4 or b<4 or c<3):      \n        return True\n    else:\n        return False\n    \n  \n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):      \n        return True\n    else:\n        return False\n    \n  \n
+def happy(a, b, c):\n    if (a <4 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a <4 or b<3 or c<3):\n         return True\n    else:\n         return False\n
+def happy(a, b, c):\n    if (a <4 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return False\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return False\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a > 3):\n        return True\n    else\n    	return False
+def happy(a, b, c):\n    if (a > 3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a > 3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a > 3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a >= 3 || b >= || c >=3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a <= 3 || b <= || c <=3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a <= 3, b <= 3, c <=3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a <= 3, b <= 3, c <=3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a <= 3 || b <= 3 || c <=3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a < 3 || b < 3 || c <3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a < 3 or b < 3 or c <3):\n        return True\n    else:\n    	return False
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n    return True\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3): return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3): return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:return False\n
+def happy(a, b, c):\n    if (a < 3 or b < 3 or c < 3):return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3 : return True\n    else : return False
+def happy(a, b, c):\n	if a<3 or b<3 or c<3: return True\n	else: return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3: return True\n    else: return False\n
+def happy(a, b, c):\n	if a<3 or b<3 or c<3: return True\n	else: return False 
+def happy(a, b, c):\n    if a<3 or b<3 or c<3: return True\n    else: return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3: return True\n    else: return False\n    \n
+def happy(a, b, c):\n    if (a < 3 ) or (b < 3 ) or (c < 3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    x = a < 3\n    y = b < 3\n    z = c < 3\n    if x or y or z:\n		return True\n    else:\n        return False\n    
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    return False\n
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<4 or b<4 or c<4):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a+b+c) <= 9:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n    \n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c <3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c <3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n\n    return False\n
+def happy(a, b, c):\n    if  a<3 or b <3 or c<3:\n        return True\n    \n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b <3 or c<3:\n        return True\n    return False\n\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<=3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3, b<=3, c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3 or b<=3 or c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3:\n        return True\n    elif b < 3:\n        return True\n    elif c < 3:\n        return True\n    else: \n        return False
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return (a < 3) or (b < 3) or (c < 3)\n
+def happy(a, b, c):\n	return if a or b or c =< 3
+def happy(a, b, c):\n	if a or b or c =< 3:\n        return True
+def happy(a, b, c):\n    if a=< 3 or b=< 3 or c=< 3:\n        return True\n
+def happy(a, b, c):\n    if a<= 3 or b<= 3 or c<= 3:\n        return False\n
+def happy(a, b, c):\n    if a<= 3 or b<= 3 or c<= 3:\n        return True\n
+def happy(a, b, c):\n    return a<= 3 or b<= 3 or c<= 3\n        \n
+def happy(a, b, c):\n    return a< 3 or b< 3 or c< 3\n        \n
+def happy(a, b, c):\n    if a <= 3 or b <=3 or c <=3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a <= 3 or b <=3 or c <=3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a < 3 or b <3 or c <3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if  a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False\n\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c <3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a < 3):\n        return True\n    if (b < 3):\n        return True\n    if (c < 3):\n        return True\n    else:return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n    \n
+def happy(a, b, c):\n    if a < 3:\n    	return(True)\n    if b < 3:\n    	return(True)\n    if c < 3:\n        return(True)\n    else:\n        return(False)        
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:    \n    	return False\n
+def happy(a, b, c):\n    return (a or b or c)<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3): return True\n    else: return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3): return True\n    else: return False\n\n
+def happy(a, b):\n    return(bool(a>5))
+def happy(a, b):\n    return(bool(a>5))
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return False\n    else:return True\n   \n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if(a<3,or b<3,c<3):  return True\n    else:return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else:return False\n   \n
+def happy(a, b, c):\n    if(a<3,or b<3,c<3):  return True\n    else:return False\n
+def happy(a, b, c):\n    if(a<3,or b<3 or,c<3):  return True\n    else:return False\n
+def happy(a, b, c):\n    if (a<3,or b<3 or, c<3): return True\n    else:return False\n
+def happy(a, b, c):\n    if (a<3,or b<3 or, c<3): return True\n    else:return False\n
+def happy(a, b, c):\n    if (a<3,or b<3 or, c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if(a<3,or b<3 or, c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3 :\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3 :\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n\n\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if ((a <= 2) and (b <= 2) and (c <= 2)):\n        return True\n    else:\n        return False\n\n
+def happy(a, b, c):\n    if ((a <= 2) or (b <= 2) or (c <= 2)):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if (a < 3) or (b < 3) or (c < 3):\n    	return True\n    else: return False
+def happy(a, b, c):\n   	if a or b <3:\n    elif c<3:\n        return True
+def happy(a, b, c):\n   	if a or b or c <3:\n        return True
+def happy(a, b, c):\n    if a<3 or b<3 or c <3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b <3  or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b <3 or c<3:\n        return True\n    else:\n        return False\n       \n\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n	if(a<3 or b<3 or c<3):\n		return True\n	else: return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return a+b+c > 6\n
+def happy(a, b, c):\n    return a > 2,b > 2,c > 2\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    return True\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return \n
+def happy(a, b, c):\n    return \n
+def happy(a, b, c):\n    return a<3 or b<3 or c<3\n
+def happy(a, b, c):\n    return a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return  a < 3 or b < 3 or c < 3\n
+def happy(a, b, c):\n    return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):\n        return True\n    else:\n    	return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n    return (a < 3 or b < 3 or c < 3)
+def happy(a, b, c):\n    if ((a<3) or (b<3) or (c<3)):\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if (a<3) or (b<3) or (c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if(a<3 and b<3 and c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3 or b<=3 or c<=3):\n        return True\n    else:\n        False\n
+def happy(a, b, c):\n    if(a<3 or b<3 or c<3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<3 or b<3 or c<3):return True\n    else:return False\n
+def happy(a, b, c):\n    if a < 3 or b<3 or c<3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else :\n        return False\n
+def happy(a, b, c):\n    if a <3 or b <3 or c < 3:\n    	return True \n    else: \n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n    	return True\n    else:\n        return False\n
+def happy(a, b, c):\n	store = [a, b, c]\n	for a in store:\n		if a < 3:\n         	return True\n		else:\n			pass\n        return False
+def happy(a, b, c):\n    if a < 3 or b < 3 or c < 3:\n        return True\n    else:\n        return False
+def happy(a, b, c):\n    if (a<=3 or b<=3 or c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3 or b<=3 or c<=3):\n        return False\n    else:\n        return True\n
+def happy(a, b, c):\n    if (a<=3 or b<=3 or c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3) or (b<=3) or (c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3) or (b<=3) or (c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if (a<=3) or (b<=3) or (c<=3):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if ((a<=3) or (b<=3)) or ((b<=3) or (c<=3)) or ((c<=3) or (a<=3)):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if ((a<=3) and (b<=3)) or ((b<=3) and (c<=3)) or ((c<=3) and (a<=3)):\n        return True\n    else:\n        return False\n
+def happy(a, b, c):\n    if a<3 or b<3 or c<3:\n        return True\n    else:\n        return False\n

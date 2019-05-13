@@ -1,0 +1,485 @@
+3.710127201565558
+def palindrom(text):
+    text1 = []
+    text2 = []
+    for i in range(len(text) - 1):
+        text1.append(text[i])
+        text2.append(text[len(text) - i - 1])
+    if text1 == text2:
+        return True
+    else:
+        return False
+def palindrom(text):
+    text1 = []
+    text2 = []
+    for i in range(len(text) - 1):
+        text1.append(text[i])
+        text2.append(text[len(text) - i - 1])
+    if text1 == text2:
+        return True
+    else:
+        return False
+2.1877690802348337
+def palindrom(text):
+    if len(text) %2 == 0:
+        cykl = (len(text)//2)
+
+    if  len(text) %2 != 0:
+        cykl = ((len(text)-1)//2)
+    x = 0
+    for i in range(0,cykl):
+        if text[i] == text[len(text)-1-i]:
+            x = x + 1
+        else:
+            return False
+    if x == cykl:
+        return True
+1.7876712328767124
+def palindrom(text):
+    test = True
+    i = 0
+    while test == True and i<(len(text)-i):
+        if text[i] == text[len(text) - i-1]:
+            test = True
+            i+=1
+        else:
+            test = False
+    return test
+1.5251956947162428
+def palindrom(text):
+    pole = list(text)
+    pole_rev = pole[::-1]
+    sedi = True
+    for i in range(len(pole)):
+        if(pole[i] != pole_rev[i]):
+            sedi = False
+    if(sedi == False):
+        return False
+    else:
+        return True
+1.3095401174168297
+def palindrom(text):
+    text.lower()
+    rvrs=''
+    for a in range(len(text)):
+        rvrs += text[len(text)-a-1]
+    if rvrs==text:
+        return True
+    else:
+        return False
+
+1.2726516634050882
+import math
+def palindrom(text):
+    lenText = len(text)
+    for i in range(int(math.floor(lenText/2)) - 1):
+                   if text[i] != text[lenText - i -1]:
+                   		return False
+    return True
+
+1.2513698630136987
+def palindrom(text):
+    x = 0
+    for i in range(len(text)):
+        if text[i] != text[len(text)-1-i]:
+            x += 1
+    if x != 0:
+        return False
+    else:
+        return True
+
+1.2130626223091978
+def palindrom(text):
+    b = 0
+    for i in range(len(text)):
+        if text[i] == text[len(text)-i-1]:
+            b = b + 1
+    if b==len(text):
+    	return True
+    else:
+        return False
+
+1.1463796477495107
+def palindrom(text):
+    length = len(text)
+    truth = True
+    for i in range(int(length/2)):
+        if text[i] != text[length-1-i]:
+            truth = False
+    return truth
+
+1.1421232876712328
+def palindrom(text):
+    t = True
+    for i in range(int(len(text)/2)):
+        if text[i] != text[len(text)-1-i]:
+            t = False
+    return t
+1.0825342465753425
+def palindrom(text):
+  d  = len(text)
+  ls = d-1
+ 
+  for i in range( int(round(d/2)) ):
+      if text[i] != text[ls-i]:
+         return False 
+  return True
+
+1.0726027397260274
+def palindrom(text):
+    is_palindrom = True
+    for i in range(len(text)//2):
+    	if text[i]!=text[len(text)-1-i]:
+       		is_palindrom = False
+    return is_palindrom
+
+1.0612524461839532
+def palindrom(text):
+    for i in range(len(text)):
+        if text[i] == text[-i-1]:
+                
+            if i == (len(text)-1):
+                return True
+        else:
+            return False
+        
+
+1.0470645792563602
+def palindrom(text):
+    text=list(text)
+    for i in range(int(len(text)/2)):
+        if text[::-1][i]!=text[i]:
+            return False
+    return True
+
+0.9789628180039139
+def palindrom(text):
+    delka = len(text)
+    pravaCast = text[::-1]
+    levaCast = text[::]
+    if (levaCast == pravaCast):
+        return True
+    else:
+        return False
+  
+   
+
+0.9761252446183953
+def palindrom(text):
+    text = text.upper()
+    for i in range(len(text) // 2):
+        if text[i] != text[-(i+1)]:
+            return False
+    return True
+
+0.974706457925636
+def palindrom(text):
+    return (text==text[::-1])
+
+0.974706457925636
+def palindrom(text):
+	return text == text[::-1]
+
+0.974706457925636
+def palindrom(text):
+    return text[::-1] == text
+
+0.974706457925636
+def palindrom(text):
+    return text == text[::-1]
+
+0.9676125244618395
+def palindrom(text):
+    pal = [text]
+    for i in pal:
+        if i[::-1] == i[::]:
+            return True
+        else:
+            return False
+
+    
+0.9505870841487281
+def palindrom(text):
+    for i in range(1,len(text)):
+        if text[i-1] != text[-i]:
+            return False
+    return True
+            
+        
+
+0.9477495107632095
+def palindrom(text):
+    alen = len(text)
+    count = 0
+    for i in range(0, alen):
+        if text[i] == text[alen-1-i]:
+            continue
+        else:
+            return False
+    return True
+
+0.9420743639921723
+def palindrom(text):
+    text1 = text[::-1]
+    return text == text1
+
+0.9392367906066537
+def palindrom(text):
+    my_str = text
+    rev_str = reversed(my_str)
+    if list(my_str) == list(rev_str):
+       return True
+    else:
+       return False
+
+0.9392367906066537
+def palindrom(text):
+    word = text
+    word_rev = reversed(word)
+    if list(word) == list(word_rev):
+        return True
+    else:
+        return False
+
+0.9122798434442271
+def palindrom(text):
+    length = len(text)
+    for i in range(int(length / 2)):
+        if text[i] != text[length - i - 1]:
+            return False
+    return True
+
+0.902348336594912
+def palindrom(text):
+    x = 0
+    for i in range(0, len(text)):
+        if text[i] == text[x-1]:
+            x -= 1
+        else:
+            return False
+    return True
+
+0.8924168297455969
+def palindrom(text):
+    for i in range(len(text)//2):
+        if text[i] != text[len(text)-i-1]:
+            return False
+    return True
+
+0.8924168297455969
+def palindrom(text):
+    for i in range(len(text)//2):
+        if text[i] != text[len(text)-i-1]:
+            return False
+    return True
+
+0.878228962818004
+def palindrom(text):
+    n=len(text)
+    for i in range(n//2):
+        if text[i]!=text[n-1-i]:
+            return False
+    return True
+
+0.8725538160469668
+def palindrom(text):
+    if text[::-1] == text[0::]:
+        return True
+    else:
+        return False
+
+
+0.8725538160469668
+def palindrom(text):
+    for i in range(len(text)):
+        if not text[i] == text[-1-i]:
+            return False
+    return True
+
+0.8711350293542075
+
+def palindrom(text):
+    rev_text = reversed(text)
+    if list(text) == list(rev_text):
+    	return True
+    return False
+0.8427592954990216
+def palindrom(text):
+    length = len(text)
+    for i in range(length):
+        if text[i] != text[length-i-1]:
+            return False
+    return True
+
+    
+
+0.8370841487279844
+def palindrom(text):
+    for i in range(len(text)//2):
+                   if text[i] != text[-(i+1)]:
+                   	return False
+    return True
+
+0.8186399217221135
+def palindrom(text):
+    for i in range(len(text)):
+        if text[i] != text[-i-1]:
+            return False
+        else: 
+            continue
+    return True
+
+0.8172211350293542
+def palindrom(text):
+    stejny = text[::-1]
+    if text == stejny:
+        return True
+    return False
+
+0.8172211350293542
+def palindrom(text):
+    same = text[::-1]
+    if text == same:
+        return True
+    return False
+
+0.8172211350293542
+def palindrom(text):
+    pali = text[::-1]
+    if text == pali:
+        return True
+    return False
+
+0.801614481409002
+def palindrom(text):
+    text2 = text[::-1]
+    if (text == text2):
+        return True 
+    else:
+        return False
+
+0.801614481409002
+def palindrom(text):
+    pali=text[::-1]
+    if pali==text:
+        return True
+    else:
+        return False
+
+0.801614481409002
+def palindrom(text):
+    text1 = text[:: -1]
+    if text == text1:
+    	return True
+    else:
+        return False
+
+0.801614481409002
+def palindrom(text):
+    n = text[::-1]
+    if n == text:
+    	return True
+    else:
+        return False
+
+0.7973581213307241
+def palindrom(text):
+    for idx in range(1, len(text)//2):
+        if text[idx] != text[-idx-1]:
+            return False
+    return True
+
+
+0.7420254403131116
+def palindrom(text):
+    for a in range (len(text)):
+    	if (text[a] != text[-a-1]):
+        	return False
+                    
+    return True
+
+
+0.7420254403131116
+def palindrom(text):
+    for i in range(len(text)):
+        if text[i] != text[(-i)-1]:
+            return False
+	#print(i)
+    return True
+
+0.7420254403131116
+def palindrom(text):
+	for i in range(len(text)):
+		if text[i]!=text[-i-1]:
+			return False
+	return True
+
+0.7406066536203523
+def palindrom(text):
+    if text == text[::-1]:
+    	return True
+    else:
+        return False
+
+0.7406066536203523
+def palindrom(text):
+    if text == text[::-1]:
+        return True
+    else: return False
+
+0.7406066536203523
+def palindrom(text):
+    #if len(text) == 1:
+       # return True
+	if(text == text[::-1]):
+		return True
+	else:
+		return False
+0.7406066536203523
+def palindrom(text): # fungující program na ověření palindromu
+	if(text == text[::-1]):
+	    return True
+	else:
+	    return False
+0.7406066536203523
+def palindrom(text):
+    if (text == text[::-1]):
+        return True
+    else:
+        return False
+
+0.7406066536203523
+def palindrom(text):
+    if text==text[::-1]:
+    	return True
+    else:
+        return False
+
+0.7406066536203523
+def palindrom(text):
+    if text == text[::-1]:
+        return True
+    else:
+        return False
+
+0.7406066536203523
+def palindrom(string):
+    if string == string[::-1]:
+        return True
+    else:
+        return False
+
+0.7406066536203523
+def palindrom(text):
+	if text==text[::-1]:
+		return True
+	else:
+		return False
+
+0.7108121330724071
+def palindrom(text):
+    if text == text[::-1]:
+    	return True
+    return False
+    
+

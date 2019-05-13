@@ -1,0 +1,93 @@
+def nested_squares(n):
+    c=0
+    c2=n-2
+    c3=5
+    c4=1
+    c5=1
+    c6=1
+    for y in range(4*n-3):
+        
+        if y%2==0 and y<=2*n-1:
+            for i in range(y-c):
+                print ("# ", end="")
+            c=c+1
+            for k in range (4*n-3-2*y):
+                print("#", end="")
+            print(end=" ")
+            for l in range (y-c+1):
+                print ("# ",end="")
+
+                                    
+        elif y%2==0 and y>2*n-1:
+            for j in range(c2):
+                print ("# ", end="")
+            c2=c2-1
+            for m in range (c3):
+                print("#", end="")
+            c3=c3+4
+            print(end=" ")
+            for o in range (c2+1):
+                print ("# ",end="") 
+
+
+
+
+
+        elif y%2==1 and y<=2*n-2:
+            for p in range (c4):
+                print ("#", end=" ")
+            c4+=1
+            for r in range(4*n-4-2*y):
+                print(end=" ")
+            for s in range (c4-1):
+                print("# ", end="")
+                
+        elif y%2==1 and y>2*n-2:
+            for t in range (n-c5):
+                print ("#",end=" ")
+            c5+=1
+            for u in range(c6):
+                print(end=" ")
+            c6+=4
+            for v in range (n-c5+1):
+                print(" #", end="")
+
+        print ()
+                
+def nested_squares(n):
+    out = []
+    biggest_square_size = 4*(n-1)+1
+
+    for i in range(    biggest_square_size ):
+        out.append([" "] * biggest_square_size)
+
+    for i in range(n):
+        square_size = 4 * i + 1
+        position = (biggest_square_size - square_size)//2
+        for j in range(square_size):
+            out[position][position+j] = "#"
+            out[position+j][position] = "#"
+            out[position+square_size-1][position+j] = "#"
+            out[position+j][position+square_size-1] = "#"
+
+    for row in out:
+        print("".join(row))
+def nested_squares(n):
+    for i in range(n):
+        print("# "*i, end="")
+        print("#"*(4*(n-1-i)+1), end="")
+        print(" #"*i, end="")
+        print()
+        if i < n-1:
+            print("# "*i, end="")
+            print("#" + " "*(4*(n-i-1)-1) + "#" + " #"*i)
+    for i in range(n-1):
+        print("# "*(n-1-i), end="")
+        print(" "*(4*i+1), end="")
+        print(" #"*(n-1-i), end="")
+        print()
+        print("# "*(n-2-i), end="")
+        print("#"*(4*i+5), end="")
+        print(" #"*(n-2-i), end="")
+        print()
+

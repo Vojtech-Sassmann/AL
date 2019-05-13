@@ -1,0 +1,246 @@
+2.121995192307692
+def hash(m):
+    for i in range(m):
+        return '#'*m
+        
+def dot(m):
+    for i in range(m):
+        return '.'*m
+              
+
+def lineHash(n, m):
+    if n % 2 != 0:
+        for i in range(n//2):
+            print(hash(m), end='')
+            print(dot(m), end='')
+        print(hash(m))
+    else:
+        for i in range((n//2)-1):
+            print(hash(m), end='')
+            print(dot(m), end='')
+        print(hash(m), end='')
+        print(dot(m))
+
+def lineDot(n, m):
+    if n % 2 != 0:
+        for i in range(n//2):
+            print(dot(m), end='')
+            print(hash(m), end='')
+        print(dot(m))
+    else:
+        for i in range((n//2)-1):
+            print(dot(m), end='')
+            print(hash(m), end='')
+        print(dot(m), end='')
+        print(hash(m))
+        
+def big_chessboard(n, m):
+    if n % 2 == 0:
+        for i in range(n//2):
+            for x in range(m):
+                lineHash(n,m)
+            for y in range(m):
+                lineDot(n,m)
+    else:
+        for i in range(n//2):
+            for x in range(m):
+                lineHash(n,m)
+            for y in range(m):
+                lineDot(n,m)
+        for z in range(m):
+            lineHash(n,m)
+1.1998197115384615
+def big_chessboard(n, m):
+    if n % 2 == 0:
+        for k in range(n//2):
+            
+            for i in range(1, m+1):
+                print(((m * "#") + ( m *".")) * (n//2))
+
+            for j in range(1, m+1):
+                print(((m* ".") + (m * "#")) * (n//2))
+    else:
+        for k in range(n//2):
+            
+            for i in range(1, m+1):
+                print(((m * "#") + ( m *".")) * (n//2) + (m * "#"))
+
+            for j in range(1, m+1):
+                print(((m* ".") + (m * "#")) * (n//2) + (m * "."))
+        # if n % 2 ==1:
+        for i in range(1, m+1):       
+            print(((m * "#") + ( m *".")) * (n//2) + (m * "#"))
+1.1436298076923077
+def big_chessboard(n, m):
+    if n % 2 == 0:
+        for j in range(n//2):
+            for i in range(m):
+                print(n//2 * (m *"#" + m * "."))
+            for k in range(m):
+                print(n//2 *(m *"." + m * "#"))
+    else:
+        for j in range(n//2):
+            for i in range(m):
+                print((n//2) * (m *"#" + m * ".") + m *"#")
+            for k in range(m):
+                print(n//2 *(m *"." + m * "#") + m *".")
+        for i in range(m):
+            print((n//2) * (m *"#" + m * ".") + m *"#")
+1.0114182692307692
+def big_chessboard(n, m):
+    
+    b=0
+    a=0
+    for i in range(n*m):
+        k=0
+        l=1
+        
+        
+        if b<m:
+            
+            a = a
+        else:
+            if a==m:
+                a = 0
+            else:
+                a = m
+            b = 0
+        #
+        
+        for j in range (n*m):           
+            if (2*m*(l-1))<=(j+a)<(2*m*(l-1))+m:
+                print("#", end="")
+            else:                   
+                print(".", end="")
+                if k<m-1:
+                    k = k +1
+                    
+                else:
+                    k = 0
+                    l=l+1
+                
+                
+        print("")
+        b = b + 1
+
+0.9320913461538461
+def big_chessboard(n, m):
+    znak = "#."
+    tisk = 0
+    for l in range(n):
+        for k in range(m):
+            for i in range(n):
+                if i %2 == 0:
+                    if l %2 == 0:
+                        tisk = 0
+                    if l %2 != 0:
+                        tisk = 1
+                if i %2 != 0:
+                    if l %2 != 0:
+                        tisk = 0
+                    if l %2 == 0:
+                        tisk = 1
+                print(m * znak[tisk], end ="")
+            print()
+0.7998798076923076
+def big_chessboard(n, m):
+    for i in range(1,n+1):
+        if i%2!=0:
+            for x in range(m):
+                for j in range(1,n+1):
+                    if j%2!=0:
+                        print(m*"#",end="")
+                    else: print(m*".",end="")
+                print()
+        else:
+            for y in range(m):                
+                for k in range(1,n+1):
+                    if k%2!=0:
+                        print(m*".",end="")
+                    else: print(m*"#",end="")
+                print()
+
+    
+    
+
+0.7998798076923076
+def big_chessboard(n, m):
+    for i in range(n):
+      for j in range(m):
+        for x in range(n):
+            if (i^x)&1==0:
+                z="#"
+            else:
+                z="."
+            print(z*m, end="")
+        print()
+
+0.7800480769230769
+def big_chessboard(n, m):
+    counter = 0
+    for i in range(0,n*m):
+        if counter == (2*m):
+            counter = 0
+        for j in range(0,n):
+            if counter < m:
+                if j % 2 == 0:
+                    print("#"*m, end="")
+                else:
+                    print("."*m, end="")
+            else:
+                if j % 2 == 0:
+                    print("."*m, end="")
+                else:
+                    print("#"*m, end="")
+        counter = counter + 1
+        print()
+0.7552584134615384
+def big_chessboard(n, m):
+    for k in range(n):
+        if k%2 == 1:
+             for j in range(m):
+                for i in range(n):
+                    if i%2 == 1:
+                        print("#"*m, end="")
+                    else:
+                        print("."*m, end="")
+                print()
+        else:
+            for j in range(m):
+                for i in range(n):
+                    if i%2 == 0:
+                         print("#"*m, end="")
+                    else:
+                         print("."*m, end="")
+                print()
+        
+
+0.7403846153846153
+def big_chessboard(n, m):
+    for x in range(n):
+        posun =0
+        if x%2==1:
+            posun=1
+        for i in range(m):
+            for j in range(0+posun,n+posun):
+                if j%2==0:
+                    print(m*"#", end="")
+                else:
+                    print(m*".", end="")
+            print()
+0.7155949519230769
+def big_chessboard(n, m):
+    for i in range(n):
+        for k in range(m):
+            for j in range(n):
+                if i % 2 == 0:
+                    if j % 2 == 0:
+                        print(m * "#", end="")
+                    else:
+                        print(m * ".", end='')
+
+                elif j % 2 == 0:
+                    print(m * ".", end="")
+                else:
+                    print(m * "#", end='')
+            print()

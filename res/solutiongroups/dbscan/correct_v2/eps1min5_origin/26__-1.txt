@@ -1,0 +1,334 @@
+def censorship(text):
+    text = list(text)
+    vysledek = ""
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    
+    
+    for i in range(len(text)):
+        vysledek = vysledek + text[i]
+    return(vysledek)
+
+
+def censorship(text):
+    kriz=False
+    text2=""
+    for i in text:
+        if kriz:
+            text2=text2+"X"
+        else:
+            text2=text2+i
+        kriz=not(kriz)
+    return text2
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    vypis = " "
+    for i in range(len(text)):
+        if(i%2 == 0):
+        	vypis+=text[i:i+1]
+        else:
+            vypis += "X"
+    return vypis
+
+def censorship(text):
+    newstr = ""
+    for i, letter in enumerate(text):
+        if i %2==1:
+            newstr+="X"
+        else:
+            newstr+=letter
+    return newstr
+
+def censorship(text):
+    return "".join([l if i % 2 == 0 else "X" for i, l in enumerate(text)])
+
+def censorship(text):
+    for i in range(len(text)):
+        if i%2==1: print("X", end="")
+        else: print(text[i], end="")
+            
+    return ""
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    b = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            b = b + text[i]
+            
+        else:
+            b = b + "X"
+                  
+    return b
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    cen_text = ""
+    for i in range(0, len(text), 2):
+        cen_text += text[i]+"X"
+    if len(text) % 2 == 1:
+        cen_text = cen_text[:len(cen_text) - 1]
+    return cen_text
+
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    s=""
+    i=0
+    while i<len(text):
+        s+= (text[i] if i&1==0 else "X")
+        i+=1
+    return s
+
+def censorship(text):
+    new_text = ""
+    for i in range(1, len(text)+1):
+        if i % 2 == 0:
+            new_text += "X"
+        else:
+            new_text += text[i-1]
+    new_text = new_text.replace(" ",'')
+    return new_text
+
+
+
+def censorship(text):
+    new_text = ""
+    for i in range(1, len(text)+1):
+        if i % 2 == 0:
+            new_text += "X"
+        else:
+            new_text += text[i-1]
+    return new_text
+
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        #print (i, x)
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)        
+
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    text = list(text)
+    string = ""
+    for i in range(len(text)):
+        if i%2 == 1:
+            string += "X"
+        else:
+            string += text[i]
+    return string
+
+def censorship(text):
+    new = ''
+    for i in range(0, len(text)):
+        if i % 2 == 1:
+            new = new + 'X'
+        else:
+            new = new + text[i]
+    return new
+        
+
+def censorship(text):
+    for i in range(len(text)):
+        if i%2 == 1:
+            text = text[:i] + 'X' + text[i+1:]
+    return text
+
+def censorship(text):
+    alist = ""
+    for i in range(len(text)):
+        if i % 2 != 0:
+            alist += "X"
+        else:
+            alist += str(text[i])
+    return alist
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    new = text[0]
+    alen = len(text)
+    for i in range(1,alen):
+        if i % 2 == 1 or text[i] == " ":
+            new = new + "X"
+        else:
+            new = new + text[i]
+    return new
+
+def censorship(text):
+    for i in range(0, len(text)):
+        if i % 2 != 0:
+            text = text[:i] + "X" + text[i+1:]
+    return text
+
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    return "".join(text[i] if i % 2 == 0 else "X" for i in range(len(text)))
+
+def censorship(text):
+
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text = text[:i] + 'X' + text[i+1:]
+
+    return text
+def censorship(text):
+    alist = ""
+    for i in range(len(text)):
+        if i % 2 == 1:
+            alist += str("X")
+        else:
+            alist += str(text[i])
+    return alist
+
+def censorship(text):
+    sth = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            sth += text[i]
+        if i % 2 == 1:
+            sth += "X"
+    return sth
+def censorship(text):
+    output = ''
+    for i in range(len(text)):
+        if i % 2 == 0:
+            output = output + text[i]
+        else: output = output + 'X'
+    return output
+
+def censorship(text):
+	novy=str()
+	for i in range(len(text)):
+		if i%2!=0:
+			novy=novy[:i]+"X"
+		else:
+			novy=novy[:i]+text[i]
+	return novy
+
+def censorship(text):
+    delka = len(text)
+##    bez_mezer = ""
+    cenzura = ""
+##    for i in range(delka):
+##        if text[i] != " ":
+##            bez_mezer = bez_mezer + text[i]
+##    print(bez_mezer)
+
+    for i in range(delka):
+        if i %2 == 0:
+            cenzura = cenzura + text[i]
+        else:
+            cenzura = cenzura + "X"
+    return(cenzura)
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    return replace_n(text, 2, first=-1)
+def replace_n(string, n, first=0):
+    letters = (
+        # i % n == 0 means this letter should be replaced
+        "X" if i % n == 0 else char
+
+        # iterate index/value pairs
+        for i, char in enumerate(string, -first)
+    )
+    return ''.join(letters)
+

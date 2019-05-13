@@ -1,0 +1,445 @@
+Rate:  14.431372549019608
+736.0
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+629.0
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+480.0
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+443.0
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+438.0
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+351.0
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+351.0
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+260.0
+def nonzero_product(numbers):
+    s = 1
+    n = 0
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            n = numbers[i]
+            s = s * n
+    return s
+
+213.0
+def nonzero_product(numbers):
+    x = 1
+    for number in numbers:
+        if number == 0:
+            continue
+        else:
+            x = x * number
+            
+    return x
+
+213.0
+def nonzero_product(numbers):
+    x = 1
+    for number in numbers:
+        if number == 0:
+            continue
+        else:
+            x = x * number
+    return x
+
+208.0
+def nonzero_product(numbers):
+    product = 1
+    for element in numbers:
+        if element:
+        	product *= element
+    return product
+
+173.0
+def nonzero_product(numbers):
+    a = 1
+    for item in numbers:
+        if item != 0:
+            a = a * item
+        else:
+            continue
+            
+    return a
+
+173.0
+def nonzero_product(numbers):
+    soucin=1
+    for cislo in numbers:
+        if cislo!=0:
+            soucin=soucin*cislo
+        else:
+            pass
+    return soucin
+
+171.0
+def nonzero_product(numbers):
+	soucin=1
+	for i in range(len(numbers)):
+		if numbers[i]!=0:
+			soucin=soucin*numbers[i]
+	return soucin
+171.0
+def nonzero_product(numbers):
+    b = 1
+    for i in range(len(numbers)):
+        if numbers[i]!=0:
+            b = b * numbers[i]
+    return b
+
+171.0
+def nonzero_product(numbers):
+    num_sum = 1
+    for i in range (0,len(numbers)):
+        if numbers[i] != 0:
+            num_sum = num_sum * numbers[i]
+    return num_sum
+171.0
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            soucin = soucin*numbers[i]
+    return soucin
+
+171.0
+def nonzero_product(numbers):
+    x = 1
+    for i in range(0, len(numbers)):
+        if numbers[i] != 0:
+            x = numbers[i] * x
+    return(x)
+
+
+165.0
+def nonzero_product(numbers):
+	x = 1
+	for i in range(len(numbers)):
+		if numbers[i] != 0:
+			x *= numbers[i]
+	return x
+165.0
+def nonzero_product(numbers):
+    multi = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            multi *= numbers[i]
+    return multi
+
+165.0
+def nonzero_product(numbers):
+    prod = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            prod *= numbers[i]
+    return prod
+
+165.0
+def nonzero_product(numbers):
+    product = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            product *= numbers[i]
+    return product
+
+165.0
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+165.0
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            soucin *= numbers[i]
+    return soucin
+
+165.0
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] !=0:
+            soucin *= numbers[i]
+    return soucin
+
+165.0
+def nonzero_product(numbers):
+    x = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            x *= numbers[i]
+    return x
+163.0
+def nonzero_product(numbers):
+    res = 1
+    for k in numbers:
+        if k is not 0:
+          res *= k
+    return res
+
+126.0
+def nonzero_product(numbers):
+    multiplication = 1
+    for item in numbers:
+        if item != 0:
+            multiplication = multiplication * item
+    return multiplication
+
+126.0
+def nonzero_product(numbers):
+    new = 1
+    for i in numbers:
+        if i != 0:
+            new = new*i
+    return new
+
+126.0
+def nonzero_product(numbers):
+    prod = 1
+    for i in numbers:
+        if i != 0:
+            prod = prod * i
+    return prod
+
+126.0
+def nonzero_product(numbers):
+    res = 1
+    for num in numbers:
+        if num != 0:
+            res = res * num
+    return res
+
+126.0
+def nonzero_product(numbers):
+    result = 1
+    for num in numbers:
+        if num != 0:
+            result = result * num
+    return result
+
+126.0
+def nonzero_product(numbers):
+    s = 1
+    for item in numbers:
+        if item != 0:
+            s = s * item
+    return s
+
+126.0
+def nonzero_product(numbers):
+    s=1
+    for i in numbers:
+        if i!=0: s=s*i
+    return(s)
+            
+126.0
+def nonzero_product(numbers):
+    soucin=1
+    for i in numbers:
+        if i!=0:
+            soucin=soucin*i
+    return soucin
+
+120.0
+def nonzero_product(numbers):
+    celek = 1
+    for x in numbers:
+
+        if x != 0:
+            celek *= x
+    return celek
+
+    
+
+120.0
+def nonzero_product(numbers):
+    product = 1
+    for number in numbers:
+        if number != 0:
+            product *= number
+    return product
+
+120.0
+def nonzero_product(numbers):
+    product = 1
+    for x in numbers:
+        if x!=0:
+            product*=x
+    return product
+120.0
+def nonzero_product(numbers):
+    r=1
+    for i in numbers:
+        if i!=0:
+            r*=i
+    return r
+
+120.0
+def nonzero_product(numbers):
+    res = 1
+    for i in numbers:
+        if i != 0:
+            res *= i
+            
+    return res
+
+120.0
+def nonzero_product(numbers):
+    s = 1
+    for i in numbers:
+        if i != 0:
+            s *= i
+    return s
+
+120.0
+def nonzero_product(numbers):
+    s = 1
+    for x in numbers:
+        if x != 0:
+            s *= x
+    return s
+
+120.0
+def nonzero_product(numbers):
+    s=1
+    for i in numbers:
+        if i!=0:
+            s*=i
+    return s
+
+120.0
+def nonzero_product(numbers):
+    sucin = 1
+    for i in numbers:
+        if i != 0:
+        	sucin *= i
+    return sucin
+
+120.0
+def nonzero_product(numbers):
+    sum = 1
+    for i in numbers:
+        if i != 0:
+            sum *= i
+    return sum
+
+120.0
+def nonzero_product(numbers):
+    sum = 1
+    for number in numbers:
+        if number != 0:
+        	sum *= number
+    return sum
+
+120.0
+def nonzero_product(numbers):
+    suma = 1
+    for i in numbers:
+        if i != 0:
+            suma *= i
+    return suma
+
+120.0
+def nonzero_product(numbers):
+    suma = 1
+    for number in numbers:
+        if number != 0:
+            suma*=number
+    return suma
+
+120.0
+def nonzero_product(numbers):
+    total = 1
+    for i in numbers:
+        if i != 0:
+            total *= i
+    return total
+
+120.0
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i != 0:
+            x *= i
+    return x
+
+120.0
+def nonzero_product(numbers):
+    x=1
+    for i in numbers:
+        if i!=0:
+            x*=i
+       
+    return x
+            
+    
+

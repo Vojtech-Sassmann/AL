@@ -99,11 +99,11 @@ def project(distance_matrix, labels, output_file_name):
 
 
 def analyze_file(file_name, output_file_name):
-    df = pd.read_pickle(path + "distances/" + file_name)
+    df = pd.read_pickle(path + "distances_l1/" + file_name)
     cluster_dbscan(df, file_name, output_file_name)
 
 
-path = "./res/solutiongroups/dbscan/all/"
+path = "./res/solutiongroups/dbscan/correct_v2/"
 DBSCAN_MIN_SIZE = 5
 DBSCAN_EPSILON = 1
 

@@ -1,0 +1,667 @@
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print ("Trojnasobek", 3*n)\n    print ("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n	\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3* n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n          \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+n=7\ndef multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n    \n   \n    \n
+def multiples(n):\n    dvoj = n + n\n    troj = n + n + n\n    deseti = n + n + n + n + n + n + n + n + n + n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deseti)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print("Trojnasobek", n*3)\n	print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print ("Desetinasobek", 10*n)\n	\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    return \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)
+def multiples(n):\n    print("Dvojnasobek",  n*2)\n    print("Trojnasobek",  n*3)\n    print("Desetinasobek",  n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    n1 = n * 2\n    print("Dvojnasobek", n1)\n    n3 = n * 3\n    print("Trojnasobek", n3)\n    n10 = n * 10\n    print("Desetinasobek", n10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n	
+def multiples(n):\n    m = n*2\n    l = n*3\n    p = n*10\n    print("Dvojnasobek", m)\n    print ("Trojnasobek", l)\n    print("Desetinasobek", p)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n	
+def multiples(n):\n	ns = "nasobek"\n	print("Dvoj"  +ns, n* 2, "\n" \\n		  "Troj"  +ns, n* 3, "\n" \\n		  "Deseti"+ns, n*10, "\n")
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    n=n*2\n    print("Dvojnasobek", n)\n    n=n*3\n    print("Trojnasobek", n//2)\n    n=n*10\n    print("Desetinasobek", n//6)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n   		
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print('Desetinasobek',n*10)\n
+def multiples(n):\n    a=n*2\n    b=n*3\n    c=10*n\n    print("Dvojnasobek", a)\n    print("Trojnasobek", b)\n    print("Desetinasobek", c)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print("Trojnasobek", n*3)\n	print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2);\n    print("Trojnasobek", n*3);\n    print("Desetinasobek", n*10);\n
+def multiples(n):\n    A=n*2\n    print("Dvojnasobek", A)\n    A=n*3\n    print("Trojnasobek", A)\n    A=n*10\n    print("Desetinasobek", A)\n\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print('Desetinasobek', n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)  \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    out = ""\n    ntx = ( ("Dvoj",2), ("Troj",3), ("Deseti",10) )\n\n    for p in ntx:\n	    out += p[0] +"nasobek " +str(p[1]*n) +"\n"\n\n    print(out)
+def multiples(n):\n    out = ""\n    ntx = ( ("Dvoj",2), ("Troj",3), ("Deseti",10) )\n\n    for p in ntx:\n	    out += p[0] +"nasobek " +str(p[1]*n) +("\n" if p[0] != "Deseti" else "")\n\n    print(out)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    m = n * 2\n    print("Dvojnasobek", m)\n    m = n * 3\n    print("Trojnasobek", m)\n    m = n * 10\n    print("Desetinasobek", m)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print('Trojnasobek', 3*n)\n    print('Desetinasobek', 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    d = n * 2\n    print("Dvojnasobek", d)\n    t = n * 3\n    print("Trojnasobek", t)\n    de = n * 10\n    print("Desetinasobek", de)\n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3), \n    print("Desetinasobek", n*10)\n\n
+def multiples(n):\n    \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10) \n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n	\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print ("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n	\n    print("Trojnasobek", 3*n)\n   	\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    x=n\n    x=2*x\n    print("Dvojnasobek", x)\n    y=n\n    y=3*y\n    print("Trojnasobek", y)\n    z=n\n    z=10*z\n    print("Desetinasobek", z)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek" , 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n+n)\n    print("Trojnasobek", n+n+n)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek",n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+n = 7\ndef multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    dvojnasobek=n*2\n    print("Dvojnasobek", dvojnasobek)\n    trojnasobek=3*n\n    desetinasobek=10*n\n    print("Trojnasobek", trojnasobek)\n    print("Desetinasobek", desetinasobek)\n    \ninput()
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)
+def multiples(n):\n    n=n*2\n    print("Dvojnasobek", n)\n    n=n//2\n    n=n*3\n    print("Trojnasobek", n)\n    n=n//3\n    n=n*10\n    print("Desetinasobek", n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2* n)\n    print("Trojnasobek",3* n)\n    print("Desetinasobek",10* n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)  \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek",n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n    \n    \n\n\n\n\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n   \n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2* n)\n    print("Trojnasobek",3* n)\n    print("Desetinasobek",10* n)\n\n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n  \n
+def multiples(n):\n    print("Dvojnasobek",2* n)\n    print("Trojnasobek",3* n)\n    print("Desetinasobek",10* n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n    \n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n           \n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    m=2*n\n    k=3*n\n    l=10*n\n    print("Dvojnasobek",m)\n    print("Trojnasobek",k)\n    print("Desetinasobek",l)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n,"\n","Trojnasobek", 3*n,"\n","Desetinasobek", 10*n)\n		
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n	\n            \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n	
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", n*2);\n    print("Trojnasobek", n*3);\n    print("Desetinasobek" , n*10);\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n\n	
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    a = n * 2\n    b = n * 3\n    c = n * 10\n    print("Dvojnasobek", a)\n    print("Trojnasobek", b)\n    print("Desetinasobek", c)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n, "\nTrojnasobek", 3*n, "\nDesetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n) \n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print ("Desetinasobek", 10*n)\n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+n=5\ndef multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n        \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    	print("Dvojnasobek", n*2)\n    	print("Trojnasobek", n*3)\n    	print("Desetinasobek", n*10)\n
+def multiples(n):\n    for i in range(1):\n    	print("Dvojnasobek", n*2)\n    	print("Trojnasobek", n*3)\n    	print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    x=n\n    x*=2\n    print("Dvojnasobek", x)\n    x=n\n    x*=3\n    print("Trojnasobek", x)\n    x=n\n    x*=10\n    print("Desetinasobek", x)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    n = n * 2\n    print("Dvojnasobek", int(n))\n    n = (n * 3) / 2\n    print("Trojnasobek", int(n))\n    n = (n * 10) / 3\n    print("Desetinasobek", int(n))\n     \n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n    \n	
+def multiples(n):\n    Dvojnasobek = 2*n\n    Trojnasobek = 3*n\n    Desetinasobek = 10*n\n    print("Dvojnasobek", Dvojnasobek)\n    print("Trojnasobek", Trojnasobek)\n    print("Desetinasobek", Desetinasobek)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10 )\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    a = n*2\n    print("Dvojnasobek",a)\n    b = n*3\n    print("Trojnasobek",b)\n    c = n*10\n    print("Desetinasobek",c)
+def multiples(n):\n    x = n * 2\n    print("Dvojnasobek", x)\n    y = n * 3\n    print("Trojnasobek", y)\n    z = n * 10\n    print("Desetinasobek", z)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n *2)\n    print("Trojnasobek", n *3)\n    print("Desetinasobek", n *10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    y = n * 2\n    print("Dvojnasobek", y)\n    y += n\n    print ("Trojnasobek", y)\n    y = n * 10\n    print ("Desetinasobek", y)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    c=2*n\n    b=3*n\n    d=10*n\n    print("Dvojnasobek", c)\n    print("Trojnasobek", b)\n    print("Desetinasobek", d)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    Dvojnasobek = 2*n\n    Trojnasobek = 3*n\n    Desetinasobek = 10*n\n    print("Dvojnasobek", Dvojnasobek)\n    print("Trojnasobek", Trojnasobek)\n    print("Desetinasobek", Desetinasobek)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    a=n*2\n    \n    b=n*3\n    \n    c=n*10  \n    \n    print("Dvojnasobek", a)\n    print("Trojnasobek", b)\n    print("Desetinasobek", c)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n	
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n+n)\n    print("Trojnasobek", n+n+n)\n    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek",n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    for i in range (2,11):\n        m=n*i\n        if i == 2:	\n    		print("Dvojnasobek", m)\n        elif i == 3:\n            print("Trojnasobek", m)\n        elif i == 10 :\n            print("Desetinasobek", m)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n);\n    print("Trojnasobek", 3*n);\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    z=n\n    n=2*n\n    print("Dvojnasobek", n)\n    n=z\n    n=3*n\n    print("Trojnasobek", n)\n    n=z\n    n=10*n\n    print("Desetinasobek", n)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    b = n*2\n    c = n*3\n    f = n*10\n    print("Dvojnasobek", b)\n    print("Trojnasobek", c)\n    print("Desetinasobek", f)\n
+def multiples(n):\n        print("Dvojnasobek", n * 2)\n        print("Trojnasobek", n * 3)\n        print("Desetinasobek", n * 10)\n
+def multiples(n):\n    x = 2 * n\n    print("Dvojnasobek", x)\n    x = 3 * n\n    print("Trojnasobek", x)\n    x = 10 * n\n    print("Desetinasobek", x)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)	\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2* n)\n    print("Trojnasobek", 3* n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n): \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n 
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print('Trojnasobek', 3*n)\n    print('Desetinasobek', 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    nas = [2,3,10]\n    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]\n    j = n\n    for i in range(3):\n        n = j\n        n *= nas[i]\n        print(slov[i], n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print('Desetinasobek', n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3) \n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n	
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    Dvojnasobek = n*2\n    Trojnasobek = n*3\n    Desetinasobek = n*10\n    print("Dvojnasobek", Dvojnasobek)\n    print("Trojnasobek", Trojnasobek)\n    print("Desetinasobek", Desetinasobek)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n\n    print("Trojnasobek", n*3)\n\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    x = n*2\n    y = n*3\n    z = n*10\n    print("Dvojnasobek", x)\n    print("Trojnasobek", y)\n    print("Desetinasobek", z)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print('Trojnasobek', 3*n)\n    print('Desetinasobek',10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n	print("Dvojnasobek", 2*n)\n	print("Trojnasobek", 3*n)\n	print("Desetinasobek", 10*n)
+def multiples(n):\n    s = 2 * n\n    m = 3 * n\n    p = 10 * n\n    print("Dvojnasobek", s)\n    print("Trojnasobek", m)\n    print("Desetinasobek", p)\n
+def multiples(n):\n    print("Dvojnasobek", (2*n))\n	#print("Trojnasobek", (3*n))\n    print("Trojnasobek", (3*n))\n    print("Desetinasobek", (10*n))
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    m = n*2\n    print("Dvojnasobek", m)\n    o = n*3\n    print("Trojnasobek", o)\n    p = n*10\n    print("Desetinasobek", p)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)   \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n  print("Dvojnasobek", n*2)\n  print("Trojnasobek", n*3)\n  print("Desetinasobek", n*10)\n  \n
+def multiples(n):\n	print("Dvojnasobek", 2*n)\n	print("Trojnasobek", 3*n)\n	print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2 * n )\n    print("Trojnasobek", 3 * n )\n    print("Desetinasobek", 10 * n )\n    return
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print("Trojnasobek", n*3)\n	print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    pom = n\n    n = n * 2\n    print("Dvojnasobek", n)\n    n = pom * 3\n    print("Trojnasobek", n)\n    n = pom * 10\n    print("Desetinasobek", n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    i = n*2\n    print("Dvojnasobek", i)\n    k = n*3 \n    print("Trojnasobek", k)\n    c = n*10\n    print('Desetinasobek',c)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print('Desetinasobek', n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print('Trojnasobek', n*3)\n    print('Desetinasobek', n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    a = n*2\n    print("Dvojnasobek", a)\n    b = n*3\n    print("Trojnasobek", b)\n    c = n*10\n    print("Desetinasobek", c)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n	print("Dvojnasobek", n*2, end="\n")\n	print("Trojnasobek", n*3, end="\n")\n	print("Desetinasobek", n*10, end="\n")\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    n2=n*2\n    n3=n*3\n    n10=n*10\n    print("Dvojnasobek", n2)\n    print("Trojnasobek", n3)\n    print("Desetinasobek", n10)\n
+def multiples(n):\n    n2=n*2\n    n3=n*3\n    n10=n*10\n    print("Dvojnasobek", n2)\n    print("Trojnasobek", n3)\n    print("Desetinasobek", n10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n    
+def multiples(n):\n    a=2*n\n    b=3*n\n    c=10*n\n    print("Dvojnasobek", a)\n    print("Trojnasobek", b)\n    print("Desetinasobek", c)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print('Trojnasobek', n*3)\n	print('Desetinasobek', n*10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    a = n * 2\n    b = n * 3\n    c = n * 10\n    print("Dvojnasobek", a)\n    print("Trojnasobek", b)\n    print("Desetinasobek", c)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    n+=n\n    print("Dvojnasobek", n)\n    n+=n//2\n    print("Trojnasobek", n)\n    n=(n//3)*10\n    print("Desetinasobek", n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    x = 2 * n\n    y = 3 * n\n    z = 10 * n\n    print("Dvojnasobek", x)\n    print("Trojnasobek", y)\n    print("Desetinasobek", z)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n   \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print ("Trojnasobek", n*3),\n    print ("Desetinasobek", n*10)\n    \n           \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10),\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n    \n    \n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print ("Trojnasobek", n*3)\n    print ("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek",n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),   \n    print("Desetinasobek", n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek",n*3),\n    print("Desetinasobek",n*10)\n    \n          \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2),\n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2), \n    print("Trojnasobek", n*3),\n    print("Desetinasobek", n*10),\n         \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print("Trojnasobek", n*3)\n	print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2 * n)\n    print("Trojnasobek", 3 * n)\n    print("Desetinasobek", 10 * n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    dvoj = n *2\n    troj = n * 3\n    dese = n * 10\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", dese)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek",  n*2)\n    print ("Trojnasobek", n*3)\n    print ("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek",2 * n)\n    print("Trojnasobek",3 * n)\n    print("Desetinasobek",10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n, "\nTrojnasobek", 3*n, "\nDesetinasobek", 10*n)\n
+def multiples(n):\n    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]\n    numba = [2, 3, 10]\n    for i in range(0,3):\n        m=numba[i]*n\n        print(words[i], m)\n       \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n      print("Dvojnasobek", 2*n)\n      print("Trojnasobek", 3*n)\n      print("Desetinasobek", 10*n)\n
+def multiples(n):\n    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]\n    numba = [2, 3, 10]\n    for i in range(0,3):\n        m=numba[i]*n\n        print(words[i], m)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    m=(n*2)\n    print("Dvojnasobek", m)\n    o=(n*3)\n    print("Trojnasobek", o)\n\n    p=(n*10)\n    print("Desetinasobek", p)\n\n
+def multiples(n):\n    \n    n0 = 10 \n    \n    n1 = n * 2\n    n2 = n * 3\n    n3 = n * 10\n    \n    print('Dvojnasobek', n1)\n    print('Trojnasobek', n2)\n    print('Desetinasobek', n3)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek",2* n)\n    print("Trojnasobek",3* n)\n    print("Desetinasobek",10* n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2 *n)\n    print("Trojnasobek", 3 *n)\n    print("Desetinasobek", 10 * n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n        \n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n	\n    print("Trojnasobek", 3*n)\n    \n    print("Desetinasobek",10*n,)
+def multiples(n):\n    k=2*n\n    h=3*n\n    m=10*n\n    print("Dvojnasobek",k)\n    print("Trojnasobek",h)\n    print("Desetinasobek",m)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    d = n*2\n    print("Dvojnasobek", d)\n    t = n*3\n    print("Trojnasobek", t)\n    de = n*10\n    print("Desetinasobek", de)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek",2*n)\n    print("Trojnasobek",n*3)\n    print("Desetinasobek",10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n *10)
+def multiples(n):\n    dva=2*n\n    tri= 3*n\n    deset= 10*n\n    print("Dvojnasobek", dva)\n    print("Trojnasobek", tri)\n    print("Desetinasobek", deset)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    for i in range(1, 11):\n        if i == 2:\n            print("Dvojnasobek", i*n)\n        elif i == 3:\n            print("Trojnasobek", i*n)\n        elif i == 10:\n            print("Desetinasobek", i*n)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    des=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", des)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)\n
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    des=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek",troj)\n    print("Desetinasobek", des)\n
+def multiples(n):  \n    dvoj=2*n\n    troj=3*n\n    deset=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", deset)
+def multiples(n):\n    dvoj=2*n\n    troj=3*n\n    des=10*n\n    print("Dvojnasobek", dvoj)\n    print("Trojnasobek", troj)\n    print("Desetinasobek", des)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n);\n    print("Trojnasobek", 3*n);\n    print("Desetinasobek", 10*n);\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n	print("Dvojnasobek", n*2)\n	print("Trojnasobek", n*3)\n	print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek",n*10)
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+nasobky = 0\ndef multiples(n):\n    for i in range(n):\n        nasobky = n*2\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n	\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(c):\n    n = c*2\n    print("Dvojnasobek", n)\n    n = c*3\n    print("Trojnasobek", n)\n    n = c*10\n    print("Desetinasobek", n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)    
+def multiples(n):\n    tri = int(3*n)\n    deset = int(10*n)\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", tri)\n    print("Desetinasobek", deset)
+def multiples(n):\n    print("Dvojnasobek", 2*int(n))\n    print("Trojnasobek", 3*int(n))\n    print("Desetinasobek", 10*int(n))
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n	print("Dvojnasobek", 2*n)\n	print("Trojnasobek", 3*n)\n	print("Desetinasobek", 10*n)
+def multiples(n):\n    m=n*2\n    print("Dvojnasobek", m)\n    o=n*3\n    print("Trojnasobek", o)\n    p=n*10\n    print("Desetinasobek", p)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2);\n    print("Trojnasobek", n*3);\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    mullti = n * 2\n    print("Dvojnasobek", mullti)\n    mullti = n * 3\n    print("Trojnasobek", mullti)\n    mullti = n * 10\n    print("Desetinasobek", mullti)\n            
+def multiples(n):\n    \n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n);\n    print("Trojnasobek", 3*n);\n    print("Desetinasobek", 10*n);
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    \n    print("Trojnasobek", 3*n)\n\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n * 2)\n    print("Trojnasobek", n * 3)\n    print("Desetinasobek", n * 10)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print('Trojnasobek', 3*n)\n    print("Desetinasobek", 10*n)
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)\n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)
+def multiples(n):\n    print("Dvojnasobek",2 * n)\n    print("Trojnasobek",3 * n)\n    print("Desetinasobek",10*n)\n    
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
+def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n

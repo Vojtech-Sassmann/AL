@@ -21,7 +21,7 @@ def decode_solution(data):
 
 def save_solutions(solutions):
     for item_id in solutions.keys():
-        with open('./res/parsed/all/' + item_id + '.txt', mode='w') as output_file:
+        with open('./res/parsed/correct_v2/' + item_id + '.txt', mode='w') as output_file:
             for solution in solutions[item_id]:
                 print(solution.replace("\n","\\n"), file=output_file)
 
@@ -36,8 +36,8 @@ def parse_solutions():
 
             # old records contain invalid data
             if int(row['id']) > 6000:
-                # if row['correct'] != '1':
-                #     continue
+                if row['correct'] != '1':
+                    continue
                 try:
                     solution = decode_solution(row['answer'])
 

@@ -1,0 +1,78 @@
+def five_multiples(num_list):
+    nas=[]
+    for i in num_list:
+        if not(i%5):
+        	nas.append(i)
+    return nas
+
+def five_multiples(num_list):
+    return [i for i in num_list if i%5 == 0]
+
+def five_multiples(num_list):
+    output = []
+    for maybe in num_list:
+        if not (maybe % 5):
+            output.append(maybe)
+    return output
+
+def five_multiples(num_list):
+    return filter(lambda n : n % 5 == 0, num_list)
+
+def five_multiples(num_list):
+    return [x for x in num_list if x%5==0]
+
+def five_multiples(num_list):
+    return [x for x in num_list if x % 5 == 0]
+
+def five_multiples(num_list):
+    return [i for i in num_list if not i%5]
+
+five_multiples = lambda num_list : [i for i in num_list if not i%5]
+def five_multiples(num_list):
+    return [x for x in num_list if x % 5 == 0]
+
+def five_multiples(num_list):
+    pole = []
+    for i in range(len(num_list)):
+        a = num_list[i] % 5
+        if a == 0:
+            pole.append(num_list[i])
+    return pole
+
+def five_multiples(num_list):
+	i=0
+	while i<len(num_list):
+		if num_list[i]%5!=0:
+			del(num_list[i])
+		else:
+			i=i+1
+	return num_list
+def five_multiples(num_list):
+    return [element for element in num_list if not(element % 5)]
+
+def five_multiples(num_list):
+    fivenum_list=[]
+    for i in num_list:
+        if i%5==0:
+           	fivenum_list=fivenum_list+[i]
+            
+    return fivenum_list        
+      
+
+
+def five_multiples(num_list):
+    petky = []
+    for i in range(len(num_list)):
+        if num_list[i]//5 == num_list[i]/5:
+            petky.append(num_list[i])
+        else:
+            pass
+    return petky
+
+def five_multiples(num_list):
+    new_list=[]
+    for i in num_list:
+        if i % 5==0:
+            new_list+=[i]
+    return new_list
+

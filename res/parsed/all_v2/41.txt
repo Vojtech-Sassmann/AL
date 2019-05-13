@@ -1,0 +1,324 @@
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    else: return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    else: return False\n
+def nice(a, b):\n    if a%2 is True and b%2 is False:\n        return True\n    if a%2 is False and b%2 is True:\n        return True\n    else: return False\n
+def nice(a, b):\n    if((a+b) % 2 != 0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1 or a%2 == 1 and b%2 == 0:\n        return True\n    return False\n
+def nice(a, b):\n    return ((a%2==0) and  (b%2!=0)) or ((b%2==0) and  (a%2!=0))\n
+def nice(a, b):\n    if a%2==1 and b%2==0 or a%2==0 and b%2==1:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if a%2==0 and b%2==1 or a%2==1 and b%2==0:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if ((a % 2 == 0) and (b % 2 == 1) or (a % 2 == 1) and (b % 2 == 0)):\n        return True\n    else:\n        return False\n    return False\n
+def nice(a, b):\n    if a%2==0 and b%2==1: return True\n    elif b%2==0 and a%2==1: return True\n    else: return False\n
+def nice(a, b):\n    if a%2==0 and b%2==1:\n        return True\n    if a%2==1 and b%2==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a+b)%2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if a % 2 == 0 and not b % 2 == 0:\n    	return True\n    elif b % 2 == 0 and not a % 2 == 0:\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if(((a % 2 == 0)and(b % 2 == 1))or((a % 2 == 1)and(b % 2 == 0))):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1): return True\n    return False\n
+def nice(a, b):\n    if a%2==0 and b%2==1:\n        return True\n    if a%2==1 and b%2==0:\n        return True\n    else:return False\n
+def nice(a, b):\n    if a%2==0 :\n        if b%2==0:\n            return False\n        else :\n            return True\n    else:\n        if b%2==0:\n            return True\n        else :\n            return False\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0)or(b%2==0 and a%2!=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 != 0:\n        return True\n    elif b % 2 == 0 and a % 2 != 0:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if a%2 and b%2:\n    	return False\n    elif not a%2 and not b%2:\n       	return False\n    else:\n       	return True
+def nice(a, b):\n    if a%2 and b%2 or not a%2 and not b%2:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a%2!=b%2:\n        return True\n    return False\n
+def nice(a, b):\n    if a%2==0 ^ b%2==0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a%2==1 ^ b%2==0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a%2==1 ^ b%2==1:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a%2==0) ^ (b%2==0):\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1:\n        return True\n    elif a%2 == 1 and b%2 == 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    if a % 2 == 1 and b % 2 == 0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    return (a % 2 == 0 and b % 2 == 1) or (b % 2 == 0 and a % 2 == 1)\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n        return True\n    else:\n   		return False\n
+def nice(a, b):\n    if a%2==0 and b%2!=0:\n        return True\n    elif a%2!=0 and b%2==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0:\n        return b % 2 != 0\n    else:\n        return b % 2 == 0\n
+def nice(a, b):\n    return (a%2==0 and b%2==1) or (a%2==1 and b%2==1)\n
+def nice(a, b):\n    return (a%2==0 and b%2==1) or (a%2==1 and b%2==0)\n
+def nice(a, b):\n    if (((a % 2 == 0) and (b % 2 == 1)) or ((a % 2 == 1) and (b % 2 == 0))):\n		return True\n    else:\n        return False
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 != 0) or (b % 2 == 0 and a % 2 != 0):\n		return True\n    return False
+def nice(a, b):\n    if((a%2==0)and(b%2==1))or((a%2==1)and(b%2==0)):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a%2==0) and (b%2!=0)) or ((b%2==0) and (a%2!=0)):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    return ((((a%2)==0) and ((b%2)==1)) or (((b%2)==0) and ((a%2)==1)))\n
+def nice(a, b):\n    if(a+b)%2==1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 ==0 and b % 2!= 0:\n    	return True\n    elif b % 2 ==0 and a % 2!= 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return (a%2==0 and b%2==1) or (b%2==0 and a%2==1)\n
+def nice(a,b):\n    if a%2==0 and b%2!=0 or a%2!=0 and b%2==0:\n        return True\n    else:\n        return False\n        
+def nice(a, b):\n    if(a%2==0 and b%2!=0 or a%2==0 and b%2!=0):\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0 or a%2==0 and b%2!=0):\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0 or a%2==0 and b%2!=0):\n        return False\n    else:\n    	return True\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0 or b%2==0 and a%2!=0):\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0 or b%2==0 and a%2!=0):\n    	return True\n    else:\n       	return False
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or b % 2 == 0 and a % 2 == 1:\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 == 1) or (a % 2 == 1 and b % 2 == 0):   \n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a+b)%2==1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if((a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n       return True\n    else:\n    	return False\n
+def nice(a, b):\n    if((a%2==0 and b%2==1) or (a%2==1 and b%2==0)):\n       return True\n    else:\n    	return False\n
+def nice(a, b):\n  if a%2 == 0 and b%2 ==1 :\n	return True\n  else:\n    if a%2 == 1 and b%2 == 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return (a % 2 == 0) != (b % 2 == 0)\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n        return True\n    else:\n        return False
+def nice(a, b):\n    if a%2==0 and b%2==1:\n        return True\n    elif a%2==1 and b%2==0:\n        return True\n    else:\n        return False\n        \n
+def nice(a, b):\n    if(a%2==0 and b%2!=0)or(b%2==0 and a%2!=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return ((a%2 == 1)and(b%2 == 0)) or ((a%2 == 0)and(b%2 == 1))\n
+def nice(a, b):\n    if a % 2 ==  0 and b % 2 == 0:\n        return False\n    elif a % 2 == 1 and b % 2 == 1:\n       	return False\n    else:\n        return True\n
+def nice(a, b):\n    x = a % 2\n    y = b % 2\n    return x != y\n
+def nice(a, b):\n    if a%2==0 and b%2!=0 or b%2==0 and a%2!=0:\n        print(True)\n    else:\n        print(False)\n    return print(end="")\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return ((a % 2 == 0) and (b % 2 != 0)) or ((a % 2 != 0) and (b % 2 == 0))\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1:\n    	return True\n    elif b%2 == 0 and a%2 == 1:\n        return True\n    else: return False
+def nice(a, b):\n	if (a % 2 ==0 or b % 2 == 0) and (a % 2 != 0 or b %2 != 0):\n		return True\n	return False
+def nice(a, b):\n    if a%2==0 and b%2==1 or a%2==1 and b%2==0:\n		return True\n    else:\n        return False\n
+def nice(a, b):\n	if a % 2 == 0 and b % 2 == 0:\n		return False\n	elif a % 2 == 1 and b % 2 == 1:\n		return False\n	else:\n		return True
+def nice(a, b):\n    if a % 2 == 0 and b % 2 !=0:\n        return True\n    elif b % 2 == 0 and a % 2 != 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if  (a % 2 == 0 and b % 2 == 1) or (a % 2 == 1 and b % 2 == 0):\n    	return True	\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 ==0 and b % 2 == 0:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 != 0:\n        return True\n    elif a % 2 != 0 and b % 2 == 0:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 != 0) or (a % 2 != 0 and b % 2 == 0):\n        return True\n    return False\n
+def nice(a, b):\n    while (a%2==0 and b%2!=0) or (b%2==0 and a%2!=0):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or b % 2 == 0 and a % 2 == 1:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or a % 2 == 1 and b % 2 == 0:\n        return True\n    else: \n        return False\n
+def nice(a, b):\n    return (a+b)%2==1\n
+def nice(a, b):\n    if ((a % 2) == 0) & ((b % 2) == 1):\n        return True\n    elif ((b % 2) == 0) & ((a % 2) == 1):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or a % 2 == 1 and b % 2 == 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0:\n        if b % 2 == 1:\n            return True\n    if b % 2 == 0:\n            if a % 2 == 1:\n                return True\n    if a % 2 == 0 and b % 2 == 0:\n        return False\n    if a % 2 == 1 and b % 2 == 1:\n        return False\n
+def nice(a, b):\n    return (a ^ b)&1==1\n
+def nice(a, b):\n    if (a%2==0 and b%2==0):\n    	return False\n    else:\n        return True\n
+def nice(a, b):\n    if (a%2==0 and b%2==0):\n    	return False\n    elif (a%2=!0 and b%2=!0):\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if (a%2==0 and b%2==0):\n    	return False\n    elif (a%2 != 0 and b%2!=0):\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 != 0) or (a % 2 != 0 and b % 2 == 0):\n    	return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif b % 2 == 0 and a % 2 == 1:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif b % 2 == 0 and a % 2 == 1:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (((a % 2 == 0) and (b % 2 != 0)) or ((b % 2 == 0) and (a % 2 != 0))):\n    	return True\n    else:\n        return False
+def nice(a, b):\n	if (a % 2 == 0 and b % 2 != 0) or (b % 2 == 0 and a % 2 != 0):\n    	return True\n	else:\n		return False\n
+def nice(a, b):\n    if a%2==0 and b%2!=0 or b%2==0 and a%2!=0:\n        return True\n    return False\n
+def nice(a, b):\n    \n    if a%2 + b%2 == 1:\n    	return True\n    return False\n
+def nice(a, b):\n    if (a % 2 == 0 or b % 2 == 0) and (a % 2 == 1 or b % 2 == 1):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return (a % 2 == 0 and b % 2 == 1) or (b % 2 == 0 and a % 2 == 1)\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif a % 2 == 1 and b % 2 == 0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if a % 2 = 0 and b % 2 = 1:\n    	return True\n    elif b % 2 = 0 or a % 2 = 1:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif b % 2 == 0 and a % 2 == 1:\n        return True\n    else:\n        return False\n        \n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 0:\n        return False\n    elif a % 2 <> 0 and b % 2 <> 0:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 0:\n    	return False\n	elif b % 2 == 0 and a % 2 == 0:\n        return False\n    else:\n        return True
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif b % 2 == 0 and a % 2 == 1:\n    	return True\n    else:\n        return False
+def nice(a, b):\n    if a % 2 == 0 and  b % 2 == 0:\n    	return False\n    else:\n        return True \n	
+def nice(a, b):\n    if a % 2 == 0 and  b % 2 == 0:\n    	return False\n    elif a % 2 != 0 and  b % 2 != 0:\n        return False\n    else:\n        return True\n	
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or b % 2 == 0 and a % 2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 != 0) or (b % 2 == 0 and a % 2 != 0):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1:\n        return True\n    elif a%2 == 1 and b%2 == 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 0:\n        return False\n    elif a % 2 == 1 and b % 2 == 1:\n        return False\n    return True\n
+def nice(a, b):\n    if ((a % 2 == 0 and b % 2 == 1) or (b % 2 == 0 and a % 2 == 1)):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a-b)%2 != 0:\n        return True\n    else: return False\n
+def nice(a, b):\n    if a %2 != 0 and b %2 == 0:\n	    return True\n    elif b %2 != 0 and a %2 == 0:\n		return True\n    else:\n        return False\n
+def nice(a, b):\n	if (a%2!=0 and b%2==0) or (a%2==0 and b%2!=0):\n    	return True\n    \n	else:\n		return False\n
+def nice(a, b):\n    if ((a%2 != 0) and (b%2 == 0)) or ((b%2 != 0) and (a%2 == 0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 <> 0:\n        return True\n    if b % 2 == 0 and a % 2 <> 0:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if (a%2==0 and b%2!=0) or (a%2!=0 and b%2==0):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0 and b%2!=0) or (b%2==0 and a%2!=0):\n    	return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1):\n    	return True\n    else:\n        return False
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1):\n        return True\n    else: return False\n
+def nice(a, b):\n    if (a%2==0) and (b%2==1) or (b%2==0 and a%2==1):\n        return True\n    else: return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1):\n        return True\n    else: return False\n
+def nice(a, b):\n  	if (a%2==0 and b%2==1) or (b%2==0 and b%2==1)\n		return True\n    else: return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1):\n       return True\nelse: return False
+def nice(a, b):\n    if (a + b) % 2 == 0:\n    	return False\n    else:\n        return True
+def nice(a, b):\n    if a%2 == 0:\n        return b%2 != 0\n    else:\n        return b%2 == 0\n
+def nice(a, b):\n    if (a % 2 == 0) and (b % 2 == 1):\n        return True\n    if (b % 2 == 0) and (a % 2 == 1):\n		return True\n    else:\n        return False
+def nice(a, b):\n    if a % 2 == 0:\n        if b % 2 ==1:\n            return True\n        else:\n            return False\n    elif b % 2 == 0:\n        if a % 2 ==1:\n            return True\n        else:\n            return False\n    else:\n    	return False\n
+def nice(a, b):\n    if (a%2==1 and b%2==0) or (a%2==0 and b%2==1):\n        return(True)\n    else:\n        return(False)\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 == 1) or (a % 2 == 1 and b % 2 == 0):\n        return True\n    return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 != 0:\n        return True\n    elif a % 2 != 0 and b % 2 == 0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 == 1) or (a%2==1 and b%2==0):\n		return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n        return True\n    return False\n
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 == 1) or (a % 2 == 1 and b % 2 == 0):\n        return True\n    return False
+def nice(a, b):\n    if (a % 2 == 0 and b % 2 == 1) or (a % 2 == 1 and b % 2 == 0):\n        return True\n    return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 != 0:\n        return True\n    elif b % 2 == 0 and a % 2 != 0:\n        return True\n    return False\n
+def nice(a, b):\n    if (a+b)%2 == 1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a + b) % 2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if a % 2 != b % 2:\n        return True\n    return False\n
+def nice(a, b):\n    if (a+b)%2 ==1:\n    	return True\n    return False\n
+def nice(a, b):\n    if (a+b) % 2 == 1:\n        return True\n    return False\n        \n
+def nice(a, b):\n    if (a % 2 ==0 and b % 2 == 1) or (a % 2 ==1 and b % 2 == 0):\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a&2==0 and b&2!=0) or (b&2==0 and a&2!=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a&2==0) and (b&2!=0)) or ((b&2==0) and (a&2!=0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a&2==0) and (b&2!=0)) or ((b&2==0) and (a&2!=0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a&2==0) and (b&2!=0)) or ((b&2==0) and (a&2!=0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a&2==0) and (b&2!=0)) or ((b&2==0) and (a&2!=0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a&2==0) and (b&2!=0)) or ((b&2==0) and (a&2!=0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 1 and b % 2 == 0:\n        return True\n    elif a % 2 == 0 and b % 2 == 1:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if ((a&2 == 0) and (b&2 != 0)) or ((b&2 == 0) and (a&2 != 0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0) and (b%2==1):\n        return True\n    if (a%2==1) and (b%2==0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 != 0:\n    	return True\n    elif a% 2 != 0 and b % 2 == 0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1:\n        return True\n    elif a % 2 == 1 and b % 2 == 0:\n        return True\n    return False\n
+def nice(a, b):\n    if (a%2==0 and b%2!=0) or (b%2==0 and a%2!=0):\n        return True\n    return False\n
+def nice(a, b):\n    if (a%2==0 and b%2!=0):\n        return True\n    elif(b%2==0 and a%2!=0):\n        return True\n    else: return False\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 1 or b % 2 == 0 and a % 2 == 1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0) and (b%2!=0):\n        return True\n    if (b%2==0) and (a%2!=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2 == 1 and b%2 == 0):\n        return True\n    if (a%2 == 0 and b%2 == 1):\n        return True\n    else: return False\n
+def nice(a, b):\n    if (((a%2==0) and (b%2==1))or((a%2==1) and (b%2==0))):\n        return True\n    return False\n
+def nice(a, b):\n    if (((a%2==0) and (b%2==1))or((a%2==1) and (b%2==0))):\n        return True    \n    return False\n
+def nice(a, b):\n    if (a%2 == 0 and b%2 != 0 or a%2 != 0 and b%2 == 0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    \n
+def nice(a, b):\n    if ((a %2 == 0 or b %2 == 0) and (a%2 !=0 or b %2 != 0):\n        return True\n    else:\n        return False
+def nice(a, b):\n    if ((a %2 == 0 or b %2 == 0) and (a%2 !=0 or b %2 != 0)):\n        return True\n    else:\n        return False
+def nice(a, b):\n    if ((a%2==1 and b%2==0) or (a%2==0 and b%2==1)):return True\n    \n
+def nice(a, b):\n    if ((a%2==1 and b%2==0)or (a%2==0 and b%2==1)):\n        return True\n    else:return False\n
+def nice(a, b):\n    if ((a%2==1 and b%2==0) or (a%2==0 and b%2==1)):return True\n    else: return False\n    \n
+def nice(a, b):\n    if ((a%2==1 and b%2==0) or (a%2==0 and b%2==1)):return True\n    else:return False\n
+def nice(a, b):\n    if ((a%2==1 and b%2==0) or (a%2==0 and b%2==1)):return True\n    else:return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1): return True\n    elif (b%2==0 and a%2==1): return True\n    else: return False\n
+def nice(a, b):\n	if a%2==0 and b%2==1 or a%2==1 and b%2==0: return True\n	else: return False
+def nice(a, b):\n    if a%2==0 and b%2==1 : return True\n    elif b%2==0 and a%2==1 : return True\n    else : return False\n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (b%2==0 and a%2==1): return True\n    else: return False\n
+def nice(a, b):\n    prvni = a % 2\n    druhe = b % 2\n    if prvni == druhe:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if ((a %2 == 0) == (b %2 == 0)):\n    	return False\n    else:\n        return True\n
+def nice(a, b):\n    if ((a%2 == 0) and (b%2 != 0)) or ((b%2 == 0) and (a%2 != 0)):\n        return True\n    else: return False\n
+def nice(a, b):\n    if a%2==1 and b%2==1:\n        return False\n    if a%2==0 and b%2==0:\n        return False\n    else:\n        return True
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return False\n    if a%2 == 1 and b%2 == 1:\n        return False\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return False\n    if a%2 == 1 and b%2 == 1:\n        return False\n    return True\n\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n          return False\n    elif a%2 == 1 and b%2 == 1:\n          return False\n    return True\n\n\n
+def nice(a, b):\n    if a%2 == 0 b%2 == 0:\n        return False\n    if a%2 == 1 b%2 == 1:\n        return False\n    return True\n    \n   \n 
+def nice(a, b):\n    if a%2 == 0 and b%2 ==0:\n        return False\n    if a%2 == 1 and b%2 ==1:\n        return False\n    return True
+def nice(a, b):\n    if (a+b)%2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if (a+b)%2 == 0:\n        return False    \n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return False\n    elif a%2 == 1 and b%2 == 1:\n        return False\n    elif a%2 == 0 and b%2 == 1 or a%2 == 1 and b%2 == 0:\n        return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return False\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return False\n    return False\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 0:\n        return True\n    return True\n
+def nice(a, b):\n    if a%2 == b%2:\n        return False\n    return True\n
+def nice(a, b):\n    if (a+b)%2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if (a+b)%2 == 1:\n        return True\n    return False\n
+def nice(a, b):\n    if ((a % 2 == 0) and (b % 2 == 1)) or ((b % 2 == 0) and (a % 2 == 1))\n	    return True\n
+def nice(a, b):\n	if ((a % 2 == 0) and (b % 2 == 1)) or ((b % 2 == 0) and (a % 2 == 1))\n	    return True\n
+def nice(a, b):\n	if ((a % 2 == 0) and (b % 2 == 1)) or ((b % 2 == 0) and (a % 2 == 1))\n	    return True\n
+def nice(a, b):\n    return a % 2 != b % 2\n
+def nice(a, b):\n    if a%2==0 and b%2==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2==0 and b%2==0:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a%2==0 and b%2==0:\n        return False\n    elif a%2==1 and b%2==1:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a%2 :\n        if b%2 :\n            return False\n        else :\n            return True\n    else :\n        if b%2 :\n            return True\n        else :\n            return False
+def nice(a, b):\n    print("False")\n    print("True")\n   \n
+def nice(a, b):\n    return a%2 == 0 and b%2 != 0 or a%2 != 0 and b%2 == 0\n
+def nice(a, b):\n    if a % 2 == 1 and b % 2 == 0:\n        return True\n    elif a % 2 == 0 and b % 2 == 1:\n        return True\n     \n    return False\n
+def nice(a, b):\n    return (a%2==0 and b%2==1)or(a%2==1 and b%2==0)\n
+def nice(a, b):\n    if ((a%2==0) and (b%2!=0)):\n        return True\n    if ((a%2!=0) and (b%2==0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a%2==0) and (b%2!=0)) or ((a%2!=0) and (b%2==0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2==0 and b%2!=0:\n        return True\n    elif b%2==0 and a%2!=0:\n       	return True\n    else:\n        return False
+def nice(a, b):\n    if(a % 2 == 1 and b % 2 == 0 or a % 2 == 0 and b % 2 == 1):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a<b and a%2 == 0 or b%2 ==1:\n        return False\n    else:\n        returtn True\n
+def nice(a, b):\n    if a<b and a%2 == 0 or b%2 ==1:\n        return False\n    else:\n        return True\n
+def nice(a, b):\n    if a<b and a%2 == 0 or b%2 ==1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n    	return True\n    elif b%2 == 0 or a%2 ==1:\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n    	return True\n    elif b%2 == 0 or a%2 ==1:\n        return False
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n    	return True\n    elif b%2 == 0 or a%2 ==1:\n        return True\n    else return False
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n    	return True\n    elif b%2 == 0 or a%2 ==1:\n        return True\n    else:\n		return False
+def nice(a, b):\n    if a%2 == 0 or a%2 ==1:\n    	return True\n    elif b%2 == 0 or b%2 ==1:\n        return True\n    else:\n		return False
+def nice(a, b):\n    if a%2 == 0 or b%2 ==1:\n    	return True\n    elif b%2 == 0 or a%2 ==1:\n        return True\n    else:\n		return False
+def nice(a, b):\n    if a%2 == 0 and b%2 ==1:\n    	return True\n    elif b%2 == 0 and a%2 ==1:\n        return True\n    else:\n		return False
+def nice(a, b):\n    if(a%2 == 0 and b%2 == 1):\n        return True\n    elif(b%2 == 0 and a%2 == 1):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    c=a+b\n    if c%2==0:\n        return False\n    elif c%2==1:\n        return True\n\n    \n
+def nice(a, b):\n    if (a%2==0 and b%2==1) or (a%2==1 and b%2==0):\n    	return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a+b)%2==0:\n        return False\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1:\n        return True\n    if a%2 == 1 and b%2 == 0:\n        return True\n    return False\n
+def nice(a, b):\n    if a%2==0 and b%2!=0:\n        return True\n    if a%2!=0 and b%2==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return (a + b) % 2 == 1\n
+def nice(a, b):\n    if a%2 == 1 and b%2 == 0 or b%2 == 1 and a%2 ==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return (a%2==0) != (b%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    if a % 2 == 0 and b % 2 == 0:\n        return False\n    elif a % 2 != 0 and b % 2 != 0: \n		return False\n    else:\n        return True
+def nice(a, b):\n    return (a%2==0) != (b%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return True\n    return False\n
+def nice(a, b):\n    return (a%2==0)!=(6%2==0)\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return (a%2==0) != (b%2==0)\n\n\n
+def nice(a, b):\n    return (a%2==0)!=(b%2==0)\n
+def nice(a, b):\n    return (a%2==0) != (b%2==0)\n
+def nice(a, b):\n    return (a%2==0) != (b%2==0)\n\n
+def nice(a, b):\n    return (a%==0) != (b%2==0)\n
+def nice(a, b):\n    return (a%==0) != (b%2==0)\n
+def nice(a, b):\n    if (a%2==0 and b%2 !=0) or (b%2==0 and a%2 !=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    return bool((a+b) % 2)\n
+def nice(a, b):\n    if (a,b % 2 == 0)\n        return True\n
+def nice(a, b):\n    if (a or b % 2 == 0):\n        return True\n    else:\n    	return False
+def nice(a, b):\n    if a%2==0 and (b+1)%2==0:\n        return True\n    elif (a+1)%2==0 and b%2==0:\n        return True\n    else:\n        return False
+def nice(a, b):\n    if (a % 2 == 0) and (b % 2 == 1):\n        return True\n    if (b % 2 == 0) and (a % 2 == 1):\n        return True\n    else:\n        return False
+def nice(a, b):\n    return a % 2 == 0 and b % 2 == 1 or a % 2 == 1 and b % 2 == 0\n
+def nice(a, b):\n    if (a%2==0) and (b%2==1):\n        return True\n    elif (a%2==1) and (b%2==0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if(((a%2)==0 and (b%2)==1)or((a%2)==1 and (b%2)==0)):\n        return True\n    else:\n    	return False
+def nice(a, b):\n    if((a%2 == 0 and b%2 == 1) or (a%2 == 1 and b%2 == 0)):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if ((a%2==0)and(b%2==1))or((a%2==1)and(b%2==0)):return True\n    else:return False\n
+def nice(a, b):\n    if (a%2==0 and b%2!=0)or(b%2==0 and a%2!=0):return True\n    else:return False\n
+def nice(a, b):\n    if(a%2==0 and b%2!=0) or (b%2==0 and a%2!=0):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==0 and b%2!=0) or (a%2!=0 and b%2==0):\n        return True\n    return False\n
+def nice(a, b):\n    if((a-b)%2==0):\n    	return False\n    return True\n
+def nice(a, b):\n    if a%2 == 0 and b%2 == 1:\n        return True\n    elif b%2 == 0 and a%2 == 1:\n        return True\n    else:\n        return False
+def vymena(a,b):\n    print("Máme zadaná čísla: a=",a," b=",b)	\n	pom=a\n    a=b\n    b=pom\n    print("Vyměnila jsme čísla: a=",a," b=",b)
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=b\n    b=a\n    a=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=b\n    b=a\n    a=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    a=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    a=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vzmena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a,"b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a,"b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a," b=",b)\n    prom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=prom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b)\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def vymena(a,b):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def kvadraticka(a,b,c):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def kvadraticka(a,b,c):\n	print("Máme zadaná čísla: a=",a," b=",b)\n    pom=a\n    a=b\n    b=pom\n    print("Vyměnili jsme čísla: a=",a," b=",b)\n
+def nice(a, b):\n    if (a%2==1 and b%2==0)or(a%2==0 and b%2==1):\n        return True\n    return False\n
+def nice(a, b):\n    if a%2 == b%2:\n    	return False\n    else:\n        return True\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n	if a%2 == 0 :\n		if b%2 == 0 :\n            return False\n        else :\n            return True\n	else :\n        if b%2 == 0 :\n            return True\n        else :\n            return False\n\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    if a%2 == 0 :\n        if b%2 == 0 :\n            return False\n        else :\n            return True\n        else :\n            if b%2 == 0\n            return True\n
+def nice(a, b):\n    if a%2 == 0 :\n        if b%2 == 0 :\n            return False\n        else : \n            return True \n	else : \n        if b%2 == 0 : \n            return True \n
+def nice(a, b):\n    if a%2 == 0 and b%2 != 0:\n        return True\n    elif b%2 == 0 and a%2 != 0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n    return False\n
+def nice(a, b):\n	if(a+b%2 ==	1):\n		return True\n	else:\n		return False
+def nice(a, b):\n	if(a+b%2 ==	0):\n		return False\n	else:\n		return True
+def nice(a, b):\n	if((a+b)%2 ==	0):\n		return False\n	elif((a+b)%2 ==	1):\n		return True\nprint(nice(2,5))
+def nice(a, b):\n	if((a+b)%2 ==	0):\n		return False\n	elif((a+b)%2 ==	1):\n		return True\n
+def nice(a, b):\n    if (a%2==0 or b%2==0) and (a%2==1 or b%2==1):\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a % 2) == 0 and (b % 2) != 0:\n        return True\n    elif (a % 2) != 0 and (b % 2) == 0:\n        return True\n    else:\n    	return False\n
+def nice(a, b):\n    if (a+b) % 2 == 0:\n        return False\n    else:\n        return True\n
+def nice(5, 5):\n    return True\n
+def nice(5, 5):\n    return True\n
+def nice(a, b):\n    if ((a%2==0) and (b%2==1)) or ((a%2==1) and (b%2==0))  :\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2==0 or b%2==0:\n        return True\n
+def nice(a, b):\n    if a%2==0 or b%2==0:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if a%2 or b%2:\n        return True\n    else:\n        return False\n
+def nice(a, b):\n    if (a%2==1 and b%2==0) or (a%2==0 and b%2==1):\n        return True\n    else:\n        return False\n

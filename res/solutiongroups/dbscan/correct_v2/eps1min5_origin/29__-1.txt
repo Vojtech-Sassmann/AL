@@ -1,0 +1,113 @@
+def unique(mylist):
+    seznam=[]
+    for i in mylist:
+        if not(i in seznam):
+            seznam.append(i)
+    return seznam
+
+def unique(mylist):
+    s=[]
+    for i in range (len(mylist)):
+        for j in range (len(mylist)):
+        	if (i>j and mylist[i]==mylist[j]): mylist[i]="a"
+    for p in range (len(mylist)): 
+        if mylist[p]!="a" : s.append(mylist[p])
+    return(s)
+   	
+    
+ 	
+def unique(mylist):
+    taken = list()
+    to_return = list()
+    for x in mylist:
+        if x not in taken:
+            taken.append(x)
+            to_return.append(x)
+    return to_return
+
+def unique(mylist):
+    whitelist=[]
+    for i in mylist:
+        if contains(whitelist,i)==False:
+            whitelist.append(i)
+    return whitelist
+def contains (summary,element):
+    result=False
+    for x in summary:
+        if x!=element:
+            result = False
+        else: return True
+    return result
+def unique(mylist):
+    r=[]
+    for i in mylist:
+        if not i in r:
+            r.append(i)
+    return r
+
+def unique(mylist):
+    unique = []  
+    for n in mylist:
+        if n in unique:
+            pass
+        else:
+            unique.append(n)
+    return unique
+        
+def unique(mylist):
+    new_list = []
+    unique_numbers = set(mylist)
+    for item in mylist:
+        if item in unique_numbers and item not in new_list:
+            new_list.append(item)        
+    return new_list
+
+def unique(mylist):
+    new_list = []
+    for i in mylist:
+        if i in new_list:
+            pass
+        else:
+            new_list.append(i)
+    return new_list
+
+def unique(mylist):
+        output = [875]
+        for i in range(len(mylist)):
+            for j in range(len(output)):
+                if mylist[i] == output[j]:
+                    break
+                elif j == len(output)-1:
+                    output.append(mylist[i])
+        del output[0]
+        return output
+def unique(mylist):
+    alist = []
+    for number in mylist:
+        if number in alist:
+            continue
+        else:
+            alist.append(number)
+    return alist
+
+def unique(mylist):
+	unik=[]
+	for i in range(len(mylist)):
+		if mylist[i] not in mylist[:i]:
+			unik.append(mylist[i])
+	return unik
+
+def unique(mylist):
+    copy = list()
+    for i in range(0, len(mylist)):
+        if mylist[i] not in mylist[0:i]: #and mylist[i:len(mylist)]:
+            copy.append(mylist[i])
+    return(copy)
+
+def unique(mylist):
+    mynewlist=[]
+    for i in mylist:
+        if i not in mynewlist:
+            mynewlist=mynewlist+[i]
+    return mynewlist
+

@@ -1,0 +1,203 @@
+Rate:  25.46153846153846
+662.0
+def frame(text, symbol):
+    for i in range(3):
+        if i>0:
+            print("")
+        for j in range(len(text)+2):
+            if i == 0 or i == 2 or j == 0 or j == len(text)+1:
+                print(symbol, end="")
+            elif i == 1 and j == 1:
+            	print(text, end="")
+    print("")
+
+475.0
+def frame(text, symbol):
+    def outherlines():
+        for i in range(len(text)+2):
+            print(symbol,end = '')
+        print()
+    outherlines()
+    print(symbol,end = '')
+    print(text,end = '')
+    print(symbol)
+    outherlines()
+455.0
+def frame(text, symbol):
+    
+    char_row(symbol,len(text)+2)
+    print(symbol+text+symbol)
+    char_row(symbol, len(text)+2)
+def char_row(char,lenght):
+    for i in range (lenght):
+        print(char,end="")
+    print()
+445.0
+def frame(text, symbol):
+    def line(text, symbol):
+    	print("".join((symbol for i in range(len(text) + 2))))
+    line(text, symbol)
+    print(symbol+text+symbol)
+    line(text, symbol)
+
+402.0
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol+text+symbol)
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+
+376.0
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol + text + symbol)
+    for _ in range(len(text)+2):
+        print(symbol, end="")
+
+355.0
+def frame(text, symbol):
+    print(symbol*len(text), symbol*2, sep="")
+    print(symbol, text, symbol, sep="")
+    print(symbol*len(text), symbol*2, sep="")
+
+340.0
+def frame(text, symbol):
+    n=len(text)
+    print(symbol*(n+2))
+    print(symbol,end="")
+    print(text,end="")
+    print(symbol)
+    print(symbol*(n+2))
+    
+
+323.0
+def frame(text, symbol):
+    sym = (len(text) + 2) * symbol
+    tex = symbol + text + symbol
+    print (sym)
+    print (tex)
+    print (sym)
+	  
+
+319.0
+def frame(text, symbol):
+    line = ''
+    for i in range(len(text)+2):
+        line += symbol
+    print(line)
+    print(symbol+text+symbol)
+    print(line)
+
+311.0
+def frame(text, symbol):
+    print((int(len(text))+2)*symbol)
+    print(symbol, text, symbol, sep = '')
+    print(symbol*int(len(text)+2))
+
+307.0
+def frame(text, symbol):
+    dlzka =	len(text) + 2
+    new = symbol+text+symbol
+    print(dlzka*symbol)
+    print(str(new))
+    print(dlzka*symbol)
+
+307.0
+def frame(text, symbol):
+    print(2*symbol + symbol * len(text))
+    print(symbol+text+symbol)
+    print(2*symbol + symbol * len(text))
+303.0
+def frame(text, symbol):
+    count = len(text)+2
+    print(symbol*count,end = '')
+    print()
+    print(symbol+text+symbol)
+    print(symbol*count,end = '')
+
+300.0
+def frame(text, symbol):
+    print((len(text)*1+2)*symbol)
+    print(symbol+text+symbol)
+    print((len(text)*1+2)*symbol)
+295.0
+def frame(text, symbol):
+    print(symbol + symbol*len(text)+symbol)
+    print(symbol+text+symbol)
+    print(symbol + symbol*len(text)+symbol)
+
+284.0
+def frame(text, symbol):
+    alen = len(text)
+    alen2 = alen+2
+    print(symbol*alen2)
+    print(symbol,text,symbol, sep='')
+    print(symbol*alen2)
+
+
+283.0
+def frame(text, symbol):
+    print(symbol*len(text)+2*symbol)
+    print(symbol+text+symbol)
+    print(symbol*len(text)+2*symbol)
+
+280.0
+def frame(text, symbol):
+    alen = len(text)
+    print(symbol*(alen+2))
+    print(symbol,text,symbol, sep='')
+    print(symbol*(alen+2), end="")
+
+274.0
+def frame(text, symbol):
+    a = symbol*(len(text)+2)
+                
+    print(a)
+    print(symbol+text+symbol)
+    print(a)
+
+269.0
+def frame(text, symbol):
+    print((len(text)+2)*symbol)
+    print(symbol+text+symbol)
+    print((len(text)+2)*symbol)
+
+263.0
+def frame(text, symbol):
+    print(symbol * (len(text)+2))
+    print(symbol, text, symbol, sep= "")
+    print(symbol * (len(text) + 2))
+
+254.0
+def frame(text, symbol):
+    print(symbol*(len(text)+2))
+    print(symbol+text+symbol)
+    print(symbol*(len(text)+2))
+
+251.0
+def frame(text, symbol):
+    delka = len(text)+2
+    print(delka * symbol)
+    print(symbol + text +symbol)
+    print(delka * symbol)
+
+
+251.0
+def frame(text, symbol):
+    lenght = len(text)
+    print(symbol*(lenght+2))
+    print(symbol, text, symbol, sep="")
+    print(symbol*(lenght+2))
+
+242.0
+def frame(text, symbol):
+    pocet=len(text)
+    print(symbol * (pocet+2))
+    print(symbol + text + symbol)
+    print(symbol * (pocet+2))
+

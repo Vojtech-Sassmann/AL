@@ -1,0 +1,162 @@
+1.475054704595186
+def happy(a, b, c):
+    if ((a<3) or (b<3) or (c<3)) and (0<a<6) and (0<b<6) and (0<c<6):
+    	return True
+    else:
+        return False
+
+
+1.3050328227571115
+def happy(a, b, c):
+    hap =[]
+    for i in (a, b, c):
+        if i < 3:
+            hap.append(i)
+    if hap != []:
+        return True
+    else:        
+    	return False
+
+1.263676148796499
+def happy(a, b, c):
+    return True if any(x < 3 for x in (a, b, c)) else False
+1.2315098468271335
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+    if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+
+1.1442013129102844
+def happy(a, b, c):
+    if a <= 2:
+        return True
+    elif b <=2:
+        return True
+    elif c <=2:
+        return True
+    else:
+        return False
+1.0431072210065646
+def happy(a, b, c):
+    if a < 3:
+        return True
+    if b < 3:
+        return True
+    if c < 3:
+        return True
+    else:
+        return False
+
+1.0201312910284464
+def happy(a, b, c):
+    if 1 in [a,b,c] or 2 in [a,b,c]:
+        return True
+    return False
+
+1.0155361050328227
+def happy(a, b, c):
+    if a < 3:
+        return True
+    elif b < 3:
+        return True
+    elif c < 3:
+        return True
+    return False
+
+1.0109409190371992
+def happy(a, b, c):
+    grades = [a,b,c]
+    for item in grades:
+        if item < 3:
+            return True
+    return False
+
+0.9971553610503282
+def happy(a, b, c):
+    if a<3:
+        return True
+    elif b<3:
+        return True
+    elif c<3:
+        return True
+    else:
+        return False
+
+0.9512035010940919
+def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+0.9466083150984682
+def happy(a, b, c):
+    arr = [a, b ,c]
+    if 1 in arr or 2 in arr :
+    	return True
+    else :
+        return False
+
+0.9420131291028446
+def happy(a, b, c):
+    if ((a > 2) and (b > 2) and (c > 2)):
+        return False
+    else:
+        return True
+    return False
+
+0.9420131291028446
+def happy(a, b, c):
+    t = False
+    if a < 3 or b < 3 or c < 3:
+        t = True
+    return t
+0.9328227571115973
+def happy(a, b, c):
+    if int(a) < 3 or int(b) < 3 or int(c) < 3:
+        return True
+    return False
+
+0.9144420131291029
+def happy(a, b, c):
+    happiness = (a<3) or (b<3) or (c<3)
+    return happiness
+
+0.8547045951859956
+def happy(a, b, c):
+    if (a > 2) and (b > 2) and (c > 2):
+        return False
+    else:
+        return True
+
+0.8225382932166302
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <=2:
+        return True
+    else:
+        return False
+
+0.8087527352297593
+def happy(a, b, c):
+    if (a < 3) | (b < 3) | (c < 3):
+        return True
+    else:
+        return False
+
+0.7030634573304158
+def happy(a, b, c):
+    if a < 3 or b<3 or c<3:
+        return True
+    return False
+
+0.6754923413566739
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+    	return True
+    else: return False
+

@@ -1,0 +1,52 @@
+def frame(text, symbol):\n    row = symbol *(len(text)+2) +"\n"\n    print( row\n          +symbol +text +symbol +"\n"\n          +row )\n
+def frame(text, symbol):\n    dlzka =	len(text) + 2\n    new = symbol+text+symbol\n    print(dlzka*symbol)\n    print(str(new))\n    print(dlzka*symbol)\n
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)\n
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)\n
+def frame(text, symbol):\n    sym = (len(text) + 2) * symbol\n    tex = symbol + text + symbol\n    print (sym)\n    print (tex)\n    print (sym)\n	  \n
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+def frame(text, symbol):\n    \n    char_row(symbol,len(text)+2)\n    print(symbol+text+symbol)\n    char_row(symbol, len(text)+2)\ndef char_row(char,lenght):\n    for i in range (lenght):\n        print(char,end="")\n    print()
+def frame(text, symbol):\n    for i in range(3):\n        if i>0:\n            print("")\n        for j in range(len(text)+2):\n            if i == 0 or i == 2 or j == 0 or j == len(text)+1:\n                print(symbol, end="")\n            elif i == 1 and j == 1:\n            	print(text, end="")\n    print("")\n
+def frame(text, symbol):\n    print(symbol * (len(text) + 2))\n    print(symbol + text + symbol)\n    print(symbol * (len(text) + 2))\n
+def frame(text, symbol):\n    def outherlines():\n        for i in range(len(text)+2):\n            print(symbol,end = '')\n        print()\n    outherlines()\n    print(symbol,end = '')\n    print(text,end = '')\n    print(symbol)\n    outherlines()
+def frame(text, symbol):\n    print((int(len(text))+2)*symbol)\n    print(symbol, text, symbol, sep = '')\n    print(symbol*int(len(text)+2))\n
+def frame(text, symbol):\n    n=len(text)\n    print(symbol*(n+2))\n    print(symbol,end="")\n    print(text,end="")\n    print(symbol)\n    print(symbol*(n+2))\n    \n
+def frame(text, symbol):\n    for i in range(len(text)+2):\n        print(symbol, end="")\n    print()\n    print(symbol + text + symbol)\n    for _ in range(len(text)+2):\n        print(symbol, end="")\n
+def frame(text, symbol):\n    print(symbol * (len(text) + 2))\n    print(symbol + text + symbol)\n    print(symbol * (len(text) + 2))\n
+def frame(text, symbol):\n    print(symbol * (len(text) + 2))\n    print(symbol+text+symbol)\n    print(symbol * (len(text) + 2))\n    \n
+def frame(text, symbol):\n    for i in range(len(text)+2):\n        print(symbol, end="")\n    print()\n    print(symbol+text+symbol)\n    for j in range(len(text)+2):\n        print(symbol, end="")\n
+def frame(text, symbol):\n    print((len(text)+2) * symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2) * symbol)\n
+def frame(text, symbol):\n    print((len(text) + 2) * symbol)\n    print(symbol+text+symbol)\n    print((len(text) + 2) * symbol)\n
+def frame(text, symbol):\n    lenght = len(text)\n    print(symbol*(lenght+2))\n    print(symbol, text, symbol, sep="")\n    print(symbol*(lenght+2))\n
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol + text + symbol)\n    print((len(text)+2)*symbol)\n
+def frame(text, symbol):\n    line = ''\n    for i in range(len(text)+2):\n        line += symbol\n    print(line)\n    print(symbol+text+symbol)\n    print(line)\n
+def frame(text, symbol):\n    line = ''\n    for i in range(len(text)+2):\n        line += symbol\n    print(line)\n    print(symbol+text+symbol)\n    print(line)
+def frame(text, symbol):\n    print((len(text)*1+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)*1+2)*symbol)
+def frame(text, symbol):\n    alen = len(text)\n    print(symbol*(alen+2))\n    print(symbol,text,symbol, sep='')\n    print(symbol*(alen+2), end="")\n
+def frame(text, symbol):\n    a = symbol*(len(text)+2)\n                \n    print(a)\n    print(symbol+text+symbol)\n    print(a)\n
+def frame(text, symbol):\n    print(2*symbol + symbol * len(text))\n    print(symbol+text+symbol)\n    print(2*symbol + symbol * len(text))
+def frame(text, symbol):\n    print(symbol * (len(text)+2))\n    print(symbol, text, symbol, sep= "")\n    print(symbol * (len(text) + 2))\n
+def frame(text, symbol):\n    print(symbol * (len(text)+2))\n    print(symbol, text, symbol, sep= "")\n    print(symbol * (len(text) + 2))\n
+def frame(text, symbol):\n    print(symbol * (len(text)+2))\n    print(symbol, text, symbol, sep="")\n    print(symbol * (len(text)+2))\n
+def frame(text, symbol):\n    alen = len(text)\n    alen2 = alen+2\n    print(symbol*alen2)\n    print(symbol,text,symbol, sep='')\n    print(symbol*alen2)\n\n
+def frame(text, symbol):\n    print(symbol*len(text), symbol*2, sep="")\n    print(symbol, text, symbol, sep="")\n    print(symbol*len(text), symbol*2, sep="")\n
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))
+def frame(text, symbol):\n    \n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+def frame(text, symbol):\n    def line(text, symbol):\n    	print("".join((symbol for i in range(len(text) + 2))))\n    line(text, symbol)\n    print(symbol+text+symbol)\n    line(text, symbol)\n
+def frame(text, symbol):\n    for i in range(len(text)+2):\n    	print(symbol, end="")\n    print()\n    print(symbol+text+symbol)\n    for i in range(len(text)+2):\n    	print(symbol, end="")\n
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n    \n
+def frame(text, symbol):\n    for i in range(len(text)+2):\n        print(symbol, end="")\n    print()\n    print(symbol+text+symbol)\n    for i in range(len(text)+2):\n        print(symbol, end="")\n    print()\n
+def frame(text, symbol):\n    count = len(text)+2\n    print(symbol*count,end = '')\n    print()\n    print(symbol+text+symbol)\n    print(symbol*count,end = '')\n
+def frame(text, symbol):\n    print((len(text)+2)*symbol)\n    print(symbol+text+symbol)\n    print((len(text)+2)*symbol)\n
+def frame(text, symbol):\n    delka = len(text)+2\n    print(delka * symbol)\n    print(symbol + text +symbol)\n    print(delka * symbol)\n\n
+def frame(text, symbol):\n    for i in range(len(text)+2):\n        print(symbol, end="")\n    print()\n    print(symbol+text+symbol)\n    for i in range(len(text)+2):\n        print(symbol, end="")\n
+def frame(text, symbol):\n    print(symbol + symbol*len(text)+symbol)\n    print(symbol+text+symbol)\n    print(symbol + symbol*len(text)+symbol)\n
+def frame(text, symbol):\n    x = len(text) + 2\n    print(symbol*x)\n    print(symbol + text + symbol)\n    print(symbol*x)
+def frame(text, symbol):\n    print(symbol*len(text)+2*symbol)\n    print(symbol+text+symbol)\n    print(symbol*len(text)+2*symbol)\n
+def frame(text, symbol):\n    print(symbol*(len(text)+2)) \n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))
+def frame(text, symbol):\n    x=len(text)+2\n    print(symbol*x)\n    print(symbol+text+symbol)\n    print(symbol*x)
+def frame(text, symbol):\n    pocet=len(text)\n    print(symbol * (pocet+2))\n    print(symbol + text + symbol)\n    print(symbol * (pocet+2))\n
+def frame(text, symbol):\n    print(symbol*len(text)+symbol*2)\n    print(symbol+text+symbol)\n    print(symbol*len(text)+symbol*2)
+def frame(text, symbol):\n    print(symbol*(len(text)+2))\n    print(symbol+text+symbol)\n    print(symbol*(len(text)+2))\n    \n

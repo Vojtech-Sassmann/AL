@@ -1,0 +1,752 @@
+def near_fifty(n):
+    if n>=40 and n<=60:
+    	return True
+    elif n>=140 and n<=160:
+        return True
+    else: return False
+
+def near_fifty(n):
+    return ((n >= 40) and (n <60 ) or (n >= 140) and (n < 160))
+
+def near_fifty(n):
+    if 40<=n<=60 or 140<=n<=160:
+        return True
+    return False
+
+def near_fifty(n):
+    return ((n>=40 and n<=60) or (n>=140 and n<=160))
+
+def near_fifty(n):
+    if 39<n<61 or 139<n<161:
+        return True
+    return False
+def near_fifty(n):
+    if n in range(40,61) or n in range(140,161):
+    	return True
+    else:
+        return False
+def near_fifty(n):
+    if (n - 50 >= -10 and n - 50 <=10) or (n - 150 >= -10 and n - 150 <=10):
+        return True
+    return False
+
+def near_fifty(n):
+    if ((n >= 40) and (n <= 60) or (n >= 140) and (n <= 160)): 
+        return True
+    else:
+        return False
+    return False
+
+def near_fifty(n):
+    if (n>=40 and n<=60) or (n>=140 and n<=160): return True
+    else: return False
+
+def near_fifty(n):
+    if abs(n-50)<11 or abs(n-150)<11:
+        return True
+    return False
+
+def near_fifty(n):
+    if (n<=60 and n >=40) or (n<=160 and n>=140): return True
+    return False
+
+def near_fifty(n):
+    if n>39 and n<61:
+        return True
+    if n>139 and n<161:
+        return True    
+    else: return False
+def near_fifty(n):
+    if(40<=n<=60)or(140<=n<=160):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n<61 and n>39 or n<161 and n>139:
+        return True
+    else:
+        return False
+def near_fifty(n):
+    if n<=60 and n>=40 or n<=160 and n>=140:
+    	return True
+    else:
+        return False
+def near_fifty(n):
+    if (n-50>-11 and n-50<11) or (n-150>-11 and n-150<11):
+        return True
+    return False
+
+def near_fifty(n):
+    if (n%50>39) or (n%50<11) and (n%50>0):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+	if (39<n) and (n<61):
+		return True
+	if (139<n) and (n<161):
+		return True
+	else:
+		return False
+def near_fifty(n):
+    if 39 < n < 61 :
+        return True
+    if 139 < n < 161:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    return (abs(n - 50) <= 10) or (abs(n - 150) <= 10)
+
+def near_fifty(n):
+    if n<50 and n-50>=-10:
+        return True
+    elif n>50 and n<150 and (n-50<=10 or n-150>=-10):
+        return True
+    elif n>150 and n-150<=10:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    d = 10
+    return (n>=50-d and n<=50+d)or(n>=150-d and n<=150+d)
+
+def near_fifty(n):
+    if ((abs(n - 150) < 11) or (abs(n - 50) < 11)):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    for x in 50, 150:
+        if n >= x - 10 and n <= x + 10:
+            return True
+    return False
+
+def near_fifty(n):
+    if n > 39 and n <61 :
+    	return True
+    elif n > 139 and n < 161 :
+        return True
+    else :
+    	return False
+
+def near_fifty(n):
+    if 39<n<61:
+        return True
+    elif 139<n<161:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if(abs(n-50)<=10)or(abs(n-150)<=10):
+        return True
+    else:
+        return False
+def near_fifty(n):
+    if 60>=n>=40:
+        return True
+    elif 160>=n>=140:
+        return True
+    else:
+        return False
+        
+
+def near_fifty(n):
+    return (40<=n<=60) or (140<=n<=160)
+
+def near_fifty(n):
+    if n <= 60 and n >= 40:
+   		return True
+    elif n <= 160 and n >= 140:
+        return True
+    else:
+        return False
+def near_fifty(n):
+    x = abs(50 - n)
+    y = abs(150 - n)
+    if y <= 10:
+        return True
+    
+    if x <= 10:
+        return True
+    else:
+        return False    
+    return y or x
+    
+
+def near_fifty(n):
+    return abs(50 - n) < 11 or abs(150 - n) < 11
+
+def near_fifty(n):
+    if 61>n>39:
+    	return True
+    elif 161>n>139:
+    	return True
+    else: return False
+
+def near_fifty(n):
+    if (n < 50 and (50 - n <= 10)) or (n > 50 and ( n - 50 <= 10))or (n < 150 and (150 - n <= 10)) or (n > 150 and ( n - 150 <= 10)):
+    	return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n > 39 and n < 61 or n < 161 and n > 139:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if (40 <= n <= 60) | (140 <= n <= 160):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if 40 <= n <= 50 or 140<= n <=150:
+        return True
+    elif 50 <= n <= 60 or 150<= n <=160:
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60:
+        return True
+    if n >= 140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+   if 40<=n<=60:
+      return True
+   if 140<=n<=160:
+      return True
+   else:
+    return False
+
+def near_fifty(n):
+    if 40 <= n <= 60:
+        return True
+    elif 140 <= n <= 160:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if  n -10 <= 50 and n +10 >= 50:
+    	return True
+    elif n -10 <= 150 and n +10 >= 150:
+        return True
+    else:	
+        return False
+
+
+def near_fifty(n):
+    if 39 < n < 61 or 139 < n < 161:
+        return True
+    else:
+    	return False
+
+def near_fifty(n):
+    return (n <= 160 and n >= 140) or (n <= 60 and n >= 40)
+
+def near_fifty(n):
+    if (n in range(50-10, 50+11)) or (n in range(150-10, 150+11)):
+        return True
+    else:
+    	return False
+
+def near_fifty(n):
+    range1 = (140,161)
+    range2 = (40,61)
+    if (n >= range1[0] and n < range1[1]) or (n >= range2[0] and n < range2[1]):
+        return  True
+    return False
+
+def near_fifty(n):
+    for i in range(11):
+        if 50 + i == n or 50 - i == n or 150 + i == n or 150 - i == n:
+            return True
+    return False
+
+def near_fifty(n):
+    if n in range(40, 61) or n in range(141, 161):
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >=140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+    i = n+10
+    o = n-10
+    if (i>=50 and o<=50) or (i>=150 and o<=150):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n>=40 and n<=60:
+    	return True
+    if n >= 140 and n<=160:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n in range(39, 61):
+        return True
+    elif n in range(139, 161):
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60:
+        return True
+    elif n >= 140 and n <= 160:
+        return True
+    return False
+def near_fifty(n):
+    a = 0
+    for i in range(40,61,1):
+        if n == i:
+            a += 1
+            return True
+    for i in range(140,161,1):
+        if n == i:
+            a+=1
+            return True
+    if a == 0:
+        return False
+def near_fifty(n):
+    if 40<=n<60 or 140<=n<160:
+        return True
+    return False
+
+def near_fifty(n):
+    return min(abs(n - 50), abs(n - 150)) <= 10
+
+def near_fifty(n):
+    '''if ((n < 40) or ((n > 60 ) and (n < 140) or (n > 160)):'''
+    if (n < 40) or ((n > 60) and (n < 140)) or (n > 160):
+    	return False
+    else: return True  
+                  
+
+def near_fifty(n):
+    if n < 40 : return False
+    if n > 160 : return False
+    if n > 40 :
+        if n < 60 : return True
+    if n > 140 :
+        if n < 160 : return True
+    if n is 160 : return True
+    if n is 140 : return True
+    if n is 60 : return True
+    if n is 40 : return True
+
+def near_fifty(n):
+    if n <= 60 and n >=40:
+     	for value in range(40, 60):
+     		if n == value:
+     			#print(n,value)
+     			return True
+     		else:
+     			pass
+    elif n <= 160 and n >=140:
+     	return True
+
+    else:
+    	return False
+def near_fifty(n):
+    if (50 - n) / 10 <= 1 and (50 - n) / 10 >= -1:
+        return True
+    elif (150 - n) / 10 <= 1 and (150 - n) / 10 >= -1:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n>=40 and n<=60:
+    	return True
+    elif n>=140 and n<=160:
+        return True
+    else: return False
+
+def near_fifty(n):
+    return ((n >= 40) and (n <60 ) or (n >= 140) and (n < 160))
+
+def near_fifty(n):
+    if 40<=n<=60 or 140<=n<=160:
+        return True
+    return False
+
+def near_fifty(n):
+    return ((n>=40 and n<=60) or (n>=140 and n<=160))
+
+def near_fifty(n):
+    if 39<n<61 or 139<n<161:
+        return True
+    return False
+def near_fifty(n):
+    if n in range(40,61) or n in range(140,161):
+    	return True
+    else:
+        return False
+def near_fifty(n):
+    if (n - 50 >= -10 and n - 50 <=10) or (n - 150 >= -10 and n - 150 <=10):
+        return True
+    return False
+
+def near_fifty(n):
+    if ((n >= 40) and (n <= 60) or (n >= 140) and (n <= 160)): 
+        return True
+    else:
+        return False
+    return False
+
+def near_fifty(n):
+    if (n>=40 and n<=60) or (n>=140 and n<=160): return True
+    else: return False
+
+def near_fifty(n):
+    if abs(n-50)<11 or abs(n-150)<11:
+        return True
+    return False
+
+def near_fifty(n):
+    if (n<=60 and n >=40) or (n<=160 and n>=140): return True
+    return False
+
+def near_fifty(n):
+    if n>39 and n<61:
+        return True
+    if n>139 and n<161:
+        return True    
+    else: return False
+def near_fifty(n):
+    if(40<=n<=60)or(140<=n<=160):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n<61 and n>39 or n<161 and n>139:
+        return True
+    else:
+        return False
+def near_fifty(n):
+    if n<=60 and n>=40 or n<=160 and n>=140:
+    	return True
+    else:
+        return False
+def near_fifty(n):
+    if (n-50>-11 and n-50<11) or (n-150>-11 and n-150<11):
+        return True
+    return False
+
+def near_fifty(n):
+    if (n%50>39) or (n%50<11) and (n%50>0):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+	if (39<n) and (n<61):
+		return True
+	if (139<n) and (n<161):
+		return True
+	else:
+		return False
+def near_fifty(n):
+    if 39 < n < 61 :
+        return True
+    if 139 < n < 161:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    return (abs(n - 50) <= 10) or (abs(n - 150) <= 10)
+
+def near_fifty(n):
+    if n<50 and n-50>=-10:
+        return True
+    elif n>50 and n<150 and (n-50<=10 or n-150>=-10):
+        return True
+    elif n>150 and n-150<=10:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    d = 10
+    return (n>=50-d and n<=50+d)or(n>=150-d and n<=150+d)
+
+def near_fifty(n):
+    if ((abs(n - 150) < 11) or (abs(n - 50) < 11)):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    for x in 50, 150:
+        if n >= x - 10 and n <= x + 10:
+            return True
+    return False
+
+def near_fifty(n):
+    if n > 39 and n <61 :
+    	return True
+    elif n > 139 and n < 161 :
+        return True
+    else :
+    	return False
+
+def near_fifty(n):
+    if 39<n<61:
+        return True
+    elif 139<n<161:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if(abs(n-50)<=10)or(abs(n-150)<=10):
+        return True
+    else:
+        return False
+def near_fifty(n):
+    if 60>=n>=40:
+        return True
+    elif 160>=n>=140:
+        return True
+    else:
+        return False
+        
+
+def near_fifty(n):
+    return (40<=n<=60) or (140<=n<=160)
+
+def near_fifty(n):
+    if n <= 60 and n >= 40:
+   		return True
+    elif n <= 160 and n >= 140:
+        return True
+    else:
+        return False
+def near_fifty(n):
+    x = abs(50 - n)
+    y = abs(150 - n)
+    if y <= 10:
+        return True
+    
+    if x <= 10:
+        return True
+    else:
+        return False    
+    return y or x
+    
+
+def near_fifty(n):
+    return abs(50 - n) < 11 or abs(150 - n) < 11
+
+def near_fifty(n):
+    if 61>n>39:
+    	return True
+    elif 161>n>139:
+    	return True
+    else: return False
+
+def near_fifty(n):
+    if (n < 50 and (50 - n <= 10)) or (n > 50 and ( n - 50 <= 10))or (n < 150 and (150 - n <= 10)) or (n > 150 and ( n - 150 <= 10)):
+    	return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n > 39 and n < 61 or n < 161 and n > 139:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if (40 <= n <= 60) | (140 <= n <= 160):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if 40 <= n <= 50 or 140<= n <=150:
+        return True
+    elif 50 <= n <= 60 or 150<= n <=160:
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60:
+        return True
+    if n >= 140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+   if 40<=n<=60:
+      return True
+   if 140<=n<=160:
+      return True
+   else:
+    return False
+
+def near_fifty(n):
+    if 40 <= n <= 60:
+        return True
+    elif 140 <= n <= 160:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if  n -10 <= 50 and n +10 >= 50:
+    	return True
+    elif n -10 <= 150 and n +10 >= 150:
+        return True
+    else:	
+        return False
+
+
+def near_fifty(n):
+    if 39 < n < 61 or 139 < n < 161:
+        return True
+    else:
+    	return False
+
+def near_fifty(n):
+    return (n <= 160 and n >= 140) or (n <= 60 and n >= 40)
+
+def near_fifty(n):
+    if (n in range(50-10, 50+11)) or (n in range(150-10, 150+11)):
+        return True
+    else:
+    	return False
+
+def near_fifty(n):
+    range1 = (140,161)
+    range2 = (40,61)
+    if (n >= range1[0] and n < range1[1]) or (n >= range2[0] and n < range2[1]):
+        return  True
+    return False
+
+def near_fifty(n):
+    for i in range(11):
+        if 50 + i == n or 50 - i == n or 150 + i == n or 150 - i == n:
+            return True
+    return False
+
+def near_fifty(n):
+    if n in range(40, 61) or n in range(141, 161):
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >=140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+    i = n+10
+    o = n-10
+    if (i>=50 and o<=50) or (i>=150 and o<=150):
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n>=40 and n<=60:
+    	return True
+    if n >= 140 and n<=160:
+        return True
+    else:
+        return False
+
+def near_fifty(n):
+    if n in range(39, 61):
+        return True
+    elif n in range(139, 161):
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60:
+        return True
+    elif n >= 140 and n <= 160:
+        return True
+    return False
+def near_fifty(n):
+    a = 0
+    for i in range(40,61,1):
+        if n == i:
+            a += 1
+            return True
+    for i in range(140,161,1):
+        if n == i:
+            a+=1
+            return True
+    if a == 0:
+        return False
+def near_fifty(n):
+    if 40<=n<60 or 140<=n<160:
+        return True
+    return False
+
+def near_fifty(n):
+    return min(abs(n - 50), abs(n - 150)) <= 10
+
+def near_fifty(n):
+    '''if ((n < 40) or ((n > 60 ) and (n < 140) or (n > 160)):'''
+    if (n < 40) or ((n > 60) and (n < 140)) or (n > 160):
+    	return False
+    else: return True  
+                  
+
+def near_fifty(n):
+    if n < 40 : return False
+    if n > 160 : return False
+    if n > 40 :
+        if n < 60 : return True
+    if n > 140 :
+        if n < 160 : return True
+    if n is 160 : return True
+    if n is 140 : return True
+    if n is 60 : return True
+    if n is 40 : return True
+
+def near_fifty(n):
+    if n <= 60 and n >=40:
+     	for value in range(40, 60):
+     		if n == value:
+     			#print(n,value)
+     			return True
+     		else:
+     			pass
+    elif n <= 160 and n >=140:
+     	return True
+
+    else:
+    	return False
+def near_fifty(n):
+    if (50 - n) / 10 <= 1 and (50 - n) / 10 >= -1:
+        return True
+    elif (150 - n) / 10 <= 1 and (150 - n) / 10 >= -1:
+        return True
+    else:
+        return False
+

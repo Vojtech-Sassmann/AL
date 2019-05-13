@@ -1,0 +1,91 @@
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+def nonzero_product(numbers):
+	x = 1
+	for i in range(len(numbers)):
+		if numbers[i] != 0:
+			x *= numbers[i]
+	return x
+def nonzero_product(numbers):
+    b = 1
+    for i in range(len(numbers)):
+        if numbers[i]!=0:
+            b = b * numbers[i]
+    return b
+
+def nonzero_product(numbers):
+    multi = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            multi *= numbers[i]
+    return multi
+
+def nonzero_product(numbers):
+    num_sum = 1
+    for i in range (0,len(numbers)):
+        if numbers[i] != 0:
+            num_sum = num_sum * numbers[i]
+    return num_sum
+def nonzero_product(numbers):
+    x = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            x *= numbers[i]
+    return x
+def nonzero_product(numbers):
+    product = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            product *= numbers[i]
+    return product
+
+def nonzero_product(numbers):
+	soucin=1
+	for i in range(len(numbers)):
+		if numbers[i]!=0:
+			soucin=soucin*numbers[i]
+	return soucin
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            soucin *= numbers[i]
+    return soucin
+
+def nonzero_product(numbers):
+    x = 1
+    for i in range(0, len(numbers)):
+        if numbers[i] != 0:
+            x = numbers[i] * x
+    return(x)
+
+
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            soucin = soucin*numbers[i]
+    return soucin
+
+def nonzero_product(numbers):
+    prod = 1
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            prod *= numbers[i]
+    return prod
+
+def nonzero_product(numbers):
+    soucin = 1
+    for i in range(len(numbers)):
+        if numbers[i] !=0:
+            soucin *= numbers[i]
+    return soucin
+

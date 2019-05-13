@@ -1,0 +1,96 @@
+1.707042253521127
+def sequences(n):
+    for i in range(1, n + 1):
+        x = " "
+        for j in range(1, i + 1):
+            x += str(j) + " "
+        print(x)
+            
+
+1.2845070422535212
+def sequences(n):
+    counter=1
+    for i in range(n):
+        for j in range(i+1):
+            print(counter, end=" ")
+            counter=counter+1
+        counter=1
+        print()
+
+1.2338028169014086
+def sequences(n):
+	for i in range(n+1):
+		if i>0:
+			for j in range(i):
+				print(j+1, end=" ")
+			print()
+
+1.0309859154929577
+def sequences(n):
+    for i in range(n):
+        o = 1
+        for j in range(i+1):
+            print(o, end=" ")
+            o += 1
+        print()
+
+1.0140845070422535
+def sequences(n):
+    for i in range(1,n+1):
+        x=0
+        for j in range(i):
+            x=x+1
+            print(x, end=" ")
+        print()
+
+0.9295774647887324
+def sequences(n):
+    for i in range(n):
+        for j in range(i+1):
+            i=0
+            print(i+j+1, end=" ")
+        print()
+
+0.9126760563380282
+def sequences(n):
+    for i in range(n):
+        for j in range(i+1):
+            i = j + 1
+            print(i, end=" ")
+        print()
+
+0.895774647887324
+def sequences(n):
+    for i in range(n):
+        for j in range(i):
+            print(j+1, end=" ")
+        print(i+1)
+
+0.8112676056338028
+def sequences(n):
+    for i in range(n):
+        for j in range(1,i+1):
+            print(j, end=" ")
+        print(i+1)
+
+0.7943661971830986
+def sequences(n):
+    for i in range(n+1):
+        for j in range(i):
+            print(j+1, end=" ")
+        print()
+
+0.7098591549295775
+def sequences(n):
+    for i in range(1,n+1):
+        for j in range(1,i+1):
+            print(j, end=" ")
+        print()
+
+0.676056338028169
+def sequences(n):
+    for i in range(n):
+        for j in range(i+1):
+            print(j+1, end=" ")
+        print()
+

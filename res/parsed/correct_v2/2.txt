@@ -1,0 +1,33 @@
+def fibonacci(n):\n	a=1\n	print(a)\n	b=1\n	print(b)\n	p=b\n	for i in range(n-2):\n    	print(a+b)\n    	p=b+a\n    	a=b\n    	b=p
+def fibonacci(n):\n    xold = 1\n    yold = 1\n    vysledok = 0\n    for i in range(n):\n        if i == 0 or i == 1:\n            print(1)\n        else:\n            vysledok = xold + yold\n            print(vysledok)\n            xold = yold\n            yold = vysledok\n
+def fibonacci(n):\n    j=1\n    k=1\n    for i in range(n):\n        if i==0 or i==1:\n            print(1)\n        else:\n            print(j+k)\n            if j>k:\n                k+=j\n            else:\n                j+=k
+def fibonacci(n):\n    x=1\n    y=1\n    f=0\n    print("1")\n    print("1")\n    for i in range(1,n-1):\n        f=x+y\n        x=y\n        y=f\n        print (f)\n
+def fibonacci(n):\n    x1 = 1\n    x2 = 1\n    nt = 0\n    print(x1)\n    print(x2)\n    for i in range(2,n):\n		print(x1+x2)\n		nt = x1 + x2\n		x1 = x2\n		x2 = nt
+def fibonacci(n):\n    last = 0\n    last2 = 1\n    for i in range(1, n+1):\n		fib = last + last2\n		print(fib)\n		last2 = last\n		last = fib
+def fibonacci(n):\n    a = 1\n    b = 2\n    print(1)\n    print(a)\n    print(b)\n    for i in range(n -3):\n        c = a + b\n        print(c)\n        a = b\n        b = c\n
+def fibonacci(n):\n    a0=0\n    a1=1\n    print(1)\n    for i in range(n-1):\n        an=a0+a1\n        print(an)\n        a0=a1\n        a1=an\n        \n    print()\n
+def fibonacci(n):\n    current_element = 1\n    next_element = 1 \n    \n    for i in range(n):\n        print(current_element)\n        new = current_element\n        current_element = next_element\n        next_element += new\n
+def fibonacci(n):\n    a=1\n    b=0\n\n    for i in range(1,n+1):\n                  \n            print(a+b)\n            b=a+b\n            a=b-a\n          \n        \n
+def fibonacci(n):\n    current = 1\n    next = 1\n    for i in range(n):\n        print(current)\n        next_next = current + next\n        current = next\n        next = next_next\n    print()\n
+def fibonacci(n):\n    fib=[1,1]\n    for i in range(2,n):\n        fib.append(fib[i-2]+fib[i-1])\n    for i in range(n):\n        print(fib[i])\n    \n
+def fibonacci(n):\n    first_number = 0\n    second_number = 1\n    x = 0\n    for i in range(1, n+1):\n        print(second_number)\n        x = first_number + second_number\n        first_number = second_number\n        second_number = x\n\n
+def fibonacci(n):\n    a=0\n    b=1\n    for i in range(n):\n        print(b)\n        w=b\n        b=a+b\n        a=w\n
+def fibonacci(n):\n    l=[1,0]\n    for i in range(n):\n        \n        print(l[0]+l[1])\n        l[i%2]=l[0]+l[1]\n
+def fibonacci(n):\n    fiblist = [1,1]\n    for i in range(n):\n        F = fiblist[i] + fiblist[i+1]\n        fiblist.append(F)\n    for s in range(n):\n        print(fiblist[s])\n            
+def fibonacci(n):\n    x = 1\n    y = 1\n    print(x,y, sep="\n")\n    for i in range(n-2):\n        c = x + y\n        print(c)\n        x = y\n        y = c\n
+def fibonacci(n): # fibonacciho posloupnost\n    o = 0\n    p = 1\n    print(p)\n    for i in range(1, n):\n        print(o + p)\n        p = p + o\n        o = p - o
+def fibonacci(n):\n    o = 0\n    p = 1\n    print(p)\n    for i in range(1, n):\n        print(o + p)\n        p = p + o \n        o = p - o\n        \n
+def fibonacci(n):\n    alist = [1,1]\n    print(alist[0])\n    print(alist[1])\n    for i in range(2,n):\n        alist.append(alist[i-1]+alist[i-2])\n        print(alist[i])\n
+def fibonacci(n):\n    fib = [1, 1]\n    for i in range(n):\n        fib.append(fib[len(fib)-1]+fib[len(fib)-2])\n    for i in range(n):\n    	print(fib[i])\n
+def fibonacci(n):\n    current_element = 1\n    previous_element = 0\n    for _ in range(n):\n        print(current_element)\n        new_element = previous_element + current_element\n        previous_element = current_element\n        current_element = new_element\n
+def fibonacci(n):\n    last = 0\n    total = 1\n    for i in range(n):\n        print(total)\n        total = last + total\n        last = total - last
+def fibonacci(n):\n    previous = 1\n    preprevious = 1\n    for i in range(n):\n        now = previous + preprevious\n        print(preprevious)\n        preprevious = previous\n        previous = now\n        \n
+def fibonacci(n):\n    x = 1\n    y = 1\n    print(x)\n    print(y)\n    for i in range(n-2):\n        z = x + y\n        print(z)\n        x = y\n        y = z\n
+def fibonacci(n):\n	fib=[1,1]\n	for i in range(2,n+1):\n		fib.insert(i,fib[i-2]+fib[i-1])\n	for j in range(n):\n		print(fib[j])\n
+def fibonacci(n):\n    a,b = 0,1\n    for i in range(n):\n        a,b = b, a + b\n        print(a)\n
+def fibonacci(n):\n    k = 1\n    print(k)\n    m = 1\n    print(m)\n    a = 1\n    for i in range(2,n):\n    	a = k + m\n            k = m \n            m = a \n            print(a)\n
+def fibonacci(n):\n    fib = [1, 1]\n    n -= 2\n    for i in range(2,n+2):\n        fib.append((fib[i-1]+fib[i-2]))\n    for item in fib:\n        print(item)\n
+def fibonacci(n):\n    x = list()\n    y = list()\n    x.append(1)\n    x.append(1)\n    for i in range(0,n-2):\n        souc = x[i] + x[i+1]\n        x.append(souc)\n    if n > 2:\n           for i in range(0, len(x)):\n           	print(x[i])\n    elif n == 1:\n        print(x[1])\n    elif n == 2:\n        for i in range(n):\n            print(x[i])\n\n
+def fibonacci(n):\n    a=1\n    b=1\n    print(a)\n    if n>1: print(b)\n    for i in range(3,n+1):\n        b=a+b\n        a=b-a\n        print(b)      \n\n
+def fibonacci(n):\n	a=1\n	b=1\n	print(a)\n	if n>1: print(b)\n	for i in range(3,n+1):\n		b=a+b\n		a=b-a\n		print(b)\n
+def fibonacci(n):\n	f=1\n	p=1\n	print(p)\n	print(f)\n	for i in range(n-2):\n		if p>f:\n			f=f+p\n			print(f)\n		elif f>p:\n			p=f+p\n			print(p)\n		else:\n			f=f+p\n			print(f)\n		\n

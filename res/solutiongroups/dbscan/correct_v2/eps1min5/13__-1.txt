@@ -1,0 +1,356 @@
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        for i in range(len(right)):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+def string_intersection(left, right):
+
+    for i in range (len(shorter(left,right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+
+def string_intersection(left, right):
+    delka = 0
+    if len(left) < len(right):
+        delka = len(left)
+    else:
+        delka = len(right)        
+    
+    for i in range(delka):
+        if left[i]==right[i]:
+            print(left[i])
+            
+    print()
+
+def string_intersection(left, right):
+    left=list(left)
+    right=list(right)
+    for i in range(min([len(left),len(right)])):
+        if left[i]==right[i]:
+        	print(left[i])
+
+def string_intersection(left, right):
+    stejne=''
+    for l, r in zip(left,right):
+        if l == r:
+            print(l)
+        else:
+            continue     
+
+    print()
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        for j in range(len(right)):
+            if i == j and left[i] == right[j]:
+                print(left[i])
+    print()
+
+def string_intersection(left, right):
+    for i in range(min(len(left),len(right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        try:
+            if left[i] == right[i]:
+                print(left[i])
+        except IndexError:
+            pass
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        kratsi_delka =  len(right)
+    else: # if len(left) <= len(right)
+        kratsi_delka = len(left)
+    for x in range(kratsi_delka):
+        if left[x] == right[x]: 
+            print(right[x])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        kratsi_delka = len(right)
+    else:
+        kratsi_delka = len(left)
+        
+    for x in range(kratsi_delka):
+        if left[x] == right[x]:
+            print(left[x])
+        
+    print()
+
+
+def string_intersection(left, right):
+    y = len(right)-len(left)
+    x = len(left)-len(right)
+    if len(left) > len(right):
+        for i in range(len(left)-x):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(right)-y):
+            if left[i] == right[i]:
+                print(right[i])
+        
+def string_intersection(left, right):
+    if len(left) > len(right):
+        bigger = left
+        smaller = right
+    else:
+        bigger = right
+        smaller = left
+    for i in range(len(smaller)):
+        if smaller[i] == bigger[i]:
+            print(smaller[i])
+
+def string_intersection(left, right):
+    alen = len(right)
+    for i in range(0, alen):
+        if right[i] == left[i]:
+        	print(right[i])
+def string_intersection(left, right):
+    l = list(left)
+    r = list(right)
+    if len(l) <= len(r):
+        a = len(l)
+    else:
+        a = len(r)
+    for i in range(a):
+        if l[i] == r[i]:
+            print(l[i])
+def string_intersection(left, right):
+    if len(left) <= len(right):
+        text = left
+    else:
+        text = right
+    for n in range(len(text)):
+        if left[n] == right[n]:
+            print(left[n])
+        
+            
+
+def string_intersection(left, right):
+    try:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+    except:
+        pass
+    
+
+def string_intersection(left, right):
+	delka=min(len(left),len(right))
+	for i in range(delka):
+		if left[i]==right[i]:
+			print(left[i])
+def string_intersection(left, right):
+    shoda = ""
+    if len(left) > len(right):
+        delka = len(right)
+    else:
+        delka = len(left)
+    for i in range(delka):
+        if left[i] == right[i]:
+            shoda = shoda + left[i]
+            print(left[i])
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        for i in range(len(right)):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+
+def string_intersection(left, right):
+    for l, r in zip(left, right):
+        if l == r:
+            print(l)
+
+def string_intersection(left, right):
+
+    for i in range (len(shorter(left,right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+
+def shorter(left,right):
+    if len(left)<=len(right):
+        return left
+    else: return right
+
+
+def string_intersection(left, right):
+    delka = 0
+    if len(left) < len(right):
+        delka = len(left)
+    else:
+        delka = len(right)        
+    
+    for i in range(delka):
+        if left[i]==right[i]:
+            print(left[i])
+            
+    print()
+
+def string_intersection(left, right):
+    left=list(left)
+    right=list(right)
+    for i in range(min([len(left),len(right)])):
+        if left[i]==right[i]:
+        	print(left[i])
+
+def string_intersection(left, right):
+    stejne=''
+    for l, r in zip(left,right):
+        if l == r:
+            print(l)
+        else:
+            continue     
+
+    print()
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        for j in range(len(right)):
+            if i == j and left[i] == right[j]:
+                print(left[i])
+    print()
+
+def string_intersection(left, right):
+    for i in range(min(len(left),len(right))):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        try:
+            if left[i] == right[i]:
+                print(left[i])
+        except IndexError:
+            pass
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        kratsi_delka =  len(right)
+    else: # if len(left) <= len(right)
+        kratsi_delka = len(left)
+    for x in range(kratsi_delka):
+        if left[x] == right[x]: 
+            print(right[x])
+
+def string_intersection(left, right):
+    if len(left) > len(right):
+        kratsi_delka = len(right)
+    else:
+        kratsi_delka = len(left)
+        
+    for x in range(kratsi_delka):
+        if left[x] == right[x]:
+            print(left[x])
+        
+    print()
+
+
+def string_intersection(left, right):
+    y = len(right)-len(left)
+    x = len(left)-len(right)
+    if len(left) > len(right):
+        for i in range(len(left)-x):
+            if left[i] == right[i]:
+                print(left[i])
+    else:
+        for i in range(len(right)-y):
+            if left[i] == right[i]:
+                print(right[i])
+        
+def string_intersection(left, right):
+    if len(left) > len(right):
+        bigger = left
+        smaller = right
+    else:
+        bigger = right
+        smaller = left
+    for i in range(len(smaller)):
+        if smaller[i] == bigger[i]:
+            print(smaller[i])
+
+def string_intersection(left, right):
+    alen = len(right)
+    for i in range(0, alen):
+        if right[i] == left[i]:
+        	print(right[i])
+def string_intersection(left, right):
+    l = list(left)
+    r = list(right)
+    if len(l) <= len(r):
+        a = len(l)
+    else:
+        a = len(r)
+    for i in range(a):
+        if l[i] == r[i]:
+            print(l[i])
+def string_intersection(left, right):
+    if len(left) <= len(right):
+        text = left
+    else:
+        text = right
+    for n in range(len(text)):
+        if left[n] == right[n]:
+            print(left[n])
+        
+            
+
+def string_intersection(left, right):
+    try:
+        for i in range(len(left)):
+            if left[i] == right[i]:
+                print(left[i])
+    except:
+        pass
+    
+
+def string_intersection(left, right):
+	delka=min(len(left),len(right))
+	for i in range(delka):
+		if left[i]==right[i]:
+			print(left[i])
+def string_intersection(left, right):
+    shoda = ""
+    if len(left) > len(right):
+        delka = len(right)
+    else:
+        delka = len(left)
+    for i in range(delka):
+        if left[i] == right[i]:
+            shoda = shoda + left[i]
+            print(left[i])

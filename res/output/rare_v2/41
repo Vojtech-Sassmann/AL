@@ -1,0 +1,380 @@
+1.9222255459168411
+def nice(a, b):
+    if a % 2 == 0:
+        if b % 2 == 1:
+            return True
+    if b % 2 == 0:
+            if a % 2 == 1:
+                return True
+    if a % 2 == 0 and b % 2 == 0:
+        return False
+    if a % 2 == 1 and b % 2 == 1:
+        return False
+
+1.7971283278492372
+def nice(a, b):
+    if a%2 == 0 and b%2 == 0:
+        return False
+    elif a%2 == 1 and b%2 == 1:
+        return False
+    elif a%2 == 0 and b%2 == 1 or a%2 == 1 and b%2 == 0:
+        return True
+
+1.3562369129524379
+def nice(a, b):
+    if a%2==0 and b%2!=0 or b%2==0 and a%2!=0:
+        print(True)
+    else:
+        print(False)
+    return print(end="")
+
+1.3409811546515107
+def nice(a, b):
+    if a%2 is True and b%2 is False:
+        return True
+    if a%2 is False and b%2 is True:
+        return True
+    else: return False
+
+1.2967394555788214
+def nice(a, b):
+    return (a ^ b)&1==1
+
+1.2494466048459467
+def nice(a, b):
+    return (a+b)%2==1
+
+1.1991026024528866
+def nice(a, b):
+    if a % 2 == 0:
+        if b % 2 ==1:
+            return True
+        else:
+            return False
+    elif b % 2 == 0:
+        if a % 2 ==1:
+            return True
+        else:
+            return False
+    else:
+    	return False
+
+1.1899491474723303
+def nice(a, b):
+    return a % 2 != b % 2
+
+1.1396051450792701
+def nice(a, b):
+    x = a % 2
+    y = b % 2
+    return x != y
+
+1.1045169009871374
+def nice(a, b):
+    return (a % 2 == 0) != (b % 2 == 0)
+
+1.0526473227639845
+def nice(a, b):
+    if a%2 :
+        if b%2 :
+            return False
+        else :
+            return True
+    else :
+        if b%2 :
+            return True
+        else :
+            return False
+1.0465450194436134
+def nice(a, b):
+    if a%2 and b%2:
+    	return False
+    elif not a%2 and not b%2:
+       	return False
+    else:
+       	return True
+1.0465450194436134
+def nice(a, b):
+    if a%2 and b%2 or not a%2 and not b%2:
+        return False
+    else:
+        return True
+
+1.0389171402931499
+def nice(a, b):
+    if a % 2 == 0:
+        return b % 2 != 0
+    else:
+        return b % 2 == 0
+
+1.0373915644630571
+def nice(a, b):
+    if (a+b)%2 == 1:
+        return True
+    return False
+
+1.032814836972779
+def nice(a, b):
+    if a % 2 == 0 and not b % 2 == 0:
+    	return True
+    elif b % 2 == 0 and not a % 2 == 0:
+    	return True
+    else:
+        return False
+
+1.0236613819922225
+def nice(a, b):
+    prvni = a % 2
+    druhe = b % 2
+    if prvni == druhe:
+        return False
+    else:
+        return True
+
+1.0236613819922225
+def nice(a, b):
+    c=a+b
+    if c%2==0:
+        return False
+    elif c%2==1:
+        return True
+
+    
+
+1.0190846545019443
+def nice(a, b):
+	if((a+b)%2 ==	0):
+		return False
+	elif((a+b)%2 ==	1):
+		return True
+
+1.0023033203709244
+def nice(a, b):
+    if a%2!=b%2:
+        return True
+    return False
+
+0.987047562069997
+def nice(a, b):
+    if((a+b) % 2 != 0):
+        return True
+    else:
+        return False
+
+0.9809452587496261
+def nice(a, b):
+    if a%2==0 :
+        if b%2==0:
+            return False
+        else :
+            return True
+    else:
+        if b%2==0:
+            return True
+        else :
+            return False
+
+0.9733173795991624
+def nice(a, b):
+	if (a % 2 ==0 or b % 2 == 0) and (a % 2 != 0 or b %2 != 0):
+		return True
+	return False
+0.9687406521088843
+def nice(a, b):
+    return ((a % 2 == 0) and (b % 2 != 0)) or ((a % 2 != 0) and (b % 2 == 0))
+
+0.9656895004486987
+def nice(a, b):
+    return ((a%2==0) and  (b%2!=0)) or ((b%2==0) and  (a%2!=0))
+
+0.9397547113371223
+def nice(a, b):
+    if ((a % 2) == 0) & ((b % 2) == 1):
+        return True
+    elif ((b % 2) == 0) & ((a % 2) == 1):
+        return True
+    else:
+        return False
+
+0.9397547113371223
+def nice(a, b):
+    if a%2 == b%2:
+    	return False
+    else:
+        return True
+
+0.9290756805264733
+def nice(a, b):
+    if ((a %2 == 0 or b %2 == 0) and (a%2 !=0 or b %2 != 0)):
+        return True
+    else:
+        return False
+0.8939874364343404
+def nice(a, b):
+    if a % 2 == 0 and b % 2 != 0:
+        return True
+    elif b % 2 == 0 and a % 2 != 0:
+        return True
+    return False
+
+0.8924618606042477
+def nice(a, b):
+    return (a % 2 == 0 and b % 2 == 1) or (b % 2 == 0 and a % 2 == 1)
+
+0.884833981453784
+def nice(a, b):
+    if (a%2==0) ^ (b%2==0):
+        return True
+    else:
+    	return False
+
+0.8802572539635058
+def nice(a, b):
+    if a%2==0 and (b+1)%2==0:
+        return True
+    elif (a+1)%2==0 and b%2==0:
+        return True
+    else:
+        return False
+0.8787316781334131
+def nice(a, b):
+    if ((a%2==0) and (b%2!=0)):
+        return True
+    if ((a%2!=0) and (b%2==0)):
+        return True
+    else:
+        return False
+
+0.8772061023033204
+def nice(a, b):
+    if (a%2==0) and (b%2!=0):
+        return True
+    if (b%2==0) and (a%2!=0):
+        return True
+    else:
+        return False
+
+0.8711037989829494
+def nice(a, b):
+    if (a % 2 == 0 and b % 2 != 0) or (a % 2 != 0 and b % 2 == 0):
+        return True
+    return False
+
+0.868052647322764
+def nice(a, b):
+    if a%2==0 and b%2!=0 or b%2==0 and a%2!=0:
+        return True
+    return False
+
+0.8665270714926713
+def nice(a, b):
+    if ((a % 2 == 0) and (b % 2 == 1) or (a % 2 == 1) and (b % 2 == 0)):
+        return True
+    else:
+        return False
+    return False
+
+0.8634759198324857
+def nice(a, b):
+    if ((a%2 != 0) and (b%2 == 0)) or ((b%2 != 0) and (a%2 == 0)):
+        return True
+    else:
+        return False
+
+0.8634759198324857
+def nice(a, b):
+    if ((a %2 == 0) == (b %2 == 0)):
+    	return False
+    else:
+        return True
+
+0.851271313191744
+def nice(a, b):
+    if a%2 == 0 and b%2 == 0:
+        return False
+    if a%2 == 1 and b%2 == 1:
+        return False
+    return True
+
+0.845169009871373
+def nice(a, b):
+    if (a % 2 == 0 or b % 2 == 0) and (a % 2 == 1 or b % 2 == 1):
+        return True
+    else:
+        return False
+
+0.8329644032306311
+def nice(a, b):
+    if (a%2==0 and b%2==0):
+    	return False
+    elif (a%2 != 0 and b%2!=0):
+        return False
+    else:
+        return True
+
+0.828387675740353
+def nice(a,b):
+    if a%2==0 and b%2!=0 or a%2!=0 and b%2==0:
+        return True
+    else:
+        return False
+        
+0.8253365240801676
+def nice(a, b):
+    if(a%2==0 and b%2!=0)or(b%2==0 and a%2!=0):
+        return True
+    else:
+        return False
+
+0.8253365240801676
+def nice(a, b):
+    if a % 2 == 0 and b % 2 != 0:
+        return True
+    elif b % 2 == 0 and a % 2 != 0:
+        return True
+    else:
+        return False
+0.8253365240801676
+def nice(a, b):
+    if a%2==0 and b%2!=0:
+        return True
+    elif a%2!=0 and b%2==0:
+        return True
+    else:
+        return False
+
+0.8207597965898893
+def nice(a, b):
+    if a % 2 == 0 and b % 2 == 0:
+        return False
+    elif a % 2 == 1 and b % 2 == 1:
+        return False
+    return True
+
+0.8024528866287766
+def nice(a, b):
+    if a%2==0 and b%2==1:
+        return True
+    if a%2==1 and b%2==0:
+        return True
+    else:
+        return False
+
+0.7948250074783129
+def nice(a, b):
+    if a%2 == 0 and b%2 == 1 or a%2 == 1 and b%2 == 0:
+        return True
+    return False
+
+0.7521088842357164
+def nice(a, b):
+    if a%2==1 and b%2==0 or a%2==0 and b%2==1:
+        return True
+    else:
+        return False
+0.7521088842357164
+def nice(a, b):
+    if a%2==0 and b%2==1: return True
+    elif b%2==0 and a%2==1: return True
+    else: return False
+

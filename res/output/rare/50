@@ -1,0 +1,197 @@
+Rate:  21.5
+559.0
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if i == 0 and j == 2 or i == 2 and j == 0 or j == 1 and i ==1 or i == 0 and j == 0 or i == 2 and j==2:
+                print(z, end=' ')
+            else:
+                print(' ', end=' ')
+        print()
+555.0
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if (j==0 and (i==0 or i==2)) or (i==1 and j==1) or (j==2 and (i==2 or i==0)):
+                print(z, end=" ")
+            else:
+                print(" ", end=" ")
+        print()
+486.0
+def cross(z):
+    for i in range (1,10):
+        if i%2 == 0:
+            print("  ", end = "")
+        elif i%2==1:
+            print(z, end = " ")
+        if i%3 == 0:
+            print("")
+        i -= 1
+414.0
+def cross(z):
+    print(z,end="   ")
+    print(z,end="   ")
+    print()
+    print(end="  ")
+    print(z) 
+    print(z, end="   ")
+    print(z)
+
+412.0
+def cross(z):
+    print(z + 3*" " + z )
+    print(2*" " + z + 2*" ")
+    print(z + 3*" " + z )
+
+411.0
+def cross(z):
+    s = [[z,' ',z],[' ',z,' '],[z,' ',z]]
+    for i in s:
+        print(*i)
+    
+
+410.0
+def cross(z):
+    print(z+" "*3+z)
+    print(" "*2+z+" "*2)
+    print(z+" "*3+z)
+    
+
+378.0
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if i==j or i+j==2 :
+                print(z, end=' ')
+            else:
+                print(' ', end=' ')
+        print()
+
+
+362.0
+def cross(z):
+    for i in range(3):
+        if i == 0 or i == 2:
+            print(z, " ", z, end=" ") 
+            print()
+        else:
+            print(" ", z, " ", end=" ")
+            print()
+
+
+355.0
+z = "A"
+y = " "
+def cross(z):
+    print(z, y, z)
+    print(y, z)
+    print(z, y, z)
+    		
+
+344.0
+def line(z):
+	print(z, " ", z)
+
+def cross(z):
+	line(z)
+	print(" ", z)
+	line(z)
+332.0
+def cross(z):
+    print('{0}   {0}'.format(z))
+    print('  {0}'.format(z))
+    print('{0}   {0}'.format(z))
+
+332.0
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print("  ", end="")
+    print(z)
+    print(z, end="   ")
+    print(z)
+
+329.0
+def cross(z):
+    print("%s   %s"%(z,z))
+    print("  %s %s" % (z,))
+    print("%s   %s"%(z,z))
+328.0
+def cross(z):
+    for i in range(3):
+        if i%2 != 1:
+        	print(z,z,sep="   ")
+        	#print()
+        else:
+            print(" ",z,end="  ")
+            print()
+   		
+
+316.0
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+290.0
+def cross(z):
+    print(z +"   "+z)
+    print ("  "+z)
+    print(z +"   "+z)
+    
+
+287.0
+def cross(z):
+    x=' '
+    print(z,x,z)
+    print(x,z,x)
+    print(z,x,z)
+286.0
+def cross(z):
+    print((z),(""),(""),(z))
+    print((""),(""),(z),(""),(""))
+    print((z),(""),(""),(z))
+
+281.0
+def cross(z):
+    print(z," ",z),
+    print(" ",z),
+    print(z," ",z),
+
+280.0
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print(" ", z)
+    print(z, end="   ")
+    print(z)
+254.0
+def cross(z):
+    print(z," ",z),
+    print(" ",z," "),
+    print(z," ",z)
+253.0
+def cross(z):
+    print(z, " ", z)
+    print("  {} ".format(z))
+    print(z, " ", z)
+
+243.0
+def cross(z):
+    print(z,end="   ")
+    print(z)
+    print(" ",z,"  ")
+    print(z," ",z)
+
+
+238.0
+def cross(z):
+    print(z," ",z),
+    print(" ",z)
+    print(z," ",z)
+215.0
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+

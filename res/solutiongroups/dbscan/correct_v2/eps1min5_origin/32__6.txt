@@ -1,0 +1,40 @@
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >=140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+    if (n>=40 and n<=60) or (n>=140 and n<=160):
+    	return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >= 140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >=140 and n <=160:
+        return True
+    return False
+
+def near_fifty(n):
+    if n>=40 and n<=60 or n>=140 and n<=160:
+        return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >= 140 and n <= 160:
+        return True
+    return False
+
+def near_fifty(n):
+    if (n>=40 and n<=60) or (n>=140 and n<=160) : return True
+    return False
+
+def near_fifty(n):
+    if n >= 40 and n <= 60 or n >= 140 and n <= 160:
+        return True
+    return False
+
+

@@ -1,0 +1,52 @@
+def find_longest_word(words_list):\n    nejdelsiSlovo = words_list[0]\n    for x in range(len(words_list)):\n        if(len(nejdelsiSlovo) < len(words_list[x])):\n        	nejdelsiSlovo = words_list[x]\n    return nejdelsiSlovo\n
+def find_longest_word(wordlist):\n  longestWord = ""\n  max_len = 0\n\n  for word in wordlist:\n    if len(word) > max_len:\n      max_len = len(word)\n      longestWord = word\n  return longestWord
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(words_list):\n    k="a"\n    for i in words_list:\n        if (len(i)>len(k)):k=i\n    return(k)\n   \n        \n        
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(list):\n    longest=0\n    for word in list:\n        if len(word)>longest:\n            longest=len(word)\n    return longest\n
+def find_longest_word(words_list):\n    b = 0\n    c = []\n    for i in range(len(words_list)):\n        if (len(words_list[i]))>b:\n            b = len(words_list[i])\n            c.append(words_list[i])\n    return c[0]\n
+def find_longest_word(words_list):\n    b = 0\n    c = []\n    for i in range(len(words_list)):\n        if (len(words_list[i]))>=b:\n            b = len(words_list[i])\n            if i > 0:\n            	c.append(words_list[i])\n    return c[0]\n
+def find_longest_word(words_list):\n    b = 0\n    c = []\n    for i in range(len(words_list)):\n        if (len(words_list[i]))>=b:\n            b = len(words_list[i])\n    for j in range(len(words_list)):\n    	if len(words_list[j]) == b:\n            	c.append(words_list[j])\n    return c[0]\n
+def find_longest_word(words_list):\n    longest = []\n    for i in range(len(words_list)):\n        x = len(words_list[i])\n        longest.append(x)\n    y = max(longest)\n    for j in range(len(longest)):\n        if longest[j] == y:\n            return words_list[j]\n
+def find_longest_word(words_list):\n    r=""\n    m=0\n    for i in words_list:\n        if len(i)>m:\n            m=len(i)\n            r=i\n    return r\n
+def find_longest_word(words_list):\n    longest = words_list[0]\n    for word in words_list:\n        if len(word) > len(longest):\n            longest = word\n    return longest\n
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(words_list):\n    length = 0\n    longest = 0\n    for i in range(0,len(words_list)):\n        if len(words_list[i]) > length:\n            length = len(words_list[i])\n            longest = words_list[i]\n    return longest\n
+def find_longest_word(words_list):\n    wordlist = sorted(words_list, key=len)\n    return wordlist[-2]\n
+def find_longest_word(words_list):\n    wordlist = sorted(words_list, key=len)\n    return wordlist[-1]\n
+def find_longest_word(words_list):\n    longest = words_list[0]\n    for word in words_list:\n        if len(word) > len(longest):\n            longest = word\n    return longest\n
+def find_longest_word(words_list):\n    x = 0\n    nej = ''\n    for word in words_list:\n    	if x < len(word):\n			nej = word\n            x = len(word)\n    return nej\n
+def find_longest_word(words_list):\n    \n    alist = []\n    word = []\n    if len(words_list) == 1:\n            word = words_list[0]\n    else:       \n        for i in range(len(words_list)):\n            alist = words_list[i]\n            if len(alist) > len(word):\n                word = alist\n    return word
+def find_longest_word(words_list):\n    \n    alist = []\n    word = []\n    if len(words_list) == 1:\n            word = words_list[0]\n    else:       \n        for i in range(len(words_list)):\n            alist = words_list[i]\n            if len(alist) > len(word):\n                word = alist\n    \n    return word
+def find_longest_word(words_list):\n    n = 0\n    for i in words_list:\n        if len(i) > n:\n            n = len(i)\n            new = i\n    return new\n
+def find_longest_word(words_list):\n    longestlen = 0\n    longestword = ""\n    for i in range(len(words_list)):\n        if len(words_list[i]) > longestlen:\n            longestlen = len(words_list[i])\n            longestword = words_list[i]\n    return longestword\n
+def find_longest_word(words_list):\n    a = 0\n    for i in words_list:\n        if len(i) > a:\n            a = len(i)\n            b = i\n    return b
+def find_longest_word(words_list):\n    best = 0     \n    for i in range(len(words_list)):\n        if len(words_list[i]) > best:\n            best = len(words_list[i])\n            animal = words_list[i]\n    return animal        \n        \n        \n
+def find_longest_word(words_list):\n    n = 0\n    for i in words_list:\n        if len(i) > n:\n            n = len(i)\n            m = i\n    return m\n
+def find_longest_word(words_list):\n    srtd = sorted(words_list, key = len)\n    if len(srtd[-1]) == len(srtd[-2]):\n        return srtd[-2]\n    else:\n    	return srtd\n
+def find_longest_word(words_list):\n    srtd = sorted(words_list, key = len)\n    if len(srtd[-1]) == len(srtd[-2]):\n        return srtd[-2]\n    else:\n    	return srtd[-1]\n
+def find_longest_word(words_list):\n    srtd = sorted(words_list, key = len)\n    if len(srtd) > 1 and len(srtd[-1]) == len(srtd[-2]):\n        return srtd[-2]\n    else:\n    	return srtd[-1]\n
+def find_longest_word(words_list):\n    longest = ""\n    for i in range(len(words_list)-1):\n        if len(words_list[i]) > len(words_list[i+1]):\n            maybe = str(words_list[i])\n            if maybe > longest:\n                longest = maybe\n    return longest\n
+def find_longest_word(words_list):\n    sth = ""\n    for i in range(len(words_list)):\n        if (len(words_list[i])) > len(sth):\n            sth = words_list[i]\n    return (str(sth))
+def find_longest_word(words_list):\n    longest = ""\n    maybe = ""\n    if len(words_list) == 1:\n        print(words_list[0])\n    else:\n        for i in range(len(words_list)):\n            if len(words_list[i]) > len(maybe):\n                maybe = str(words_list[i])\n                if maybe > longest:\n                    longest = maybe\n        return longest\n
+def find_longest_word(words_list):\n    longest = ""\n    if len(words_list) == 1:\n        return words_list\n    for i in range(len(words_list)):\n        for j in range(len(words_list)):\n            if len(words_list[j]) > len(words_list[i]):\n                if len(words_list[j]) > len(longest):  \n                	longest = words_list[j]\n    return longest\n        \n        \n
+def find_longest_word(words_list):\n    longest = ""\n    if len(words_list) == 1:\n        return words_list[0]\n    for i in range(len(words_list)):\n        for j in range(len(words_list)):\n            if len(words_list[j]) > len(words_list[i]):\n                if len(words_list[j]) > len(longest):  \n                	longest = words_list[j]\n    return longest\n        \n        \n
+def find_longest_word(words_list):\n	delka=[]\n	for i in range(len(words_list)):\n		delka.append(len(words_list[i]))\n	for j in range(len(delka)):\n		if delka[j]==max(delka):\n			return words_list[j]\n
+def find_longest_word(word_list):\n    longest_word = ""\n    for i in range(len(word_list)):\n        if len(word_list[i]) > len(longest_word):\n            longest_word = word_list[i]\n    return longest_word\n
+def find_longest_word(text):\n    l_text = list()\n    seznam = list()\n    pocet_slov = len(text)\n    for i in range(pocet_slov):\n        l_text.append(len(text[i]))\n    #print(l_text)\n    #print("pocet slov", pocet_slov)\n    seznam.append(text[0])\n    nej = 0\n    for j in range(1,pocet_slov):\n        if len(seznam[0]) < l_text[j]:\n            seznam[0] = text[j]\n            nej = j\n        elif len(seznam[0]) == l_text[j]:\n            pass\n        elif len(seznam[0]) > l_text[j]:\n            pass\n    return(seznam[0])\n
+def find_longest_word(words_list):\n    longest = words_list[0]\n    for w in words_list:\n        if len(longest) < len(w):\n            longest = w\n    return longest\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    return words_list[0]\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    words_list.reverse()\n    print(words_list)\n    return words_list[0]\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    words_list.reverse()\n    print(words_list)\n    return words_list[0]\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    words_list.reverse()\n    print(words_list)\n    return words_list[1]\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    words_list.reverse()\n    return words_list[1]\n
+def find_longest_word(words_list):\n    words_list.sort(key=lambda x: len(x))\n    words_list.reverse()\n    return words_list[0]\n
+def find_longest_word(words_list):\n    delka=0\n    slovo=""\n    for i in words_list:\n        if len(i)>delka:\n            delka=len(i)\n            slovo=i\n    return slovo\n
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(words_list):\n    return ""\n
+def find_longest_word(words_list):\n	longest_word = ""\n    return ""\n
+def find_longest_word(words_list):\n	longest_word = ""\n    return ""\n
+def find_longest_word(words_list):\n    slovo=""\n    for i in words_list:\n        if len(i)>len(slovo):\n            slovo=i\n        \n    return slovo\n
+def find_longest_word(words_list):\n    slovo=""\n    for i in words_list:\n        if len(i)>len(slovo):\n            slovo=i\n        \n    return slovo
+def find_longest_word(words_list):\n    delka = 0\n    for i in range(len(words_list)):\n        if delka < len(words_list[i]):\n            slovo = words_list[i]\n            delka = len(words_list[i])\n    return slovo\n

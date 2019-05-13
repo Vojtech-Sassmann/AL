@@ -1,0 +1,814 @@
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):     \n    print(z,"   ",z)\n    print("  ",z,"   ")\n    print(z,"   ",z)
+def cross(z):     \n    print(z,"  ",z)\n    print(" ",z,"   ")\n    print(z,"  ",z)
+def cross(z):     \n    print(z,"   ",z)\n    print("  ",z," ")\n    print(z,"   ",z)
+def cross(z):\n    print('{}   {}\n  {} \n{}   {}'.format(z,z,z,z,z))\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z+" ","  ", z+" ")\n    print("  ",z+" ","  ")\n    print(z+" ","  ", z+" ")\n
+def cross(z):\n    print(z," ", z)\n    print(" ",z," ")\n    print(z," ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n\n    print(" ",z ," ")\n    print(z," ",z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, " ", z, \ " ", z, " ", \ z, " ", z),
+def cross(z):\n    print(z, "   ", z)\n    print("  ", z, "  ")\n    print(z, "   ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(1 * " ", z)\n    print(z, " ", z)\n
+def cross(z):\n	print(z, " ", z)\n	print(" ",z)\n	print(z, " ", z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z,"")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print("A A")\n    print(" A ")\n    print("A A")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("z   z")\n    print("  z  ")\n    print("z   z")\n
+def cross(z):\n    print("z   z")\n    print("  z  ")\n    print("z   z")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z ," ", z)\n    print(" ", z ," ")\n    print(z ," ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print("A   A")\n    print("  A ")\n    print("A   A")\n    
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n    
+def cross(z):\n    print("A", " ", "A")\n    print(" ", "A", " ")\n    print("A", " ", "A")
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z ," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, "   ", z)\n    print("  ", z)\n    print(z, "   ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z + "   " + z) \n    print("  " + z + " ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ", z  ," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n	print(z," ",z)\n    
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)  \n    
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print("z   z\n  z  \nz   z")\n
+def cross(z):\n    print("\z   \z\n  \z  \n\z   \z")\n
+def cross(z):\n    print(z,"   ",z,"\n","  ",z,"\n",z,"   ",z)\n
+def cross(z):\n    print ("A", "","", "", "A")\n    print ("","", "A","", "")\n    print ("A","", "", "", "A")\n
+def cross(z):\n    print((z),(""),(z))\n    print((""),(z),(""))\n    print((z),(""),(z))\n
+def cross(z):\n    print((z),(""),(""),(z))\n    print((""),(""),(z),(""),(""))\n    print((z),(""),(""),(z))\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    x=' '\n    print(z,x,z)\n    print(x,z,x)\n    print(z,x,z)
+def cross(z):\n    print(z,' ',z)\n    print(' ',z)\n    print(z,' ',z)\n
+def cross(z):\n    print("%s\t%s\n\t%s\n%s\t%s" % (z, z, z, z, z))\n
+def cross(z):\n    print(z, " ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    n=2\n    for i in range(1):	\n        print(z, end="   ")\n	print(z)\n    print("  A")\n    for j in range(1):	\n        print(z, end="   ")\n	print(z)\n\n
+def cross(z):\n    n=2\n    for i in range(1):	\n        print(z, end="   ")\n	print(z)\n    print(" ",z)\n    for j in range(1):	\n        print(z, end="   ")\n	print(z)\n\n
+def cross(z):\n    for i in range(1):	\n        print(z, end="   ")\n	print(z)\n    print(" ",z)\n    for j in range(2):	\n        print(z, end="   ")
+def cross(z):\n    n=1\n    k=2\n    for i in range (n):\n		print(z , end=" ")\n        	for j in range (k):\n    		print (" ", z)\n    for i in range (k):\n            print(z , end="   ")
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z," ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ",z)\n    print(z, " ", z)
+def cross(z):\n    print(z,' ',z)\n    print(' ',z)\n    print(z,' ',z)\n
+def cross(z):\n    print(z +"   "+z)\n    print ("  "+z)\n    print(z +"   "+z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ", z, " ")\n    print(z," ",z)
+def cross(z):\n    print(z + " " + z)\n    print(" " + z + " ")\n    print(z + " " + z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def line(z):\n	print(z, " ", z)\n\ndef cross(z):\n	line(z)\n	print(" ", z)\n	line(z)
+def cross(z):\n    x=" ";\n    print(z,x,x,x,z,"\n",\n         x,x,z,"\n",\n         z,x,x,x,z,\n         sep=""\n         )
+def cross(z):\n    print(z, " " ,z)\n    print(" ",z ," ")\n    print(z, " " ,z)\n    \n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z, end="   ")\n    print(z)\n    print("  ", end="")\n    print(z)\n    print(z, end="   ")\n    print(z)\n
+def cross(z):\n    print(z, end="   ")\n    print(z)\n    print(" ", z)\n    print(z, end="   ")\n    print(z)
+def cross(z):\n    print(z, end="   ")\n    print(z)\n    print("  A") \n    print(z, end="   ")\n    print(z)\n
+def cross(z):\n    print(z,end="   ")\n    print(z,end="   ")\n    print()\n    print(end="  ")\n    print(z) \n    print(z, end="   ")\n    print(z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print (z+3*' '+z,"\n  "+z,"\n"+z+3*' '+z)\n\n
+def cross(z):\n    print("A   A\n  A\nA   A")\n
+def cross(z):\n    print(z," ",z)\n    print(" ", z)\n    print(z," ",z)\n
+def cross(z):\n    for i in range(2):\n        print(" A ", end=" ")\n    \n    print("\n   A")\n    \n    for i in range(2):\n        print(" A ",end=" ")\n\n\n\n\n\n            \n
+def cross(y):\n    for i in range(2):\n        print(" + ", end=" ")\n    \n    print("\n   +")\n    \n    for i in range(2):\n        print(" + ",end=" ")\n\n\n\n\n\n            \n
+def cross(B):\n    for i in range(2):\n        print(" B ", end=" ")\n    \n    print("\n   B")\n    \n    for i in range(2):\n        print(" B ",end=" ")\n\n\n\n\n\n            \n
+def cross(symbol):\n    for i in range(2):\n        print(" "+ symbol+" ", end=" ")\n    \n    print("\n   " + symbol)\n    \n    for i in range(2):\n        print(" "+ symbol+ " ",end=" ")\n\n\n\n\n\n            \n
+def cross(z):\n    print(z , " " , z)\n    print(" " , z , " ")\n    print(z , " " , z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z+" "*3+z)\n    print(" "*2+z+" "*2)\n    print(z+" "*3+z)\n    \n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n    \n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ", z)\n    print (" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n\n
+def cross(z):\n    print(z," ",z)\n	print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print("A  A")\n    print("  A  ")\n    print("A   A")\n
+def cross(z):\n    print(z,"  ",z)\n    print("  ",z,"  ")\n    print(z,"  ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n         print(z," ",z,) \n         print(" ",z," ")\n         print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z ," ", z)\n    print(" ",z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n\n
+def cross(z):\n    print(z+"   "+z+"\n"+"  "+z+"  "+"\n"+z+"   "+z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z,z)\n    print(z)\n    print(z,z)
+def cross(z):\n    print(z," " ,z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z, " " , z)\n    print(" ", z, " ")\n    print(z, " " , z)\n
+def cross(z):\n    print("A A")\n    print(" A ")\n    print("A A")\n
+def cross(z):\n    print("A" "   " "A")\n    print("  " "A "  " ")\n    print("A" "   "  "A")\n
+def cross(z):\n    print("A" "   " "A")\n    print("  " "A "  " ")\n    print("A" "   "  "A")\n
+def cross(z):\n    print("A" "   " "A")\n    print("  " "A "  " ")\n    print("A" "   "  "A")\n
+def cross(z):\n    print("A" "   " "A")\n    print("  " "A "  " ")\n    print("A" "   "  "A")\n
+def cross(z):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(+):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(z):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(z):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("B" "   " "B")\n    print("  " "B "  " ")\n    print("B" "   "  "B")\n
+def cross(z):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(znak):\n    print("+" "   " "+")\n    print("  " "+ "  " ")\n    print("+" "   "  "+")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+z = "A"\ny = " "\ndef cross(z):\n    print(z, y, z)\n    print(y, z)\n    print(z, y, z)\n    		\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n\n   \n
+def cross(z):\n    print(z, z)\n    print(z)\n    print(z, z)\n
+def cross(z):\n    print(z, , ,z)\n    print(z)\n    print(z, z)\n
+def cross(z):\n    print(z  z)\n    print(z)\n    print(z, z)\n
+def cross(z):\n    print("z  z")\n    print(" z ")\n    print("z  z")\n
+def cross(n):\n    print("n",  ,"n")\n    print( "n" )\n    print(""n"  "n"")\n
+def cross(z):\n    print(z + " " + z)\n    print(" " + z + " ")\n    print(z + " " + z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z,"")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n    \n
+def cross(z):\n    for i in range(3):\n        if i%2 != 1:\n        	print(z,z,sep="   ")\n        	#print()\n        else:\n            print(" ",z,end="  ")\n            print()\n   		\n
+def cross(z):\n    for i in range 3:\n    	for i in range 1,10:\n        	if i%2 == 0:\n            	print (" ", end = "")\n      	    else: \n    			print(z, end = "")\n		    i -= 1\n        print("")
+def cross(z):\n    for i in range (1,10):\n        if i%2 == 0:\n            print("  ", end = "")\n        elif i%2==1:\n            print(z, end = " ")\n        if i%3 == 0:\n            print("")\n        i -= 1
+def cross(z):\n    print(z,' ', z)\n    print(' ', z)\n    print(z,' ', z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z,)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n    \n    \n\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z " " )\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ",z)\n    print(" ",z," ")\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)   \n    print(" ",z)\n    print(z," ",z) \n    \n
+def cross(z):\n    print(z,"",z)\n    print("",z)\n
+def cross(z):\n    print(z,""",z)\n    print("",z)\n
+def cross(z):\n    print(z,"+",z)\n    print("",z)\n
+def cross(z):\n    print(z," ",z)\n    print("",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n    
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z)\n
+def cross(z, n):\n    for s in range(1, n + 1):\n        for r in range(1, n + 1):\n            if (s == 1 and r == 1) or (s == 1 and r == n):\n                print(z, end="")\n            elif s == n // 2 + 1 and r == n // 2 + 1:\n                print(z, end="")\n            elif (s == n and r == 1) or (s == n and r == n):\n                print(z, end="")\n            else:\n                print(" ", end="")\n        print()\n            \n		
+def cross(z):\n    print(z," ",z)\n    print(' ',z,' ')\n    print(z," ",z)\n
+def cross(z):\n\n    print(z," ",z)\n	print(' ',z,' ')\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n	print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n	\n    print(z," ",z)
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z,"\n","",z,"","\n",z," ",z)\n
+def cross(z):\n    print(z)\nL
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if i==j or i+j==2 :\n                print(z, end=' ')\n            else:\n                print(' ', end=' ')\n        print()\n\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n    \n
+def cross(z):\n    print(z," ", z)\n    print(" ", z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z, " ")\n    print(z," ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" " ,z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    for x in range(9):\n    	if x % 2 == 1:\n        	print(z, end="")\n        else:\n            print(" ", end="")
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print((z)," ",z)\n    print(" ",z)\n    print((z)," ",z)\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if (j==0 and (i==0 or i==2)) or (i==1 and j==1) or (j==2 and (i==2 or i==0)):\n                print(z, end=" ")\n            else:\n                print(" ", end=" ")\n        print()
+def cross(z):\n    print(z, "   ", z)\n    print("  ", z, "  ")\n    print(z, "   ", z)\n\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z)\n    print(z," ", z)\n
+def cross(z):\n    print(" ";z;" ")\n    print(z;" ";z)\n    print(" ";z;" ")\n
+def cross(z):\n    print(" ";z;" ")\n    print(z;" ";z)\n    print(" ";z;" ")\n
+def cross(z):\n    print(" ";z;" ")\n    print(z;" ";z)\n    print(" ";z;" ")\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)    
+def cross(z):\n    print(z+'   '+z)\n    print('  '+z)\n    print(z+'   '+z)
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    for i in range(3):\n        for x in range(3):\n             \n    		print(z,end=" ")\n        print()\n
+def cross(z):\n    for i in range(3):\n        for x in range(3):\n             \n    		print(z,end=" ")\n        print()\n
+def cross(z):\n    p=0\n    for i in range(3):\n        for x in range(3):\n            if i%2==0:\n                if i%2==0:\n                print("X",end=" ")\n            else:\n                print(z,end=" ")\n            else:\n                if i%2==0:\n                print("X",end=" ")\n            else:\n                print(z,end=" ")\n            \n        print()\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n        	print(z)\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z," ")\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+i=0\nj=4\ndef cross(z):\n    for row in range(5):\n        for col in range(5):\n            if row == i and col == j:\n                print(str(z), end="")\n                i=i+1\n                j=j-1\n        	elif row == col:\n                print(str(z), end="")\n            else:\n                print(end=" ")\n    print()\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z)\n    print("/n")\n	print(z)
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)\n\n
+def cross(z):\n    print(z,"   ",z)\n    print("  ",z,"  ")\n	print(z,"   ",z)\n    
+def cross(z):\n    print(z,"   ",z)\n    print("  ",z," ")\n    print(z,"   ",z)\n	\n    \n    
+def cross(z):\n    print(z,"   ",z)\n    print("  ",z," ")\n    print(z,"   ",z)\n	\n    \n    
+def cross(z):\n    print(z,"  ",z)\n    print(" ",z," ")\n    print(z,"  ",z)\n	\n    \n    
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n	\n    \n    
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z,   ,z)\n
+def cross(z):\n    print(z,   ,z)\n
+def cross(z):\n    print(z,0,0,z)\n    print(0,z   )\n
+def cross(z):\n    print(z, " ", z)\n    print("  {} ".format(z))\n    print(z, " ", z)\n
+def cross(z):\n    print(z + "   " +z)\n    print("  " + z)\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ",z)\n    print( " ", z)\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print("A"," ","A")\n    print(" ","A"," ")\n    print("A"," ","A")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z);\n    print(" ",z);\n    print(z," ",z);\n
+def cross(z):\n    for 4 in range(4):\n        print("".join(z if j == i or size - 1 - j == i else " "\n                      for j in range(4)))
+def cross(z):\n    print(z,' ',z)\n    print('',z)\n    print(z,' ',z)\n
+def cross(z):\n    print(z, " ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, ' ',z)\n    print(' ',z, ' ')\n    print(z, ' ', z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n            
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(y):\n    print(y," ",y)\n    print(" ", y)\n    print(y," ",y)\n \n    \n    \n    \n    \n   \n\n  
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print((z)," ",(z))\n    print(" ",(z))\n    print((z)," ",(z))\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z)\n    print(z," ", z)\n 
+def cross(z):\n    print('{0} {0}'.format(z))\n    print(' {0}'.format(z))\n    print('{0} {0}'.format(z))\n
+def cross(z):\n    print('{0}   {0}'.format(z))\n    print('  {0}'.format(z))\n    print('{0}   {0}'.format(z))\n
+def cross(z):\n    print("%s   %s"%(z,z))\n    print("  %s %s" % (z,))\n    print("%s   %s"%(z,z))
+def cross(z):\n    print(z)\n    print(x)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z)\n    print(z,' ',z)\n\n
+def cross(z):\n    print(z, ' ', z)\n    print(' ',z)\n    print(z, ' ', z)\n\n    \n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, "	")\n    print(z, " ", z)\n
+def cross(z):\n    print(z + " " + z)\n    print(" " + z + " ")\n    print(z + " " + z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "   ")\n    print(z + "   " + z)\n
+def cross(z):\n    print("A   A")\n    print("  A  ")\n    print("A   A")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z)\n    print(z," ", z)\n
+def cross(z):\n    s = [[z,' ',z],[' ',z,' '],[z,' ',z]]\n    for i in s:\n        print(*i)\n    \n
+def cross(z):\n    print(z,' ',z)\n    print('',z,'')\n    print(z,' ',z)\n    \n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z,"  ",z)\n    print(" ", z)\n    print(z,"  ",z)\n
+def cross(z):\n    print(z,"  ",z)\n    print("  ", z)\n    print(z,"  ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z,'  ',z)\n    print(' ',z,'  ')\n    print(z,'  ',z)\n
+def cross(z):\n    print(z,'  ',z)\n    print(' ',z,' ')\n    print(z,'  ',z)\n
+def cross(z):\n    print(z,'  ',z)\n    print('  ',z,' ')\n    print(z,'  ',z)\n
+def cross(z):\n    print(z,' ',z)\n    print('  ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z," ", z) \n    print(" ", z, " ")\n    print(z," ", z)
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print("",z,"")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z, ' ', z)\n    print(' ', z, ' ')\n    print(z, ' ', z)\n
+def cross(z):\n    print(z)\n
+def cross(n):\n    print(n, " ", n)\n    print(" ", n, " ")\n    print(n, " ", n)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    for i in range(1, 4):\n        if i % 2 != 0:\n            print(z)\n        else:\n            print(' ')\n
+def cross(z):\n    print(z, ' ', z)\n    print(' ', z, ' ')\n    print(z, ' ', z)
+def cross(z):\n    z="+"\n    print(z)\n
+def cross(z):\n    for line in range(3):\n        for column in range(3):\n            if line%2 == 0 and column column%2 == 0:\n                print(z)\n            elif line%2 != 0 and column%2 != 0:\n                print(z)\n            \n
+def cross(z):\n    for line in range(3):\n        for column in range(3):\n            if (line+column) % 2 == 0:\n                print(z, end = "")\n            else:\n                print(" ", end = "")\n        print()\n            \n          \n            \n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z)\n    print(z,' ',z)\n    \n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z, " ",z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z + " " + z)\n    print(" " + z + " ")\n    print(z + " " + z)\n   \n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)\n   \n
+def cross(z):\n    print(z + '   ' + z)\n    print('  ' + z + '  ')\n    print(z + '   ' + z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z,"   ")\n
+def cross(z):\n    print(z," ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z+"  ")\n    print(z+"   "+z)\n
+def cross(z):\n    print(z+"  "+z)\n    print("  "+z+" ")\n    print(z+"  "+z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z+" ")\n    print(z+"   "+z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z + " "*3 + z)\n    print(" "*2 + z + " ")\n    print(z + " "*3 + z)\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if i % 2 != 0 and j % 2 != 0 or i % 2 == 0 and j % 2 == 0:\n                print(z)\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            if i % 2 != 0 and j % 2 != 0 or i % 2 == 0 and j % 2 == 0:\n                print(z)\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            if i % 2 != 0 and j % 2 != 0 or i % 2 == 0 and j % 2 == 0:\n                print(z)\n            else:\n                print(" ")\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            print()\n            if i % 2 != 0 and j % 2 != 0 or i % 2 == 0 and j % 2 == 0:\n                print(z)\n            else:\n                print(" ")\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            if i % 2 != 0 and j % 2 != 0 or i % 2 == 0 and j % 2 == 0:\n                print(z)\n            else:\n                print(" ")\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            if (i+j)%2 == 0:\n                print(z)\n            else:\n                print(" ")\n
+def cross(z):\n    for i in range(3):\n        print()\n        for j in range(3):\n            if (i+j)%2 == 0:\n                print(z)\n            else:\n                print(" ")\n        print()\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if (i+j)%2 == 0:\n                print(z)\n            else:\n                print(" ")\n        print()\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if (i+j)%2 == 0:\n                print(z, end="")\n            else:\n                print(" ", end="")\n        print()\n
+def cross(z):\n    print(z, "  ", z)\n    print("  ", z, "  ")\n    print(z, "  ", z)
+def cross(z):\n    print(z, "  ", z)\n    print(" ", z, "  ")\n    print(z, "  ", z)
+def cross(z):\n    print(z, "  ", z)\n    print(" ", z, " ")\n    print(z, "  ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z + "   " + z)\n    print("  " +z+ "  ")\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    return\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if (i + j) % 2 == 0:\n        		print(z, end=" ")\n            else:\n                print(" ", end=" ")\n        print()\n
+def cross(z):\n    print(z, ' ', z)\n    print(' ', z, ' ')\n    print(z, ' ', z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n            \n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z)\n    print(z,' ',z)\n
+def cross(z):\n    print("z  z")\n    print("  z  ")\n    print("z  z")\n
+def cross(z):\n    print(z,end="   ")\n    print(z)\n    print(" ",z,"  ")\n    print(z," ",z)\n\n
+def cross(z):\n    for i in range(3):\n        for j in range(3):\n            if i == 0 and j == 2 or i == 2 and j == 0 or j == 1 and i ==1 or i == 0 and j == 0 or i == 2 and j==2:\n                print(z, end=' ')\n            else:\n                print(' ', end=' ')\n        print()
+def cross(z):\n    z = {\n        'a': [['A',  '   ',  'A',],\n              ['  ',  'A',  '   ',],\n              ['A',  '   ',  'A',]]}\n    string = 'a'\n    for level in range(3):\n        for i in string:\n            for char in z[i][level]:\n                print(char,end='')\n            print('',end=' ')\n        print()\n \n
+def cross(z):\n    z = {\n        'a': [['A',  '   ',  'A',],\n              ['  ',  'A',  '   ',],\n              ['A',  '   ',  'A',]]}\n    string = 'a'\n    for level in range(3):\n        for i in string:\n            for char in z[i][level]:\n                print(char,end='')\n            print('',end=' ')\n        print()\n \n
+def cross(z):\n    z = {\n    'a': [['A', '   ', 'A',],\n          ['  ', 'A', ' ',],\n          ['A', '   ', 'A',]]}\n    string = 'a'\n    for level in range(3):\n        for i in string:\n            for char in z[i][level]:\n                print(char,end='')\n            print('',end=' ')\n        print()\n\n   \n
+def cross(n):\n    for i in range(n):\n        for j in range(n):\n            c = "3" if ((i+j) % 2 == 0) else " "\n            print(c, end=" ")\n        print()\n
+def cross(z):\n    print("z" + 3*" " + "z" )\n    print(3*" " + "z" + 3*" ")\n    print("z" + 3*" " + "z" )\n
+def cross(z):\n    print("z" + 3*" " + "z" )\n    print(2*" " + "z" + 3*" ")\n    print("z" + 3*" " + "z" )\n
+def cross(z):\n    print("z" + 3*" " + "z" )\n    print(2*" " + "z" + 2*" ")\n    print("z" + 3*" " + "z" )\n
+def cross(z):\n    print(z + 3*" " + z )\n    print(2*" " + z + 2*" ")\n    print(z + 3*" " + z )\n
+def cross(z):\n	print(z, " ", z, end="\n")\n	print(" ", z, " ", end="\n")\n	print(z, " ", z, end="\n")\n \n
+def cross(z):\n    print(z, '\t', z, '\n\t\n', z, '\t', z)\n
+def cross(z):\n    print(z, ' ', z, '\n ', z, '\n', z, ' ', z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z) 
+def cross(z):\n    print(z," ", z)\n    print(" ", z)\n    print(z," ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z z)\n    print( z )\n    print(z z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z) \n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z +"  ")\n    print(z + "   " + z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z,"  ",z)\n    print(" ",z," ")\n    print(z,"  ",z)\n
+def cross(z):\n   \n    print(z,"  ",z)\n    print(" ",z," ")\n    print(z,"  ",z)\n
+def cross(z):\n   \n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print("A   A")\n    print("  A  ")\n    print("A   A")\n
+def cross(z):\n    print("+   +")\n    print("  +  ")\n    print("+   +")\n
+def cross(z):\n    print(z," ", z),\n    print(" ",z," "),\n    print(z," ",z)\n    \n      \n        \n        \n
+def cross(z):\n    print(z, " ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z,),\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z" ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z),\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z" ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z" ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z" ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z" ",z)\n
+def cross(Z):\n    print(Z," ",Z),\n    print(" ",Z),\n    print(Z," ",Z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z)\n
+def cross(z):\n    print(z, " " ,z),\n    print( " " ,z),\n    print(z, " " ,z)
+def cross(z):\n    print(z,"",z),\n    print(,"",z),\n    print(z,"",z)\n
+def cross(z):\n    print(z,"",z),\n    print(,"",z),\n    print(z,"",z)\n
+def cross(z):\n    print(z,"",z),\n    print( "",z),\n    print(z,"",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z),\n    print(z," ",z)\n
+def cross(z):\n    print(z""z),\n    print(""z""),\n    print(z""z)\n
+def cross(z):\n    print(""z),\n    print(""z),\n    print(z""z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z),\n    print(" ", z, " "),\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z, " ")\n    print(z," ",z)
+def cross(z):\n    print(z," ",z),\n    print(" ", z, " "),\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z),
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print( " ",z," "),\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ", z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z),
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z),\n
+def cross(z):\n    print(z," ",z),\n    print(" ", z, " "),\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z),\n    \n    \n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z,)\n    \n
+def cross(z):\n    print(z," " ,z),\n    print(" ",z," "),\n    print(z," " ,z)\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z,""),\n    print(z," ",z),\n
+def cross(z):\n    print(z," ",z),\n    print(" ",z," "),\n    print(z," ",z),\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)    \n    print(z + "   " + z)\n
+def cross(z):\n    print(z, ' ', z)\n    print(' ', z, ' ')\n    print(z, ' ', z)
+def cross(z):\n    print(z)\n    print(z)\n
+def cross(z):\n    print(z," ",z);\n    print(" ",z," ");\n    print(z," ",z);\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n    \n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z+"  ")\n    print(z+"   "+z)\n
+def cross(z):\n    print("A","","","A")\n    print("","","A","")\n    print("A","","","A")\n
+def cross(z):\n    print("A","",'',"A")\n    print("",'',"A","")\n    print("A","",'',"A")\n
+def cross(cross):\n    print(cross,"","",cross)\n    print("","",cross,"")\n    print(cross,"","",cross)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(cross):\n    print(cross,"",'',cross)\n    print("",'',cross,"")\n    print(cross,"",'',cross)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n    	\n     \n
+def cross(z):\n    print(z, " ",z)\n    print(" ", z," ")\n    print(z, " ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n	print("A"," ","A")\n	print(" ","A"," ")\n	print("A"," ","A")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n   \n    \n
+def cross(z):\n    print(z, " ", z)\n    print(" ",z," ")\n    print(z, " ", z)
+def cross(z):\n    print(z, " " , z)\n    print(" ", z ," ")\n    print(z," ",z)
+def cross(z):\n	print(z," ",z)\n	print(" ",z," ")\n	print(z," ",z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " " )\n    print(z, " ", z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z+"  ")\n    print(z+"   "+z)\n
+def cross(z):\n    print(z)\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z+"  ")\n    print(z+"   "+z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ", z,)\n    print(z," ",z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    print(z, "", z)\n    print("", z,"")\n    print(z, "",z )\n
+def cross(z): \n    print(z," ", z)\n    print(" ",z," ")\n    print(z," ",z )\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z+"  "+z)\n    print("  "+z)\n    print(z+"  "+z)\n    \n
+def cross(z):\n    print(z+"    "+z)\n    print("  "+z)\n    print(z+"    "+z)\n    \n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n    \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n    \n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ", z,)\n    print(z," ",z)\n
+def cross(z):    \n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z, " " ,z)\n    print(" ", z)\n    \n    print(z, " " ,z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z , " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z z)\n   \n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\n    x='   ';\n    y='  ';\n    print(z+x+z)\n    print(y+z+y)\n    print(z+x+z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    \n    print(z," ",z)\n    \n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, " ", z),\n    print(" ",z," "),\n    print(z, " ", z)\n
+def cross(z):\n    print("{}   {}\n  {}\n{}   {}" .format(z,z,z,z,z))\n
+def cross(z):\n    print(z + "   " + z + "\n" + "  " + z + "\n" + z + "   " + z)
+def cross(z):\n    for i in range(0,3):\n    	print(z,z,end='\n') if i%2==0 else print("",z,"",end='\n')\n
+def cross(z):\n    for i in range(0,3):\n    	print(z," ",z,end='\n') if i%2==0 else print(" ",z,"",end='\n')\n
+def cross(z):\n    for i in range(0,3):\n    	print(z," ",z,end='\n') if i%2==0 else print(" ",z,"",end='\n')\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print("A   A")\n    print("  A")\n    print("A   A")\n
+def cross(z):\n    print("A   A")\n    print("  A")\n    print("A   A")\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z + "  ")\n    print(z + "   " + z)
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print("\n", z, " ")\n    print("\n", z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print("\n ", z, " ")\n    print("\n", z, " ", z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n
+def cross(z):\n    print(z+"   "+z)\n    print("  "+z)\n    print(z+"   "+z)\n
+def cross(z):\ncross(z):\n    cross(z):\n    print(z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n \n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print(z + "   " + z)\n    print("  " + z)\n    print(z + "   " + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n    \n
+def cross(z):\n    print("z   z")\n    print("  z  ")\n    print("z   z")\n
+def cross(z):\n    print(z) \n
+def cross(z):\n    print(z ,' ', z)\n    print(' ',z)\n    print(z ,' ', z)\n         	\n
+def cross(z,y):\n    print(z,y,y,z)\n    print(y,y,z,y)\n    print(z,y,y,z)\n
+def cross(z):\n    print(z + " "*3 + z)\n    print(" "*2 + z, " "*2)\n    print(z + " "*3 + z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)
+def cross(z):\n    print(z, " ",z)\n    print(" "z)\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n            \n
+def cross(z):\n    print(z, " ",z)\n    print( " ",z)\n    print(z, " ",z)
+def cross(z):\n    print(z, " ",z)\n    print(" ",z)\n    print(z, " ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    for i in range(3):\n        if i == 0 or i == 2:\n            print(z, " ", z, end=" ") \n            print()\n        else:\n            print(" ", z, " ", end=" ")\n            print()\n\n
+def cross(z):\n    print(" ",z," ")\n    print(z," ",z)\n    print(" ",z," ")\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)
+def cross(z):\n    print(z, " ",z)\n
+def cross(z):\n    print(z, " ", z)\n	print(" ", z, " ")\n    print(z, " ", z)
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z,"",z)\n    print("",z,"")\n    print(z,"",z)\n
+def cross(z): \n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print("",z,"")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n       \n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    for i in range(3):\n        if i == 0 or i == 2:\n            print(z, " ", z, end=" ")\n            print()\n        else:\n            print(" ", z, " ", end=" ")\n            print()\n\n
+def cross(z):\n    print(z,' ',z)\n    print(' ',z,' ')\n    print(z,' ',z)\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print("z z")\n    print(" z")\n    print("z z")\n
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)\n
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)\n
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)\n
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)\n
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)
+def cross(z):\n    print(z" "z)\n    print(" "z)\n    print(z" "z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z, end="   ")\n    print(z)\n    print(end="  ")\n    print(z)\n    print(z, end="   ")\n    print(z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n        print(z," ",z)\n        print(" ",z," ")\n        print(z," ",z)\n
+def cross(z):\n	print(z,z)\n	print(z)	\n	print(z,z)    \n
+def cross(z):\n	print(z,' ',z)\n	print(' ',z,' ')\n	print(z,' ',z)\n
+def cross(z):\n    print(z,"   ",z)\n	print("  " z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z,"   ",z)\n	print("  ", z,"  ")\n    print(z,"   ",z)
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print("%s   %s\n  %s   \n%s   %s" %(z,z,z,z,z))\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z, " ")\n    print(z," ",z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z, " ")\n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n
+def cross(z):\n    mezera = " "\n    print(z,mezera,z)\n    print(mezera,z,mezera)\n    print(z,mezera,z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z, z):\n    print(z)\n
+def cross(z):\n    print(z)\n
+def cross(z):\n    print(5 * z)\n
+def cross(z):\n    print(z.z)\n
+def cross(z):\n    print(z.z)\n
+def cross(z):\n    print(z, ' ', z)\n    print(' ', z, ' ')\n    print(z, ' ', z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z," ")\n    print(z," ",z)\n
+def cross(z):\n    print(z +" "+ z)\n    print("" + z + " ")\n    print(z +" "+ z)\n
+def cross(z):\n    print(z +" "+ z)\n    print(" " + z + " ")\n    print(z +" "+ z)\n
+def cross(z):\n    print(z +"  "+ z)\n    print(" " + z + " ")\n    print(z +"  "+ z)\n
+def cross(z):\n    print(z +"  "+ z)\n    print("  " + z + " ")\n    print(z +"  "+ z)\n
+def cross(z):\n    print(z +"   "+ z)\n    print("  " + z + " ")\n    print(z +"   "+ z)\n
+def cross(z):\n    print(z, " ", z)\n    print(" ", z," ") \n    print(z, " ", z)\n
+def cross(z):\n    print(z," ",z)\n    print(" ",z)\n    print(z," ",z)\n	

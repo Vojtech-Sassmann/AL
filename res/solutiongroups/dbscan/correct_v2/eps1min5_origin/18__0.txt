@@ -1,0 +1,49 @@
+def digit_sum(n):
+    s=str(n)
+    r=0
+    for value in s:
+        r=r+int(value)
+    return r
+        
+
+def digit_sum(n):
+    text= str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet+=int(pismeno)
+    return soucet
+def digit_sum(n):
+    text = str(n)   
+    soucet = 0
+    for pismeno in text:        
+        soucet += int(pismeno)        
+    return soucet
+        
+
+
+def digit_sum(n):
+    text = str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet += int(pismeno)
+    return soucet
+def digit_sum(n):
+    new = str(n)
+    x = 0
+    for letter in new:
+        x = x + int(letter)
+    return x
+
+def digit_sum(n):
+    temp = str(n)
+    sum = 0
+    for char in temp:
+        sum += int(char)
+    return sum
+
+def digit_sum(x):
+  string_x = str(x)
+  total = 0
+  for char in string_x:
+    total += int(char)
+  return total

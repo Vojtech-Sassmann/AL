@@ -1,0 +1,32 @@
+def duplication(text):
+    dupe=''
+    for a in range(len(text)):
+    	dupe+=2*text[a]   
+    return dupe
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 += 2*text[i]
+    return text_2
+
+def duplication(text):
+    result=""
+    for i in range (len(text)):
+        result+=(2*text[i])
+
+    return result
+
+
+def duplication(text):
+    x = ""
+    for i in range(len(text)):
+        x += text[i] * 2
+    return x
+
+def duplication(text):
+    output = ""
+    for i in range(len(text)):
+        output+=text[i]*2
+    return output
+

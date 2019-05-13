@@ -1,0 +1,94 @@
+1.769283276450512
+def sum_dif(a, b):
+    print(a,end=" + ")
+    print(b,end=" = ")
+    print(a+b)
+    print(a,end=" - ")
+    print(b,end=" = ")
+    print(a-b)
+
+1.5017064846416381
+def sum_dif(a, b):
+    soucet = a + b
+    rozdil = a - b
+    print(str(a) + " + " + str(b) + " = " + str(soucet))
+    print(str(a) + " - " + str(b) + " = " + str(rozdil))
+
+1.4197952218430034
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a+b))
+    print(str(a) + " - " + str(b) + " = " + str(a-b))
+
+1.2013651877133107
+def sum_dif(a, b):
+    print("{a} + {b} = {res}".format(a=a, b=b, res=a+b))
+    print("{a} - {b} = {res}".format(a=a, b=b, res=a-b))
+
+0.9556313993174061
+def sum_dif(a, b):
+    print(a, "+", b, "=", sum((int(a),int(b))))
+    print(a, "-", b, "=", int(a)-int(b))
+    
+
+0.9392491467576792
+def sum_dif(a, b):
+    plus = a + b
+    minus = a - b
+    print("%d + %d = %d" % (a, b, plus))
+    print("%d - %d = %d" % (a, b, minus))
+0.9392491467576792
+def sum_dif(a, b):
+    print("{} + {} = {}".format(a,b,(a+b)))
+    print("{} - {} = {}".format(a,b,(a-b)))     
+
+0.9228668941979522
+def sum_dif(a, b):
+    print(a,"+", b,"=",a+b), print(a, "-",b,"=",a-b)
+0.9010238907849829
+def sum_dif(a, b):
+    print(str(a),"+", str(b), "=", str(a+b))
+    print(str(a),"-", str(b), "=", str(a-b))
+
+0.8791808873720136
+def sum_dif(a, b):
+    c=a+b
+    print(a, "+", b, "=", c)
+    c=a-b
+    print(a, "-", b, "=", c)
+
+0.8354948805460751
+def sum_dif(a, b):
+    print("%s + %s = %s" %(a, b, a+b))
+    print("%s - %s = %s" %(a, b, a-b))
+
+0.8300341296928327
+def sum_dif(a, b):
+    minus = a - b
+    plus = a + b
+    print(a, "+", b, "=", plus)
+    print(a, "-", b, "=", minus)
+
+0.8136518771331058
+def sum_dif(a, b):
+    plus=a+b
+    minus=a-b
+    print(a,"+",b,"=",plus)
+    print(a,"-",b,"=",minus)
+0.7699658703071672
+def sum_dif(a, b):
+    print(a,"+",b,"=",a+b),
+    print(a,"-",b,"=",a-b),
+    
+
+0.6825938566552902
+def sum_dif(a, b):
+    x = a
+    z = b
+    print(a, "+", b, "=", a+b)
+    print(a, "-", b, "=", a-b)
+	   
+	
+0.6389078498293516
+def sum_dif(a, b):
+    print(a, "+", b, "=", a + b)
+    print(a, "-", b, "=", a - b)

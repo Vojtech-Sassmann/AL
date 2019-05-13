@@ -1,0 +1,35 @@
+def digit_sum(n):
+    num_str = str(n)
+    sum = 0
+    for i in range(0, len(num_str)):
+        sum += int(num_str[i])
+    return sum
+
+def digit_sum(n):
+    x = str(n)
+    y = 0
+    for i in range(len(x)):
+        y += int(x[i])
+    return y
+        
+
+def digit_sum(n):
+    cislo=str(n)
+    soucet=0
+    for i in range(len(cislo)):
+      soucet=soucet+int(cislo[i])
+    return soucet
+
+def digit_sum(n):
+    cislo=str(n)
+    soucet=0
+    for i in range(len(cislo)):
+        soucet=soucet+int(cislo[i])
+    return soucet
+
+def digit_sum(n):
+    n=str(n)
+    counter=0
+    for i in range(0,len(n),1):
+        counter = counter + int(n[i])
+    return counter

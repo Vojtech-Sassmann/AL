@@ -1,0 +1,37 @@
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i]==right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        if left[i] == right[i]:
+            print(left[i])
+def string_intersection(left, right):
+    for i in range (len(left)):
+        if left[i] == right[i]:
+            print(left[i])
+
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i] == right[i]:
+            print(right[i])
+   
+
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i] == right[i]:
+            print(right[i])
+    
+
+def string_intersection(left, right):
+    for i in range(len(left)):
+        if left[i] == right[i]:
+            print(left[i])
+def string_intersection(left, right):
+    for i in range(len(right)):
+        if left[i] == right[i]:
+            print(left[i])
+
+
+

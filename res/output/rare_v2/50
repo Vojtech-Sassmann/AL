@@ -1,0 +1,196 @@
+1.6239106145251396
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if i == 0 and j == 2 or i == 2 and j == 0 or j == 1 and i ==1 or i == 0 and j == 0 or i == 2 and j==2:
+                print(z, end=' ')
+            else:
+                print(' ', end=' ')
+        print()
+1.612290502793296
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if (j==0 and (i==0 or i==2)) or (i==1 and j==1) or (j==2 and (i==2 or i==0)):
+                print(z, end=" ")
+            else:
+                print(" ", end=" ")
+        print()
+1.4118435754189944
+def cross(z):
+    for i in range (1,10):
+        if i%2 == 0:
+            print("  ", end = "")
+        elif i%2==1:
+            print(z, end = " ")
+        if i%3 == 0:
+            print("")
+        i -= 1
+1.20268156424581
+def cross(z):
+    print(z,end="   ")
+    print(z,end="   ")
+    print()
+    print(end="  ")
+    print(z) 
+    print(z, end="   ")
+    print(z)
+
+1.1968715083798882
+def cross(z):
+    print(z + 3*" " + z )
+    print(2*" " + z + 2*" ")
+    print(z + 3*" " + z )
+
+1.1939664804469274
+def cross(z):
+    s = [[z,' ',z],[' ',z,' '],[z,' ',z]]
+    for i in s:
+        print(*i)
+    
+
+1.1910614525139664
+def cross(z):
+    print(z+" "*3+z)
+    print(" "*2+z+" "*2)
+    print(z+" "*3+z)
+    
+
+1.0981005586592179
+def cross(z):
+    for i in range(3):
+        for j in range(3):
+            if i==j or i+j==2 :
+                print(z, end=' ')
+            else:
+                print(' ', end=' ')
+        print()
+
+
+1.0516201117318436
+def cross(z):
+    for i in range(3):
+        if i == 0 or i == 2:
+            print(z, " ", z, end=" ") 
+            print()
+        else:
+            print(" ", z, " ", end=" ")
+            print()
+
+
+1.0312849162011173
+z = "A"
+y = " "
+def cross(z):
+    print(z, y, z)
+    print(y, z)
+    print(z, y, z)
+    		
+
+0.9993296089385475
+def line(z):
+	print(z, " ", z)
+
+def cross(z):
+	line(z)
+	print(" ", z)
+	line(z)
+0.9644692737430167
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print("  ", end="")
+    print(z)
+    print(z, end="   ")
+    print(z)
+
+0.9644692737430167
+def cross(z):
+    print('{0}   {0}'.format(z))
+    print('  {0}'.format(z))
+    print('{0}   {0}'.format(z))
+
+0.9557541899441341
+def cross(z):
+    print("%s   %s"%(z,z))
+    print("  %s %s" % (z,))
+    print("%s   %s"%(z,z))
+0.9528491620111732
+def cross(z):
+    for i in range(3):
+        if i%2 != 1:
+        	print(z,z,sep="   ")
+        	#print()
+        else:
+            print(" ",z,end="  ")
+            print()
+   		
+
+0.9179888268156424
+def cross(z):
+    print(z + "   " + z)
+    print("  " + z + "  ")
+    print(z + "   " + z)
+
+0.8424581005586592
+def cross(z):
+    print(z +"   "+z)
+    print ("  "+z)
+    print(z +"   "+z)
+    
+
+0.8337430167597766
+def cross(z):
+    x=' '
+    print(z,x,z)
+    print(x,z,x)
+    print(z,x,z)
+0.8308379888268157
+def cross(z):
+    print((z),(""),(""),(z))
+    print((""),(""),(z),(""),(""))
+    print((z),(""),(""),(z))
+
+0.8163128491620112
+def cross(z):
+    print(z," ",z),
+    print(" ",z),
+    print(z," ",z),
+
+0.8134078212290503
+def cross(z):
+    print(z, end="   ")
+    print(z)
+    print(" ", z)
+    print(z, end="   ")
+    print(z)
+0.737877094972067
+def cross(z):
+    print(z," ",z),
+    print(" ",z," "),
+    print(z," ",z)
+0.7349720670391061
+def cross(z):
+    print(z, " ", z)
+    print("  {} ".format(z))
+    print(z, " ", z)
+
+0.7059217877094972
+def cross(z):
+    print(z,end="   ")
+    print(z)
+    print(" ",z,"  ")
+    print(z," ",z)
+
+
+0.6913966480446927
+def cross(z):
+    print(z," ",z),
+    print(" ",z)
+    print(z," ",z)
+0.6245810055865922
+def cross(z):
+    print(z, " ", z)
+    print(" ", z, " ")
+    print(z, " ", z)
+

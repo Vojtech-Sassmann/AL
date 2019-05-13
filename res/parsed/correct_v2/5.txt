@@ -1,0 +1,56 @@
+def duplication(text):\n    text2=""\n    for i in text:\n        text2=text2+i+i\n    return text2\n
+def duplication(text):\n    k=""\n    n=len(text)\n    for i in range (n):\n        k=k+(2*text[i])\n    return(k)\n\n        \n
+def duplication(text):\n    dup1 = str()\n    for char in text:\n	    dup1 += char + char\n    return dup1\n
+def duplication(text):\n  out = ""\n  for i in text :\n      out += i+i\n  return out\n
+def duplication(text):\n    moj = ""\n    for i in text:\n        moj += 2*i\n    return moj\n
+def duplication(text):\n    dupe=''\n    for a in range(len(text)):\n    	dupe+=2*text[a]   \n    return dupe\n
+def duplication(text):\n    duplikat = ""\n    for i in text:\n        duplikat+=2*i\n    return duplikat\n
+def duplication(text):\n    new=""\n    for char in text:\n    	new += char + char\n    return new
+def duplication(text):\n    newstr = ""\n    for letter in text:\n        newstr += letter * 2\n    return newstr\n
+def duplication(text):\n    return "".join([l+l for l in text])\n
+def duplication(text):\n    text_2 = ""\n    for i in range(len(text)):\n        text_2 += 2*text[i]\n    return text_2\n
+def duplication(text):\n    text_2 = ""\n    for i in range(len(text)):\n        text_2 = text_2 + 2*text[i]\n    text = text_2\n    return text\n
+def duplication(text):\n    new = ""\n    for i in text:\n        new+= i+i\n    return new\n
+def duplication(text):\n    result=""\n    for i in range (len(text)):\n        result+=(2*text[i])\n\n    return result\n\n
+def duplication(text):\n    for let in text:\n        x=print(let*2,end='')\n    return x\n    \n
+def duplication(text):\n    for let in text:\n        x=print(let*2,end='')\n    return x\n
+def duplication(text):\n    x=''\n    for let in text:\n        x+=(let*2)\n    return x\n
+def duplication(text):\n    text2 = ""\n    for i in range(len(text)):\n    \n    	text2 = text2 + text[i] + text[i]\n        \n    return text2\n    	\n\n        \n        \n   \n
+def duplication(text):\n    x = ""\n    for i in range(len(text)):\n        x += text[i] * 2\n    return x\n
+def duplication(text):\n    out=""\n    for i in text:\n        out+=i+i\n    return out\n
+def duplication(text):\n    text2=''\n    for i in text:\n        text2 = text2 + i*2\n    return text2\n
+def duplication(text):\n    text1 = str()\n    for i in text:\n        text1 += i + i\n    return text1\n
+def duplication(text):\n    s=""\n    for c in text:\n        s+=c+c\n    return s\n
+def duplication(text):\n    new_text = ""\n    for i in text:\n        new_text += (2*i)\n\n    return  new_text
+def duplication(text):\n    new_text = ''\n    for letter in text:\n        new_text += letter * 2\n    return new_text
+def duplication(text):\n    l = []\n    for x in text:\n        l.append(x * 2)\n    return "".join(l)\n
+def duplication(text):\n    l = []\n    for x in text:\n        l.append(x * 2)\n    return "".join(l)\n
+def duplication(text):\n    l = []\n    for x in text:\n        l.append(x*2)\n    return "".join(l)\n
+def duplication(text):\n    double = ""\n    for chr in text:\n        double += 2*chr\n    return double\n
+def duplication(text):\n    alist = []\n    for i in range(len(text)):\n        print(2*text[i], end="")\n    return " "\n\n
+def duplication(text):\n    new = ''\n    for char in text:\n        new += char + char\n    return new\n
+def duplication(text):\n    sic = ""\n    for a in text:\n        sic = sic + a + a\n    return sic
+def duplication(text):\n    new = ''\n    for letter in text:\n        new = new + letter*2\n    return new\n
+def duplication(text):\n    newtext = ""\n    for i in text:\n        newtext += i*2\n    return newtext\n
+def duplication(text):\n    alist = ""\n    for i in text:\n        alist += str(i)\n        alist += str(i)\n    return alist\n
+def duplication(text):\n    alist = ""\n    for i in text:\n        alist += str(i)\n        alist += str(i)\n    return alist
+def duplication(text):\n    alist = ""\n    for i in text:\n        alist += str(i)\n        alist += str(i)\n    return alist\n\n
+def duplication(text):\n    out = ""\n    for c in text:\n        out += c + c\n    return out\n\n
+def duplication(text):\n    new = ""\n    for letter in text:\n        new = new + letter*2\n    return new\n
+def duplication(text):\n    for i in range(0, len(text)*2, 2):\n        text = text[:i] + text[i] + text[i:]\n    return text\n
+def duplication(text):\n    res = ""\n    for char in text:\n        res = res + str(char*2)\n    return res\n
+def duplication(text):\n    alist =""\n    for i in text:\n        alist += i\n        alist += i\n    return alist\n        \n
+def duplication(text):\n    new=''\n    for letter in text:\n        new+=2*letter\n    return new\n
+def duplication(text):\n    return "".join([c + c for c in text])\n
+def duplication(text):\n    duplicated_text = ""\n    for char in text:\n        duplicated_text += 2*char\n    return duplicated_text\n
+def duplication(text):\n    l = []\n    for i in range(len(text)):\n        l.append(text[i]*2)\n    return "".join(l)\n
+def duplication(text, a=0):\n    if a == len(text)-1:\n        return text[a]*2\n    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):\n    output = ""\n    for i in range(len(text)):\n        output+=text[i]*2\n    return output\n
+def duplication(text):\n    strg=''\n    for letter in text:\n        strg+=2*letter\n    return strg\n
+def duplication(text):\n    new_text = ""\n    for letter in text:\n        new_text = new_text + 2*letter\n    return new_text\n        \n
+def duplication(text):\n    new_text = ''\n    for item in text:\n        new_text += 2*item \n    return new_text
+def duplication(text):\n	novy=str()\n	for i in range(len(text)):\n		novy=novy+text[i]*2\n	return novy
+def duplication(text):\n    celk = len(text)\n    duplik = ""\n    for i in range(celk):\n        duplik = duplik + 2*text[i]\n    return(duplik)
+def duplication(text):\n    text2=""\n    for i in range(len(text)):\n    	text2=text2+text[i]+text[i]\n    return text2\n
+def duplication(text):\n    x = len(text)\n    for item in text:\n        text += item *2\n    text = text[x:]\n    return text\n
+def duplication(text1):\n    text2=""\n    x=0\n    for i in text1:\n        text2+=text1[x]\n        text2+=text1[x]\n        x+=1\n    return text2\n

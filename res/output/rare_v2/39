@@ -1,0 +1,157 @@
+1.3504442250740374
+def queen(x, y):
+    for j in range(1,9):
+      for i in range(1,9):
+        dx=i-x
+        dy=j-y
+        if dx==0 and dy==0:
+            z="D"
+        elif dx*dy==0 or abs(dx)==abs(dy):
+            z="*"
+        else:
+            z="."
+        print(z,end="")
+      print()  
+
+1.2305034550839091
+def queen(x,y):
+    n = y
+    for j in range(1,9):
+        n = n - 1
+        for i in range(1,9):
+## dama
+            if i == x and j == y:
+                print("D", end ="")
+## okoli +1 pole
+            elif i == x or j == y or ((i == x - 1 or i == x + 1) and (j == y - 1 or j == y + 1)):
+                print("*", end ="")
+## diagonaly
+            elif j == y - n and i == x - n or j == y - n and i == x + n:
+                print("*", end ="")
+##            elif j == y - n and i == x + n:
+##                print("o", end =" ")
+            else:
+                print(".", end ="")
+        print()
+1.1994076999012833
+def queen(x, y):
+    zmen=x
+    x=y
+    y=zmen
+    pom=y-x
+    pom2=y+x-2
+    for i in range(8):
+        for j in range(8):
+            if i+1==x and j+1==y:
+                print("D", end='')
+            elif i+1==x or j+1==y or pom==j or pom2==j:
+                print("*", end='')
+            else:
+                print(".", end='')
+        print()
+        pom=pom+1
+        pom2=pom2-1
+
+1.008390918065153
+def queen(x, y):
+
+    for i in range(1,9):
+        for j in range (1,9):
+            if i==y and j==x:
+                print("D",end="")
+            elif i==y and j!=x:
+                print("*",end="")
+            elif j==x and i!=y:
+                print ("*",end="")
+            elif i-y==j-x:
+                print ("*",end="")
+            elif i-y==x-j:
+                print("*",end="")
+                
+            else:print (".",end="")
+        print()
+
+0.9595261599210266
+def queen(x, y):
+    size = 8
+    for i in range(0, size):
+        for j in range(0, size):
+            if i == y-1 and j == x-1:
+                print("D", end='')
+            elif y-i == (size//2-2) - (x-j):
+                print("*", end='')
+            elif i == y-1 or j == x-1:
+                print("*", end='')
+            elif i-y == j-x:
+                print("*", end='')
+
+            else:
+                print(".", end='')
+        print()
+0.9461994076999013
+def queen(x, y, size=8):
+    for row in range(size):
+        for col in range(size):
+            if row + 1 == y and col + 1 == x:
+                print("D", end="")
+            elif row + 1 == y or col + 1 == x:
+                print("*", end="")
+            elif y - row + 1 == x - col + 1:
+                print("*", end="")
+            elif y - row + 1 == col - x + 3:
+                print("*", end="")
+            else:
+                print(".", end="")
+        print()
+0.8795656465942744
+def queen(x, y, size=8):
+    x, y = x-1, y-1
+    for row in range(size):
+        for col in range(size):
+
+            if row == y and col == x:
+                print("D", end="")
+
+            elif row == y or col == x:
+                print("*", end="")
+
+            elif y - row == x - col:
+                print("*", end="")
+
+            elif y - row == col - x:
+                print("*", end="")
+
+            else:
+                print(".", end="")
+
+        print()
+
+
+0.7152023692003948
+def queen(x, y):
+    for rows in range(1,9):
+        for cols in range(1,9):
+            if cols==x and rows==y:
+                print("D",end="")
+            elif cols==x or rows==y:
+                print("*",end="")
+            elif cols-rows==x-y or cols+rows==x+y:
+                print("*",end="")
+            else:
+                print(".", end="")
+        print()
+
+0.7107601184600197
+def queen(x, y):
+    for yd in range(1, 9):
+        for xd in range(1, 9):
+            if xd == x and yd == y:
+                print("D", end="")
+            elif xd == x or yd == y:
+                print("*", end="")
+            elif yd - xd + x == y or xd + yd - y == x:
+                print("*", end="")
+            else:
+                print(".", end="")
+        print()
+

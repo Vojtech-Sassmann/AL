@@ -1,0 +1,273 @@
+Rate:  14.366666666666667
+431.0
+def compare(a, b):
+    if a > b:
+        print(str(a) + " je vetsi nez " + str(b))
+    elif a == b:
+        print("stejna")
+    elif a < b:
+        print(str(b) + " je vetsi nez " + str(a))
+    else:
+        print()
+    
+
+403.0
+def compare(a, b):
+    jv = " je vetsi nez "    
+    if   a > b:
+       print(str(a) +jv +str(b))
+    elif a < b:
+       print(str(b) +jv +str(a))
+    else: 
+       print("stejna")
+   
+
+      
+       
+    
+
+391.0
+def compare(a, b):
+    if a == b:
+    	print("stejna")
+    elif a > b:
+    	print(str(a) + " je vetsi nez " + str(b))
+    else:
+        print(str(b) + " je vetsi nez " + str(a))
+
+374.0
+def compare(a, b):
+	if a < b:
+		print(str(b) + " je vetsi nez " + str(a))
+	elif a > b:
+		print(str(a) + " je vetsi nez " + str(b))
+	elif a == b:
+		print("stejna")
+361.0
+def compare(a, b):
+    if a > b:
+    	print(str(a) + " je vetsi nez " + str(b))
+    elif b > a:
+        print(str(b) + " je vetsi nez " + str(a))
+    else:
+        print("stejna")
+
+359.0
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    if a > b:
+        print("%d je vetsi nez %d" %(a, b))
+    if a < b:
+        print("%d je vetsi nez %d" %(b, a))
+
+337.0
+def compare(a, b):
+    if a == b:
+        print('stejna')
+    elif a < b:
+        print('{} je vetsi nez {}'.format(b,a))
+    else: print('{} je vetsi nez {}'.format(a,b))
+
+337.0
+def compare(a, b):
+    if a==b:
+        print("stejna")
+    else:
+        print(max(a,b),"je vetsi nez",min(a,b))
+329.0
+def compare(a, b):
+    c = max(a, b)
+    if a == b:
+        print('stejna')
+        return
+    d = min(a, b)
+    print(c, 'je vetsi nez', d)
+314.0
+def compare(a, b):
+    if a != b:
+        print(max(a,b), "je vetsi nez", min(a,b))
+    else:
+    	print("stejna")
+
+310.0
+def compare(a, b):
+    if a - b == 0:
+        print("stejna")
+    else:
+        print(max(a, b), "je vetsi nez", min(a, b))
+
+295.0
+def compare(a, b):
+    if (a>b):
+        print("%d je vetsi nez %d" % (a,b))
+    elif (a<b):     
+        print("%d je vetsi nez %d" % (b,a))
+    else:
+        print("stejna")
+290.0
+def compare(a, b):
+    if a<b:
+        print (b,"je vetsi nez",a)
+    elif a==b:
+        print ("stejna")
+    elif b<a:
+        print (a,"je vetsi nez",b)
+    else:
+        print ("ani jedna podminka") 
+287.0
+def compare(a, b):
+    if b > a:
+        print (b, "je vetsi nez", a)
+    elif a == b:
+        print ("stejna")
+    if a > b:
+        print (a, "je vetsi nez", b)
+            
+   
+
+286.0
+def compare(a, b):
+    if a < b:
+        print(b,"je vetsi nez",a)
+    if a==b:
+        print("stejna")
+    if a>b:
+        print(a,"je vetsi nez",b)
+         
+
+285.0
+def compare(a, b):
+    if(a==b): print("stejna")
+    if (a<b):print(b,"je vetsi nez",a)
+    if (a>b):print(a,"je vetsi nez",b)
+        
+276.0
+def compare(a, b):
+    if a>b:
+    	print(a,"je vetsi nez",b)
+    if a==b:
+        print("stejna")
+    if a<b:
+        print(b,"je vetsi nez",a)
+        
+
+276.0
+def compare(a, b):
+    if a>b:
+        print(a, "je vetsi nez", b)
+    if b>a:
+        print(b, "je vetsi nez", a)
+    if a is b:
+        print("stejna")
+
+272.0
+def compare(a, b):
+	if a == b:
+		print("stejna")
+	if a>b:
+		print(a, "je vetsi nez", b)
+	if a<b:
+		print(b, "je vetsi nez", a)
+
+263.0
+def compare(a, b):
+    if a >= b:
+        if a == b:
+            print("stejna")
+        else:
+            print(a, "je vetsi nez", b)
+    else:
+        print(b, "je vetsi nez", a)
+
+259.0
+def compare(a, b):
+    if (a < b):
+        print(b, "je vetsi nez", a)
+    if (a > b):
+        print(a, "je vetsi nez", b)
+    if (a == b):
+        print("stejna")
+
+256.0
+def compare(a, b):
+    if a > b:
+        print(a,"je vetsi nez", b)
+    if a < b:
+        print(b,"je vetsi nez", a)
+    if a == b:
+        print("stejna")
+    
+    
+
+245.0
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    elif a > b:
+        print(a, "je vetsi nez", b)
+    elif b > a:
+        print(b, "je vetsi nez", a)
+241.0
+def compare(a, b):
+    if (a>b):
+        print(a, "je vetsi nez", b)
+    elif a==b:
+        print("stejna")
+    elif a<b:
+        print(b, "je vetsi nez", a)
+
+229.0
+def compare(a, b):
+    if(a>b):
+        print(a,"je vetsi nez",b)
+    elif(b>a):
+        print(b,"je vetsi nez",a)
+    else:
+        (b==a)
+        print("stejna")
+
+
+222.0
+def compare(a, b):
+    if(a == b):
+        print("stejna")
+    elif(a > b):
+        print(a, "je vetsi nez", b)
+    else:
+        print(b, "je vetsi nez", a)
+
+217.0
+def compare(a, b):
+    if a<b:
+    	print(b,"je vetsi nez",a)
+    elif a>b:
+       	print(a,"je vetsi nez",b)
+    else:
+       print("stejna")
+216.0
+def compare(a, b):
+    if a > b :
+        print(a, "je vetsi nez", b)
+    elif a == b :
+        print("stejna")
+    else:
+        print(b, "je vetsi nez", a)
+
+213.0
+def compare(a, b):
+    if a>b:
+    	print(a,"je vetsi nez",b)
+    elif b>a:
+    	print(b,"je vetsi nez",a)
+    elif a==b:
+    	print("stejna")
+
+212.0
+def compare(a, b):
+    if a > b:
+        print (a,"je vetsi nez",b)
+    elif a < b:
+        print (b,"je vetsi nez",a)
+    else:
+        print ("stejna")

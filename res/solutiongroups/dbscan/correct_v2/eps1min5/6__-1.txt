@@ -1,0 +1,206 @@
+def nonzero_product(numbers):
+    r=1
+    for i in numbers:
+        if i!=0:
+            r*=i
+    return r
+
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    x = 1
+    for number in numbers:
+        if number == 0:
+            continue
+        else:
+            x = x * number
+            
+    return x
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+def nonzero_product(numbers):
+    s = 1
+    n = 0
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            n = numbers[i]
+            s = s * n
+    return s
+
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    product = 1
+    for element in numbers:
+        if element:
+        	product *= element
+    return product
+
+def nonzero_product(numbers):
+    a = 1
+    for item in numbers:
+        if item != 0:
+            a = a * item
+        else:
+            continue
+            
+    return a
+
+def nonzero_product(numbers):
+    r=1
+    for i in numbers:
+        if i!=0:
+            r*=i
+    return r
+
+def nonzero_product(numbers):
+    result = 1
+    for x in range(len(numbers)):
+        if(numbers[x] != 0):
+            result *= numbers[x]
+    return result
+            
+  
+            
+
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    x = 1
+    for number in numbers:
+        if number == 0:
+            continue
+        else:
+            x = x * number
+            
+    return x
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+def nonzero_product(numbers):
+    s = 1
+    n = 0
+    for i in range(len(numbers)):
+        if numbers[i] != 0:
+            n = numbers[i]
+            s = s * n
+    return s
+
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    product = 1
+    for element in numbers:
+        if element:
+        	product *= element
+    return product
+
+def nonzero_product(numbers):
+    a = 1
+    for item in numbers:
+        if item != 0:
+            a = a * item
+        else:
+            continue
+            
+    return a
+

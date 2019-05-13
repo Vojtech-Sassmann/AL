@@ -1,0 +1,203 @@
+Rate:  28.38095238095238
+596.0
+def alphabet(n):
+    j = 0
+    for i in range(n):
+        if str(chr(ord('A')+j)) != "[":
+        	print(chr(ord('A')+j))
+        	j += 1
+        else:
+            j -= (ord("Z") - ord("A") + 1)
+            print(chr(ord('A')+j))
+            j += 1
+502.0
+def alphabet(n):
+    alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    if n > 26:
+        count = 0
+        while n > 26:
+            count += 1
+            n -= 26
+        for i in range(count):
+            for number in range(26):
+                print(alph[number])
+        for j in range(n):
+            print(alph[j])
+    else:
+        for number in range(n):
+            print(alph[number])
+466.0
+def alphabet(n):
+    import string
+    for i in range (n):
+        if i <len(string.ascii_uppercase):
+            print (string.ascii_uppercase[i])
+        else: print(string.ascii_uppercase[i-(i//len(string.ascii_uppercase))*len(string.ascii_uppercase)])
+
+459.0
+def alphabet(n):
+    abeceda = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    pocet = len(abeceda)
+    cely_cykl = n // 26
+    zbytek = n % 26
+
+    if cely_cykl > 0:
+        for j in range(cely_cykl):
+            for i in range(pocet):
+                print(abeceda[i])
+        for i in range(zbytek):
+            print(abeceda[i])
+    else:
+        for i in range(zbytek):
+          print(abeceda[i])
+
+416.0
+def alphabet(n):
+    b = 0
+    for i in range(n):
+        if chr(ord('A') + i - b*26) == "[":
+        	b += 1
+        print(chr(ord('A') + i - b*26))
+
+415.0
+def alphabet(n):
+	abeceda=str("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+	cele=n//len(abeceda)
+	zb=n%len(abeceda)
+	for i in range(cele):
+		for j in range(len(abeceda)):
+			print(abeceda[j])
+	for k in range(zb):
+		print(abeceda[k])
+	print()
+
+
+415.0
+def alphabet(n):
+    abeceda = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    a = ""
+    b = ""
+    if n>26:
+        b = abeceda * ((n//26)+1)
+    else:
+        b = abeceda
+    for i in range(n):
+    	a = b[i]
+    	print(a)
+
+375.0
+def alphabet(n):
+    alist = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    x = 0
+    for i in range(n):
+        if i < len(alist):
+            print(alist[i])
+            
+        elif i >= len(alist):
+            print(alist[x])
+            x+=1
+            if x == 26:
+                x = 0
+375.0
+def alphabet(n): # vypíše n-písmen abecedy. Pokud je n>26, píše abecedu znova
+    alist = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    x = 0
+    for i in range(n):
+        if i < len(alist):
+            print(alist[i])
+            
+        elif i >= len(alist):
+            print(alist[x])
+            x+=1
+            if x == 26:
+                x = 0
+367.0
+def alphabet(n):
+    while True:
+        for i in range(ord('A'), ord('Z') + 1):
+            print(chr(i))
+            n -= 1
+            if n == 0:
+                return
+337.0
+def alphabet(n):
+	for i in range(n//26):
+		for j in range(26):
+			print(chr(65+j))
+	for k in range(n%26):
+		print(chr(65+k))
+324.0
+def alphabet(n):
+    abc = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    for i in range(n//26):
+        for x in range(len(abc)):
+            print(abc[x])
+    for i in range(n%26):
+        print(abc[i])
+            
+320.0
+def alphabet(n):
+    i = 65
+    for _ in range(n):
+        if i <= 90:
+            print(chr(i))
+            i += 1
+        else:
+            i = 65
+            print(chr(i))
+            i += 1
+
+314.0
+def alphabet(n):
+    for i in range(n):
+        print('ABCDEFGHIJKLMNOPQRSTUVWXYZ'[i%26])
+
+305.0
+def alphabet(n):
+    j = 0
+    for i in range(n):
+        if j < 26:
+            print(chr(j+65))
+            j = j + 1
+        else:
+            print('A')
+            j = 1
+
+303.0
+def alphabet(n):
+    for i in range(n):
+        if i < 26:
+            print(chr(i+65))
+        else:
+            print(chr((i % 26)+65))
+
+298.0
+def alphabet(n):
+    for i in range(n):
+        if i == 0:
+            a=0
+        else:
+            a=(i%26)
+        print(chr(65+a))
+
+298.0
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord("A")+i%26))
+
+298.0
+def alphabet(n):
+    for i in range(n):
+        print(chr(ord('A')+i%26))
+
+285.0
+def alphabet(n):
+    for i in range(n):
+        a = 65 + i % 26
+        print(chr(a))
+
+282.0
+def alphabet(n):
+    for i in range(n):
+    	print(chr((i%26)+65))
+
