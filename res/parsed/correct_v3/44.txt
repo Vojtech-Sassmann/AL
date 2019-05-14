@@ -1,0 +1,25 @@
+def make_fancy(text, n):\n    for i,a in enumerate(text):\n    	print(" "*i, (a+" ")*n)\n
+def make_fancy(text, n):\n    for i, letter in enumerate(text):\n        print(" "*i + letter + (" "+letter)*(n-1))\n
+def make_fancy(text, n):\n	for i in range(len(text)):\n		print(i*" "+n*(text[i]+" "))\n
+def make_fancy(text, n):\n    for i, letter in enumerate(text):\n    	print(" "*i + text[i] + (" "+text[i])*(n-1))\n
+def make_fancy(text, n):\n    for i in range (len(text)):\n        print(i*" ",end="")\n        print (n*(text[i]+" "))\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        for j in range(2*len(text)+n):            \n            if i<=j<n+i:\n        		print(text[i], end= " ") \n            else:\n                print("", end= " ")\n            \n        print("")\n    \n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        \n      print(" "*i + (text[i]+" ")*n)\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(' ' * i + (text[i] +' ' )* n)\n            \n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(" "*i+(text[i]+" ")*n)\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(i*" ", n*(text[i] + " "))\n
+def vypis_radek(pismenko, opakovani, mezer_na_zacatku):\n    print(" " * mezer_na_zacatku, end="")\n    print(" ".join(pismenko * opakovani))\n\ndef make_fancy(text, n):\n    for i in range(len(text)):\n        pismenko = text[i]\n        opakovani = n\n        mezer_na_zacatku = i\n        vypis_radek(pismenko, opakovani, mezer_na_zacatku)\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        mezery = " " * i\n        opakovani = text[i] * n\n        print(mezery + " ".join(opakovani))\n
+def make_fancy(text, n):\n    i = 0    \n    for letter in text:\n    	print(" "*i, end = '')\n    	i = i + 1\n    	for word in range(0, n):\n        	print(letter + " ", end = '')\n    	print()\n          \n
+def make_fancy(text, n):\n    for x in range(len(text)):\n        print(x * " ", " ".join(text[x] * n))\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n    	print(" "*i + (text[i] + " ")*n)\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(" " * (i), end="")\n        for k in range(n):\n            print(text[i], end=" ")\n        print()\n
+def make_fancy(text, n):\n    alen = len(text)\n    for i in range(0,alen):\n		print(" "*i,(text[i]+" ")*n)\n
+def make_fancy(text, n):\n    counter=0\n    for a in text:\n        print(counter*" ",end="")\n        for b in range (n):\n            print(a,"",end='')\n        print()    \n        counter+=1\n\n
+def make_fancy(text, n):\n    x = ""\n    for i in range(0, len(text)):\n        x = " " * i \n        print(x, (text[i]+" ")* n)\n        \n        
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print (" "*i, (text[i]+" ")*n)
+def make_fancy(text, n):\n    i = 0\n    for char in text:\n        print(i*" ", end="")\n        for _ in range(n):\n            print(char+" ", end="")\n        i += 1\n        print()\n        \n
+def make_fancy(text, n):\n    for j in range(len(text)):\n        print(" "*j, end=" ")\n        for i in range(n):\n        	print(text[j], end=" ")\n        print()
+def make_fancy(text, n):\n	for i in range(len(text)):\n		print(i*" "+n*(text[i]+" "))\n
+def make_fancy(text, n):\n    p_radku = len(text)\n    x = " "\n    for i in range(p_radku):\n        print(x + n*(text[i] + " "))\n        x = x + " "\n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(' '*i + (text[i] + ' ')*n)\n    \n

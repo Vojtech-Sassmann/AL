@@ -1,0 +1,77 @@
+def five_multiples(num_list):\n  x = []\n  for i in num_list:\n    if i % 5 == 0:\n      x.append(i)\n  return x
+def five_multiples(num_list):\n    s = []\n    for i in num_list:\n        if i % 5 == 0:\n            s.append(i)\n    return s
+def five_multiples(num_list):\n    nas=[]\n    for i in num_list:\n        if not(i%5):\n        	nas.append(i)\n    return nas\n
+def five_multiples(num_list):\n    return [i for i in num_list if i%5 == 0]\n
+def five_multiples(num_list):\n    s=[]\n    for i in num_list:\n        if i%5==0: s.append(i)\n    return s\n
+def five_multiples(num_list):\n    result = []\n    for x in num_list:\n        if x%5 == 0:\n			result=result+[x]\n    return result
+def five_multiples(num_list):\n    output = []\n    for maybe in num_list:\n        if not (maybe % 5):\n            output.append(maybe)\n    return output\n
+def five_multiples(num_list):\n    temp_list = []\n    for i in range(len(num_list)):\n        if(num_list[i] % 5 == 0):\n            temp_list.append(num_list[i])\n    return temp_list
+def five_multiples(num_list):\n    return filter(lambda n : n % 5 == 0, num_list)\n
+def five_multiples(num_list):\n    return [x for x in num_list if x%5==0]\n
+def five_multiples(num_list):\n    x = []\n    for i in num_list:\n        if i % 5 == 0:\n            x.append(i)\n    return x\n
+def five_multiples(num_list):\n    nasobky_peti = []\n    for i in range(len(num_list)):\n        if (num_list[i]) % 5 == 0:\n            nasobky_peti.append(num_list[i])\n    return nasobky_peti
+def five_multiples(num_list):\n    new_list = []\n    for i in range(len(num_list)):\n        if num_list[i]%5 == 0:\n            new_list.append(num_list[i])\n    return new_list\n
+def five_multiples(num_list):\n    return [x for x in num_list if x % 5 == 0]\n
+def five_multiples(num_list):\n    return [i for i in num_list if not i%5]\n
+five_multiples = lambda num_list : [i for i in num_list if not i%5]
+def five_multiples(num_list):\n    seznam = []\n    for x in num_list:\n		if x % 5 == 0:\n        		seznam.append(x)\n    return seznam
+def five_multiples(num_list):\n    five_folds=[]\n    for x in num_list:\n        if x%5==0:\n            five_folds.append(x)\n\n    return five_folds\n
+def five_multiples(num_list):\n    my=[]\n    for char in num_list:\n        \n        if char%5==0:\n            my.append(char)\n    return my\n            
+def five_multiples(num_list):\n    array = []\n    for t in num_list:\n        if t % 5 == 0:\n            array.append(t)\n    return array\n
+def five_multiples(num_list):\n    r = []\n    for item in num_list:\n        if item % 5 == 0:\n            r.append(item)\n\n    return r\n
+def five_multiples(num_list):\n    b = []\n    a = 0\n    for i in range(len(num_list)):\n        if num_list[i]%5==0:\n            b.append(num_list[i])\n            \n    return b\n
+def five_multiples(num_list):\n    x = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            x.append(num_list[i])\n    return x\n
+def five_multiples(num_list):\n    delitele = []\n    for x in num_list:\n        if x % 5 == 0:\n            delitele.append(x)\n    return delitele\n
+def five_multiples(num_list):\n    new_list = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            new_list.append(num_list[i])\n            \n    return new_list\n
+def five_multiples(A):\n    r=[]\n    for i in A:\n        if i%5==0:\n            r.append(i)\n    return r\n
+def five_multiples(num_list):\n    z = []\n    for i in num_list:\n        if i % 5 == 0:\n            z.append(i)\n    return z\n
+def five_multiples(num_list):\n    alist = []\n    for i in num_list:\n        if i % 5 == 0:\n            alist.append(i)\n            \n    return alist\n
+def five_multiples(num_list):\n    res = []\n    for num in num_list:\n        if num % 5 == 0:\n            res.append(num)\n    return res\n
+def five_multiples(num_list):\n    multiples = []\n    for i in num_list:\n        if i % 5 == 0:\n            multiples.append(i)\n    return multiples\n
+def five_multiples(num_list):\n    new = []\n    for number in num_list:\n        if number % 5 == 0:\n            new.append(number)\n    return new\n
+def five_multiples(num_list):\n    fives = []\n    for x in num_list:\n        if x % 5 == 0:\n            fives.append(x)\n    return fives\n
+def five_multiples(num_list):\n    multiples = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 ==0:\n            multiples.append(num_list[i])\n            \n    return multiples    \n
+def five_multiples(num_list):\n    alist = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n        	alist.append(num_list[i])\n    return alist\n
+def five_multiples(num_list):\n    new_list = []\n    for item in num_list:\n        if item % 5 == 0:\n            new_list.append(item)\n    return new_list\n
+def five_multiples(num_list):\n    new_num_list = []\n    for i in num_list:\n        if i%5 == 0:\n            new_num_list.append(i)\n    return new_num_list\n
+def five_multiples(num_list):\n    multiples_list = []\n    for i in range(0,len(num_list)):\n    	if num_list[i] % 5 == 0:\n        	multiples_list.append(num_list[i])\n    return multiples_list\n
+def five_multiples(num_list):\n    newlist = []\n    for i in num_list:\n        if (i%5 == 0):\n			newlist.append(i)\n    return newlist\n
+def five_multiples(num_list):\n    return [x for x in num_list if x % 5 == 0]\n
+def five_multiples(num_list):\n    new = []\n    for number in num_list:\n        if number % 5 == 0:\n            new.append(number)\n    return new
+def five_multiples(num_list):\n    new = []\n    for p in num_list:\n        if p % 5 == 0:\n            new.append(p)\n    return new
+def five_multiples(l):\n    nl=[]\n    for n in l:\n        if n%5==0:\n            nl.append(n)\n    return nl\n
+def five_multiples(num_list):\n    l = []\n    for x in num_list:\n        if x % 5 == 0:\n            l.append(x)\n    return l\n
+def five_multiples(num_list):\n    new_num_list = []\n    for number in num_list:\n        if number % 5 == 0:\n            new_num_list.append(number)\n    return new_num_list\n
+def five_multiples(num_list):\n    new = []\n    for p in num_list:\n        if p % 5 == 0:\n            new.append(p)\n    return new\n
+def five_multiples(num_list):\n    div_by_five = []\n    for i in num_list:\n        if i % 5 == 0:\n            div_by_five.append(i)\n    return div_by_five\n
+def five_multiples(num_list):\n    newlist = []\n    for i in num_list:\n        if i % 5 == 0:\n            newlist.append(i)\n    return newlist\n
+def five_multiples(num_list): # vypíše ze seznamu čísla dělitelná 5ti.\n    alist = []\n    for i in num_list:\n        if i % 5 == 0:\n            alist.append(i)\n    return alist\n
+def five_multiples(num_list):\n    new = []\n    for i in num_list:\n        if i % 5 == 0:\n            new.append(i)\n    return new\n
+def five_multiples(num_list):\n    new = []\n    for item in num_list:\n        if item%5 == 0:\n            new.append(item)\n    return new\n
+def five_multiples(num_list):\n    result = []\n    for i in range(0, len(num_list)):\n        if num_list[i] % 5 == 0:\n        	result.append(num_list[i])    \n    return result\n
+def five_multiples(num_list):\n    pole = []\n    for i in range(len(num_list)):\n        a = num_list[i] % 5\n        if a == 0:\n            pole.append(num_list[i])\n    return pole\n
+def five_multiples(num_list):\n    five_mul = []\n    for i in num_list:\n        if i % 5 == 0:\n            five_mul.append(i)\n\n    return five_mul
+def five_multiples(num_list):\n    new_num_list = []\n    for i in num_list:\n        if i % 5 == 0:\n            new_num_list.append(i)\n    return new_num_list\n
+def five_multiples(num_list):\n    div5 = []\n    for i in range(len(num_list)):\n        if num_list[i]%5 == 0:\n            div5.append(num_list[i])\n    return div5\n
+def five_multiples(num_list):\n    five_list = []\n    for n in num_list:\n        if n % 5 == 0:\n            five_list.append(n)\n    return five_list\n            \n
+def five_multiples(num_list):\n    new = []\n    for i in num_list:\n        if i%5 == 0:\n            new.append(i)\n    return new\n
+def five_multiples(num_list):\n    new_list = []\n    for item in num_list:\n        if item % 5 ==0:\n            new_list.append(item)\n    return new_list\n
+def five_multiples(num_list):\n    return_list = []\n    for i in num_list:\n        if i % 5 == 0:\n            return_list.append(i)\n    return return_list\n
+def five_multiples(num_list):\n    output = []\n    for numbers in num_list:\n        if numbers % 5 == 0:\n            output.append(numbers)\n    return output\n
+def five_multiples(num_list):\n    nasobky = []\n    for i in num_list:\n        if i%5==0:\n            nasobky.append(i)\n    return nasobky\n
+def five_multiples(num_list):\n    new_list = []\n    for number in num_list:\n        if number % 5 == 0:\n            new_list.append(number)\n    return new_list\n            
+def five_multiples(num_list):\n	i=0\n	while i<len(num_list):\n		if num_list[i]%5!=0:\n			del(num_list[i])\n		else:\n			i=i+1\n	return num_list
+def five_multiples(num_list):\n    five_multi = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            five_multi.append(num_list[i])\n    return five_multi\n
+def five_multiples(num_list):\n    seznam = []\n    for i in num_list:\n        if i%5==0:\n            seznam.append(i)\n    \n    return seznam\n    \n    \n
+def five_multiples(num_list):\n    num_list2 = []\n    for x in num_list:\n        if x % 5 == 0:\n            num_list2.append(x)\n    return num_list2\n
+def five_multiples(num_list):\n    vyber = list()\n    for i in range(0, len(num_list)):\n        if num_list[i] %5 == 0:\n            vyber.append(num_list[i])\n    return(vyber)\n
+def five_multiples(num_list):\n    sez = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            sez.append(num_list[i])\n    return sez\n
+def five_multiples(num_list):\n    return [element for element in num_list if not(element % 5)]\n
+def five_multiples(num_list):\n    blist = []\n    for item in num_list:\n        if item % 5 == 0:\n            blist.append(item)\n    return blist\n
+def five_multiples(num_list):\n    list = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            list.append(num_list[i])\n    return list\n            \n
+def five_multiples(num_list):\n    seznam=[]\n    for cislo in num_list:\n        if cislo%5==0:\n            seznam.append(cislo)          \n    return seznam\n
+def five_multiples(num_list):\n    list5 = []\n    for i in range(len(num_list)):\n        if num_list[i] % 5 == 0:\n            list5.append(num_list[i])\n    return list5\n
+def five_multiples(num_list):\n    fivenum_list=[]\n    for i in num_list:\n        if i%5==0:\n           	fivenum_list=fivenum_list+[i]\n            \n    return fivenum_list        \n      \n\n
+def five_multiples(num_list):\n    petky = []\n    for i in range(len(num_list)):\n        if num_list[i]//5 == num_list[i]/5:\n            petky.append(num_list[i])\n        else:\n            pass\n    return petky\n
+def five_multiples(num_list):\n    list_5 = []\n    for i in range(len(num_list)):\n        if num_list[i]%5 == 0:\n            list_5.append(num_list[i])\n    return list_5\n
+def five_multiples(num_list):\n    new_list=[]\n    for i in num_list:\n        if i % 5==0:\n            new_list+=[i]\n    return new_list\n

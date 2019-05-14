@@ -1,0 +1,187 @@
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(1, n+1):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for n in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n*2):\n        if i % 2 == 0:\n            print("hej")\n        else:\n            print("rup")\n
+def hej_rup(n):\n    for i in range(n):   \n        print("hej")\n        print("rup")\n\n
+def hej_rup(n):\n    for n in range(n):\n        print("hej")\n        print("rup")\n   
+def hej_rup(n):\n    for hej in range(n):\n    	print("hej")\n    	print("rup")\n\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print ("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for x in range(n):\n        print("hej");\n        print("rup");\n
+def hej_rup(n):\n    for i in range(0,n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for _ in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print('hej')\n        print('rup')\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n       print("hej")\n       print("rup")
+def hej_rup(n):\n    i = 0\n    while i < n:\n        print("hej")\n        print("rup")\n        i += 1\n        \n   \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(2*n): \n        if (i+1)%2==1:\n            print("hej")\n        else: print ("rup")\n    \n\n
+def hej_rup(n):\n    i = 1\n    while i <= n:\n        print("hej")\n        print("rup")\n        i += 1\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej\nrup")\n
+def hej_rup(n):\n    for n in range(n):\n        print("hej")\n        print("rup")\n\n  
+def hej_rup(n):\n    for i in range(n):\n    	print("hej""\n""rup")\n      \n
+def hej_rup(n):\n    for i in range(n):\n        print('hej')\n        print('rup')\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    k=1\n    for i in range (n):\n    	print("hej")\n    	for j in range (k):\n        	print ("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n	for i in range(n):  \n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range (n) :\n		print ("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")    \n        print("rup")\n\n \n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(2*n):\n    	if i%2 == 0:\n    		print("hej")\n    	else:\n        	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(a):\n    for i in range(a):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n		print("hej")\n		print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print("hej")\n        print ("rup")
+def hej_rup(n):\n    for i in range(1, 2*n+1):\n        if i % 2 == 1:\n            print("hej")\n        else:\n            print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej",sep='')\n        print("rup",sep='')\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n    \n
+def hej_rup(n):\n    for slovo in range(1,n+1):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(1,n+1):\n        print("hej")\n        print('rup')\n
+def hej_rup(n):\n    for i in range(1, n+1):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(1, n+1):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n     print("hej")\n     print("rup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej","\n","rup")\n        	\n    
+def hej_rup(n):\n    for i in range(n):\n     print ("hej")\n     print ("rup")
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej","\n","rup")\n\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")
+def hej_rup(n):\n    for i in range((n)*2):\n        if i%2==0:\n    		print("hej")\n        if i%2==1:\n            print("rup")\n       \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for x in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n	for i in range(n):\n    	print("hej")\n    	print("rup")
+def hej_rup(n):\n    for i in range(1,n+1):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n	
+def hej_rup(n):\n    for i in range(1,n+1):   \n         print("hej\nrup")\n    \n
+def hej_rup(n):\n    x=0\n    while x<n:\n        print("hej")\n        print("rup")\n        x+=1\n
+def hej_rup(n):\n    a = 0;\n    while(a < n):\n		print("hej")\n		print("rup")\n		a += 1\n
+def hej_rup(n):\n    for x in range(n):\n    	print("hej")\n    	print("rup")
+def hej_rup(n):\n    for x in range(n):\n        print("hej")\n        print("rup")\n        \n
+def hej_rup(n):\n    for x in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for x in range(0,n):\n    	print("hej")\n    	print("rup")
+def hej_rup(n):\n    for _ in range(n):\n    	print("hej\rrup") 
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print ("hej")\n        print ("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n        \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for n in range (n):\n        print ("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print('hej')\n        print('rup')\n
+def hej_rup(n):\n    for i in range(n):\n      print("hej")\n      print('rup')\n
+def hej_rup(n):\n    for x in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n +1//2):\n    	print("hej")\n    	print("rup")\n\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    while n != 0:\n        print("hej")\n        print("rup")\n        n -= 1
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print ("hej")\n        print ("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n        \n    \n
+def hej_rup(n):\n    for i in range(1,n+1):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(1,n+1):\n        print("hej")\n        print("rup")\n        \n
+def hej_rup(n):\n    for x in xrange(1, n+1):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej\nrup")\n    print()\n
+def hej_rup(n):\n    print("hej \nrup \n"*n)\n
+def hej_rup(n):\n    for n in range(n):\n    	print("hej \nrup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej","\n","rup", sep="")\n\n
+def hej_rup(n):\n    l=["rup","hej"]\n    for x in range(1,2*n+1):\n        print(l[x%2])\n        \n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej \nrup")\n
+def hej_rup(n):\n    for i in range(1, n+1):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")\n		
+def hej_rup(n):\n    for i in range(n):\n		print("hej")\n		print("rup")
+def hej_rup(n):\n    for _ in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print ("hej")\n        print ("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n    
+def hej_rup(n):\n    a = ["hej", "rup"]\n    for p in range(n):\n        for i in a:\n            print(i)\n        \n        \n
+def hej_rup(n):\n    for n in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")
+def hej_rup(n):\n    for i in range(2*n):\n        if i % 2 == 1:\n    		print("rup")\n        else:\n            print("hej")\n       \n   \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n	pocet=1\n	while (pocet <= n):\n		print("hej")\n		print("rup")\n		pocet = pocet + 1\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n        \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    i = 1\n    while i<=n:\n        print('hej')\n        print('rup')\n        i=i+1
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")
+def hej_rup(n):\n    for i in range(1,n+1):\n  		print("hej"),       print("rup")\n\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej\nrup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n	for i in range(n):\n		print("hej")\n		print("rup")
+def hej_rup(n): \n	for i in range(n):\n		print("hej")\n		print("rup")
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range (1,n+1):\n        print("hej")\n        print("rup")\n    print()\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n    \n    \n
+def hej_rup(n):\n    for i in range(n): print("hej"), print("rup")\n   
+def hej_rup(n):\n    for i in range(n): \n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n        
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n	for i in range(n):\n		print("hej\nrup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej")\n    	print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range (n):\n        print ("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range (n):\n        print("hej","\nrup")\n
+def hej_rup(n):\n    a = ["hej", "rup"] * n\n    for i in a:\n    	print(i)\n    \n        \n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n    	print("hej\nrup")\n     \n
+def hej_rup(n):\n    for n in range (1, n+1):\n        print("hej\nrup")\n
+def hej_rup(n):\n    while(n>0):\n        n = n - 1\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n            \n          \n
+def hej_rup(n):\n    for i in range (n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n

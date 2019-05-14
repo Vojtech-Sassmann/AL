@@ -1,0 +1,538 @@
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    \n\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n **4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", (n * n))\n    print(n, "na treti je", (n * n * n))\n    print(n, "na ctvrtou je", (n * n * n * n))\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n,"na druhou je",n*n)\n    print(n,"na treti je",n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)
+def powers(n):\n	print(n, "na druhou je", n**2)\n	print(n, "na treti je", n**3)\n	print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print (n, "na treti je", n**3)\n    print (n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n*n)\n    print(n,"na treti je",n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3) \n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    n2 = n*n\n    print(n, "na druhou je", n2)\n    n3 = n*n*n\n    print(n, "na treti je", n3)\n    n4 = n*n*n*n\n    print(n, "na ctvrtou je", n4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", (n**2))\n    print(n, "na treti je", (n**3))\n    print(n, "na ctvrtou je", (n**4))\n	\n    
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    m = n**2\n    l = n**3\n    o = n**4\n    print (n, "na druhou je", m)\n    print (n, "na treti je", l)\n    print (n, "na ctvrtou je", o)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", pow(n,2))\n    print(n, "na treti je", pow(n,3))\n    print(n, "na ctvrtou je", pow(n,4))\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n\n	print(n, "na druhou je", n**2)\n	print(n, "na treti je", n**3)\n	print(n, "na ctvrtou je", n**4)\n    \n	
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je" , n ** 3)\n    print(n, "na ctvrtou je" , n ** 4)\n	
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n	print(n, "na druhou je", n**2)\n	print(n, "na treti je", n**3)\n	print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2);\n    print(n, "na treti je", n**3);\n    print(n, "na ctvrtou je", n**4);\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je" , n*n)\n    print(n, "na treti je" , n*n*n)\n    print(n, "na ctvrtou je" , n*n*n*n)\n    	\n        \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    m = n**2\n    print(n, "na druhou je", m)\n    m=n**3\n    print(n, "na treti je", m)\n    m=n**4\n    print(n, "na ctvrtou je", m)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je",n**4)\n
+def powers(n):\n    d = n ** 2 \n    print(n, "na druhou je", d)\n    d = n ** 3 \n    print(n, "na treti je", d)\n    d = n ** 4 \n    print(n, "na ctvrtou je", d)\n\n\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n  t = ( ("druhou",2), ("treti",3), ("ctvrtou",4) )\n  for p in t:\n    m = 1\n    for i in range(p[1]):\n        m *= n\n    print( "{} na {} je {}".format(n, p[0], m) )
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    \n    print(n, "na treti je", n**3)\n    \n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n   \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n   \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    x=n\n    x=x**2\n    print(n, "na druhou je", x)\n    y=n\n    y=y**3\n    print(n, "na treti je", y)\n    z=n\n    z=z**4\n    print(n, "na ctvrtou je", z)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n*n)\n    print(n, "na treti je", n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n	
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je" , n**3)\n    print(n, "na ctvrtou je" ,n**4)
+def powers(n):\n    print(n, "na druhou je", pow(n,2))\n    print(n, "na treti je", pow(n,3))\n    print(n, "na ctvrtou je", pow(n,4))\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)    \n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je",n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+n = 5\ndef powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)	
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n,"na treti je",n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n**2)\n    print(n, "na treti je",n**3)\n    print(n, "na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je" , n**4)\n    \n	\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je" , n**2)\n    print(n, "na treti je" ,n**3)\n    print(n, "na ctvrtou je" ,n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n  \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n* n)\n    print(n, "na treti je",n*n* n)\n    print(n, "na ctvrtou je",n*n*n* n)\n    \n
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n**2)\n    print(n, "na treti je",n**3)\n    print(n, "na ctvrtou je",n**4)\n \n
+def powers(n):\n    print(n,"na druhou je", n**2)\n    print(n,"na treti je", n**3)\n    print(n,"na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n*n)\n    print(n, "na treti je", n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)      \n
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je",n**3)\n    print(n, "na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    m=n**2\n    k=n**3\n    l=n**4\n    print(n, "na druhou je",m)\n    print(n, "na treti je",k)\n    print(n, "na ctvrtou je",l)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n,"\n",n, "na treti je", n*n*n, "\n", n, "na ctvrtou je", n*n*\n         n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n    return\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je",n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    for i in range(1):\n        print(n, "na druhou je", n**2)\n        print(n, "na treti je", n**3)\n        print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n          \n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n	    
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    y = n\n    n = y ** 2\n    print(y, "na druhou je", n)\n    n = y ** 3\n    print(y, "na treti je", n)\n    n = y ** 4\n    print(y, "na ctvrtou je", n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+from math import pow\ndef powers(n):\n    print(n, "na druhou je", int(pow(n, 2)))\n    print(n, "na treti je", int(pow(n, 3)))\n    print(n, "na ctvrtou je", int(pow(n, 4)))\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)
+def powers(n):\n    x = n**2\n    print(n, "na druhou je", x)\n    y = n**3\n    print(n, "na treti je", y)\n    z = n**4\n    print(n, "na ctvrtou je", z)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    y = n * n\n    print(n, "na druhou je", y)\n    y *= n\n    print(n, "na treti je", y)\n    y *= n\n    print(n, "na ctvrtou je", y)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    \n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print (n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    for i in range (2,5):\n        m = n**i\n        if i == 2:\n            print(n, "na druhou je", m)\n        elif i == 3:\n            print(n, "na treti je", m)\n        elif i == 4:\n            print(n, "na ctvrtou je", m)\n
+def powers(n):\n    print(n, "na druhou je", n*n);\n    print(n, "na treti je", n*n*n);\n    print(n, "na ctvrtou je", n*n*n*n) \n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n\n\n\n\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n\n
+def powers(n):\n        print(n, "na druhou je", n*n)\n        print(n, "na treti je", n*n*n)\n        print(n, "na ctvrtou je", n*n*n*n)       
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n	print(n, "na druhou je", n*n)\n	print(n, "na treti je", n*n*n)\n	print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n) 
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, 'na treti je', n**3)\n    print(n, 'na ctvrtou je', n**4)\n
+def powers(n):\n    print(n,'na druhou je',n**2)\n    print(n,'na treti je',n**3)\n    print(n,'na ctvrtou je',n**4)\n\n\n\n        \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n,'na treti je',(n**2)*n)\n    print(n,'na ctvrtou je',(n**2)*(n**2))
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    druhou = n**2\n    treti = n**3\n    ctvrtou = n**4\n    print(n, "na druhou je", druhou)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrtou)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    \n    print(n, "na druhou je", n**2)\n    \n    print(n, "na treti je", n**3)\n\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    druha = n*n\n    tretia = n*n*n\n    stvrta = n*n*n*n\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", tretia)\n    print(n, "na ctvrtou je", stvrta)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n\n\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    p = n * n\n    s = n * n * n\n    u = n * n * n * n\n    print(n, "na druhou je", p)\n    print(n, "na treti je", s)\n    print(n, "na ctvrtou je", u)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n	
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    j = n ** 2\n    print(n, "na druhou je", j)\n    k = n ** 3\n    print(n, "na treti je", k)\n    l = n ** 4\n    print(n, "na ctvrtou je", l)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n   
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    return
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, 'na druhou je', n**2)\n    print(n, 'na treti je', n**3)\n    print(n, 'na ctvrtou je', n**4)
+def powers(n):\n    pom = n * n\n    print(n, "na druhou je", pom)\n    pom *= n\n    print(n, "na treti je", pom)\n    pom *= n\n    print(n, "na ctvrtou je", pom)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    i = n*n\n    print(n,'na druhou je',i)\n    k = i*n\n    print(n, "na treti je", k)\n    c = k*n\n    print(n,'na ctvrtou je',c)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, 'na druhou je', n**2)\n    print(n, 'na treti je', n**3)\n    print(n, 'na ctvrtou je', n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    a = n**2\n    print(n, "na druhou je", a)\n    b = n**3\n    print(n, "na treti je", b)\n    c = n**4\n    print(n, "na ctvrtou je", c)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n	print(n,"na druhou je", n**2, end="\n")\n	print(n,"na treti je", n**3, end="\n")\n	print(n,"na ctvrtou je", n**4, end="\n")\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    n2=n**2\n    n3=n**3\n    n4=n**4\n    print(n, "na druhou je", n2)\n    print(n, "na treti je", n3)\n    print(n, "na ctvrtou je", n4)\n
+def powers(n):\n    n2=n**2\n    n3=n**3\n    n4=n**4\n    print(n,"na druhou je",n2)\n    print(n,"na treti je",n3)\n    print(n,"na ctvrtou je",n4)
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n	print(n, "na druhou je", n**2)\n	print(n, 'na treti je', n**3)\n	print(n,'na ctvrtou je', n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    m=n*n\n    print(n, "na druhou je", m)\n    m=n*n*n\n    print(n, "na treti je", m)\n    m=n*n*n*n\n    print(n, "na ctvrtou je", m)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    x = n * n\n    y = x * n\n    z = y * n\n    print(n, "na druhou je", x)\n    print(n, "na treti je", y)\n    print(n, "na ctvrtou je", z)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je",n*n) \n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n),\n   \n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je" , n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n),\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n*n),\n    print(n,"na treti je",n*n*n),\n    print(n,"na ctvrtou je",n*n*n*n),      \n          \n   \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n),\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n    \n          \n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je" , n**3)\n    print(n, "na ctvrtou je" , n**4)\n
+def powers(n):\n    print(n,"na druhou je",n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)  \n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n,"na druhou je",n*n),\n    print(n,"na treti je",n*n*n),\n    print(n,"na ctvrtou je",n*n*n*n)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2), \n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4),\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je" , n**3),\n    print(n, "na ctvrtou je", n**4)\n    \n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4),\n    \n  \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4),\n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je" , n**3),\n    print(n, "na ctvrtou je" , n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je",n**4)\n    \n    \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4) \n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je", n**3),\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2),\n    print(n, "na treti je" , n**3),\n    print(n, "na ctvrtou je",n**4),\n    \n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):	\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je", n*n)\n    print(n,"na treti je", n*n*n)\n    print(n,"na ctvrtou je", n*n*n*n)\n
+def powers(n):\n	print(n,"na druhou je",n*n)\n	print(n,"na treti je",n*n*n)\n	print(n,"na ctvrtou je",n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    nadruhou = n ** 2\n    natreti = n ** 3\n    nactvrtou = n ** 4\n    print(n, "na druhou je", nadruhou)\n    print(n, "na treti je", natreti)\n    print(n, "na ctvrtou je", nactvrtou)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je",n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)	\n    print(n, "na ctvrtou je", n * n * n * n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je" , n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n )\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n) \n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    words = ["druhou", "treti", "ctvrtou"]\n    for i in range(2,5):\n    	m =n**i\n    	print(n, "na", words[i-2], "je", m)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n),\n    print(n, "na treti je", n*n*n),\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    words = ["druhou", "treti", "ctvrtou"]\n    for i in range(2, 5):\n    	m=n**i\n    	print(n, "na", words[i-2], "je", m)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    m=(n*n)\n    print(n, "na druhou je", m)\n    o=((n*n)*n)\n    print(n, "na treti je", o)\n    p=(n*n)*(n*n)\n    print(n, "na ctvrtou je", p)\n\n\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n,"na treti je", n**3)\n    print(n,"na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", (n*n))\n    print(n, "na treti je", (n*n*n))\n    print(n, "na ctvrtou je", (n*n*n*n))\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n **2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n **4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n	\n    print(n, "na treti je", n*n*n)						\n    \n    print(n, "na ctvrtou je", n*n*n*n)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n) \n          \n\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n * n)\n    print(n, "na treti je", n * n * n)\n    print(n, "na ctvrtou je", n * n * n * n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    a=n*n\n    b=n*n*n\n    c=n*n*n*n\n    print(n, "na druhou je", a)\n    print(n, "na treti je", b)\n    print(n, "na ctvrtou je", c)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    for i in range(1, 11):\n        if i == 2:\n    		print(n, "na druhou je", n**i)\n        elif i == 3:\n    		print(n, "na treti je", n**i)\n        elif i == 4:\n    		print(n, "na ctvrtou je", n**i)\n
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n**4\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n**4\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n\n    
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n**4\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n*n*n*n\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n**4\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n
+def powers(n):\n    druha=n*n\n    treti=n*n*n\n    ctvrta=n**4\n    print(n, "na druhou je", druha)\n    print(n, "na treti je", treti)\n    print(n, "na ctvrtou je", ctvrta)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)
+def powers(n):\n	print(n, "na druhou je", n**2)\n	print(n, "na treti je", n**3)\n	print(n, "na ctvrtou je", n**4)\n    \n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n,"na druhou je",n*n)\n    print(n,"na treti je",n*n*n)\n    print(n,"na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n	print(n, "na druhou je", n**2)\n	print(n, "na treti je", n**3)\n	print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    o=n**2\n    print(n, "na druhou je", o)\n    p=n**3\n    print(n, "na treti je", p)\n    q=n**4\n    print(n, "na ctvrtou je", q)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n ** 2)\n    print(n, "na treti je", n ** 3)\n    print(n, "na ctvrtou je", n ** 4)\n
+def powers(n):\n    value = n ** 2\n    print(n, "na druhou je", value)\n    value = n ** 3\n    print(n, "na treti je", value)\n    value = n ** 4\n    print(n, "na ctvrtou je", value)
+def powers(n):\n   \n    print(n, "na druhou je" ,n*n)\n    print(n, "na treti je" ,n*n*n)\n    print(n, "na ctvrtou je" ,n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n,"na druhou je",n**2)\n    print(n,"na treti je",n**3)\n    print(n,"na ctvrtou je",n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n*n)\n    print(n, "na treti je", n*n*n)\n    print(n, "na ctvrtou je", n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n,"na ctvrtou je", n**4)\n
+def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je",n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
