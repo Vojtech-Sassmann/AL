@@ -75,3 +75,5 @@ def five_multiples(num_list):\n    fivenum_list=[]\n    for i in num_list:\n    
 def five_multiples(num_list):\n    petky = []\n    for i in range(len(num_list)):\n        if num_list[i]//5 == num_list[i]/5:\n            petky.append(num_list[i])\n        else:\n            pass\n    return petky\n
 def five_multiples(num_list):\n    list_5 = []\n    for i in range(len(num_list)):\n        if num_list[i]%5 == 0:\n            list_5.append(num_list[i])\n    return list_5\n
 def five_multiples(num_list):\n    new_list=[]\n    for i in num_list:\n        if i % 5==0:\n            new_list+=[i]\n    return new_list\n
+def five_multiples(num_list):\n    output = []\n    for num in num_list:\n        if num % 5 == 0:\n            output.append(num)\n    return output\n
+

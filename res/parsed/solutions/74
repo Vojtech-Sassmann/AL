@@ -1,0 +1,1 @@
+def nested_squares(n):\n    m = 2*n-2\n    for y in range(-m, m + 1):\n        for x in range(-m, m + 1):\n            if x % 2 == 0 and abs(x) >= abs(y) or y % 2 == 0 and abs(y) >= abs(x):\n                print("#", end="")\n            else:\n                print(" ", end="")\n        print()\n

@@ -1,0 +1,63 @@
+def near_fifty(n):
+    if n>39 and n<61:
+        return True
+    if n>139 and n<161:
+        return True    
+    else: return False
+def near_fifty(n):
+	if (39<n) and (n<61):
+		return True
+	if (139<n) and (n<161):
+		return True
+	else:
+		return False
+def near_fifty(n):
+    if n > 39 and n <61 :
+    	return True
+    elif n > 139 and n < 161 :
+        return True
+    else :
+    	return False
+
+def near_fifty(n):
+    if n>39 and n<61:
+        return True
+    if n>139 and n<161:
+        return True    
+    else: return False
+def near_fifty(n):
+	if (39<n) and (n<61):
+		return True
+	if (139<n) and (n<161):
+		return True
+	else:
+		return False
+def near_fifty(n):
+    if n > 39 and n <61 :
+    	return True
+    elif n > 139 and n < 161 :
+        return True
+    else :
+    	return False
+
+def near_fifty(n):
+    if n>39 and n<61:
+        return True
+    if n>139 and n<161:
+        return True    
+    else: return False
+def near_fifty(n):
+	if (39<n) and (n<61):
+		return True
+	if (139<n) and (n<161):
+		return True
+	else:
+		return False
+def near_fifty(n):
+    if n > 39 and n <61 :
+    	return True
+    elif n > 139 and n < 161 :
+        return True
+    else :
+    	return False
+

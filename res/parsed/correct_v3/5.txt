@@ -54,3 +54,4 @@ def duplication(text):\n    celk = len(text)\n    duplik = ""\n    for i in rang
 def duplication(text):\n    text2=""\n    for i in range(len(text)):\n    	text2=text2+text[i]+text[i]\n    return text2\n
 def duplication(text):\n    x = len(text)\n    for item in text:\n        text += item *2\n    text = text[x:]\n    return text\n
 def duplication(text1):\n    text2=""\n    x=0\n    for i in text1:\n        text2+=text1[x]\n        text2+=text1[x]\n        x+=1\n    return text2\n
+def duplication(text):\n    output = ""\n    for char in text:\n        output += char + char\n    return output\n

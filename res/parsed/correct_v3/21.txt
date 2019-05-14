@@ -77,3 +77,5 @@ def powers(base,n):\n    vysledek=base\n    for i in range(n):\n        print(vy
 def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n
 def powers(base, n):\n    for i in range(1,n+1):\n        print(base**i)\n\n
 def powers(base, n):\n    for i in range(n):\n        print(base**(i+1))
+def powers(base, n):\n    current = base\n    for i in range(n):\n        print(current)\n        current = current * base\n    print()\n
+

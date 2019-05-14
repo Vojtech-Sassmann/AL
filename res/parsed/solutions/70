@@ -1,0 +1,1 @@
+def frame(text, symbol):\n    n = len(text)\n    print(symbol*(n+2))\n    print(symbol+text+symbol)\n    print(symbol*(n+2))\n

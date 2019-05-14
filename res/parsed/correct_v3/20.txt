@@ -89,3 +89,5 @@ def divisors_count(n):\n    pocet=0\n    for i in range(1,n+1):\n		if n%i==0: po
 def divisors_count(n):\n    pocet=0\n    for i in range(1,n+1):\n        if n%i==0: pocet=pocet+1\n    return pocet\n
 def divisors_count(n):\n	pocet=0\n	for i in range(1,n+1):\n		if n%i==0: pocet+=1\n	return pocet
 def divisors_count(n):\n	x=0\n	for i in range(1,n+1):\n		if n%i==0:\n			x+=1\n        \n	return x\n
+def divisors_count(n):\n    count = 0\n    for i in range(1, n + 1):\n        if n % i == 0:\n            count += 1\n    return count\n
+

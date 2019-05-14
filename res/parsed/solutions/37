@@ -1,0 +1,1 @@
+def stars(n):\n    for i in range(n):\n        print("*", end="")\n        if (i+1) % 5 == 0:\n            print("|", end="")\n    print()\n

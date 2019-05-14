@@ -1,0 +1,1 @@
+def five_multiples(num_list):\n    output = []\n    for num in num_list:\n        if num % 5 == 0:\n            output.append(num)\n    return output\n

@@ -1,0 +1,1 @@
+def empty_square(n):\n    for i in range(n):\n        for j in range(n):\n            if i == 0 or j == 0 or i == n -1 or j == n -1:\n                print("#", end=" ")\n            else:\n                print(".", end=" ")\n        print()\n\n

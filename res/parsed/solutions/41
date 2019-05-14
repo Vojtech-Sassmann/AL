@@ -1,0 +1,1 @@
+def nice(a, b):\n    return (a % 2 == 0) != (b % 2 == 0)\n

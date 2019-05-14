@@ -130,8 +130,8 @@ def analyze_file(file_name, t):
 
     statistics = Statistics(t)
 
-    with codecs.open('./res/parsed/correct_v2/' + file_name, 'rb', encoding='UTF-8') as f:
-        reader = csv.reader(f, delimiter=';', quoting=csv.QUOTE_NONE)
+    with codecs.open('./res/parsed/correct_v3/' + file_name, 'rb', encoding='UTF-8') as f:
+        reader = csv.reader((line.replace('\0', '') for line in f), delimiter=';', quoting=csv.QUOTE_NONE)
 
         previous_code = None
 
@@ -171,7 +171,7 @@ def analyze_file(file_name, t):
     # print distance_matrix
     metrics_frame = pd.DataFrame(data=distance_matrix, index=solutions)
 
-    metrics_frame.to_pickle(output + "distances_l1/" + file_name[:-3] + "pkl")
+    metrics_frame.to_pickle(output + "distances/" + file_name[:-3] + "pkl")
 
     # show_df(metrics_frame)
     # show_pca(metrics_frame)
@@ -199,18 +199,19 @@ def show_pca(df):
     plt.show()
 
 
-output = "./res/solutiongroups/dbscan/correct_v2/"
-similarity_threshold = 1
+output = "./res/solutiongroups/dbscan/correct_v3/"
+similarity_threshold = 0
 DBSCAN_MIN_SIZE = 5
 DBSCAN_EPSILON = 1
 
 
 if __name__ == '__main__':
     start_time = time.time()
-    for i in range(1, 75):
+    for i in range(7, 8):
         try:
             analyze_file(str(i) + '.txt', similarity_threshold)
         except:
+
             pass
     end_time = time.time()
     print("Calculation finished in time: {}s".format(end_time - start_time))

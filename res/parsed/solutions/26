@@ -1,0 +1,1 @@
+def censorship(text):\n    output = ""\n    i = 1\n    for char in text:\n        if i % 2 == 0:\n            output += "X"\n        else:\n            output += char\n        i += 1\n    return output\n    \n\n

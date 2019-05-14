@@ -13,15 +13,16 @@ def decode_solution(data):
     :returns: The decoded byte string.
 
     """
+    data = data.replace(" ", "A")
     missing_padding = len(data) % 4
     if missing_padding != 0:
-        data += b'=' * (4 - missing_padding)
+        data += "=" * (4 - missing_padding)
     return b64decode(data).decode('utf-8')
 
 
 def save_solutions(solutions):
     for item_id in solutions.keys():
-        with open('./res/parsed/correct_v2/' + item_id + '.txt', mode='w') as output_file:
+        with open('./res/parsed/correct_v3/' + item_id + '.txt', mode='w') as output_file:
             for solution in solutions[item_id]:
                 print(solution.replace("\n","\\n"), file=output_file)
 
@@ -50,11 +51,11 @@ def parse_solutions():
                     errors += 1
     print('Number of errors: ' + str(errors))
     print('Erred: ')
-    for err in errs_info:
-        print(err)
+    # for err in errs_info:
+        # print(err)
     print('------------------')
 
-    print(solutions)
+    # print(solutions)
 
     counts = {}
 
@@ -67,4 +68,15 @@ def parse_solutions():
 
 
 if __name__ == '__main__':
-    main()
+    for i in range(1, 75):
+        fi = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'rb')
+        data = fi.read()
+        fi.close()
+        fo = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'wb')
+        fo.write(data.replace('\x00', ''))
+        fo.close()
+    # for i in range(1, 75):
+    #      with open('./res/parsed/solutions/' + str(i), mode="r", encoding="utf-8") as input_file:
+    #          with open('./res/parsed/correct_v3/' + str(i) + ".txt", mode="a", encoding="utf-8") as output_file:
+    #              for line in input_file:
+    #                  print(line, file=output_file)

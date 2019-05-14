@@ -1,0 +1,1 @@
+def max_pair_sum(num_list):\n    m = 0\n    for i in range(len(num_list)-1):\n        m = max(m, num_list[i] + num_list[i+1])\n    return m    \n

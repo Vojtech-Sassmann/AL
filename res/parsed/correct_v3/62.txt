@@ -333,3 +333,5 @@ def area_perimeter(a):\n    obsah = a*a\n    obvod = a*4\n    print("obsah", obs
 def area_perimeter(a):\n    print('obsah', a*a)\n    print('obvod', a*4) \n
 def area_perimeter(a):\n    print("obsah", a**2)\n    print("obvod", a*4)\n
 def area_perimeter(a):\n    print("obsah",a*a)\n    print("obvod",4 *a)\n
+def area_perimeter(a):\n    print("obsah", a*a)\n    print("obvod", 4*a)\n
+

@@ -1,0 +1,507 @@
+def first_letters(text):
+    pis=True
+    for i in text:
+        if pis and i!=" ":
+            print(i, end="")
+            pis=False
+        if (i==" ")and(not(pis)):
+            print(" ", end="")
+            pis=True
+
+def first_letters(text):
+  out = ""
+  sp  = True
+
+  for c in text: 
+      if sp:
+         if c!=" ": 
+            out += c+" "
+            sp = False          
+      else:
+         if c==" ": 
+            sp = True
+
+  print(out)
+
+def first_letters(text):
+    old = "X"
+    new = [text[0]]
+    for i in text:
+        if i != " " and old == " ":
+            new.append(i)
+            old = i
+        else:
+            old = i
+    for i in range(len(new)):
+        print(new[i], end = " ")
+
+def first_letters(text):
+    for a in range(len(text)):
+        if text[a]!=' ':
+            if a==0:
+                print(text[a], end=' ')
+            elif text[a-1]==' ' :
+                print(text[a], end=' ')
+    print()
+                
+
+def first_letters(text):
+    pole =  text.split()
+    vypis = ""
+    for i in range(len(pole)):
+        vypis += pole[i][:1]+" "
+    print(vypis)
+
+def first_letters(text):
+    new=""
+    tex = text.split()
+    for i in tex:
+        new += i[0] + " "
+    print (new)
+def first_letters(text):
+   if text[0]!=' ': print(text[0],end=" ")
+   for i in range (len(text)):
+       if text[i]==' ' and text[i+1]!=' ':
+           print (text[i+1], end=" ")
+   print()
+
+def first_letters(text):
+    for i in range(len(text)):
+        if i == 0:
+            print(text[i], end=" ")
+        elif text[i] == " " and text[i+1] != " ":
+            print (text[i+1], end=" ")
+        else:
+            continue
+    print()
+def first_letters(text):
+    letters = ''
+    for i in text.split():
+   		letters += i[0]
+    print(" ".join(letters))
+
+def first_letters(text):
+    for w in text.split(" "):
+        if len(w)>0:
+          print(w[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split(" ")
+    alist = []
+    for i in range(len(text)):
+        if text[i] != "":
+            alist.append(text[i])
+    for word in alist:
+        print(word[0], end=" ")
+    print()
+def first_letters(text):
+    print(text[0], end=' ')
+    for i in range(1, len(text)):
+        if text[i-1] == ' ' and text[i] != ' ':
+            print(text[i], end=' ')
+
+def first_letters(text):
+    if (text[0] != ' '):print(text[0],end=' ')
+    for a in range(len(text)-1):
+        if (text[a] == ' ') and (text[a+1] != ' '):print(text[a+1],end=' ')
+    print()        
+def first_letters(text):
+    result = []
+    text = text.split()
+    for word in text:
+        result.append(word[0])
+    print(*result)
+
+def first_letters(text):
+    string = ""
+    for i in range(len(text)):
+        if (text[i-1] == " " or i == 0) and text[i] != " ":
+            print(text[i], end=" ")
+
+def first_letters(text):
+    print(text[0], end=" ")
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] == " ":
+            pass
+        elif text[i] == " ":
+            print(text[i+1],"", end="")
+def first_letters(text):
+    line = text.split(" ")
+    for word in line:
+        if word != "":
+        	print(word[0],end=" ")
+
+def first_letters(text):
+    text = text.split(' ')
+    for i in range(len(text)):
+        if text[i] == '':
+            False
+        else:
+        	print(text[i][0],end = ' ' )
+    print()
+    #print(text[3])
+    #print(text)
+import re
+def first_letters(text):
+    words = re.findall(r'\b\w', text)
+    for each in words:
+        print(each, end=' ')
+    print()
+def first_letters(text):
+	print(text[0], end=" ")
+	for i in range(len(text)):
+		if text[i]==" " and text[i+1]!=" ":
+			print(text[i+1], end=" ")
+	print()
+
+
+def first_letters(text):
+    if text[0] != " ":
+        x = text[0] + " "
+    else:
+        x = ""
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] != " ":
+            x = x + text[i+1] + " "
+    print(x)
+
+
+def first_letters(text):
+    pis=True
+    for i in text:
+        if pis and i!=" ":
+            print(i, end="")
+            pis=False
+        if (i==" ")and(not(pis)):
+            print(" ", end="")
+            pis=True
+
+def first_letters(text):
+  out = ""
+  sp  = True
+
+  for c in text: 
+      if sp:
+         if c!=" ": 
+            out += c+" "
+            sp = False          
+      else:
+         if c==" ": 
+            sp = True
+
+  print(out)
+
+def first_letters(text):
+    old = "X"
+    new = [text[0]]
+    for i in text:
+        if i != " " and old == " ":
+            new.append(i)
+            old = i
+        else:
+            old = i
+    for i in range(len(new)):
+        print(new[i], end = " ")
+
+def first_letters(text):
+    for a in range(len(text)):
+        if text[a]!=' ':
+            if a==0:
+                print(text[a], end=' ')
+            elif text[a-1]==' ' :
+                print(text[a], end=' ')
+    print()
+                
+
+def first_letters(text):
+    pole =  text.split()
+    vypis = ""
+    for i in range(len(pole)):
+        vypis += pole[i][:1]+" "
+    print(vypis)
+
+def first_letters(text):
+    new=""
+    tex = text.split()
+    for i in tex:
+        new += i[0] + " "
+    print (new)
+def first_letters(text):
+   if text[0]!=' ': print(text[0],end=" ")
+   for i in range (len(text)):
+       if text[i]==' ' and text[i+1]!=' ':
+           print (text[i+1], end=" ")
+   print()
+
+def first_letters(text):
+    for i in range(len(text)):
+        if i == 0:
+            print(text[i], end=" ")
+        elif text[i] == " " and text[i+1] != " ":
+            print (text[i+1], end=" ")
+        else:
+            continue
+    print()
+def first_letters(text):
+    letters = ''
+    for i in text.split():
+   		letters += i[0]
+    print(" ".join(letters))
+
+def first_letters(text):
+    for w in text.split(" "):
+        if len(w)>0:
+          print(w[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split(" ")
+    alist = []
+    for i in range(len(text)):
+        if text[i] != "":
+            alist.append(text[i])
+    for word in alist:
+        print(word[0], end=" ")
+    print()
+def first_letters(text):
+    print(text[0], end=' ')
+    for i in range(1, len(text)):
+        if text[i-1] == ' ' and text[i] != ' ':
+            print(text[i], end=' ')
+
+def first_letters(text):
+    if (text[0] != ' '):print(text[0],end=' ')
+    for a in range(len(text)-1):
+        if (text[a] == ' ') and (text[a+1] != ' '):print(text[a+1],end=' ')
+    print()        
+def first_letters(text):
+    result = []
+    text = text.split()
+    for word in text:
+        result.append(word[0])
+    print(*result)
+
+def first_letters(text):
+    string = ""
+    for i in range(len(text)):
+        if (text[i-1] == " " or i == 0) and text[i] != " ":
+            print(text[i], end=" ")
+
+def first_letters(text):
+    print(text[0], end=" ")
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] == " ":
+            pass
+        elif text[i] == " ":
+            print(text[i+1],"", end="")
+def first_letters(text):
+    line = text.split(" ")
+    for word in line:
+        if word != "":
+        	print(word[0],end=" ")
+
+def first_letters(text):
+    text = text.split(' ')
+    for i in range(len(text)):
+        if text[i] == '':
+            False
+        else:
+        	print(text[i][0],end = ' ' )
+    print()
+    #print(text[3])
+    #print(text)
+import re
+def first_letters(text):
+    words = re.findall(r'\b\w', text)
+    for each in words:
+        print(each, end=' ')
+    print()
+def first_letters(text):
+	print(text[0], end=" ")
+	for i in range(len(text)):
+		if text[i]==" " and text[i+1]!=" ":
+			print(text[i+1], end=" ")
+	print()
+
+
+def first_letters(text):
+    if text[0] != " ":
+        x = text[0] + " "
+    else:
+        x = ""
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] != " ":
+            x = x + text[i+1] + " "
+    print(x)
+
+
+def first_letters(text):
+    pis=True
+    for i in text:
+        if pis and i!=" ":
+            print(i, end="")
+            pis=False
+        if (i==" ")and(not(pis)):
+            print(" ", end="")
+            pis=True
+
+def first_letters(text):
+  out = ""
+  sp  = True
+
+  for c in text: 
+      if sp:
+         if c!=" ": 
+            out += c+" "
+            sp = False          
+      else:
+         if c==" ": 
+            sp = True
+
+  print(out)
+
+def first_letters(text):
+    old = "X"
+    new = [text[0]]
+    for i in text:
+        if i != " " and old == " ":
+            new.append(i)
+            old = i
+        else:
+            old = i
+    for i in range(len(new)):
+        print(new[i], end = " ")
+
+def first_letters(text):
+    for a in range(len(text)):
+        if text[a]!=' ':
+            if a==0:
+                print(text[a], end=' ')
+            elif text[a-1]==' ' :
+                print(text[a], end=' ')
+    print()
+                
+
+def first_letters(text):
+    pole =  text.split()
+    vypis = ""
+    for i in range(len(pole)):
+        vypis += pole[i][:1]+" "
+    print(vypis)
+
+def first_letters(text):
+    new=""
+    tex = text.split()
+    for i in tex:
+        new += i[0] + " "
+    print (new)
+def first_letters(text):
+   if text[0]!=' ': print(text[0],end=" ")
+   for i in range (len(text)):
+       if text[i]==' ' and text[i+1]!=' ':
+           print (text[i+1], end=" ")
+   print()
+
+def first_letters(text):
+    for i in range(len(text)):
+        if i == 0:
+            print(text[i], end=" ")
+        elif text[i] == " " and text[i+1] != " ":
+            print (text[i+1], end=" ")
+        else:
+            continue
+    print()
+def first_letters(text):
+    letters = ''
+    for i in text.split():
+   		letters += i[0]
+    print(" ".join(letters))
+
+def first_letters(text):
+    for w in text.split(" "):
+        if len(w)>0:
+          print(w[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split(" ")
+    alist = []
+    for i in range(len(text)):
+        if text[i] != "":
+            alist.append(text[i])
+    for word in alist:
+        print(word[0], end=" ")
+    print()
+def first_letters(text):
+    print(text[0], end=' ')
+    for i in range(1, len(text)):
+        if text[i-1] == ' ' and text[i] != ' ':
+            print(text[i], end=' ')
+
+def first_letters(text):
+    if (text[0] != ' '):print(text[0],end=' ')
+    for a in range(len(text)-1):
+        if (text[a] == ' ') and (text[a+1] != ' '):print(text[a+1],end=' ')
+    print()        
+def first_letters(text):
+    result = []
+    text = text.split()
+    for word in text:
+        result.append(word[0])
+    print(*result)
+
+def first_letters(text):
+    string = ""
+    for i in range(len(text)):
+        if (text[i-1] == " " or i == 0) and text[i] != " ":
+            print(text[i], end=" ")
+
+def first_letters(text):
+    print(text[0], end=" ")
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] == " ":
+            pass
+        elif text[i] == " ":
+            print(text[i+1],"", end="")
+def first_letters(text):
+    line = text.split(" ")
+    for word in line:
+        if word != "":
+        	print(word[0],end=" ")
+
+def first_letters(text):
+    text = text.split(' ')
+    for i in range(len(text)):
+        if text[i] == '':
+            False
+        else:
+        	print(text[i][0],end = ' ' )
+    print()
+    #print(text[3])
+    #print(text)
+import re
+def first_letters(text):
+    words = re.findall(r'\b\w', text)
+    for each in words:
+        print(each, end=' ')
+    print()
+def first_letters(text):
+	print(text[0], end=" ")
+	for i in range(len(text)):
+		if text[i]==" " and text[i+1]!=" ":
+			print(text[i+1], end=" ")
+	print()
+
+
+def first_letters(text):
+    if text[0] != " ":
+        x = text[0] + " "
+    else:
+        x = ""
+    for i in range(len(text)):
+        if text[i] == " " and text[i+1] != " ":
+            x = x + text[i+1] + " "
+    print(x)
+
+

@@ -195,3 +195,5 @@ def dragon_test(heads, pigs):\n    if pigs % heads == 0:\n        print("Nebude 
 def dragon_test(heads, pigs):\n    if pigs % heads == 0:\n        print("Nebude bitka.")\n    else:    \n    	print("Bude bitka.")\n
 def dragon_test(heads, pigs):\n    if pigs%heads==0:\n      	print("Nebude bitka.")\n    else:\n        print("Bude bitka.")\n
 def dragon_test(heads, pigs):\n   \n    if (heads%pigs==0 or pigs%heads==0):\n        print("Nebude bitka.")\n    else:\n        print("Bude bitka.")\n
+def dragon_test(heads, pigs):\n    if pigs % heads == 0:\n        print("Nebude bitka.")\n    else:\n        print("Bude bitka.")\n
+

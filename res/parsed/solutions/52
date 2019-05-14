@@ -1,0 +1,1 @@
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n

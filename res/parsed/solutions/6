@@ -1,0 +1,1 @@
+def nonzero_product(numbers):\n    product = 1\n    for n in numbers:\n        if n != 0:\n            product *= n\n    return product\n

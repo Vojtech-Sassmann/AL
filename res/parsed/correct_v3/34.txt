@@ -665,3 +665,5 @@ def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\
 def multiples(n):\n    print("Dvojnasobek",2 * n)\n    print("Trojnasobek",3 * n)\n    print("Desetinasobek",10*n)\n    
 def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n    \n
 def multiples(n):\n    print("Dvojnasobek", n*2)\n    print("Trojnasobek", n*3)\n    print("Desetinasobek", n*10)\n
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)  \n
+

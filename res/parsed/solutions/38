@@ -1,0 +1,1 @@
+def cross(n):    \n    for i in range(3*n):\n        for j in range(3*n):\n            if i // n == 1 or j // n == 1:\n                print("#", end="")\n            else:\n                print(".", end="")\n        print()\n

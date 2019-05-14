@@ -1,0 +1,1 @@
+def foobar3(n):\n    for i in range(1, n+1):\n        if i % 3 == 0:\n            print(i, "foo")\n        else:\n            print(i, "bar")\n

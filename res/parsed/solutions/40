@@ -1,0 +1,1 @@
+def bigN(n):\n    for i in range(n):\n        print("|"+" "*i+"\\"+" "*(n-1-i)+"|")\n

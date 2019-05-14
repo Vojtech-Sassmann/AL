@@ -1,0 +1,1 @@
+def string_intersection(left, right):\n    common_length = min(len(left), len(right))\n    for i in range(common_length):\n        if left[i] == right[i]:\n            print(left[i])\n\n

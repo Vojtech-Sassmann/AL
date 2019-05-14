@@ -1,0 +1,1 @@
+def factorize(n):\n    i = 2\n    print(n, "=", end=" ")\n    while n > 1:\n        if n % i == 0:\n            print(i, end=" ")\n            n = n / i\n            if n > 1:\n                print("*", end=" ")\n        else:\n            i += 1\n    print()\n

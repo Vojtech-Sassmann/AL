@@ -1,0 +1,87 @@
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        #print (i, x)
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)        
+
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        #print (i, x)
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)        
+
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        #print (i, x)
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)        
+
+
+def censorship(text):
+    l = []
+    for i, x in enumerate(text):
+        if i % 2 == 1:
+            l.append("X")
+        else:
+            l.append(x)
+    return "".join(l)
+

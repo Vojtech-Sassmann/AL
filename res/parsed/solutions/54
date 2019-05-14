@@ -1,0 +1,1 @@
+def compare(a, b):\n    if a == b:\n        print("stejna")\n    elif a < b:\n        print(b, "je vetsi nez", a)\n    else:\n        print(a, "je vetsi nez", b)\n

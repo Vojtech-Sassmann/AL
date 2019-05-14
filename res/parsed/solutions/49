@@ -1,0 +1,1 @@
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n\n

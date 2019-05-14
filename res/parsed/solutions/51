@@ -1,0 +1,1 @@
+def dragon_test(heads, pigs):\n    if pigs % heads == 0:\n        print("Nebude bitka.")\n    else:\n        print("Bude bitka.")\n

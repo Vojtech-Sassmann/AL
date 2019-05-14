@@ -1,0 +1,1 @@
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(" "*i + (text[i]+" ")*n)\n

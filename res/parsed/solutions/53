@@ -1,0 +1,1 @@
+def middle_number(a, b, c):\n    if a < b:\n        if b < c:\n            print(b)\n        elif c < a:\n            print(a)\n        else:\n            print(c)\n    else:\n        if a < c:\n            print(a)\n        elif c < b:\n            print(b)\n        else:\n            print(c)\n

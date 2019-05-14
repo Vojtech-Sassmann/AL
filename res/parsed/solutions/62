@@ -1,0 +1,1 @@
+def area_perimeter(a):\n    print("obsah", a*a)\n    print("obvod", 4*a)\n

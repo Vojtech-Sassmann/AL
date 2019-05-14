@@ -1,0 +1,2385 @@
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))
+def multiples(n):
+    dvoj = n + n
+    troj = n + n + n
+    deseti = n + n + n + n + n + n + n + n + n + n
+    print("Dvojnasobek", dvoj)
+    print("Trojnasobek", troj)
+    print("Desetinasobek", deseti)
+
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n*3
+    print("Trojnasobek", n//2)
+    n=n*10
+    print("Desetinasobek", n//6)
+def multiples(n):
+    x=n
+    x=2*x
+    print("Dvojnasobek", x)
+    y=n
+    y=3*y
+    print("Trojnasobek", y)
+    z=n
+    z=10*z
+    print("Desetinasobek", z)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n*10)
+
+def multiples(n):
+    dvojnasobek=n*2
+    print("Dvojnasobek", dvojnasobek)
+    trojnasobek=3*n
+    desetinasobek=10*n
+    print("Trojnasobek", trojnasobek)
+    print("Desetinasobek", desetinasobek)
+    
+input()
+def multiples(n):
+    n=n*2
+    print("Dvojnasobek", n)
+    n=n//2
+    n=n*3
+    print("Trojnasobek", n)
+    n=n//3
+    n=n*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    for i in range(1):
+    	print("Dvojnasobek", n*2)
+    	print("Trojnasobek", n*3)
+    	print("Desetinasobek", n*10)
+
+def multiples(n):
+    x=n
+    x*=2
+    print("Dvojnasobek", x)
+    x=n
+    x*=3
+    print("Trojnasobek", x)
+    x=n
+    x*=10
+    print("Desetinasobek", x)
+
+def multiples(n):
+    n = n * 2
+    print("Dvojnasobek", int(n))
+    n = (n * 3) / 2
+    print("Trojnasobek", int(n))
+    n = (n * 10) / 3
+    print("Desetinasobek", int(n))
+     
+
+def multiples(n):
+    y = n * 2
+    print("Dvojnasobek", y)
+    y += n
+    print ("Trojnasobek", y)
+    y = n * 10
+    print ("Desetinasobek", y)
+    
+
+def multiples(n):
+    print("Dvojnasobek", n+n)
+    print("Trojnasobek", n+n+n)
+    print("Desetinasobek", n+n+n+n+n+n+n+n+n+n)
+def multiples(n):
+    z=n
+    n=2*n
+    print("Dvojnasobek", n)
+    n=z
+    n=3*n
+    print("Trojnasobek", n)
+    n=z
+    n=10*n
+    print("Desetinasobek", n)
+def multiples(n):
+    nas = [2,3,10]
+    slov = ["Dvojnasobek", "Trojnasobek", "Desetinasobek"]
+    j = n
+    for i in range(3):
+        n = j
+        n *= nas[i]
+        print(slov[i], n)
+
+def multiples(n):
+    n+=n
+    print("Dvojnasobek", n)
+    n+=n//2
+    print("Trojnasobek", n)
+    n=(n//3)*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+       
+
+def multiples(n):
+    words = ["Dvojnasobek", "Trojnasobek", "Desetinasobek",]
+    numba = [2, 3, 10]
+    for i in range(0,3):
+        m=numba[i]*n
+        print(words[i], m)
+
+def multiples(n):
+    for i in range(1, 11):
+        if i == 2:
+            print("Dvojnasobek", i*n)
+        elif i == 3:
+            print("Trojnasobek", i*n)
+        elif i == 10:
+            print("Desetinasobek", i*n)
+
+nasobky = 0
+def multiples(n):
+    for i in range(n):
+        nasobky = n*2
+    print("Dvojnasobek", n*2)
+    print("Trojnasobek", n*3)
+	
+    print("Desetinasobek", n*10)
+def multiples(n):
+    tri = int(3*n)
+    deset = int(10*n)
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", tri)
+    print("Desetinasobek", deset)
+def multiples(n):
+    print("Dvojnasobek", 2*int(n))
+    print("Trojnasobek", 3*int(n))
+    print("Desetinasobek", 10*int(n))

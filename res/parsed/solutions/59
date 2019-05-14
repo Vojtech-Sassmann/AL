@@ -1,0 +1,1 @@
+def animals(n):\n    for i in range(n):\n        print("sob")\n    for i in range(n*2):\n        print("los")\n

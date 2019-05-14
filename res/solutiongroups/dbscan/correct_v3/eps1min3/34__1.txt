@@ -1,0 +1,1980 @@
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            
+def multiples(n):
+    n1 = n * 2
+    print("Dvojnasobek", n1)
+    n3 = n * 3
+    print("Trojnasobek", n3)
+    n10 = n * 10
+    print("Desetinasobek", n10)
+
+def multiples(n):
+    A=n*2
+    print("Dvojnasobek", A)
+    A=n*3
+    print("Trojnasobek", A)
+    A=n*10
+    print("Desetinasobek", A)
+
+    
+def multiples(n):
+    m = n * 2
+    print("Dvojnasobek", m)
+    m = n * 3
+    print("Trojnasobek", m)
+    m = n * 10
+    print("Desetinasobek", m)
+
+def multiples(n):
+    d = n * 2
+    print("Dvojnasobek", d)
+    t = n * 3
+    print("Trojnasobek", t)
+    de = n * 10
+    print("Desetinasobek", de)
+
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek",a)
+    b = n*3
+    print("Trojnasobek",b)
+    c = n*10
+    print("Desetinasobek",c)
+def multiples(n):
+    x = n * 2
+    print("Dvojnasobek", x)
+    y = n * 3
+    print("Trojnasobek", y)
+    z = n * 10
+    print("Desetinasobek", z)
+
+def multiples(n):
+    x = 2 * n
+    print("Dvojnasobek", x)
+    x = 3 * n
+    print("Trojnasobek", x)
+    x = 10 * n
+    print("Desetinasobek", x)
+def multiples(n):
+    m = n*2
+    print("Dvojnasobek", m)
+    o = n*3
+    print("Trojnasobek", o)
+    p = n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    pom = n
+    n = n * 2
+    print("Dvojnasobek", n)
+    n = pom * 3
+    print("Trojnasobek", n)
+    n = pom * 10
+    print("Desetinasobek", n)
+def multiples(n):
+    i = n*2
+    print("Dvojnasobek", i)
+    k = n*3 
+    print("Trojnasobek", k)
+    c = n*10
+    print('Desetinasobek',c)
+
+def multiples(n):
+    a = n*2
+    print("Dvojnasobek", a)
+    b = n*3
+    print("Trojnasobek", b)
+    c = n*10
+    print("Desetinasobek", c)
+    
+
+def multiples(n):
+    m=(n*2)
+    print("Dvojnasobek", m)
+    o=(n*3)
+    print("Trojnasobek", o)
+
+    p=(n*10)
+    print("Desetinasobek", p)
+
+
+def multiples(n):
+    d = n*2
+    print("Dvojnasobek", d)
+    t = n*3
+    print("Trojnasobek", t)
+    de = n*10
+    print("Desetinasobek", de)
+    
+
+def multiples(c):
+    n = c*2
+    print("Dvojnasobek", n)
+    n = c*3
+    print("Trojnasobek", n)
+    n = c*10
+    print("Desetinasobek", n)
+
+def multiples(n):
+    m=n*2
+    print("Dvojnasobek", m)
+    o=n*3
+    print("Trojnasobek", o)
+    p=n*10
+    print("Desetinasobek", p)
+
+def multiples(n):
+    mullti = n * 2
+    print("Dvojnasobek", mullti)
+    mullti = n * 3
+    print("Trojnasobek", mullti)
+    mullti = n * 10
+    print("Desetinasobek", mullti)
+            

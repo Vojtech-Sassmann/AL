@@ -1,0 +1,1 @@
+def palindrom(text):\n    length = len(text)\n    for i in range(int(length/2)):\n        if text[i] != text[length - 1 - i]:\n            return False\n    return True\n\n

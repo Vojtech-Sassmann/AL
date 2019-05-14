@@ -1,0 +1,442 @@
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+def string_zip(t1, t2):
+    s=""
+    for i in range(max(len(t1),len(t2))):
+        if i<len(t1):
+            s+=t1[i]
+        if i<len(t2):
+            s+=t2[i]
+    return s
+
+def string_zip(text1, text2):
+    result = ''
+    for i in range(max(len(text1),len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return result
+def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+

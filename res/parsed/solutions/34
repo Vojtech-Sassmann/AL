@@ -1,0 +1,1 @@
+def multiples(n):\n    print("Dvojnasobek", 2*n)\n    print("Trojnasobek", 3*n)\n    print("Desetinasobek", 10*n)  \n

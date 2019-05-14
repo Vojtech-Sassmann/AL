@@ -44,3 +44,5 @@ def first_letters(text):\n    new_text = text.split()\n    for word in new_text:
 def first_letters(text):\n	print(text[0], end=" ")\n	for i in range(len(text)):\n		if text[i]==" " and text[i+1]!=" ":\n			print(text[i+1], end=" ")\n	print()\n\n
 def first_letters(text):\n    if text[0] != " ":\n        x = text[0] + " "\n    else:\n        x = ""\n    for i in range(len(text)):\n        if text[i] == " " and text[i+1] != " ":\n            x = x + text[i+1] + " "\n    print(x)\n\n
 def first_letters(text):\n    dic = text.split()\n    for item in dic:\n        print(item[0], end=' ')\n    print()\n
+def first_letters(text):\n    for word in text.split():\n        print(word[0], end=" ")\n    print()\n
+

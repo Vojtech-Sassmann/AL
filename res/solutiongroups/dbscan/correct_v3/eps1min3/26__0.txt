@@ -1,0 +1,612 @@
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+
+def censorship(text):
+    new = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new += text[i]
+        else:
+        	new += 'X'
+    return new
+
+def censorship(text):
+    out=""
+    for i in range(len(text)):
+        if i%2==0:
+            out+=text[i]
+        else:
+            out+="X"
+    return out
+def censorship(text):
+    new_text = ""
+    for i in range(len(text)):
+        if i % 2 == 0:
+            new_text += text[i]
+        else:
+            new_text += "X"
+    return new_text
+
+def censorship(text):
+    censText = ''
+    for i in range(len(text)):
+#        print(i)
+        if i % 2 == 0:
+            censText += text[i]
+        else:
+            censText += 'X'
+    return censText
+

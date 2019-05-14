@@ -1,0 +1,1 @@
+def cross(z):\n    print(z, " ", z)\n    print(" ", z)\n    print(z, " ", z)\n

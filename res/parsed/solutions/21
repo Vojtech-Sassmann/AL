@@ -1,0 +1,1 @@
+def powers(base, n):\n    current = base\n    for i in range(n):\n        print(current)\n        current = current * base\n    print()\n

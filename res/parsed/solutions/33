@@ -1,0 +1,1 @@
+def impose_fine(age, beer):\n    return age < 18 and beer\n

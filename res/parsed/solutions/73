@@ -1,0 +1,1 @@
+def big_chessboard(n, m):\n    for i in range(n * m):\n        for j in range(n * m):\n            if ((i // m) + (j // m)) % 2 == 0:\n                print('#', end="")\n            else:\n                print('.', end="")\n        print()\n

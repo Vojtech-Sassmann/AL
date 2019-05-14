@@ -53,3 +53,4 @@ def nonzero_product(numbers):\n    soucin=1\n    for cislo in numbers:\n        
 def nonzero_product(numbers):\n    prod = 1\n    for i in range(len(numbers)):\n        if numbers[i] != 0:\n            prod *= numbers[i]\n    return prod\n
 def nonzero_product(numbers):\n    x=1\n    for i in numbers:\n        if i!=0:\n            x*=i\n       \n    return x\n            \n    \n
 def nonzero_product(numbers):\n    soucin = 1\n    for i in range(len(numbers)):\n        if numbers[i] !=0:\n            soucin *= numbers[i]\n    return soucin\n
+def nonzero_product(numbers):\n    product = 1\n    for n in numbers:\n        if n != 0:\n            product *= n\n    return product\n

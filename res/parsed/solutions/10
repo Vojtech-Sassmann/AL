@@ -1,0 +1,1 @@
+def pyramid(n):\n    for i in range(n):\n        for j in range(2 * n - 1):\n            if j >= n - 1 - i and j <= n - 1 + i:\n                print('#', end=" ")\n            else:\n                print(' ', end=" ")\n        print()\n\n

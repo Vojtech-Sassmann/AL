@@ -1,0 +1,1 @@
+def duplication(text):\n    output = ""\n    for char in text:\n        output += char + char\n    return output\n

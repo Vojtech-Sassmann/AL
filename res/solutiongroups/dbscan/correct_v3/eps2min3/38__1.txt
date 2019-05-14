@@ -1,0 +1,219 @@
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n)  or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= (n) and i <2*n) or (j >= (n) and j <2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if j>=n and j<2*n or i>=n and i<2*n :
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < ((3*n)-n)) or (j >= n and j < ((3*n)-n)):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i <= 2*n-1) or (j >= n and j <= 2*n-1):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i>=n and i<n*2 or j>=n and j<n*2:
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n)  or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= (n) and i <2*n) or (j >= (n) and j <2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if j>=n and j<2*n or i>=n and i<2*n :
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < ((3*n)-n)) or (j >= n and j < ((3*n)-n)):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i <= 2*n-1) or (j >= n and j <= 2*n-1):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i>=n and i<n*2 or j>=n and j<n*2:
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n)  or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= (n) and i <2*n) or (j >= (n) and j <2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < 2*n) or (j >= n and j < 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if j>=n and j<2*n or i>=n and i<2*n :
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i < ((3*n)-n)) or (j >= n and j < ((3*n)-n)):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if (i >= n and i <= 2*n-1) or (j >= n and j <= 2*n-1):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i>=n and i<n*2 or j>=n and j<n*2:
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+

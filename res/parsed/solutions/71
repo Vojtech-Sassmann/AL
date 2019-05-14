@@ -1,0 +1,1 @@
+def check_sudoku(row):\n    if len(row) != 9: return False\n    for i in range(1, 10):\n        if row.count(i) != 1:\n            return False\n    return True\n

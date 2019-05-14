@@ -82,3 +82,5 @@ def count_a(text):\n    count = 0\n    for i in range(len(text)):\n        if te
 def count_a(text):\n    count = 0\n    for item in text:\n        if (item == 'a') or (item == 'A'):\n            count += 1\n    return count\n
 def count_a(text):\n    pocet=0\n    for i in text.lower():\n        if i=="a":\n            pocet+=1\n            \n    return pocet\n
 def count_a(text):\n    pocet=0\n    x=0\n    for i in text:\n        if text[x] is "a" or text[x] is "A":\n            pocet+=1\n        x+=1\n    return pocet\n
+def count_a(text):\n    count = 0\n    for char in text:\n        if char.upper() == 'A':\n            count += 1\n    return count\n    \n\n
+

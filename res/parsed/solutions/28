@@ -1,0 +1,1 @@
+def string_zip(text1, text2):\n    result = ""\n    for i in range(max(len(text1), len(text2))):\n        if i < len(text1):\n            result += text1[i]\n        if i < len(text2):\n            result += text2[i]\n    return(result)    \n

@@ -1,0 +1,1 @@
+def first_letters(text):\n    for word in text.split():\n        print(word[0], end=" ")\n    print()\n

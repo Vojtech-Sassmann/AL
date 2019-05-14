@@ -294,3 +294,5 @@ def impose_fine(age, beer):\n    if age <= 18 and beer is True:\n        return 
 def impose_fine(age, beer):\n    if age < 18 and beer == True:\n        return True\n    else:\n        return False\n
 def impose_fine(age, beer):\n    if age<18 and beer==True:\n        return True\n    else:\n        return False\n
 def impose_fine(age, beer):\n    if (age<=17 and beer==True):\n        return True\n    else:\n        return False\n
+def impose_fine(age, beer):\n    return age < 18 and beer\n
+

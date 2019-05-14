@@ -1,0 +1,1 @@
+def print_ticket(age):\n    if age < 6:\n        price = 0\n    elif age < 18 or age > 70:\n        price = 50\n    else:\n        price = 100\n    print("Cena:", price)\n

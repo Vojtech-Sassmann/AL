@@ -1,0 +1,1 @@
+def check(p, k):\n    if p < 4*k:\n        print("Chybi:", 4*k-p)\n    elif p > 4*k:\n        print("Prebyva:", p-4*k)\n    else:\n        print("OK")\n

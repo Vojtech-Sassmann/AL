@@ -1,0 +1,442 @@
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+
+def censorship(text):
+    c_text=''
+    for a in range(len(text)):
+        if (a+1)%2==0:
+        	c_text+='X'
+        else:
+            c_text+= text[a]
+    return c_text
+
+def censorship(text):
+    puzzle=""
+    for i in range(len(text)):
+        if i%2==1: puzzle+="X"
+        else: puzzle+=text[i]
+            
+    return puzzle
+def censorship(text):
+    new=''
+    for i in range(len(text)):
+        if i%2==1:
+            new+='X'
+        else:
+            new+=text[i]
+    
+    return new
+

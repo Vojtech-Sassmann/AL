@@ -23,3 +23,5 @@ def make_fancy(text, n):\n    for j in range(len(text)):\n        print(" "*j, e
 def make_fancy(text, n):\n	for i in range(len(text)):\n		print(i*" "+n*(text[i]+" "))\n
 def make_fancy(text, n):\n    p_radku = len(text)\n    x = " "\n    for i in range(p_radku):\n        print(x + n*(text[i] + " "))\n        x = x + " "\n
 def make_fancy(text, n):\n    for i in range(len(text)):\n        print(' '*i + (text[i] + ' ')*n)\n    \n
+def make_fancy(text, n):\n    for i in range(len(text)):\n        print(" "*i + (text[i]+" ")*n)\n
+

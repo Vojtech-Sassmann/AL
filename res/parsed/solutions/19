@@ -1,0 +1,1 @@
+def zigzag(text):\n    line(text, 0)\n    line(text, 1)\n    \ndef line(text, parita):\n    for i in range(len(text)):\n        if i % 2 == parita:\n            print(text[i], end="")\n        else:\n            print(".", end="")\n    print()\n

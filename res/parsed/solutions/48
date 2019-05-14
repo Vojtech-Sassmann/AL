@@ -1,0 +1,1 @@
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n

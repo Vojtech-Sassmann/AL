@@ -1,0 +1,1 @@
+def flatten(lists):\n    flat_list = []\n    for nested_list in lists:\n        for element in nested_list:\n            flat_list.append(element)\n    return flat_list\n

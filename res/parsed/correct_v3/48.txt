@@ -419,3 +419,5 @@ def chocolate(rows, columns, x):\n    zb = rows*columns - x\n    print("Zbytek:"
 def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
 def chocolate(rows, columns, x):\n    print("Zbytek:", (rows *columns)-x)\n
 def chocolate(rows, columns, x):\n    print("Zbytek:",rows * columns - x)\n
+def chocolate(rows, columns, x):\n    print("Zbytek:", rows*columns - x)\n
+

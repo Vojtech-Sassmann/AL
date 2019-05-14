@@ -1,0 +1,1 @@
+def icecream_test(money, price):\n    return money >= price\n

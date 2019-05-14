@@ -14,15 +14,19 @@ def cluster_dbscan(distance_matrix, file_name, output_file_name):
     Provede DBSCAN shlukovani na dane matici
     """
 
-    try:
-        db = DBSCAN(metric='precomputed', min_samples=DBSCAN_MIN_SIZE, eps=DBSCAN_EPSILON).fit(distance_matrix)
-    except:
-        print("Using default values")
-        db = DBSCAN(metric='precomputed').fit(distance_matrix)
+    db = DBSCAN(metric='precomputed', min_samples=DBSCAN_MIN_SIZE, eps=DBSCAN_EPSILON).fit(distance_matrix)
 
     core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
     core_samples_mask[db.core_sample_indices_] = True
     labels = db.labels_
+
+    example_solution_cluster = labels[labels.size-1]
+
+    # with open('./res/exampleSolutionClusters', mode='a', encoding='utf-8') as output:
+    #     clusters = ""
+    #     for c in labels:
+    #         clusters += str(c) + "/"
+    #     print(file_name[:-4] + ";" + clusters, file=output)
 
     # Number of clusters in labels, ignoring noise if present.
     n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
@@ -49,7 +53,9 @@ def cluster_dbscan(distance_matrix, file_name, output_file_name):
     # plt.title('Estimated number of clusters: %d' % n_clusters_)
     # plt.show()
 
-    project(distance_matrix, labels, output_file_name)
+    return labels
+
+    # project(distance_matrix, labels, output_file_name)
 
 
 def project(distance_matrix, labels, output_file_name):
@@ -99,20 +105,86 @@ def project(distance_matrix, labels, output_file_name):
 
 
 def analyze_file(file_name, output_file_name):
-    df = pd.read_pickle(path + "distances_l1/" + file_name)
-    cluster_dbscan(df, file_name, output_file_name)
+    df = pd.read_pickle(path + "distances/" + file_name)
+    return cluster_dbscan(df, file_name, output_file_name)
 
 
-path = "./res/solutiongroups/dbscan/correct_v2/"
-DBSCAN_MIN_SIZE = 5
-DBSCAN_EPSILON = 1
+path = "./res/solutiongroups/dbscan/correct_v3/"
+DBSCAN_MIN_SIZE = 3
+DBSCAN_EPSILON = 2
 
 # analyze_file("40.pkl", '47')
 
+
+def print_clusters(clusters_c, ii):
+    solution_cluster = clusters_c[clusters_c.size - 1]
+
+    data = {}
+    for c in clusters_c:
+        if not data.__contains__(c):
+            data[c] = 1
+        else:
+            data[c] += 1
+
+    labels = []
+    values = []
+
+    solution_cluster_count = data[solution_cluster]
+
+    outliers = data[-1]
+
+    for l in sorted(data.keys()):
+        labels.append(l)
+        values.append(data[l])
+
+    values = sorted(values, reverse=True)
+    colors = []
+
+    for v in values:
+        if v == solution_cluster_count:
+            colors.append("red")
+        else:
+            colors.append("black")
+
+    print(data)
+    print(values)
+    print(colors)
+
+    n_groups = values.__len__()
+
+    fig, ax = plt.subplots()
+
+    index = np.arange(n_groups)
+    bar_width = 0.35
+
+    opacity = 0.4
+    error_config = {'ecolor': '0.3'}
+
+    rects1 = ax.bar(index, values, bar_width,
+                    alpha=opacity, color=colors, error_kw=error_config,
+                    label='Men')
+
+    ax.set_xlabel('Group')
+    ax.set_ylabel('Scores')
+    ax.set_title('Scores by group and gender')
+
+    fig.tight_layout()
+    # plt.show()
+    plt.savefig('./res/newfigs/' + str(ii) + ".svg")
+
+
 if __name__ == '__main__':
-    for i in range(1, 75):
+
+    for i in range(1, 41):
         try:
-            analyze_file(str(i) + '.pkl', str(i))
-        except:
+            clusters = analyze_file(str(i) + '.pkl', str(i))
+            print("----------")
+            print("Task:", i, "Example solution cluster:", clusters[clusters.size-1])
+            print_clusters(clusters, i)
+            print("")
+            print("")
+        except Exception as e:
+            print(e)
             pass
+
 

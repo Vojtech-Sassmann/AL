@@ -1,0 +1,1 @@
+def unique(mylist):\n    result = []\n    for i in range(len(mylist)):\n        if mylist[i] not in result:\n            result.append(mylist[i])\n    return result\n

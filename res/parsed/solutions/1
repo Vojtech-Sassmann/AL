@@ -1,0 +1,1 @@
+def numbers(n):\n    for i in range(1, n + 1):\n        print(i)\n    print()\n

@@ -1,0 +1,2662 @@
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+
+def duplication(text):
+    k=""
+    n=len(text)
+    for i in range (n):
+        k=k+(2*text[i])
+    return(k)
+
+        
+
+def duplication(text):
+    return "".join([l+l for l in text])
+
+def duplication(text):
+    text_2 = ""
+    for i in range(len(text)):
+        text_2 = text_2 + 2*text[i]
+    text = text_2
+    return text
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+    
+
+def duplication(text):
+    for let in text:
+        x=print(let*2,end='')
+    return x
+
+def duplication(text):
+    text2 = ""
+    for i in range(len(text)):
+    
+    	text2 = text2 + text[i] + text[i]
+        
+    return text2
+    	
+
+        
+        
+   
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x * 2)
+    return "".join(l)
+
+def duplication(text):
+    l = []
+    for x in text:
+        l.append(x*2)
+    return "".join(l)
+
+def duplication(text):
+    alist = []
+    for i in range(len(text)):
+        print(2*text[i], end="")
+    return " "
+
+
+def duplication(text):
+    for i in range(0, len(text)*2, 2):
+        text = text[:i] + text[i] + text[i:]
+    return text
+
+def duplication(text):
+    alist =""
+    for i in text:
+        alist += i
+        alist += i
+    return alist
+        
+
+def duplication(text):
+    return "".join([c + c for c in text])
+
+def duplication(text):
+    l = []
+    for i in range(len(text)):
+        l.append(text[i]*2)
+    return "".join(l)
+
+def duplication(text, a=0):
+    if a == len(text)-1:
+        return text[a]*2
+    return text[a]*2 + duplication(text, a= a+1 )
+def duplication(text):
+	novy=str()
+	for i in range(len(text)):
+		novy=novy+text[i]*2
+	return novy
+def duplication(text):
+    celk = len(text)
+    duplik = ""
+    for i in range(celk):
+        duplik = duplik + 2*text[i]
+    return(duplik)
+def duplication(text):
+    text2=""
+    for i in range(len(text)):
+    	text2=text2+text[i]+text[i]
+    return text2
+
+def duplication(text):
+    x = len(text)
+    for item in text:
+        text += item *2
+    text = text[x:]
+    return text
+
+def duplication(text1):
+    text2=""
+    x=0
+    for i in text1:
+        text2+=text1[x]
+        text2+=text1[x]
+        x+=1
+    return text2
+

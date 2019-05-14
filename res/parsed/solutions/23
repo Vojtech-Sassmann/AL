@@ -1,0 +1,1 @@
+def greatest_common_divisor(a, b):\n    while a:\n        a, b = b % a, a\n    return b\n

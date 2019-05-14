@@ -1,0 +1,405 @@
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(0, 3*n):
+        for j in range(0, 3*n):
+            if i in range(n, 2*n) or j in range(n, 2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range(n,2*n) or j in range(n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i in range (n,2*n) or j in range (n,2*n):
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+

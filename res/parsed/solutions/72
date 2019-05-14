@@ -1,0 +1,1 @@
+def big_frame(word_list):\n    n = max(map(len, word_list))\n    print("+"*(n+2))\n    for w in word_list:\n        print("+" + w + " "*(n-len(w))+"+")\n    print("+"*(n+2))\n

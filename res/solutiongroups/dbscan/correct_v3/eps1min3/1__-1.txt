@@ -1,0 +1,1300 @@
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+    print()
+
+def numbers(n):
+    i = 0
+    while i < n:
+        i += 1
+        print(i)
+
+def numbers(n):
+    x=1
+    for i in range(n):
+        print(x)
+        x+=1
+
+def numbers(n):
+    for i in range (n):
+    	print(i+1, sep='')
+ 
+
+
+def numbers(n):
+    a=1
+    while a<n:
+    	print (a)
+    	if a == n:
+    		break
+    	a +=1 
+    print (a)
+
+    
+
+def numbers(n):
+    a = 0
+    while(a < n):
+        a += 1
+        print(str(a))
+
+def numbers(n):
+    x = 0
+    while(n != 0):
+        x = x+1
+        n = n-1
+        print(x)
+
+def numbers(n):
+    for i in range(n):
+        print(i+1)
+        i+=1
+

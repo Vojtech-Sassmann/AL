@@ -1,0 +1,1 @@
+def queen(x, y):\n    x -= 1\n    y -= 1\n    for j in range(8):\n        for i in range(8):\n            if i == x and j == y:\n                print("D", end="")\n            elif i == x or j == y or x+y == i+j or x-y == i-j:\n                print("*", end="")\n            else:\n                print(".", end="")\n        print()\n

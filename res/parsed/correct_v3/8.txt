@@ -134,3 +134,4 @@ def square(n):\n    for j in range(n):\n    	for i in range(n):\n        	print(
 def square(n):\n	for j in range (n):\n		for i in range(n):\n			print("#", end=" ")\n		print(end="\n")
 def square(n):\n    for y in range(n):\n        for x in range(n):\n            print("# ", end="")\n        print()
 def square(n):\n    for i in range(n):\n        for y in range(n):\n            print("#", end=" ")\n        print()\n
+def square(n):\n    for i in range(n):\n        for j in range(n):\n            print("#", end=" ")\n        print()\n\n

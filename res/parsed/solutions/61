@@ -1,0 +1,1 @@
+def power_test(a, b):\n    if a**2 == b:\n        print(b, "je druhou mocninou", a)\n    elif b**2 == a:\n        print(a, "je druhou mocninou", b)\n    else:\n        print("bagr")\n

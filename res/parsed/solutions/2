@@ -1,0 +1,1 @@
+def fibonacci(n):\n    current = 1\n    next = 1\n    for i in range(n):\n        print(current)\n        next_next = current + next\n        current = next\n        next = next_next\n

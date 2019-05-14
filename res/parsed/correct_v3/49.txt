@@ -536,3 +536,5 @@ def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", 
 def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n
 def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n,"na ctvrtou je", n**4)\n
 def powers(n):\n    print(n, "na druhou je",n*n)\n    print(n, "na treti je",n*n*n)\n    print(n, "na ctvrtou je",n*n*n*n)\n
+def powers(n):\n    print(n, "na druhou je", n**2)\n    print(n, "na treti je", n**3)\n    print(n, "na ctvrtou je", n**4)\n\n
+

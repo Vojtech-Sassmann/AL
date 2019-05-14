@@ -185,3 +185,5 @@ def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("ru
 def hej_rup(n):\n    for i in range (n):\n        print("hej")\n        print("rup")\n
 def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")
 def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+def hej_rup(n):\n    for i in range(n):\n        print("hej")\n        print("rup")\n
+

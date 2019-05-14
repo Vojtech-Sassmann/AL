@@ -161,3 +161,5 @@ def reverse_numbers(n):\n    for i in range(n):\n        print(n-i)\n
 def reverse_numbers(n):\n    for i in range(n):\n        print(n-i)\n
 def reverse_numbers(n):\n    for i in range(n):\n        print(n-i)\n
 def reverse_numbers(n):\n    for i in range(n):\n        print(n-i)\n
+def reverse_numbers(n):\n    for i in range(n):\n        print(n-i)\n
+

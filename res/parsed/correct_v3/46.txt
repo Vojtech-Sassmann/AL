@@ -56,3 +56,5 @@ def print_products(n):\n    for i in range(1,n+1):\n   		if n%i==0: print(n, "="
 def print_products(n):\n    for i in range(1,n+1):\n		if n%i==0: print(n,"=",i,"*",n//i)\n
 def print_products(n):\n    for i in range(1,n+1):\n    		if n%i==0: print(n,"=",i,"*",n//i)\n    \n
 def print_products(n):\n    for i in range(1,n+1):\n        if n%i==0:\n            print(n,"=",i,"*",n//i)\n\n
+def print_products(n):\n    for i in range(1, n+1):\n        if n % i == 0:\n            print(n, "=", i, "*", n//i)\n
+

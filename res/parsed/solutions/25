@@ -1,0 +1,1 @@
+def count_a(text):\n    count = 0\n    for char in text:\n        if char.upper() == 'A':\n            count += 1\n    return count\n    \n\n

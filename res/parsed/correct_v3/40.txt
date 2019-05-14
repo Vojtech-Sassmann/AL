@@ -29,3 +29,5 @@ def bigN(n):\n    if n == 1:\n        print("|\|",end = '')\n        return\n   
 def bigN(n):\n	for i in range(n):\n		for j in range(n+2):\n			if j==0:\n				print("|", end="")\n			elif j==n+1:\n				print("|")\n			elif j==i+1:\n				print("\\",end="")\n			else:\n				print(" ",end="")
 def bigN(n):\n    for i in range(n):\n        print('|', end='')\n        print(' '*i, end='')\n        print('\\', end='')\n        print(' '*(n-i-1), end='')\n        print('|' )\n              
 def bigN(n):\n    sirka = n+2\n    vyska = n\n    for j in range(vyska):\n        for i in range(0,sirka):\n            if (i-j) == 1:\n                print("\\", end ="")\n            elif i == 0 or i==sirka-1:\n                print("|", end = "")\n            elif not (i-j) == 1 or not i == 0 or not i == sirka-1:\n                print(" ", end = "")\n        print()\n
+def bigN(n):\n    for i in range(n):\n        print("|"+" "*i+"\\"+" "*(n-1-i)+"|")\n
+

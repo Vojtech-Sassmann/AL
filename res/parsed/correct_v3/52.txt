@@ -377,3 +377,5 @@ def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 7*24*n)\n
 def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
 def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)
 def weeks(n):\n    print("Pocet dnu:", 7*n)\n    print("Pocet hodin:", 24* 7*n)\n    print("Pocet minut:", 24*420*n)\n	
+def weeks(n):\n    print("Pocet dnu:", n*7)\n    print("Pocet hodin:", n*7*24)\n    print("Pocet minut:", n*7*24*60)\n
+

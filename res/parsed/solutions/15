@@ -1,0 +1,1 @@
+def every_second_number(num_list):\n    for i in range(len(num_list)):\n        if i % 2 == 0:\n            print(num_list[i])\n

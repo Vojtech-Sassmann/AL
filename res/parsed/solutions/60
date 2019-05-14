@@ -1,0 +1,1 @@
+def big_even(a, b):\n    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)\n
