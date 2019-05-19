@@ -1,4 +1,5 @@
 import csv
+import os
 from base64 import b64decode
 
 
@@ -68,15 +69,25 @@ def parse_solutions():
 
 
 if __name__ == '__main__':
-    for i in range(1, 75):
-        fi = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'rb')
-        data = fi.read()
-        fi.close()
-        fo = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'wb')
-        fo.write(data.replace('\x00', ''))
-        fo.close()
     # for i in range(1, 75):
-    #      with open('./res/parsed/solutions/' + str(i), mode="r", encoding="utf-8") as input_file:
-    #          with open('./res/parsed/correct_v3/' + str(i) + ".txt", mode="a", encoding="utf-8") as output_file:
-    #              for line in input_file:
-    #                  print(line, file=output_file)
+    #     fi = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'rb')
+    #     data = fi.read()
+    #     fi.close()
+    #     fo = open("./res/parsed/correct_v3/" + str(i) + ".txt", 'wb')
+    #     fo.write(data.replace('\x00', ''))
+    #     fo.close()
+    names_by_id = {}
+    with open('./res/originalData/umimeprogramovatcz-ipython_item.csv', mode="r", encoding="utf-8") as input_file:
+         reader = csv.reader((line.replace('\0', '') for line in input_file), delimiter=';', quoting=csv.QUOTE_NONE)
+
+         for line in reader:
+             names_by_id[line[0]] = line[1]
+             print(line[1])
+             print(line[0])
+
+    for i in range(1, 75):
+        try:
+            os.rename('./res/newfigs/' + str(i) + '.svg', './res/newfigs_named2/' + str(i) + names_by_id[str(i)] + '.svg')
+        except Exception as e:
+            print(e)
+

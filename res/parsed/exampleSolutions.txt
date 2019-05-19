@@ -1,0 +1,523 @@
+1;def numbers(n):
+    for i in range(1, n + 1):
+        print(i)
+    print()
+
+2;def fibonacci(n):
+    current = 1
+    next = 1
+    for i in range(n):
+        print(current)
+        next_next = current + next
+        current = next
+        next = next_next
+
+3;def factorial(n):
+    value = 1
+    for i in range(1, n + 1):
+        value *= i
+    return value
+
+4;def alphabet(n):
+    for i in range(n):
+        print(chr(ord('A')+i%26))
+    print()
+
+5;def duplication(text):
+    output = ""
+    for char in text:
+        output += char + char
+    return output
+
+6;def nonzero_product(numbers):
+    product = 1
+    for n in numbers:
+        if n != 0:
+            product *= n
+    return product
+
+7;def divisors(n):
+    for i in range(1, n + 1):
+        if n % i == 0:
+            print(i)
+    print()
+
+8;def square(n):
+    for i in range(n):
+        for j in range(n):
+            print("#", end=" ")
+        print()
+
+
+9;def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or j == 0 or i == n -1 or j == n -1:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+
+10;def pyramid(n):
+    for i in range(n):
+        for j in range(2 * n - 1):
+            if j >= n - 1 - i and j <= n - 1 + i:
+                print('#', end=" ")
+            else:
+                print(' ', end=" ")
+        print()
+
+
+11;def chessboard(n):
+    for i in range(n):
+        for j in range(n):
+            if (i + j) % 2 == 0:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+12;def bigX(n):
+    for i in range(2 * n - 1):
+        for j in range(2 * n - 1):
+            if i == j or (2 * n - 2) - i == j:
+                print('#', end=" ")
+            else:
+                print(' ', end=" ")
+        print()
+
+
+13;def string_intersection(left, right):
+    common_length = min(len(left), len(right))
+    for i in range(common_length):
+        if left[i] == right[i]:
+            print(left[i])
+
+
+14;def palindrom(text):
+    length = len(text)
+    for i in range(int(length/2)):
+        if text[i] != text[length - 1 - i]:
+            return False
+    return True
+
+
+15;def every_second_number(num_list):
+    for i in range(len(num_list)):
+        if i % 2 == 0:
+            print(num_list[i])
+
+16;def max_pair_sum(num_list):
+    m = 0
+    for i in range(len(num_list)-1):
+        m = max(m, num_list[i] + num_list[i+1])
+    return m    
+
+17;def five_multiples(num_list):
+    output = []
+    for num in num_list:
+        if num % 5 == 0:
+            output.append(num)
+    return output
+
+18;def digit_sum(n):    
+    s = 0
+    while n > 0:
+        s += n % 10
+        n = n // 10
+    return s
+
+
+19;def zigzag(text):
+    line(text, 0)
+    line(text, 1)
+    
+def line(text, parita):
+    for i in range(len(text)):
+        if i % 2 == parita:
+            print(text[i], end="")
+        else:
+            print(".", end="")
+    print()
+
+20;def divisors_count(n):
+    count = 0
+    for i in range(1, n + 1):
+        if n % i == 0:
+            count += 1
+    return count
+
+21;def powers(base, n):
+    current = base
+    for i in range(n):
+        print(current)
+        current = current * base
+    print()
+
+22;def print_primes(n):
+    k = 1
+    while n > 0:
+        if divisors_count(k) == 2:
+            print(k)
+            n -= 1
+        k += 1
+
+def divisors_count(n):
+    count = 0
+    for i in range(1, n + 1):
+        if n % i == 0:
+            count += 1
+    return count
+
+23;def greatest_common_divisor(a, b):
+    while a:
+        a, b = b % a, a
+    return b
+
+24;def flatten(lists):
+    flat_list = []
+    for nested_list in lists:
+        for element in nested_list:
+            flat_list.append(element)
+    return flat_list
+
+25;def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+26;def censorship(text):
+    output = ""
+    i = 1
+    for char in text:
+        if i % 2 == 0:
+            output += "X"
+        else:
+            output += char
+        i += 1
+    return output
+    
+
+
+27;def first_letters(text):
+    for word in text.split():
+        print(word[0], end=" ")
+    print()
+
+28;def string_zip(text1, text2):
+    result = ""
+    for i in range(max(len(text1), len(text2))):
+        if i < len(text1):
+            result += text1[i]
+        if i < len(text2):
+            result += text2[i]
+    return(result)    
+
+29;def unique(mylist):
+    result = []
+    for i in range(len(mylist)):
+        if mylist[i] not in result:
+            result.append(mylist[i])
+    return result
+
+30;def most_common(mylist):    
+    mylist = sorted(mylist)
+    max_value, max_count = None, 0
+    current_value, current_count = None, 0
+    for value in mylist:
+        if value == current_value:
+            current_count += 1
+        else:
+            current_value = value
+            current_count = 1
+        if current_count > max_count:
+            max_value = current_value
+            max_count = current_count
+    return max_value
+
+31;def find_longest_word(words_list):
+    longest = ""
+    for w in words_list:
+        if len(w) > len(longest):
+            longest = w
+    return longest 
+
+32;def near_fifty(n):
+    return abs(n-50) <= 10 or abs(n-150) <= 10
+
+33;def impose_fine(age, beer):
+    return age < 18 and beer
+
+34;def multiples(n):
+    print("Dvojnasobek", 2*n)
+    print("Trojnasobek", 3*n)
+    print("Desetinasobek", 10*n)  
+
+35;def sequences(n):
+    for i in range(n):
+        for j in range(i+1):
+            print(j+1, end=" ")
+        print()
+
+36;def products(n):
+    for row in range(1, n + 1):
+        for col in range(1, n + 1):
+            print(row * col, end=" ")
+        print()
+
+37;def stars(n):
+    for i in range(n):
+        print("*", end="")
+        if (i+1) % 5 == 0:
+            print("|", end="")
+    print()
+
+38;def cross(n):    
+    for i in range(3*n):
+        for j in range(3*n):
+            if i // n == 1 or j // n == 1:
+                print("#", end="")
+            else:
+                print(".", end="")
+        print()
+
+39;def queen(x, y):
+    x -= 1
+    y -= 1
+    for j in range(8):
+        for i in range(8):
+            if i == x and j == y:
+                print("D", end="")
+            elif i == x or j == y or x+y == i+j or x-y == i-j:
+                print("*", end="")
+            else:
+                print(".", end="")
+        print()
+
+40;def bigN(n):
+    for i in range(n):
+        print("|"+" "*i+"\\"+" "*(n-1-i)+"|")
+
+41;def nice(a, b):
+    return (a % 2 == 0) != (b % 2 == 0)
+
+42;def happy(a, b, c):
+    return (a < 3 or b < 3 or c < 3)
+
+43;def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+44;def make_fancy(text, n):
+    for i in range(len(text)):
+        print(" "*i + (text[i]+" ")*n)
+
+45;def print_sums(n):
+    for i in range(1, n):
+        print(n, "=", i, "+", n-i)
+
+46;def print_products(n):
+    for i in range(1, n+1):
+        if n % i == 0:
+            print(n, "=", i, "*", n//i)
+
+47;def sum_dif(a, b):
+    print(a, "+", b, "=", a+b)
+    print(a, "-", b, "=", a-b)
+
+48;def chocolate(rows, columns, x):
+    print("Zbytek:", rows*columns - x)
+
+49;def powers(n):
+    print(n, "na druhou je", n**2)
+    print(n, "na treti je", n**3)
+    print(n, "na ctvrtou je", n**4)
+
+
+50;def cross(z):
+    print(z, " ", z)
+    print(" ", z)
+    print(z, " ", z)
+
+51;def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    else:
+        print("Bude bitka.")
+
+52;def weeks(n):
+    print("Pocet dnu:", n*7)
+    print("Pocet hodin:", n*7*24)
+    print("Pocet minut:", n*7*24*60)
+
+53;def middle_number(a, b, c):
+    if a < b:
+        if b < c:
+            print(b)
+        elif c < a:
+            print(a)
+        else:
+            print(c)
+    else:
+        if a < c:
+            print(a)
+        elif c < b:
+            print(b)
+        else:
+            print(c)
+
+54;def compare(a, b):
+    if a == b:
+        print("stejna")
+    elif a < b:
+        print(b, "je vetsi nez", a)
+    else:
+        print(a, "je vetsi nez", b)
+
+55;def check(p, k):
+    if p < 4*k:
+        print("Chybi:", 4*k-p)
+    elif p > 4*k:
+        print("Prebyva:", p-4*k)
+    else:
+        print("OK")
+
+56;def reverse_numbers(n):
+    for i in range(n):
+        print(n-i)
+
+57;def even_numbers(n):
+    for i in range(n):
+        print(2+2*i)
+
+58;def hej_rup(n):
+    for i in range(n):
+        print("hej")
+        print("rup")
+
+59;def animals(n):
+    for i in range(n):
+        print("sob")
+    for i in range(n*2):
+        print("los")
+
+60;def big_even(a, b):
+    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)
+
+61;def power_test(a, b):
+    if a**2 == b:
+        print(b, "je druhou mocninou", a)
+    elif b**2 == a:
+        print(a, "je druhou mocninou", b)
+    else:
+        print("bagr")
+
+62;def area_perimeter(a):
+    print("obsah", a*a)
+    print("obvod", 4*a)
+
+63;def icecream_test(money, price):
+    return money >= price
+
+64;def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or (tears >=3 and tails >=3)
+
+65;def print_ticket(age):
+    if age < 6:
+        price = 0
+    elif age < 18 or age > 70:
+        price = 50
+    else:
+        price = 100
+    print("Cena:", price)
+
+66;def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "P" or symbol2 == "K" and symbol1 == "P":
+        print("P")
+    elif symbol1 == "N" and symbol2 == "P" or symbol2 == "N" and symbol1 == "P":
+        print("N")
+    elif symbol1 == "K" and symbol2 == "N" or symbol2 == "K" and symbol1 == "N":
+        print("K")
+
+67;def foobar3(n):
+    for i in range(1, n+1):
+        if i % 3 == 0:
+            print(i, "foo")
+        else:
+            print(i, "bar")
+
+68;def big_five(n):
+    print("#"*n)
+    for i in range(n-2):
+        print("#")
+    print("#"*n)
+    for i in range(n-2):
+        print(" "*(n-1) + "#")
+    print("#"*n)
+
+69;def factorize(n):
+    i = 2
+    print(n, "=", end=" ")
+    while n > 1:
+        if n % i == 0:
+            print(i, end=" ")
+            n = n / i
+            if n > 1:
+                print("*", end=" ")
+        else:
+            i += 1
+    print()
+
+70;def frame(text, symbol):
+    n = len(text)
+    print(symbol*(n+2))
+    print(symbol+text+symbol)
+    print(symbol*(n+2))
+
+71;def check_sudoku(row):
+    if len(row) != 9: return False
+    for i in range(1, 10):
+        if row.count(i) != 1:
+            return False
+    return True
+
+72;def big_frame(word_list):
+    n = max(map(len, word_list))
+    print("+"*(n+2))
+    for w in word_list:
+        print("+" + w + " "*(n-len(w))+"+")
+    print("+"*(n+2))
+
+73;def big_chessboard(n, m):
+    for i in range(n * m):
+        for j in range(n * m):
+            if ((i // m) + (j // m)) % 2 == 0:
+                print('#', end="")
+            else:
+                print('.', end="")
+        print()
+
+74;def nested_squares(n):
+    m = 2*n-2
+    for y in range(-m, m + 1):
+        for x in range(-m, m + 1):
+            if x % 2 == 0 and abs(x) >= abs(y) or y % 2 == 0 and abs(y) >= abs(x):
+                print("#", end="")
+            else:
+                print(" ", end="")
+        print()
+

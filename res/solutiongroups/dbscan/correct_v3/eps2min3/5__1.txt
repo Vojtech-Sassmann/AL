@@ -52,21 +52,3 @@ def duplication(text):
         l.append(text[i]*2)
     return "".join(l)
 
-def duplication(text):
-    l = []
-    for x in text:
-        l.append(x * 2)
-    return "".join(l)
-
-def duplication(text):
-    l = []
-    for x in text:
-        l.append(x*2)
-    return "".join(l)
-
-def duplication(text):
-    l = []
-    for i in range(len(text)):
-        l.append(text[i]*2)
-    return "".join(l)
-

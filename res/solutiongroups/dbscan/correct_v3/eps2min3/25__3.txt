@@ -103,4 +103,6 @@ def count_a(text):
         if char.upper() == 'A':
             count += 1
     return count
+    
+
 

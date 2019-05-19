@@ -131,8 +131,6 @@ def print_clusters(clusters_c, ii):
 
     solution_cluster_count = data[solution_cluster]
 
-    outliers = data[-1]
-
     for l in sorted(data.keys()):
         labels.append(l)
         values.append(data[l])
@@ -140,11 +138,16 @@ def print_clusters(clusters_c, ii):
     values = sorted(values, reverse=True)
     colors = []
 
+    outliers_count = data[-1]
+
     for v in values:
         if v == solution_cluster_count:
-            colors.append("red")
+            colors.append("green")
         else:
-            colors.append("black")
+            if v == outliers_count:
+                colors.append("red")
+            else:
+                colors.append("black")
 
     print(data)
     print(values)
