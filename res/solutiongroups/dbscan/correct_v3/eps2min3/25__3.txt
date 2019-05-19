@@ -106,3 +106,2775 @@ def count_a(text):
     
 
 
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+
+def count_a(text):
+    count = 0
+    for i in range(len(text)):
+        if text[i].lower() == "a":
+            count += 1
+    return count
+
+def count_a(text):
+    sum=0
+    for i in list(text):
+        if i.lower()=="a":
+            sum+=1
+    return sum
+def count_a(text):
+    count = 0
+    for a in text:
+        if (a.upper() == 'A'): count += 1
+    return count        
+        
+
+def count_a(text):
+    result = 0
+    for letter in text:
+        if letter.lower() == 'a':
+            result += 1
+    return result
+
+def count_a(text):
+    count = 0
+    for char in text:
+        if char.upper() == 'A':
+            count += 1
+    return count
+    
+
+

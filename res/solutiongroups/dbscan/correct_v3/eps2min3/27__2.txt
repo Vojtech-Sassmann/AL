@@ -199,3 +199,5162 @@ def first_letters(text):
         print(item[0], end=' ')
     print()
 
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+    	print(text[i][0], end = " ")
+    print()
+
+def first_letters(text):
+    words = text.split()
+    for word in words:
+        print(word[0], end=" ")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], end= ' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for item in text:
+        print(item[0], end=" ")
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0], "",end= "")
+def first_letters(text):
+    text = text.split()
+    for i in text:
+        print(i[0],end= " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(0, len(text)):
+        letter = text[i][0]
+        print(letter, end=" ")
+    print()
+
+def first_letters(text):
+    splt = text.split()
+    for words in splt:
+        print(words[0], end = " ")
+
+def first_letters(text):
+    text = text.split()
+    for i in range(len(text)):
+
+        print(text[i][0],end=' ')
+    print()
+
+def first_letters(text):
+    text = text.split()
+    for word in text:
+        print(word[0], end=" ")
+    print()
+
+def first_letters(text):
+    new_text = text.split()
+    for word in new_text:
+        print(word[0], end=" ")
+
+def first_letters(text):
+    dic = text.split()
+    for item in dic:
+        print(item[0], end=' ')
+    print()
+

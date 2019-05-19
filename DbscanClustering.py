@@ -1,5 +1,7 @@
 import random
 import codecs
+
+import math
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import numpy as np
@@ -126,68 +128,183 @@ def print_clusters(clusters_c, ii):
         else:
             data[c] += 1
 
-    labels = []
-    values = []
+    return data
+    # labels = []
+    # values = []
+    #
+    # solution_cluster_count = data[solution_cluster]
+    #
+    # for l in sorted(data.keys()):
+    #     labels.append(l)
+    #     values.append(data[l])
+    #
+    # values = sorted(values, reverse=True)
+    # colors = []
+    #
+    # outliers_count = data[-1]
+    #
+    # for v in values:
+    #     if v == solution_cluster_count:
+    #         colors.append("green")
+    #     else:
+    #         if v == outliers_count:
+    #             colors.append("red")
+    #         else:
+    #             colors.append("black")
+    #
+    # print(data)
+    # print(values)
+    # print(colors)
+    #
+    # n_groups = values.__len__()
+    #
+    # fig, ax = plt.subplots()
+    #
+    # index = np.arange(n_groups)
+    # bar_width = 0.35
+    #
+    # opacity = 0.4
+    # error_config = {'ecolor': '0.3'}
+    #
+    # rects1 = ax.bar(index, values, bar_width,
+    #                 alpha=opacity, color=colors, error_kw=error_config,
+    #                 label='Men')
+    #
+    # ax.set_xlabel('Group')
+    # ax.set_ylabel('Scores')
+    # ax.set_title('Scores by group and gender')
+    #
+    # fig.tight_layout()
+    ## plt.show()
+    # plt.savefig('./res/newfigs/' + str(ii) + ".svg")
 
-    solution_cluster_count = data[solution_cluster]
 
-    for l in sorted(data.keys()):
-        labels.append(l)
-        values.append(data[l])
+def print_data_for_all_tasks(values):
+    all_groups = []
 
-    values = sorted(values, reverse=True)
-    colors = []
+    i = -1
+    finish = False
+    while not finish:
+        finish = True
+        group = []
 
-    outliers_count = data[-1]
+        for task_id in values:
+            task_data = values[task_id]
+            try:
+                group.append(task_data[i])
+                finish = False
+            except Exception as e:
+                group.append(0)
+        if not finish:
+            all_groups.append(group)
+        i += 1
 
-    for v in values:
-        if v == solution_cluster_count:
-            colors.append("green")
-        else:
-            if v == outliers_count:
-                colors.append("red")
+    return all_groups
+
+
+def plot_data(all_groups, solution_clusters):
+
+    barWidth = 1
+
+    max = float(0)
+
+    task_sums = []
+
+    for i in range(0, all_groups[0].__len__()):
+        sum = 0
+        for j in range(all_groups.__len__()):
+            sum += all_groups[j][i]
+        if sum > max:
+            max = sum
+        task_sums.append(sum)
+
+    normalized_groups = []
+
+    for group in all_groups:
+        normalized_group = []
+        for count, task_sum in zip(group, task_sums):
+            ratio = max / task_sum
+            normalized_group.append(count * ratio)
+        normalized_groups.append(normalized_group)
+
+    for q in all_groups:
+        print(q)
+    for q in normalized_groups:
+        print(q)
+    X = []
+    for i in range(0, normalized_groups[0].__len__()):
+        X.append(i)
+
+    bottom = []
+
+    colors = ['#bbbb00', '#00bbbb', '#bb00bb']
+    outliers_color = '#ff0000'
+    example_color = '#00ff00'
+
+    for i in range(0, normalized_groups.__len__()):
+        line_colors = []
+        for j in range(0, len(solution_clusters)):
+            if solution_clusters[j]+1 == i:
+                if i == 0:
+                    line_colors.append('#aaaa00')
+                else:
+                    line_colors.append(example_color)
             else:
-                colors.append("black")
+                if i == 0:
+                    line_colors.append('#660000')
+                else:
+                    line_colors.append('#555555')
 
-    print(data)
-    print(values)
-    print(colors)
+        heights = []
+        for count in task_sums:
+            heights.append(math.log(count, 2))
 
-    n_groups = values.__len__()
+        positions = []
+        diff = 0
+        for j in range(0, len(X)):
+            positions.append(X[j] + diff + 2)
+            diff += heights[j]
 
-    fig, ax = plt.subplots()
+        if i == 0:
+            bottom = normalized_groups[i]
+            plt.barh(X, normalized_groups[i], color=line_colors, edgecolor='white', height=barWidth)
+        else:
+            plt.barh(X, normalized_groups[i], left=bottom, color=line_colors, edgecolor='white', height=barWidth)
+            new_bottom = []
+            for old, current in zip(bottom, normalized_groups[i]):
+                new_bottom.append(old + current)
+            bottom = new_bottom
+        print(bottom)
 
-    index = np.arange(n_groups)
-    bar_width = 0.35
 
-    opacity = 0.4
-    error_config = {'ecolor': '0.3'}
-
-    rects1 = ax.bar(index, values, bar_width,
-                    alpha=opacity, color=colors, error_kw=error_config,
-                    label='Men')
-
-    ax.set_xlabel('Group')
-    ax.set_ylabel('Scores')
-    ax.set_title('Scores by group and gender')
-
-    fig.tight_layout()
-    # plt.show()
-    plt.savefig('./res/newfigs/' + str(ii) + ".svg")
+    # Show graphic
+    plt.show()
 
 
 if __name__ == '__main__':
+    values = {}
+    solution_clusters = []
 
     for i in range(1, 41):
         try:
             clusters = analyze_file(str(i) + '.pkl', str(i))
             print("----------")
             print("Task:", i, "Example solution cluster:", clusters[clusters.size-1])
-            print_clusters(clusters, i)
-            print("")
-            print("")
+            solution_clusters.append(clusters[clusters.size-1])
+            data = print_clusters(clusters, i)
+            values[i] = data
+
         except Exception as e:
             print(e)
             pass
+
+    print(values)
+    print("#############################")
+    print(solution_clusters)
+    print("--------------------------------------")
+    all_groups = print_data_for_all_tasks(values)
+
+    plot_data(all_groups, solution_clusters)
+
 
 

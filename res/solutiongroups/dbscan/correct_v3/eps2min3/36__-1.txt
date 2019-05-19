@@ -112,3 +112,2929 @@ def products(n):
         print()
         x+=1
 
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+
+def products(n):
+    for j in range(n):
+    
+        for i in range(n):
+            num=(j+1)*(i+1)
+            print(str(num), end=" ")
+
+        print()    	
+def products(n):
+    for row in range(1, n+1):
+        for col in range(n):
+            lumn = row*col
+            print(row + lumn, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(n+1):
+            if row>0 and col>0:
+                print(row * col, end=" ")
+        print()
+
+def products(n):
+    for row in range(n+1):
+        for col in range(1,n+1):
+            a = row * col
+            if a!=0:
+            	print(a, end=" ")
+        print()
+
+def products(n):
+    x=1
+    for row in range(n):
+        for col in range(n):
+            print((col+1)*x, end=" ")
+        print()
+        x+=1
+

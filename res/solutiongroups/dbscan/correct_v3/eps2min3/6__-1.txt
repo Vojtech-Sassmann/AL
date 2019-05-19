@@ -202,3 +202,5239 @@ def nonzero_product(numbers):
         return sumatra 
             
         
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        
+def nonzero_product(numbers):
+    x = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            x = x * i
+    return x
+            
+
+def nonzero_product(numbers):
+    if not numbers:
+        return 1
+    if numbers[0] is 0:
+        return nonzero_product(numbers[1:])
+    return numbers[0] * nonzero_product(numbers[1:])
+
+def nonzero_product(numbers):
+    y = 1
+    for i in numbers:
+        if i > 0 or i < 0:
+            y = y * i
+    return y
+
+def nonzero_product(numbers):  
+    new = []
+    x = 0
+    for p in numbers:
+        if p != 0:
+            new.append(p)
+            x = 1
+    for p in new:
+        x *= p
+    return x
+
+def nonzero_product(numbers):
+    newlist = []
+    for i in numbers:
+        if i != 0:
+            newlist.append(i)
+    x = 1
+    for i in newlist:
+        x = x * i
+    return x
+
+
+def nonzero_product(numbers): # vrátí násobek všech nenulových členů seznamu
+    alist = []
+    sth = 1
+    for i in numbers:
+        if i != 0:
+            alist.append(i)
+   
+    for j in alist:
+        sth *= j
+    return sth 
+def nonzero_product(numbers):
+    suma = []
+    sumatra = 1 
+    for i in numbers:
+        if i != 0:
+            suma.append(i)
+    if suma == []:
+        return 0
+    else:
+        for x in suma:
+            sumatra *= x
+        return sumatra 
+            
+        

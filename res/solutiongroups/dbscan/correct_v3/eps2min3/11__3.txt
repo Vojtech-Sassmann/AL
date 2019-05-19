@@ -151,3 +151,3930 @@ def chessboard(n):
 
 
 
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+
+def chessboard(n):
+    for i in range(n):#na každém řádku
+        if i%2==0:
+            for j in range(n):
+                if j%2==0:
+                    print("#",end=" ")
+                else: print(".",end=" ")
+        else:
+            for j in range(n):
+                if j%2==0:
+                    print(".",end=" ")
+                else: print("#",end=" ")
+        print()
+
+
+def chessboard(n):
+    for i in range(1,n+1):
+        if i%2==1:
+            for j in range(n):
+                if j%2==1:
+                    print(".",end=" ")
+                else:
+                    print("#",end=" ")
+        else:
+            for j in range(n):
+                if j%2==1:
+                    print("#",end=" ")
+                else:
+                    print(".",end=" ")
+        print()
+
+def chessboard(n):
+    for i in range(n):
+        if i % 2 == 0:
+            for j in range(n):
+                if j % 2 == 0:
+                    print('#',end = '')
+                else:
+                    print(' . ',end = '')
+            
+        else:
+            for k in range(n):
+                if k % 2 == 0:
+                    print('.',end = '')
+                else:
+                    print(' # ',end = '')
+        print()
+            
+
+
+

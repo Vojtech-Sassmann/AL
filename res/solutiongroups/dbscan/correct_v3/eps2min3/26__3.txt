@@ -61,3 +61,1620 @@ def censorship(text):
             items[index] = "X"
     l = "".join(items)
     return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l
+def censorship(text):
+    text1 = list(text)
+    for i in range(len(text)):
+        if i % 2 != 0:
+            text1[i] = 'X'
+    return ''.join(text1)
+
+def censorship(text):
+    text = list(text)
+    for i in range(len(text)):
+        if i % 2 == 1:
+            text[i] = "X"
+    return(''.join(text))
+    
+def censorship(text):
+    items = list(text)
+    for index in range(len(items)):
+        if index % 2 == 1:
+            items[index] = "X"
+    l = "".join(items)
+    return l

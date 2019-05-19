@@ -220,3 +220,5701 @@ def powers(base, n):
         print(a)
     
 
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+ 
+
+def powers(base, n):
+    mocnina= 1
+    for i in range(n):        
+        mocnina= mocnina*base
+        print(mocnina)
+        
+        
+        
+def powers(base, n):
+    for i in range(1,n+1,1):
+        pocet = base **i
+        print(pocet)
+        
+
+
+def powers(base, n):
+    rand=1
+    for i in range(1,n+1,1):
+        rand = rand*base
+        print(str(rand))
+        
+        
+
+
+def powers(base, n):
+    for i in range(1,n+1):
+        x=base**i
+        print (x)
+
+def powers(base, n):
+    for i in range (n):
+        i = i + 1
+        m = base**i
+        print(m)
+
+def powers(base, n):
+    number = 1
+    for i in range (n):
+        number *= base
+        print(number)
+        
+    
+
+def powers(base, n):
+    num = 1
+    for i in range (1,n+1):
+        num = num * base
+        print(num)
+		
+def powers(base, n):
+    for i in range(1,n+1):
+        res = base ** i 
+        print(res)
+
+def powers(base, n):
+    base2 = 1
+    for i in range(1,n+1):
+       base2 = base*base2
+       print(base2)
+    print()
+
+def powers(base, n):
+    for i in range(n):
+        a = base**(i+1)
+        print(a)
+    
+

@@ -61,3 +61,1620 @@ def impose_fine(age, beer):
         return False
     else:
         return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer == True :
+        return True
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return False
+def impose_fine(age, beer):
+    if age >= 18 and beer == True:
+            return False
+    elif age < 18 and beer == False:
+        return False
+    else:
+        return True
+def impose_fine(age, beer):
+    if age < 18 and beer != True:
+    	return False
+    elif age > 17 and beer == True:
+        return False
+    else:
+        return True
