@@ -2,93 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5567b266-a03d-4182-a2f2-aa5dc0fe3161" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MostOriginalSolutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewAnalysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/originalData/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/output/err_stats.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UmimeProgramovatAnalyzy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UmimeProgramovatAnalyzy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/26.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/28.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/29.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/32.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/34.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/35.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/36.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/37.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/38.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/39.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/40.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/41.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/42.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/43.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/44.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/45.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/46.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/47.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/48.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/49.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/50.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/51.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/52.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/53.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/54.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/55.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/56.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/57.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/58.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/59.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/61.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/62.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/63.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/64.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/65.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/66.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/67.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/68.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/69.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/70.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/71.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/72.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataPreparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataPreparation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbscanClustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/DbscanClustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolutionsClassesAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/SolutionsClassesAnalysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,70 +37,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/25">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/26">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rates.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/4">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/2">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/20">
+        <entry file="file://$PROJECT_DIR$/DbscanClustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="540">
+              <caret line="271" column="112" selection-start-line="271" selection-start-column="112" selection-end-line="271" selection-end-column="112" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/3">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/32">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/output/rare_v2/17">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/numpy/lib/stride_tricks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8595">
-              <caret line="573" selection-start-line="573" selection-end-line="573" />
+            <state relative-caret-position="165">
+              <caret line="186" selection-start-line="186" selection-end-line="186" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/newfigs/1.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -208,6 +82,7 @@
       <find>found</find>
       <find>found groups</find>
       <find>palindrom</find>
+      <find>csv.reader</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,9 +99,7 @@
         <option value="$PROJECT_DIR$/res/output/output.csv" />
         <option value="$PROJECT_DIR$/res/output/err_stats.txt" />
         <option value="$PROJECT_DIR$/NewAnalysis.py" />
-        <option value="$PROJECT_DIR$/DataPreparation.py" />
         <option value="$PROJECT_DIR$/SolutionsClassesAnalysis.py" />
-        <option value="$PROJECT_DIR$/DbscanClustering.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
@@ -234,13 +107,16 @@
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/rates.txt" />
         <option value="$PROJECT_DIR$/res/output/rare_v2/17" />
+        <option value="$PROJECT_DIR$/res/parsed/exampleSolutions.csv" />
+        <option value="$PROJECT_DIR$/DataPreparation.py" />
+        <option value="$PROJECT_DIR$/DbscanClustering.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-102" />
-    <option name="y" value="32" />
-    <option name="width" value="1845" />
+    <option name="x" value="296" />
+    <option name="y" value="163" />
+    <option name="width" value="1393" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectView">
@@ -248,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,11 +137,16 @@
               <item name="AL" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AL" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="newfigs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MostOriginalSolutions">
+  <component name="RunManager" selected="Python.DbscanClustering">
     <configuration name="DataPreparation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UmimeProgramovatAnalyzy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -421,10 +303,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MostOriginalSolutions" />
         <item itemvalue="Python.DbscanClustering" />
-        <item itemvalue="Python.SolutionsClassesAnalysis" />
         <item itemvalue="Python.DataPreparation" />
+        <item itemvalue="Python.MostOriginalSolutions" />
+        <item itemvalue="Python.SolutionsClassesAnalysis" />
         <item itemvalue="Python.NewAnalysis" />
       </list>
     </recent_temporary>
@@ -445,51 +327,53 @@
       <workItem from="1553681539719" duration="575000" />
       <workItem from="1553691478856" duration="1327000" />
       <workItem from="1556269874898" duration="251000" />
+      <workItem from="1557910973684" duration="4970000" />
+      <workItem from="1558270596731" duration="6502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21602000" />
+    <option name="totallyTimeSpent" value="33074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="22" width="1855" height="1058" extended-state="6" />
+    <frame x="65" y="32" width="1855" height="1048" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14759536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05085683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.06434024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22343922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3263965" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.28057554" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.41238254" />
       <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14609851" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2564953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.06434024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38882804" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32685184" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" />
@@ -511,206 +395,229 @@
           <line>120</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DbscanClustering.py</url>
+          <line>269</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DbscanClustering.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DbscanClustering.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DbscanClustering.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="line_colors" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AL$DbscanClustering.coverage" NAME="DbscanClustering Coverage Results" MODIFIED="1558277016227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AL$DataPreparation.coverage" NAME="DataPreparation Coverage Results" MODIFIED="1557923871241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/output/rare/5">
+    <entry file="file://$PROJECT_DIR$/res/newfigs/21.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs/24.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs/27.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs/26.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs/25.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs/2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataPreparation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="361">
+          <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/6">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/2Fibonacciho posloupnost.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/7">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/5Zdvojení znaků.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/8">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/6Součin nenulových.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/9">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/8Čtverec.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/10">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/7Dělitelé.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/11">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/11Šachovnice.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/12">
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/15Každé druhé číslo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/17Vyber násobky pěti.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/27První písmena.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/28Zipování řetězců.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/29Unikátní prvky.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/30Nejčastější prvek.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/31Nejdelší slovo v seznamu.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/24Zjednodušení seznamu.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/1Výpis čísel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/3Faktoriál.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/4Abeceda.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/34Násobky.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/39Ohrožení dámou.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/38Kříž.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/37Hvězdičky.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/36Tabulka násobilky.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/35Rostoucí posloupnosti.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/32Blízko padesátky.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/25Počet A.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/25__3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        <state relative-caret-position="-2462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/40Velké N.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/25__1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_kc.csv">
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/21__0.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps.csv">
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/33Pokuta.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/33__1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-system_ps_problem.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_log.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/originalData/umimeprogramovatcz-ipython_item.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="648" selection-start-line="14" selection-start-column="428" selection-end-line="14" selection-end-column="648" />
+        <state relative-caret-position="5295">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/13">
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/33__0.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/14">
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/26Cenzura.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/25__0.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare/15">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/21Mocniny.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MostOriginalSolutions.py">
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/21__2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="1920">
+          <caret line="128" column="7" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/34">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/6">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/7">
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/21__1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6189">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/8">
+    <entry file="file://$PROJECT_DIR$/res/newfigs_named2/20Počet dělitelů.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/26__-1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10779" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/9">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/10">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/11">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/12">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/13">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/14">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/15">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/16">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/err.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="112" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="112" />
+        <state relative-caret-position="660">
+          <caret line="444" column="22" selection-start-line="444" selection-start-column="22" selection-end-line="444" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/18">
+    <entry file="file://$PROJECT_DIR$/res/solutiongroups/dbscan/correct_v3/eps2min3/26__0.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/19">
+    <entry file="file://$PROJECT_DIR$/res/newfigs/1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/numpy/lib/stride_tricks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3159" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/21">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/22">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/23">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/69">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/68">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/67">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/66">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/27">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/25">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/26">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rates.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="165">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/4">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
+    <entry file="file://$PROJECT_DIR$/DbscanClustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/32">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/17">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8595">
-          <caret line="573" selection-start-line="573" selection-end-line="573" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/output/rare_v2/20">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="540">
+          <caret line="271" column="112" selection-start-line="271" selection-start-column="112" selection-end-line="271" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
