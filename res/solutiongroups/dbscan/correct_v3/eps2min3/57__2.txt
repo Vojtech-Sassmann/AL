@@ -1,0 +1,30 @@
+def even_numbers(n):
+    x=2
+    for i in range(n):
+        print(x)
+        x=x+2
+
+def even_numbers(n):
+    x=2
+    for i in range(n):
+        print(x)
+        x=x+2
+
+def even_numbers(n):
+    x=2
+    for i in range(n):
+    	print(x)
+    	x=x+2
+
+def even_numbers(n):
+    x = 0
+    for i in range(n):
+        print(x+2)
+        x += 2
+
+def even_numbers(n):
+    j=2
+    for i in range(n):
+        print(j)
+        j=j+2
+

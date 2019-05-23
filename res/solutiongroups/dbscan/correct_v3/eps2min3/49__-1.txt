@@ -1,0 +1,49 @@
+def powers(n):
+    print(n, "na druhou je", pow(n,2))
+    print(n, "na treti je", pow(n,3))
+    print(n, "na ctvrtou je", pow(n,4))
+
+def powers(n):
+  t = ( ("druhou",2), ("treti",3), ("ctvrtou",4) )
+  for p in t:
+    m = 1
+    for i in range(p[1]):
+        m *= n
+    print( "{} na {} je {}".format(n, p[0], m) )
+def powers(n):
+    print(n, "na druhou je", pow(n,2))
+    print(n, "na treti je", pow(n,3))
+    print(n, "na ctvrtou je", pow(n,4))
+
+from math import pow
+def powers(n):
+    print(n, "na druhou je", int(pow(n, 2)))
+    print(n, "na treti je", int(pow(n, 3)))
+    print(n, "na ctvrtou je", int(pow(n, 4)))
+
+def powers(n):
+    for i in range (2,5):
+        m = n**i
+        if i == 2:
+            print(n, "na druhou je", m)
+        elif i == 3:
+            print(n, "na treti je", m)
+        elif i == 4:
+            print(n, "na ctvrtou je", m)
+
+def powers(n):
+    print(n, "na druhou je", n**2)
+    print(n,'na treti je',(n**2)*n)
+    print(n,'na ctvrtou je',(n**2)*(n**2))
+def powers(n):
+    words = ["druhou", "treti", "ctvrtou"]
+    for i in range(2,5):
+    	m =n**i
+    	print(n, "na", words[i-2], "je", m)
+
+def powers(n):
+    words = ["druhou", "treti", "ctvrtou"]
+    for i in range(2, 5):
+    	m=n**i
+    	print(n, "na", words[i-2], "je", m)
+

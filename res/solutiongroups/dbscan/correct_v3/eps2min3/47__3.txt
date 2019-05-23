@@ -1,0 +1,32 @@
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a+b))
+    print(str(a) + " - " + str(b) + " = " + str(a-b))
+
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a+b))
+    print(str(a) + " - " + str(b) + " = " + str(a-b))
+
+def sum_dif(a, b):
+    print(str(a) + ' + ' + str(b) + ' = ' + str((a+b)))
+    print(str(a) + ' - ' + str(b) + ' = ' + str((a-b)))
+
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a+b))
+    print(str(a) + " - " + str(b) + " = " + str(a-b))
+
+def sum_dif(a, b):
+    print(str(a)+" + "+str(b)+" = "+ str(a+b))
+    print(str(a)+" - "+str(b)+" = "+ str(a-b))
+
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a + b))
+    print(str(a) + " - " + str(b) + " = " + str(a - b))
+def sum_dif(a, b):
+    print(str(a) + " + " + str(b) + " = " + str(a + b))
+    print(str(a) + " - " + str(b) + " = " + str(a - b))
+
+def sum_dif(a, b):
+    print(str(a)+" + "+ str(b)+" = "+str(a+b))
+    print(str(a)+" - "+ str(b)+" = "+str(a-b))
+    
+

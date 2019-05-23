@@ -1,0 +1,16 @@
+def cross(z):
+    print(z+" "*3+z)
+    print(" "*2+z+" "*2)
+    print(z+" "*3+z)
+    
+
+def cross(z):
+    print(z + " "*3 + z)
+    print(" "*2 + z + " ")
+    print(z + " "*3 + z)
+
+def cross(z):
+    print(z + " "*3 + z)
+    print(" "*2 + z, " "*2)
+    print(z + " "*3 + z)
+

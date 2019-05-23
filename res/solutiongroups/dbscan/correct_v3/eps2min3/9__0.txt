@@ -1,0 +1,33 @@
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or i == n-1:
+            	print("#", end=" ")
+            elif j == 0 or j == n-1:
+                print("#", end=" ")
+            else:
+                print(".", end=" ")
+        print()
+
+def empty_square(n):
+    for i in range(n):
+        for j in range(n):
+            if i == 0 or i == n-1:
+                print('#',end=' ')
+            elif j== 0 or j == n-1:
+                print('#',end=' ')
+            else:
+                print('.',end=' ')
+        print()
+
+def empty_square(n):
+    for y in range(n):
+        for x in range(n):
+            if y == 0 or y + 1 == n:
+                print("#", end=" ")
+            elif x == 0 or x + 1 == n:
+                print("#", end=" ")
+            else:
+                print(".",end=" ")
+        print()	
+

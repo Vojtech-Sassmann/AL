@@ -1,0 +1,18 @@
+def digit_sum(n):
+    count = 0
+    for i in str(n):
+        count += int(i)
+    return count
+
+def digit_sum(n):
+    c=0
+    for a in str(n):
+        c+=int(a)
+    return c
+
+def digit_sum(n):
+    summ = 0
+    for i in str(n):
+    	summ += int(i)
+    return summ
+

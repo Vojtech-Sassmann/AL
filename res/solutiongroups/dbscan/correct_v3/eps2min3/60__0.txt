@@ -1,0 +1,91 @@
+def big_even(a, b):
+    vetsiCislo = a
+    if(vetsiCislo < b):
+        vetsiCislo = b
+    if(vetsiCislo % 2 == 0):
+        return True
+    else: 
+        return False
+
+def big_even(a, b):
+    if a>b or a==b:
+        x=a
+    else:
+        x=b
+    if x%2==0:
+        return True
+    else:
+    	return False
+
+def big_even(a, b):
+    c=0
+    if a>b:
+        c=a
+    else:
+        c=b
+    
+    if c%2==0:
+        return True
+    else:
+        return False
+    	
+
+def big_even(a, b):
+    y = a
+    if y < b: 
+        y = b
+    if y%2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if a>b:
+        bigger = a
+    else:
+        bigger = b
+    if bigger % 2==0:
+        return True
+    else:
+    	return False
+
+def big_even(a, b):
+    if a>b:
+        big=a
+    else: big=b
+    if big%2==0:
+    	return True
+    return False
+
+def big_even(a, b):
+    if a>b:
+        c=a
+    else:
+        c=b
+    if c%2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if a>b:
+        c=a
+    else:
+        c=b
+    if c%2 ==0:
+        return True
+    return False
+def big_even(a, b):
+    if a>b:
+        c=a
+    else:
+        c=b
+    if c%2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if (a > b):
+        c = a
+    else: c = b
+    
+    if ((c % 2) == 0): return True
+    else: return False

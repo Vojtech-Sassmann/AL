@@ -1,0 +1,49 @@
+def power_test(a, b):
+    if a>b:
+        if b**2==a:
+            print(a, "je druhou mocninou", b)
+        else:
+            print("bagr")
+    elif b>a:
+        if a**2==b:
+            print(b, "je druhou mocninou", a)
+        else:
+            print("bagr")
+
+def power_test(a, b):
+    if a > b:
+        if b**2 == a:
+            print(a,'je druhou mocninou',b)
+        else:
+            print('bagr')
+    if b > a:
+        if a**2 == b:
+            print(b,'je druhou mocninou',a)
+        else:
+            print('bagr')
+
+def power_test(a, b):
+    if a > b:
+        if a == b**2:
+            print(a,"je druhou mocninou",b)
+        else:
+            print("bagr")
+    if a < b:
+        if b==a**2:
+            print(b,"je druhou mocninou",a)
+        else:
+            print("bagr")
+
+def power_test(a, b):
+    if a > b:
+        if b*b == a:
+            print(a, "je druhou mocninou", b)
+        else:
+            print("bagr")
+    elif b > a:
+        if a*a == b:
+            print(b, "je druhou mocninou", a)
+        else:
+            print("bagr")
+
+

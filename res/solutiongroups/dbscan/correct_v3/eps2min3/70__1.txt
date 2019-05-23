@@ -1,0 +1,41 @@
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol + text + symbol)
+    for _ in range(len(text)+2):
+        print(symbol, end="")
+
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol+text+symbol)
+    for j in range(len(text)+2):
+        print(symbol, end="")
+
+def frame(text, symbol):
+    for i in range(len(text)+2):
+    	print(symbol, end="")
+    print()
+    print(symbol+text+symbol)
+    for i in range(len(text)+2):
+    	print(symbol, end="")
+
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol+text+symbol)
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+
+def frame(text, symbol):
+    for i in range(len(text)+2):
+        print(symbol, end="")
+    print()
+    print(symbol+text+symbol)
+    for i in range(len(text)+2):
+        print(symbol, end="")
+

@@ -1,0 +1,105 @@
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+    if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    truth = 0
+    if (a < 3):
+        truth = 1
+    if (b < 3):
+        truth = 1
+    if (c < 3):
+        truth = 1
+    if (truth == 1):
+        return True
+    else:
+        return False
+def happy(a, b, c):
+    if a <= 2:
+        return True
+    elif b <=2:
+        return True
+    elif c <=2:
+        return True
+    else:
+        return False
+def happy(a, b, c):
+    hap =[]
+    for i in (a, b, c):
+        if i < 3:
+            hap.append(i)
+    if hap != []:
+        return True
+    else:        
+    	return False
+
+def happy(a, b, c):
+    return True if any(x < 3 for x in (a, b, c)) else False
+def happy(a, b, c):
+    if ((a<3) or (b<3) or (c<3)) and (0<a<6) and (0<b<6) and (0<c<6):
+    	return True
+    else:
+        return False
+
+
+def happy(a, b, c):
+    if a<3 or b<3 or c<3:
+       	print("True")
+    elif a>3 or b>3 or c3:
+        print("False")
+    return print(end="")
+
+
+def happy(a, b, c):
+    arr = [a, b ,c]
+    if 1 in arr or 2 in arr :
+    	return True
+    else :
+        return False
+
+def happy(a, b, c):
+    if (a < 3) | (b < 3) | (c < 3):
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if 1 in [a,b,c] or 2 in [a,b,c]:
+        return True
+    return False
+
+def happy(a, b, c):
+    if int(a) < 3 or int(b) < 3 or int(c) < 3:
+        return True
+    return False
+
+def happy(a, b, c):
+    t = False
+    if a < 3 or b < 3 or c < 3:
+        t = True
+    return t
+def happy(a, b, c):
+    if a < 3:
+        return True
+    elif b < 3:
+        return True
+    elif c < 3:
+        return True
+    return False
+
+def happy(a, b, c):
+    grades = [a,b,c]
+    for item in grades:
+        if item < 3:
+            return True
+    return False
+

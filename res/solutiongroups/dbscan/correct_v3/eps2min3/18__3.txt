@@ -1,0 +1,19 @@
+def digit_sum(n):
+    count = 0
+    for i in range(len(str(n))):
+        count += int(str(n)[i])
+    return count
+        
+
+def digit_sum(n):
+    d = 0
+    for i in range(len(str(n))):
+        d += int(str(n)[i])
+    return d
+
+def digit_sum(n):
+    a = 0
+    for i in range(len(str(n))):
+        a += int(str(n)[i])
+    return a
+

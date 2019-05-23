@@ -1,0 +1,1240 @@
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+    return True
+    	
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price: return True
+    else: return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+    	return False
+def icecream_test(money, price):
+    if money < price:
+        return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+	
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    	if money>=price: return True
+    	return False
+
+def icecream_test(money, price):
+    if money<price:
+        return False
+    else: return True
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+    
+
+def icecream_test(money, price):
+    if money >= price :
+    	return True
+    else :
+    	return False
+
+def icecream_test(money, price):
+    if(money>=price):
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price: return True
+    else: return False
+def icecream_test(money, price):
+    if money<price:
+        return False
+    else:
+        return True
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price<=money:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money<price:
+        return False
+    else:
+        return True
+    
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if((money-price)-1):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price<=money:
+        return True
+    else:
+        return False
+    
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else: 
+        return False
+
+def icecream_test(m, p):
+    if (m>=p):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money<price:
+    	return False
+    else:
+        return True
+   
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return "True"
+    else:
+    	return "False"
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+    	return False
+
+
+def icecream_test(money, price):
+    if money < price:
+        return False
+    else:
+    	return True
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+    	return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if(money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+    	return False
+
+def icecream_test(money, price):
+    if price <= money:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+        
+
+def icecream_test(money, price):
+    if(money >= price):
+    	return True
+    else:
+    	return False
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+   if money >= price:
+    	return True
+   
+   else: 
+        return False
+
+def icecream_test(money, price):
+    if (money-price>=0):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money < price:
+    	return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+    	return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else :
+    	return False
+
+def icecream_test(money, price):
+    if money >= price:
+   		return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False 
+
+def icecream_test(money, price):
+    if(money >= price) :
+    	return True
+    else :
+        return False
+
+def icecream_test(money, price):
+    if money >= price: 
+    	return True
+    else:
+        return False
+    
+def icecream_test(money, price):
+    if money >= price:
+   		return True
+    else:
+        return False
+    	
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+
+
+def icecream_test(money, price):
+    if money - price >= 0:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if(money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money - price >= 0:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+        return True
+    
+    return False
+
+def icecream_test(money, price):
+    if money-price>=0:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price <= money:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price<=money:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price <= money:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if money < price: 
+    	return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money < price:
+    	return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money < price:
+        return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money < price:
+    	return False
+    else:
+        return True
+def icecream_test(money, price):
+    if money<price:
+        return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+def icecream_test(money, price):
+    if money<price:
+        return False
+    return True
+
+def icecream_test(money, price):
+ if money >= price:
+   return True
+ else:
+      return False  
+def icecream_test(money, price):
+    if money>=price:
+        return (True)
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money < price:
+    	return False
+    else:
+        return True
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else: return False
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price: 
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:return False
+def icecream_test(money, price):
+    if money >= price:
+	    return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+         return True
+    return False 
+
+def icecream_test(money, price):
+    if (money>=price):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if price<=money:
+        return("True")
+    else:
+        return("False")
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money - price >= 0:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money - price >= 0:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money - price >= 0:
+        return True
+    return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if (int(money) < int(price)):
+        return False
+    else:
+        return True
+def icecream_test(money, price):
+    if money - price >= 0:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if money>= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if int(money) >= int(price):
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if(money>=price):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if (money>= price):
+       return True
+    else:
+       return False
+def icecream_test(money, price):
+    if price <= money:return True 
+    else:return False
+
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else:return False
+
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else: return False 
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price: return True
+    else : return False
+def icecream_test(money, price):
+	if money>=price: return True
+	else: return False 
+def icecream_test(money, price):
+    if (money>=price): return True
+    else: return False
+def icecream_test(money, price):
+    if price <= money:
+     return True
+    else: 
+     return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+    	return False
+
+def icecream_test(money, price):
+    if (money<price):return False
+    else:return True
+
+def icecream_test(money, price):
+    if (money<price):return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else :
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money < price:
+        return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money < price:
+        return False
+    return True
+
+def icecream_test(money, price):
+    if price <= money:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if money < price:
+        return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+def icecream_test(money, price):
+    if price <= money:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+
+def icecream_test(money, price):
+    if money >=price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+    
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price :
+        return True
+    else :
+        return False
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+   
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+	if money >= price:
+		return True
+	else:
+		return False
+
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return(True)
+    else:
+        return(False)
+
+def icecream_test(money, price):
+    if money >= price:
+        return(True)
+    else:
+        return(False)
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+    
+    
+    
+        
+    
+    
+
+
+
+
+
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+	
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+    
+
+def icecream_test(money, price):
+    if(money >= price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if(money >= price):
+        return True 
+    else:
+    	return False
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+    
+   
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+        
+    
+
+def icecream_test(money, price):
+	if (money>=price):
+		return True
+	else: return False
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else: 
+        return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+	    return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if(money>=price):
+    	return True
+    else:
+    	return False
+
+def icecream_test(money, price):
+    if money >=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price): return True
+    else:return False
+
+def icecream_test(money, price):
+    if(money>=price):
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>= price):
+        return True
+    else: return False
+
+def icecream_test(money, price):
+    if (money>=price): return True
+    else:return False
+
+def icecream_test(money, price):
+    if (money>=price): return True	
+    else:return False
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if (money>=price):return True
+    else: return False
+
+def icecream_test(money, price):
+    if (money>=price):return True
+    else: return False
+def icecream_test(money, price):
+    if(money>=price):return True
+    else:return False
+def icecream_test(money, price):
+    if (money>=price):return True
+    else:return False
+
+def icecream_test(money, price):
+    if(money>=price): 
+        return True
+    return False
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    return False
+
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    else:
+        return False
+
+    
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else:
+        return False
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if(money >= price):
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price :
+    	return True
+    else :
+    	return False
+
+def icecream_test(money, price):
+    if money >= price :
+        return True
+    else :
+        return False
+def icecream_test(money, price):
+    if money >= price :
+        return True
+    else :
+        return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price :
+        return True
+    else : 
+        return False
+    return True
+
+def icecream_test(money, price):
+    if money >= price :
+        return True
+    else :
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+   		 return True
+    else:
+      	 return False
+
+def icecream_test(money, price):
+	if money >= price:
+		return True
+	else:
+		return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+ if money >= price:
+ 	return True
+ 	#pass
+ else:
+ 	#pass
+ 	return False
+
+
+icecream_test(20,10)
+
+
+
+
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    else:
+        return False
+	
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money>=price:
+    	return True
+    else:
+        return False
+
+def icecream_test(money, price):
+    if money >= price:
+        return True
+    else:
+        return False

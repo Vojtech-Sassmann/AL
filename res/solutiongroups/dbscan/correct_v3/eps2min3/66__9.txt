@@ -1,0 +1,23 @@
+def decide(symbol1, symbol2):
+    if (symbol1=="K"and symbol2=="K"):print("Remiza")
+    if (symbol1=="P"and symbol2=="P"):print("Remiza")
+    if (symbol1=="N"and symbol2=="N"):print("Remiza")
+    if (symbol1=="K"and symbol2=="N")or(symbol2=="K"and symbol1=="N"):print("K")
+    if (symbol1=="P"and symbol2=="N")or(symbol2=="P"and symbol1=="N"):print("N")
+    if (symbol1=="K"and symbol2=="P")or(symbol2=="K"and symbol1=="P"):print("P")
+
+def decide(symbol1, symbol2):
+    if(symbol1=="K"and symbol2=="K"):print("Remiza")
+    if(symbol1=="P"and symbol2=="P"):print("Remiza")     
+    if(symbol1=="N"and symbol2=="N"):print("Remiza")     
+    if(symbol1=="K"and symbol2=="N")or(symbol2=="K"and symbol1=="N"):print("K")     
+    if(symbol1=="P"and symbol2=="N")or(symbol2=="P"and symbol1=="N"):print("N") 
+    if(symbol1=="K"and symbol2=="P")or(symbol2=="K"and symbol1=="P"):print("P")    
+
+def decide(symbol1, symbol2):    
+    if (symbol1=="K"and symbol2=="K"):print("Remiza")
+    if (symbol1=="P"and symbol2=="P"):print("Remiza")
+    if (symbol1=="N"and symbol2=="N"):print("Remiza")
+    if (symbol1=="K"and symbol2=="N")or(symbol2=="K"and symbol1=="N"):print("K")
+    if (symbol1=="P"and symbol2=="N")or(symbol2=="P"and symbol1=="N"):print("N")
+    if (symbol1=="K"and symbol2=="P")or(symbol2=="K"and symbol1=="P"):print("P")

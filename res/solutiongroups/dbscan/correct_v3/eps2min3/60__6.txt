@@ -1,0 +1,33 @@
+def big_even(a, b):
+    vetsi = max(a,b)
+    if vetsi % 2 == 0:
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    amax = max(a,b)
+    if amax % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    i = max(a, b)
+    if i % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    c = max(a, b)
+    if c % 2 == 0:
+        return True
+    else:
+        return False
+
+
+def big_even(a, b):
+    c=max(a,b)
+    if c%2==0:
+        return True
+    return False
+

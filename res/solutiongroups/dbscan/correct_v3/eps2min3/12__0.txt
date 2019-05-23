@@ -1,0 +1,37 @@
+def bigX(n):
+    for i in range (n*2-1):
+        for y in range (n*2-1):    		
+            if y==i or y==n*2-1-i-1:	
+                print("#", end=' ')
+            else:
+                print(" ", end=' ')
+        print()
+    pass
+
+def bigX(n):
+    for i in range(2 * n -1):
+        for j in range(2 * n - 1):
+            if i == j or (2 * n - 2) - i == j:
+                print('#', end=" ")
+            else:
+                print(' ', end=" ")
+        print()
+def bigX(n):
+    for i in range(n*2-1):
+        for j in range(n*2-1): 
+            if i == j or j == (n*2-1)-i-1:
+                print("#", end=" ")
+            else:
+                print(" ", end=" ")
+        print()
+
+def bigX(n):
+    for i in range(2 * n - 1):
+        for j in range(2 * n - 1):
+            if i == j or (2 * n - 2) - i == j:
+                print('#', end=" ")
+            else:
+                print(' ', end=" ")
+        print()
+
+

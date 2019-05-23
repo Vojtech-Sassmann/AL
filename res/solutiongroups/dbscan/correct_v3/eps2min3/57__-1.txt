@@ -1,0 +1,43 @@
+def even_numbers(n):
+    i = 0
+    a = 2
+    while i < n:
+        print(a)
+        a += 2
+        i += 1
+
+def even_numbers(n):
+    i = 1
+    while i <= n:
+        print(2 * i)
+        i += 1
+
+def even_numbers(n):
+    for i in range(1, n+1):
+       nasobek = 2
+       if i <= n+1:
+           print(i*nasobek)
+           nasobek += 2
+       else:
+           break
+def even_numbers(n):
+    x=0
+    y=2
+    while x<n:
+        print(y)
+        y+=2
+        x+=1
+
+def even_numbers(n):
+    for i in range(n*2+1):
+        if i>0 and i%2==0:
+            print(i)
+
+def even_numbers(n):
+    for x in reversed(range(n*2, 0, -2)):
+    	print(x)
+
+def even_numbers(n):
+    seznam = list(range(2, 2*n+1, 2))
+    for number in seznam:
+        print(number)

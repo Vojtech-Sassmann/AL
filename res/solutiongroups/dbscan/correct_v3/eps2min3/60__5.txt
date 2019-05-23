@@ -1,0 +1,60 @@
+def big_even(a, b):
+    if a < b:
+        if b % 2 == 0:
+        	return True
+        else:
+        	return False
+    else:
+        if a % 2 == 0:
+            return True
+        else:
+            return False
+
+def big_even(a, b):
+    if a>b:
+        if a % 2 == 0:
+        	return True
+        else:
+            return False
+    else:
+        if b % 2 == 0:
+            return True
+        else:
+            return False
+
+def big_even(a, b):
+   if a > b:
+       if a % 2 == 0:
+   	       return True
+       else:
+           return False
+   else:
+       if b % 2 == 0:
+           return True
+       return False
+
+def big_even(a, b):
+    if a>b:
+        if a%2==0:
+            return True
+        else: 
+            return False
+    else:
+        if b%2==0:
+            return True
+        else: 
+            return False
+	
+
+def big_even(a, b):
+    if (ab):
+        if (a%2==0):
+            return True
+        else:
+            return False
+    else:
+        if (b%2==0):
+            return True
+        else:
+            return False
+

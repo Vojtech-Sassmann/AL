@@ -1,0 +1,36 @@
+def hej_rup(n):
+    i = 0
+    while i < n:
+        print("hej")
+        print("rup")
+        i += 1
+        
+   
+
+def hej_rup(n):
+    i = 1
+    while i <= n:
+        print("hej")
+        print("rup")
+        i += 1
+
+def hej_rup(n):
+    x=0
+    while x<n:
+        print("hej")
+        print("rup")
+        x+=1
+
+def hej_rup(n):
+	pocet=1
+	while (pocet <= n):
+		print("hej")
+		print("rup")
+		pocet = pocet + 1
+
+def hej_rup(n):
+    i = 1
+    while i<=n:
+        print('hej')
+        print('rup')
+        i=i+1

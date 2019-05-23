@@ -1,0 +1,21 @@
+def greatest_common_divisor(a, b):
+    while b:
+        a, b = b, a%b
+    return a
+
+def greatest_common_divisor(a, b):
+    while b != 0:
+    	(a, b) = (b, a % b)
+    return a
+
+
+def greatest_common_divisor(a, b):
+    while b != 0:
+        (a, b) = (b, a % b)
+    return a
+
+def greatest_common_divisor(a, b):
+    while a:
+        a, b = b % a, a
+    return b
+

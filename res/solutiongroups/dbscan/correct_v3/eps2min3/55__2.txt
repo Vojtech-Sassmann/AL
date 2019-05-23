@@ -1,0 +1,43 @@
+def check(p, k):
+    temp1=0
+    temp2=0
+
+    if k*4>p:
+         temp2=k*4
+         print("Chybi:",temp2-p)
+
+    elif p/k==4:
+            print("OK")
+
+    else: #ak je k*4<p
+        temp1=k*4
+        print("Prebyva:",p-temp1)
+def check(p, k):
+    temp1=0
+    temp2=0
+
+    if k*4>p:
+         temp2=k*4
+         print("Chybi:",temp2-p)
+
+    elif p/k==4:
+            print("OK")
+
+    else: #ak je k*4<p
+        temp1=k*4
+        print("Prebyva:",p-temp1)
+
+def check(p, k):
+    temp1=0
+    temp2=0
+
+    if k*4>p:
+         temp2=k*4
+         print("Chybi:",temp2-p)
+
+    elif p/k==4:
+            print("OK")
+
+    else: #ak je k*4<p
+        temp1=k*4
+        print("Prebyva:",p-temp1)

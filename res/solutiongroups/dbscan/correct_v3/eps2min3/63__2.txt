@@ -1,0 +1,62 @@
+def icecream_test(money, price):
+    return price <= money
+
+def icecream_test(money, price):
+    final = (money >= price)
+    return (final)
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return (money >= price)
+
+def icecream_test(money, price):
+    return money - price >= 0
+
+def icecream_test(money, price):
+    return price <= money
+
+def icecream_test(money, price):
+    return price <= money
+
+def icecream_test(money, price):
+    return(bool(money>=price))
+def icecream_test(money, price):
+    return money>=price
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>= price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>= price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money>=price
+
+def icecream_test(money, price):
+    return money >= price
+

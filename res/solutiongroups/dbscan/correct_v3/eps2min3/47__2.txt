@@ -1,0 +1,25 @@
+def sum_dif(a, b):
+    c=a+b
+    print(a, "+", b, "=", c)
+    c=a-b
+    print(a, "-", b, "=", c)
+
+def sum_dif(a, b):
+    total = a + b
+    print(a,"+", b,"=", total)
+    dif = a - b
+    print(a,"-", b,"=", dif)
+    
+
+def sum_dif(a, b):
+    c=a+b
+    print(a,"+",b,"=",c)
+    d=a-b
+    print(a,"-",b,"=",d)
+
+def sum_dif(a, b):
+    c=a+b
+    print(a,"+",b,"=",c)
+    c=a-b
+    print(a,"-",b,"=",c)
+

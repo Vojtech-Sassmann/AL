@@ -1,0 +1,31 @@
+def check(p, k):
+    if (p==k*4):
+    	print("OK")
+    if (p<k*4):
+    	print ("Chybi:", 4*k-p)
+    if (p>k*4):
+    	print ("Prebyva:", p-4*k)
+
+def check(p, k):
+	if (p==k*4):
+		print ("OK")
+	if (p<k*4):
+		print("Chybi:", k*4-p)
+	if (p>k*4):
+		print("Prebyva:", p-4*k)
+def check(p, k):
+    if (p==k*4):
+        print ("OK")
+    if (p<k*4):
+        print("Chybi:", k*4-p)
+    if (p>k*4):
+        print("Prebyva:" , p-4*k)
+
+def check(p, k):
+    if(p == k*4):
+        print("OK")
+    if(p < k*4):
+        print("Chybi:", (4*k)-p)
+    if(pk*4):
+        print("Prebyva:", p-(k*4))
+

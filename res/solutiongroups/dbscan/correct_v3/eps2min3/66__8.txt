@@ -1,0 +1,64 @@
+def decide(symbol1, symbol2):
+    if symbol1=="K" and symbol2=="N":
+        print(symbol1)
+    elif symbol1=="N" and symbol2=="K":
+        print(symbol2)
+    elif symbol1=="K" and symbol2=="P":
+        print(symbol2)
+    elif symbol1=="P" and symbol2=="K":
+        print(symbol1)
+    elif symbol1=="N" and symbol2=="P":
+        print(symbol1)
+    elif symbol1=="P" and symbol2=="N":
+        print(symbol2)
+    elif symbol1==symbol2:
+        print("Remiza")
+        
+def decide(symbol1, symbol2):
+    if symbol1 == 'K'and symbol2 == 'P':
+        print(symbol2)
+    elif symbol2=='K' and symbol1=='P':
+        print(symbol1)
+    elif symbol1=='K' and symbol2=='N':
+        print(symbol1)
+    elif symbol1=='N' and symbol2=='K':
+        print(symbol2)
+    elif symbol1=='P' and symbol2=='N':
+        print(symbol2)
+    elif symbol1=='N' and symbol2=='P':
+        print(symbol1)
+    else:
+        print("Remiza")
+
+def decide(symbol1, symbol2):
+    if symbol1 == "K" and symbol2 == "N" :
+        print(symbol1)
+    elif symbol1 == "P" and symbol2 == "K" :
+        print(symbol1)
+    elif symbol1 == "N" and symbol2 == "K" :
+        print(symbol2)
+    elif symbol1 == "K" and symbol2 == "P" :
+        print(symbol2)
+    elif symbol1 == "P" and symbol2 == "N" :
+        print(symbol2)
+    elif symbol1 == "N" and symbol2 == "P" :
+        print(symbol1)
+    elif symbol1 == symbol2:
+    	print("Remiza")
+
+def decide(a, b):
+    if a == "K" and b == "N":
+    	print(a)
+    elif a == "N" and b == "K":
+        print(b)
+    elif a == "P" and b == "K":
+        print(a)
+    elif a == "K" and b == "P":
+        print(b)
+    elif a == "P" and b == "N":
+        print(b)
+    elif a == "N" and b == "P":
+        print(a)
+    else:
+        print("Remiza")
+

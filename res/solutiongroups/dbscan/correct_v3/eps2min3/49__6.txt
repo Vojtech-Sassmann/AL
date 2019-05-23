@@ -1,0 +1,32 @@
+def powers(n):
+    druha = n*n
+    tretia = n*n*n
+    stvrta = n*n*n*n
+    print(n, "na druhou je", druha)
+    print(n, "na treti je", tretia)
+    print(n, "na ctvrtou je", stvrta)
+
+def powers(n):
+    p = n * n
+    s = n * n * n
+    u = n * n * n * n
+    print(n, "na druhou je", p)
+    print(n, "na treti je", s)
+    print(n, "na ctvrtou je", u)
+
+def powers(n):
+    a=n*n
+    b=n*n*n
+    c=n*n*n*n
+    print(n, "na druhou je", a)
+    print(n, "na treti je", b)
+    print(n, "na ctvrtou je", c)
+
+def powers(n):
+    druha=n*n
+    treti=n*n*n
+    ctvrta=n*n*n*n
+    print(n, "na druhou je", druha)
+    print(n, "na treti je", treti)
+    print(n, "na ctvrtou je", ctvrta)
+

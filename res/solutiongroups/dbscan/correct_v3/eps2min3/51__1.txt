@@ -1,0 +1,90 @@
+def dragon_test(heads, pigs):
+    if (pigs%heads == 0): print("Nebude bitka.")
+    if (pigs%heads != 0): print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print ("Bude bitka.")
+  
+
+def dragon_test(h, p):
+    if p%h==0:
+        print("Nebude bitka.")
+    if p%h!=0:
+        print("Bude bitka.")
+    
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print("Bude bitka.")
+   
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    if pigs%heads!=0:
+        print("Bude bitka.") 
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads>=1:
+        print ("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads!=0:
+        print("Bude bitka.")
+        
+        
+    
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+    	print("Nebude bitka.")
+    elif pigs%heads!=0:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0:
+        print("Nebude bitka.")
+    elif pigs%heads!=0:
+        print("Bude bitka.")
+    
+
+def dragon_test(heads, pigs):
+    if pigs % heads == 0:
+        print("Nebude bitka.")
+    elif pigs % heads != 0:
+    	print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0):
+        print("Nebude bitka.")
+    if (pigs%heads>=1):
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0): 
+        print("Nebude bitka.")
+    if (pigs%heads!=0): 
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if (pigs%heads==0):
+        print("Nebude bitka.")
+    if (pigs%heads!=0):
+        print("Bude bitka.")
+def dragon_test(heads, pigs):
+    if pigs%heads == 0:
+        print("Nebude bitka.")
+    if pigs%heads != 0:
+        print("Bude bitka.")
+
+def dragon_test(heads, pigs):
+    if pigs%heads==0: print("Nebude bitka.")
+    if pigs%heads!=0: print("Bude bitka.")    
+

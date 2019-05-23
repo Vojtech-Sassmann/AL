@@ -1,0 +1,49 @@
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    elif a > b:
+        print(a, "je vetsi nez", b)
+    elif b > a:
+        print(b, "je vetsi nez", a)
+def compare(a, b):
+    if(a == b):
+        print("stejna")
+    elif(a > b):
+        print(a, "je vetsi nez", b)
+    elif(b > a):
+        print(b, "je vetsi nez", a)
+        
+
+def compare(a, b):
+    if a==b:
+        print("stejna")
+    elif a>b:
+        print (a, "je vetsi nez", b)
+    elif b>a:
+        print (b, "je vetsi nez", a)
+
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    elif b > a:
+        print(b, "je vetsi nez", a)
+    elif a > b:
+        print(a, "je vetsi nez", b)   
+    print
+
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    elif a > b:
+        print(a, "je vetsi nez", b)
+    elif b > a:
+        print(b, "je vetsi nez", a)
+              
+
+def compare(a, b):
+    if a==b:
+        print("stejna")
+    elif a > b:
+        print(a, "je vetsi nez", b)
+    elif a < b:
+        print(b, "je vetsi nez", a)

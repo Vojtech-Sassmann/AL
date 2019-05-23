@@ -1,0 +1,15 @@
+def cross(z):
+    print((z),(""),(""),(z))
+    print((""),(""),(z),(""),(""))
+    print((z),(""),(""),(z))
+
+def cross(cross):
+    print(cross,"","",cross)
+    print("","",cross,"")
+    print(cross,"","",cross)
+
+def cross(cross):
+    print(cross,"",'',cross)
+    print("",'',cross,"")
+    print(cross,"",'',cross)
+

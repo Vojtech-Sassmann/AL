@@ -1,0 +1,15 @@
+def reverse_numbers(n):
+    for i in range(n):
+        s = n - i
+        print(s)
+
+def reverse_numbers(n):
+    for i in range(n):
+        s=n-i
+        print(s)
+
+def reverse_numbers(n):
+    for i in range(n):
+        a=n-i
+        print(a)
+

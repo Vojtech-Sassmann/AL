@@ -1,0 +1,31 @@
+def power_test(a, b):
+    if a*a == b:
+        print(str(b) + " je druhou mocninou " + str(a))
+    elif b*b == a:
+        print(str(a) + " je druhou mocninou " + str(b))
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if a ** 2 == b:
+    	print(str(b) + " je druhou mocninou " + str(a))
+    elif b ** 2 == a:
+        print(str(a) + " je druhou mocninou " + str(b))
+    else:
+        print("bagr")
+
+def power_test(a, b):
+    if (a*a) == b:
+        print(str(b) + " je druhou mocninou " + str(a))
+    elif (b*b) == a:
+        print(str(a) + " je druhou mocninou " + str(b))
+    else:
+        print("bagr")
+
+def power_test(a, b):
+	if a**2 == b:
+		print(str(b) + " je druhou mocninou " + str(a))
+	elif b**2 == a:
+		print(str(a) + " je druhou mocninou " + str(b))
+	else:
+		print("bagr")

@@ -1,0 +1,58 @@
+def big_chessboard(n, m):
+    for k in range(n):
+        if k%2 == 1:
+             for j in range(m):
+                for i in range(n):
+                    if i%2 == 1:
+                        print("#"*m, end="")
+                    else:
+                        print("."*m, end="")
+                print()
+        else:
+            for j in range(m):
+                for i in range(n):
+                    if i%2 == 0:
+                         print("#"*m, end="")
+                    else:
+                         print("."*m, end="")
+                print()
+        
+
+def big_chessboard(n, m):
+    for i in range(n):
+        if i % 2 == 0:
+            for i in range(m):
+                for i in range(n):
+                    if i % 2 == 0:
+                        print("#"*m, end="")
+                    else:
+                        print("."*m, end="")
+
+                print()
+        else:
+            for j in range(m):
+                for j in range(n):
+                    if j % 2 == 0:
+                        print("."*m, end="")
+                    else:
+                        print("#"*m, end="")
+                print()
+def big_chessboard(n, m):
+    for i in range(n):
+        if i % 2 == 0:
+            for jj in range(m):
+                for j in range(n):
+                    if j % 2 == 0:
+                        print('#'*m,end ='')
+                    else:
+                        print('.'*m,end ='')
+                print()
+
+        else:
+            for aa in range(m):
+                for a in range(n):
+                    if a % 2 == 0:
+                        print('.'*m,end ='')
+                    else:
+                        print('#'*m,end ='')
+                print()

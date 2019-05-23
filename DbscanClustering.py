@@ -1,8 +1,11 @@
+import csv
 import random
 import codecs
 
 import math
+import matplotlib
 import matplotlib.pyplot as plt
+from matplotlib.pyplot import figure
 from sklearn.decomposition import PCA
 import numpy as np
 
@@ -278,14 +281,40 @@ def plot_data(all_groups, solution_clusters):
 
 
     # Show graphic
+    y = []
+    for i in range(0, 74):
+        y.append(i)
+    yl = []
+
+    names = load_task_names()
+
+    for i in range(1, 75):
+        yl.append(names[str(i)] + ' - ' + str(i))
+
+    plt.yticks(y, yl)
+    fig = matplotlib.pyplot.gcf()
+    fig.set_size_inches(6, 20)
     plt.show()
+
+
+def load_task_names():
+    names_by_id = {}
+    with open('./res/originalData/umimeprogramovatcz-ipython_item.csv', mode="r", encoding="utf-8") as input_file:
+        reader = csv.reader((line.replace('\0', '') for line in input_file), delimiter=';', quoting=csv.QUOTE_NONE)
+
+        for line in reader:
+            names_by_id[line[0]] = line[1]
+            print(line[1])
+            print(line[0])
+
+    return names_by_id
 
 
 if __name__ == '__main__':
     values = {}
     solution_clusters = []
 
-    for i in range(1, 41):
+    for i in range(1, 75):
         try:
             clusters = analyze_file(str(i) + '.pkl', str(i))
             print("----------")

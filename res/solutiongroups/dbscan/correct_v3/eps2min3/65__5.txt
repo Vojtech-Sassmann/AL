@@ -1,0 +1,27 @@
+def print_ticket(age):
+    if age < 6:
+        cena = 0
+    elif 5 < age < 18 or age > 70:
+        cena = 50
+    else:
+        cena = 100
+    print("Cena:", cena)
+
+def print_ticket(age):
+    if age < 6:
+        price = 0
+    elif age < 18 or age >70:
+        price = 50
+    else:
+        price = 100
+    print("Cena:", price)
+
+def print_ticket(age):
+    if age < 6:
+        price = 0
+    elif age < 18 or age > 70:
+        price = 50
+    else:
+        price = 100
+    print("Cena:", price)
+

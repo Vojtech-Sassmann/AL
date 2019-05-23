@@ -1,0 +1,37 @@
+def icecream_test(money, price):
+    t=True
+    if money < price:
+        t=False
+    return t 
+
+def icecream_test(money, price):
+    t=True
+    if money < price:
+        t=False
+    return t
+
+def icecream_test(money, price):
+    t=True
+    if money < price:
+         t=False
+    return t
+
+def icecream_test(money, price):
+    t=True
+    if money < price:
+        t=False
+    return t
+
+def icecream_test(money, price):
+    t=True
+    if money < price:
+        t=False
+       
+    return t
+
+def icecream_test(money, price):
+    t=True
+    if money < price:
+        t=False
+    return t
+

@@ -1,0 +1,366 @@
+def check_sudoku(row):
+    missing = 0
+    for i in range(1,10):
+        try:
+            index = row.index(i)
+        except ValueError:
+            missing += 1
+        else:
+            row.pop(index)
+    if(len(row) == 0 and missing == 0):
+        return True
+    else:
+        return False
+def check_sudoku(row):
+    check_row=[1, 2, 3, 4, 5, 6, 7, 8, 9]
+    if check_row!=sorted(row):
+        return False
+    else: return True
+
+
+def check_sudoku(row):
+    a = 0
+    b = 0
+    c = 0
+    d = 0
+    e = 0
+    f = 0
+    g = 0
+    h = 0
+    k = 0
+    for i in range(len(row)):
+            if row[i]==1:
+                a = a + 1                
+            elif row[i]==2:
+                b = b + 1
+            elif row[i]==3:
+                c = c + 1
+            elif row[i]==4:
+                d = d + 1
+            elif row[i]==5:
+                f = f + 1
+            elif row[i]==6:
+                g = g + 1
+            elif row[i]==7:
+                h = h + 1
+            elif row[i]==8:
+                k = k + 1
+            elif row[i]==9:
+                e = e + 1
+            elif row[i]>9:
+                return False
+    #print(a,b,c,d,e,f,g,h,k)
+    if a == 1 and b == 1 and c == 1 and d == 1 and e == 1 and f == 1 and g == 1 and h == 1 and k == 1:
+        return True
+    else:
+        return False
+
+def check_sudoku(row):
+    sudoku = []
+    for i in range(len(row)):
+        if 0 < row[i] < 10 and row[i] not in sudoku:
+            sudoku.append(row[i])
+    if len(sudoku) == 9 and len(sudoku) == len(row):
+        return True
+    else:
+        return False
+
+def check_sudoku(row):
+    if len(row)!=9:
+    	return False
+    for i in range(1,10):
+        if not i in row:
+            return False
+    return True
+
+def check_sudoku(row):
+    sudoku = []
+    for n in row:
+        if n < 1 or n > 9:
+            return False
+        if n in range(1, 10) and n not in sudoku:
+            sudoku.append(n)
+    return len(sudoku) == 9
+    
+
+
+def check_sudoku(row):
+    empty = []
+    for i in range(1, 10):
+        if i in row:
+            row.remove(i)
+        else:
+            return False
+    if row == empty:
+        return True
+    else:
+        return False
+    
+def check_sudoku(row):
+    if len(row) != 9:
+        return False
+    for number in row:
+        if not 1 <= number <= 9 or row.count(number) != 1:
+            return False
+    return True
+
+def check_sudoku(row):
+    if len(row) != 9:
+    	return False
+    row = sorted(row)
+    for i in range(1, 10):
+        if i != row[i-1]:
+            return False
+    return True
+
+def check_sudoku(row):
+    if len(row) != 9:
+        return False
+    for i in range(len(row)):
+        if row[i] > 9:
+            return False
+        elif row.count(row[i]) > 1:
+            return False
+    return True
+
+def check_sudoku(row):
+    alist = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    return alist == sorted(row)
+    
+
+
+def check_sudoku(row):
+    c=0
+    for a in row:
+        
+        for b in row:
+            if b ==a:
+                c+=1
+    if c!=9 or len(row)!=9:
+        return False
+    else:
+        return True
+    
+def check_sudoku(row):
+    sorted_row = sorted(row)
+    return sorted_row == [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+def check_sudoku(row):
+    ctrl = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    row = sorted(row)
+    if len(row) != 9:
+        return False
+    for i in range(0,9):
+        if row[i] != ctrl[i] and len(row) == 9:
+            return False    
+    return True
+    
+
+def check_sudoku(row):
+    if len(row) != 9:
+        return False
+    for i in range(1, 10):
+        if i not in row:
+            return False
+    return True
+
+def check_sudoku(row):
+    alist = []
+    if len(row) == 9:
+        for i in row:
+            if i not in alist:
+                alist.append(i)
+                if len(alist) == 9:
+                    return True
+            else:
+                return False
+
+    else:
+        return False
+
+def check_sudoku(row):
+    alist = []
+    if len(row) == 9:
+        for i in row:
+            if i not in alist:
+                alist.append(i)
+                if len(alist) == 9:
+                    return True
+            else:
+                return False
+    else:
+        return False
+def check_sudoku(row):
+    new = []
+    for i in range(1, 10):
+    	new.append(i)
+    t = False
+    if len(set(row)) == len(row):
+        if list(set(row)) == new:
+            t = True
+
+    return t
+
+def check_sudoku(row):
+    new = []
+    if max(row) > 9 or len(row) != 9:
+        return False
+    for number in row:
+        if number not in new:
+            new.append(number)
+        else:
+            return False
+    return True
+
+def check_sudoku(row):
+    x = []
+    for i in range(len(row)):
+        if row[i] not in x:
+            x.append(row[i])
+        else:
+            return False
+    for i in range(1, 9):
+        if i not in x:
+            return False
+    return True
+            
+def check_sudoku(row):
+    l = []
+    if len(row) != 9:
+    	return False
+    else:
+        for x in row:
+            if x not in l: 
+                l.append(x)
+        if len(l) == len(row):
+            return True
+        else:
+            return False
+def check_sudoku(row):
+    alist = []
+    for i in row:
+        if i not in alist:
+            alist.append(i)
+    if len(alist) == 9:
+        return True
+    else:
+        return False
+
+def check_sudoku(row):
+    t = True
+    if (len(row) == 9):
+        r = 1
+        row.sort()
+        for i in row:
+            if i != r:
+            	t = False
+            r += 1
+    else:
+        t = False
+            
+        
+    return t
+
+def check_sudoku(row):
+    testrow = [1,2,3,4,5,6,7,8,9]
+    subject = sorted(row)
+    if subject == testrow:
+    	return True
+    else:
+        return False
+
+
+def check_sudoku(row):
+    row2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    row3 = []
+    for i in range(1, len(row)+1):
+        for j in range(len(row)):
+            if i == row[j]:
+                row3.append(row[j])
+
+    if row3 == row2:
+        return True
+    else:
+        return False
+
+def check_sudoku(row):
+    row.sort()
+    sorted_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    return row == sorted_list
+        
+        
+
+def check_sudoku(row):
+	if len(row)==9:
+		for i in range(1,10):
+			if i not in row:
+				return False
+		return True
+	return False
+
+def check_sudoku(row):
+    sudoku = [1,2,3,4,5,6,7,8,9]
+    if len(row) != 9:
+        return(False)
+    x = 0
+    for i in range(0,9):
+        if row[i] not in sudoku:
+            x = x + 1
+        if sudoku[i] not in row:
+            x = x + 1
+    if x == 0:
+        return(True)
+    else:
+        return(False)
+def check_sudoku(row):
+    sudoku = [1,2,3,4,5,6,7,8,9]
+    if len(row) != 9:
+        return(False)
+    x = 0
+    for i in range(0,9):
+        if row[i] not in sudoku or sudoku[i] not in row:
+            x = x + 1
+    if x == 0:
+        return(True)
+    else:
+        return(False)
+
+def check_sudoku(row):
+    row.sort()
+
+    pomocny = [1,2,3,4,5,6,7,8,9]
+    if(row == pomocny):
+        return True
+    else:
+        return False
+
+def check_sudoku(row):
+    tmp = []
+    if len(row) != 9:
+        return False
+    else:
+        for i in range(len(row)):
+            if row[i] not in tmp:
+                tmp.append(row[i])
+            else:
+                return False
+    return True
+
+def check_sudoku(row):
+    seznam = []
+    if len(row) < 9:
+        return False
+    for i in range(len(row)):
+        if row[i] in seznam or row[i] not in [1,2,3,4,5,6,7,8,9]:
+            return False
+        else:
+            seznam.append(row[i])
+    return True
+
+def check_sudoku(row):
+    if len(row) != 9: return False
+    for i in range(1, 10):
+        if row.count(i) != 1:
+            return False
+    return True
+

@@ -1,0 +1,43 @@
+def big_even(a, b):
+    return (a>b and a%2==0) or (ba and b%2==0)
+
+def big_even(a, b):
+    return (a>b and a%2==0) or (ba and b%2==0)
+
+def big_even(a, b):
+    return (((ab) and ((a%2)==0)) or ((b>a) and ((b%2)==0)))
+
+def big_even(a, b):
+    return (a>b and a%2==0) or (a<b and b % 2 == 0)
+
+def big_even(a, b):
+    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)
+
+def big_even(a, b):
+    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)
+
+def big_even(a, b):
+    return ba and b%2 ==0 or b<a and a%2 == 0
+
+def big_even(a, b):
+    return (a>b and a%2==0)or(b>a and b%2==0)
+
+def big_even(a, b):
+    return ab and a%2==0 or a<b and b%2==0
+
+
+
+def big_even(a, b):
+    return (a>b and a%2==0) or (ba and b%2==0)
+def big_even(a, b):
+    return (a>b and a%2==0) or (ba and b%2==0)
+
+def big_even(a, b):
+    return (a>b and a%2==0) or (ba and b%2==0)
+   
+
+def big_even(a, b):
+        return a > b and a%2==0 or b > a and b%2==0
+def big_even(a, b):
+    return (a > b and a % 2 == 0) or (b > a and b % 2 == 0)
+

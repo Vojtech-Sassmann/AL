@@ -1,0 +1,84 @@
+def big_even(a, b):
+    if(max(a,b)%2==0):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a, b) % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if max(a,b)%2==0:
+        return True
+    return False
+
+def big_even(a, b):
+    if max(a,b) % 2 == 0:
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a, b) %2 == 0:
+        return True
+    else:
+        return False
+def big_even(a, b):
+    if max(a, b)%2==0:
+    	return True
+    else:
+        return False
+	
+def big_even(a, b):
+    if max(a, b)%2==0:
+    	return True
+    else:
+        return False
+    
+
+def big_even(a, b):
+    if max(a,b)%2==0:
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a,b)%2==0:
+        return True
+    else:
+        return False
+def big_even(a, b):
+    if max(a,b)%2==0:
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a,b)%2==0:
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a, b) % 2 == 0:
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if max(a, b) % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if max(a,b) % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if max(a, b) % 2 == 0:
+        return True
+    return False
+

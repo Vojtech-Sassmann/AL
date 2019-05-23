@@ -1,0 +1,44 @@
+def sum_dif(a, b):
+    plus = a + b
+    minus = a - b
+    print("%d + %d = %d" % (a, b, plus))
+    print("%d - %d = %d" % (a, b, minus))
+def sum_dif(a, b):
+    print("{a} + {b} = {res}".format(a=a, b=b, res=a+b))
+    print("{a} - {b} = {res}".format(a=a, b=b, res=a-b))
+
+def sum_dif(a, b):
+    print(a,end=" + ")
+    print(b,end=" = ")
+    print(a+b)
+    print(a,end=" - ")
+    print(b,end=" = ")
+    print(a-b)
+
+def sum_dif(a, b):
+    print("{} + {} = {}".format(a,b,(a+b)))
+    print("{} - {} = {}".format(a,b,(a-b)))     
+
+def sum_dif(a, b):
+    print(a, "+", b, "=", sum((int(a),int(b))))
+    print(a, "-", b, "=", int(a)-int(b))
+    
+
+def sum_dif(a, b):
+    print(a,"+", b,"=",a+b), print(a, "-",b,"=",a-b)
+def sum_dif(a, b):
+    print('{} + {} = {}'.format(a, b, a+b))
+    print('{} - {} = {}'.format(a, b, a-b))
+
+def sum_dif(a, b):
+    print(str(a),"+", str(b), "=", str(a+b))
+    print(str(a),"-", str(b), "=", str(a-b))
+
+def sum_dif(a, b):
+    print(str(a),'+',str(b),'=',int(a+b))
+    print(str(a),'-',str(b),'=',int(a-b))
+
+def sum_dif(a, b):
+    print("%s + %s = %s" %(a, b, a+b))
+    print("%s - %s = %s" %(a, b, a-b))
+

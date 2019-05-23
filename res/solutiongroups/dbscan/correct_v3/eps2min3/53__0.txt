@@ -1,0 +1,50 @@
+def middle_number(a, b, c):
+    list = [a,b,c]
+    list.sort()
+    print(list[1])
+
+def middle_number(a, b, c):
+    arr=[a,b,c]
+    arr.sort()
+    print(arr[1])
+
+def middle_number(a, b, c):
+    list=[a, b, c]
+    list.sort()
+    print(list[1])
+
+def middle_number(a, b, c):
+    list = [a,b,c]
+    list.sort()
+    print(list[1])
+
+def middle_number(a, b, c):
+    nums = [a, b, c]
+    nums.sort()
+    print(nums[1])
+
+def middle_number(a, b, c):
+    x = [a,b,c]
+    x.sort()
+    print(x[1])
+
+def middle_number(a, b, c):
+    seznam = [a, b, c]
+    seznam.sort()
+    print(seznam[1])
+
+def middle_number(a, b, c):
+    l = [a, b, c]
+    l.sort()
+    print(l[1])
+
+def middle_number(a, b, c):
+    cisla = [a,b,c]
+    cisla.sort()
+    print (cisla [1])
+
+def middle_number(a, b, c):
+    numbers = [a, b, c]
+    numbers.sort()
+    print(numbers[1])
+

@@ -1,0 +1,57 @@
+def max_pair_sum(num_list):
+    a = 0
+    for i in range (len(num_list)-1):
+        b = num_list[i] + num_list[i+1]
+        if b > a:
+            a = b
+    return a
+
+def max_pair_sum(num_list):
+    max_sum = 0
+    for i in range(len(num_list) - 1):
+        temp = num_list[i] + num_list[i + 1]
+        if temp >= max_sum:
+            max_sum = temp
+    return max_sum
+
+def max_pair_sum(num_list):
+    tmp_max = 0
+    for i in range(len(num_list)-1):
+        total = num_list[i] + num_list[i+1]
+        if total > tmp_max:
+            tmp_max = total
+    return tmp_max
+
+def max_pair_sum(num_list):
+    curr_sum = 0
+    max_sum = 0
+    for i in range(len(num_list)-1):
+        curr_sum = num_list[i] + num_list[i+1]
+        if curr_sum > max_sum:
+            max_sum = curr_sum
+    return max_sum
+
+def max_pair_sum(num_list):
+    nej = 0
+    for i in range(len(num_list)-1):
+        v = num_list[i] + num_list[i + 1]
+        if v > nej:
+            nej = v
+    return nej
+
+def max_pair_sum(num_list):
+    new = 0
+    for i in range(len(num_list)-1):
+        sumn = num_list[i] + num_list[i+1]
+        if sumn > new:
+            new = sumn
+    return new
+
+def max_pair_sum(num_list):
+    n = 0
+    for i in range(len(num_list)-1):
+        s = num_list[i] + num_list[i + 1]
+        if s > n:
+            n = s
+    return n
+

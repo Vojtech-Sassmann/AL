@@ -1,0 +1,45 @@
+def powers(n):
+    m = n**2
+    l = n**3
+    o = n**4
+    print (n, "na druhou je", m)
+    print (n, "na treti je", l)
+    print (n, "na ctvrtou je", o)
+def powers(n):
+    m=n**2
+    k=n**3
+    l=n**4
+    print(n, "na druhou je",m)
+    print(n, "na treti je",k)
+    print(n, "na ctvrtou je",l)
+
+def powers(n):
+    druhou = n**2
+    treti = n**3
+    ctvrtou = n**4
+    print(n, "na druhou je", druhou)
+    print(n, "na treti je", treti)
+    print(n, "na ctvrtou je", ctvrtou)
+def powers(n):
+    n2=n**2
+    n3=n**3
+    n4=n**4
+    print(n, "na druhou je", n2)
+    print(n, "na treti je", n3)
+    print(n, "na ctvrtou je", n4)
+
+def powers(n):
+    n2=n**2
+    n3=n**3
+    n4=n**4
+    print(n,"na druhou je",n2)
+    print(n,"na treti je",n3)
+    print(n,"na ctvrtou je",n4)
+def powers(n):
+    nadruhou = n ** 2
+    natreti = n ** 3
+    nactvrtou = n ** 4
+    print(n, "na druhou je", nadruhou)
+    print(n, "na treti je", natreti)
+    print(n, "na ctvrtou je", nactvrtou)
+

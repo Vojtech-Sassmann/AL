@@ -1,0 +1,20 @@
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    elif money < price:
+    	return False
+
+def icecream_test(money, price):
+    if money >= price:
+    	return True
+    elif money < price:
+        return False
+    
+        
+
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    elif money<price:
+        return False
+

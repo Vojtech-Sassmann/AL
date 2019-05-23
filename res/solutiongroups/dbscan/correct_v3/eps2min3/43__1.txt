@@ -1,0 +1,392 @@
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")            
+    print()
+    print(end=" ")
+    for i in range(1, n+1):	
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for k in range(1, n+1):
+        if k % 2 == 0:
+            print(k,end=" ")
+	
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print(" ")
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n):
+        if i % 2 == 1:
+            print(i+1, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(' ',end='')
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(2, n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()  
+    print(" ",end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i,end=" ")
+   
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print (" ", end="")  
+    for j in range(1, n+1):
+        if j % 2 == 0:
+            print(j, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print("", end=" ")
+    for i in range(2, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end ="")
+    for j in range(1, n+1):
+        if j % 2 == 0:
+            print(j, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for j in range(2,n+1):
+        if j % 2 == 0:
+            print(j, end=" ")
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 != 0:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(2, n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print() 
+    print(' ',end='')
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")         
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 != 0:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(2, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for j in range(1, n+1):
+        if j % 2 == 0:
+            print(j, end=" ")
+  
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end='')
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1,n+1):
+        if i%2==0:
+            print (i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(' ', end='')
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=' ')
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end = " ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+	
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(1, n+1):
+        if i % 2 != 1:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()   
+    print(end=" ")
+    for i in range(2, n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    for i in range(2, n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print ()
+    print (end=" ")
+    for i in range (1,n+1):
+        if i % 2 == 0:
+            print (i,end=" ")
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()  
+    print(end=" ")
+    for i in range(2,n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ",end="")
+    for x in range(1, n+1):
+        if x % 2 == 0:
+            print(x, end=" ")
+    print()
+
+def odd_even(n):
+    for i in range(1, n + 1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(end=" ")
+    
+    for i in range(2, n + 1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    
+
+def odd_even(n):
+    for i in range(1, n+1):
+        if i % 2 == 1:
+            print(i, end=" ")
+    print()
+    print(" ", end="")
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            print(i, end=" ")
+    print()
+

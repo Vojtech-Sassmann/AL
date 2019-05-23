@@ -1,0 +1,48 @@
+def nice(a, b):
+    return (a % 2 == 0) != (b % 2 == 0)
+
+def nice(a, b):
+    return (a+b)%2==1
+
+def nice(a, b):
+    return (a ^ b)&1==1
+
+def nice(a, b):
+    return a % 2 != b % 2
+
+def nice(a, b):
+    return (a + b) % 2 == 1
+
+def nice(a, b):
+    return (a%2==0) != (b%2==0)
+
+def nice(a, b):
+    return (a%2==0)!=(b%2==0)
+
+def nice(a, b):
+    return (a%2==0) != (b%2==0)
+
+def nice(a, b):
+    return (a%2==0)!=(b%2==0)
+
+def nice(a, b):
+    return (a%2==0) != (b%2==0)
+
+
+
+def nice(a, b):
+    return (a%2==0)!=(b%2==0)
+
+def nice(a, b):
+    return (a%2==0) != (b%2==0)
+
+def nice(a, b):
+    return (a%2==0) != (b%2==0)
+
+
+def nice(a, b):
+    return bool((a+b) % 2)
+
+def nice(a, b):
+    return (a % 2 == 0) != (b % 2 == 0)
+

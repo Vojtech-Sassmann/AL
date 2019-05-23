@@ -1,0 +1,34 @@
+def middle_number(a, b, c):
+    temp=[]
+    temp.append(a)
+    temp.append(b)
+    temp.append(c)
+    temp.sort()
+    
+    print(temp[1])
+
+def middle_number(a, b, c):
+    n=[]
+    n.append(a)
+    n.append(b)
+    n.append(c)
+    n.sort()
+    print(n[1])
+
+def middle_number(a, b, c):
+    seznam = []
+    seznam.append(a)
+    seznam.append(b)
+    seznam.append(c)
+    ussez = sorted(seznam)
+    print(ussez[1])
+   
+
+def middle_number(a, b, c):
+    lon = []
+    lon.append(a)
+    lon.append(b)
+    lon.append(c)
+    lon.sort()
+    print(lon[1])
+

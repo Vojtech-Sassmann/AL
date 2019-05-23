@@ -1,0 +1,17 @@
+def print_products(n):
+    for i in range (n):
+        if n%(i+1)==0:
+        	print (n,"=",i+1,"*",n//(i+1))
+   
+
+def print_products(n):
+    for i in range(n):
+        if n%(i+1)==0:
+            print(n,'=',i+1,'*',n//(i+1))
+
+
+def print_products(n):
+    for i in range(n):
+        if n%(i+1) == 0:
+            print(n,"=",i+1,"*",int(n/(i+1)))
+    

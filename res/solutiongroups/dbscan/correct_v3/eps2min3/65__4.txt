@@ -1,0 +1,23 @@
+def print_ticket(age):
+	if (6<age<18)or(age>70):
+		print("Cena:", 50)
+	elif (age<6):
+		print("Cena:", 0)
+	else:
+		print("Cena:", 100)
+def print_ticket(age):
+    if 6<age<18 or age>=70:
+    	print("Cena:", 50)
+    elif age<6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 100)
+
+def print_ticket(age):
+    if 6<=age<18 or age>70:
+        print("Cena:", 50)    
+    elif age<6:
+        print("Cena:",0)
+    else:
+    	print("Cena:", 100)
+

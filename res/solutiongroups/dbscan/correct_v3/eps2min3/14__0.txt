@@ -1,0 +1,12 @@
+def palindrom(text):
+    return (text==text[::-1])
+
+def palindrom(text):
+	return text == text[::-1]
+
+def palindrom(text):
+    return text[::-1] == text
+
+def palindrom(text):
+    return text == text[::-1]
+

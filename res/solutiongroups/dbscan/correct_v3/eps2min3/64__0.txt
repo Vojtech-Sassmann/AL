@@ -1,0 +1,15 @@
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or (tails >= 3 and tears >=3)
+
+def magic_test(tears, horns, tails):
+    return (tears>=5 and horns>=1) or (tears>=3 and tails>=3) 
+
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or( tears >= 3 and tails >=3)
+
+def magic_test(tears, horns, tails):
+    return (tears>=5 and horns>=1) or (tears>=3 and tails>=3)
+
+def magic_test(tears, horns, tails):
+    return (tears >= 5 and horns >=1) or (tears >=3 and tails >=3)
+

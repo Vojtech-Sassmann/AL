@@ -1,0 +1,161 @@
+def digit_sum(n):
+    result = 0
+    while n > 0:
+        result += n % 10
+        n = n // 10
+    return result
+
+def digit_sum(n):
+    result = 0
+    while n0:
+        result += n % 10
+        n = n // 10
+    return result
+
+def digit_sum(n):
+    x=0
+    while n:
+        x+=n%10
+        n//=10
+    return x
+
+def digit_sum(n):
+	result=0
+	while n>0:
+		result+=n%10
+		n=n//10
+	return result
+def digit_sum(n):
+	result=0
+	while n > 0:
+		result += n % 10
+		n = n // 10
+	return result
+
+
+def digit_sum(n):
+    result = 0
+    while n > 0:
+        result += n % 10
+        n = n // 10
+    return result
+
+def digit_sum(n):
+    sum = 0
+    while n != 0:
+        sum += n % 10
+        n = n // 10
+    return sum
+def digit_sum(n):
+    s=0
+    while n>0:
+        s+=n%10
+        n//=10
+    return s
+
+def digit_sum(n):
+    plus = 0
+    while n>0:
+        plus = plus + ( n % 10)  
+        n = n // 10
+    return (plus)
+
+def digit_sum(n):
+    result = 0
+    while n > 0:
+        result += n % 10
+        n = n // 10
+    return result
+def digit_sum(n):
+    s = 0
+    while n > 9:
+        s = s + (n % 10)
+        n = n //10
+        
+    return s+n
+
+def digit_sum(n):
+    sum = 0
+    while n > 0:
+        sum = sum + (n % 10)
+        n = n // 10
+    return sum
+
+def digit_sum(n):
+    s = 0
+    while n:
+        s += n % 10
+        n //= 10
+    return s
+
+def digit_sum(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n = n // 10
+    return sum
+
+def digit_sum(n):
+    cif_soucet=0
+    while n>0:
+        cif_soucet = cif_soucet + n%10 #prictu posledni cislici
+        n=n//10
+    return cif_soucet
+
+def digit_sum(n):
+    cif_soucet=0
+    while n>0:
+        cif_soucet=cif_soucet + n%10 
+        n=n//10
+    return cif_soucet
+
+def digit_sum(n):
+    cif_soucet=0
+    while n>0:
+        cif_soucet=cif_soucet+n%10 # prictu poslední číslici
+        n=n//10
+    return cif_soucet
+
+def digit_sum(n):
+	cif_soucet=0
+	while n>0:
+		cif_soucet = cif_soucet + n%10 #posledni cislice
+		n=n//10
+	return cif_soucet
+def digit_sum(n):
+    cif_soucet=0
+    while n>0:
+        cif_soucet = cif_soucet + n%10 #prictu posledni cislici
+        n=n//10
+    return cif_soucet
+
+def digit_sum(n):
+    cif_soucet=0
+    while n>0:
+        cif_soucet=cif_soucet+n%10 #prictu posledni cislici
+        n=n//10
+    return cif_soucet
+
+def digit_sum(n):
+	cif_soucet=0
+	while n>0:
+		cif_soucet=cif_soucet + n%10
+		n=n//10
+	return cif_soucet
+def digit_sum(n):
+	c=0
+	while n!=0:
+		c+=n%10
+		n=n//10
+        
+	return c        
+
+
+def digit_sum(n):    
+    s = 0
+    while n > 0:
+        s += n % 10
+        n = n // 10
+    return s
+
+

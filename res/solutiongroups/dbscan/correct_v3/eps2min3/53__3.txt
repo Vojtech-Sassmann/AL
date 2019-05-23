@@ -1,0 +1,20 @@
+def middle_number(a, b, c):
+    if a>bc or c>ba:
+        print(b)
+    elif b>ac or c>ab:
+        print(a)
+    else:
+        print(c)
+def middle_number(a, b, c):
+    if(a>bc) or (cb>a):
+    	print(b)
+    elif(b>ac) or (ca>b):
+    	print(a)
+    else:
+        print(c)
+def middle_number(a, b, c):
+    if a>bc or c>ba: print(b)
+    elif b>a>c or c>a>b: print(a)
+    else: print(c)
+    
+

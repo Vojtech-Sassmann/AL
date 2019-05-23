@@ -1,0 +1,19 @@
+def area_perimeter(a):
+    S = a*a
+    O = a+a+a+a
+    print("obsah", S)
+    print("obvod", O)
+    
+
+def area_perimeter(a):
+    obsah = a * a
+    obvod = a + a + a + a
+    print("obsah",obsah)
+    print("obvod",obvod)
+def area_perimeter(a):
+    obsah=a*a
+    obvod=a+a+a+a
+    print("obsah", obsah)
+    print("obvod", obvod)
+    
+

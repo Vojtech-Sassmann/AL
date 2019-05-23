@@ -1,0 +1,28 @@
+def compare(a, b):
+    if a==b:
+        print("stejna")
+    else:
+        print(max(a,b),"je vetsi nez",min(a,b))
+def compare(a, b):
+    if a==b:
+        print("stejna")
+    else:
+        print(max(a,b),"je vetsi nez",min(a,b))
+def compare(a, b):
+    if a==b:
+    	print("stejna")
+    else:
+        print(max(a,b),"je vetsi nez",min(a,b))
+
+def compare(a, b):
+    if a - b == 0:
+        print("stejna")
+    else:
+        print(max(a, b), "je vetsi nez", min(a, b))
+
+def compare(a, b):
+    if a == b:
+        print("stejna")
+    else:
+    	print(max(a, b), "je vetsi nez", min(a, b))
+

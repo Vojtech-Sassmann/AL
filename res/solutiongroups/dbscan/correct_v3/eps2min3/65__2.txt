@@ -1,0 +1,75 @@
+def print_ticket(age):
+    if age>=18 and age<70:
+    	print("Cena:", 100)
+    elif age<6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 50)
+
+def print_ticket(age):
+    if(age>=18 and age<=70):
+    	print("Cena: 100")
+    elif(age<6):    
+    	print("Cena: 0")
+    else:
+    	print("Cena: 50")
+
+def print_ticket(age):
+    if age > 18 and age < 70:
+    	print("Cena:", 100)
+    elif age < 6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 50)
+
+def print_ticket(age):
+    if age > 18 and age < 70:
+        print("Cena:", 100)
+    elif age < 6:
+        print ("Cena:",0)
+    else:
+        print ("Cena:",50)
+    
+
+def print_ticket(age):
+    if age > 18 and age < 70:
+    	print("Cena:", 100)
+    elif age < 6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 50)
+
+def print_ticket(age):
+    if age>=18 and age<=70:
+        print("Cena: 100")
+    elif age<6:
+        print("Cena: 0")
+    else:
+        print("Cena: 50")
+def print_ticket(age):
+    if age>=18 and age<=70:
+        print("Cena:",100)
+    elif age<6:
+        print("Cena:",0)
+    else:
+        print("Cena:",50)
+   
+           
+
+def print_ticket(age):
+    if age >= 18 and age <= 70:
+        print("Cena:", 100)
+    elif age <= 6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 50)
+    
+
+def print_ticket(age):
+    if age > 18 and age < 70:
+        print("Cena:", 100)
+    elif age <= 6:
+        print("Cena:", 0)
+    else:
+        print("Cena:", 50)
+

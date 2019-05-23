@@ -1,0 +1,68 @@
+def icecream_test(money, price):
+    return True if money >= price else False
+def icecream_test(money, price):
+    return (money > price or money== price)
+
+def icecream_test(money, price):
+    if (money>=price):
+    	return True
+    if not (money>price): 
+        return False
+	
+
+def icecream_test(money, price):
+    if money<price:
+        print("False")
+    else:
+        print("True")
+    return print(end="")
+
+def icecream_test(money, price):
+    while price<=money:
+    	return True
+    while money<=price:
+        return False
+
+def icecream_test(money, price):
+    if money > price:
+        return True
+    if money == price:
+        return True
+    return False
+def icecream_test(money, price):
+    if money>=price:
+        return True
+    if money<=price:
+        return False
+
+x = bool
+def icecream_test(money, price):
+    if money >= price:
+        x = True 
+    else:
+        x = False
+    return x
+print (x)
+        
+    
+        
+    
+    	
+
+def icecream_test(money, price):
+    if money > price : return True
+    if money < price : return False
+    if money is price : return True
+    
+    
+
+    
+
+def icecream_test(money, price):
+    if money >= price:
+        c = True
+ 
+    else:
+        c = False
+    return c
+

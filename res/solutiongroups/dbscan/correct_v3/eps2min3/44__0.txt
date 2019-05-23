@@ -1,0 +1,46 @@
+def make_fancy(text, n):
+    for i,a in enumerate(text):
+    	print(" "*i, (a+" ")*n)
+
+def make_fancy(text, n):
+	for i in range(len(text)):
+		print(i*" "+n*(text[i]+" "))
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        
+      print(" "*i + (text[i]+" ")*n)
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print(' ' * i + (text[i] +' ' )* n)
+            
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print(" "*i+(text[i]+" ")*n)
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print(i*" ", n*(text[i] + " "))
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+    	print(" "*i + (text[i] + " ")*n)
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print (" "*i, (text[i]+" ")*n)
+def make_fancy(text, n):
+	for i in range(len(text)):
+		print(i*" "+n*(text[i]+" "))
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print(' '*i + (text[i] + ' ')*n)
+    
+
+def make_fancy(text, n):
+    for i in range(len(text)):
+        print(" "*i + (text[i]+" ")*n)
+

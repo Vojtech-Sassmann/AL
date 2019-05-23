@@ -1,0 +1,40 @@
+def weeks(n):
+    z=(n*7)
+    x=(z*24)
+    print("Pocet dnu:", z)
+    print("Pocet hodin:", x)
+    print("Pocet minut:", x*60)
+	
+def weeks(n):
+    print("Pocet dnu: " + str(n*7))
+    print("Pocet hodin: " + str(n*7*24))
+    print("Pocet minut: " + str(n*7*24*60))
+
+def weeks(n):
+    dny = n*7
+    print("Pocet dnu:", dny)
+    hodin = n*7*24
+    print("Pocet hodin:", hodin)
+    minut = n*7*24*60
+    print("Pocet minut:", minut)
+
+def weeks(n):
+    print("Pocet dnu:", str(7*n))
+    print("Pocet hodin:", str(7*24*n))
+    print("Pocet minut:", str(7*24*60*n))
+def weeks(n):
+    print("Pocet dnu:", n*7)
+    n = n*7
+    print("Pocet hodin:", n*24)
+    n= n*24
+    print("Pocet minut:", n*60)
+
+def weeks(n):
+    print("Pocet dnu: {}".format(n*7))
+    print("Pocet hodin: {}".format(n*7*24))
+    print("Pocet minut: {}".format(n*7*24*60))
+
+def weeks(n):
+    print("Pocet dnu: " + str(n*7))
+    print("Pocet hodin: " + str((n*7)*24))
+    print("Pocet minut: " + str(((n*7)*24)*60))

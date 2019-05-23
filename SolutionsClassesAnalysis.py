@@ -207,7 +207,7 @@ DBSCAN_EPSILON = 1
 
 if __name__ == '__main__':
     start_time = time.time()
-    for i in range(7, 8):
+    for i in range(67, 76):
         try:
             analyze_file(str(i) + '.txt', similarity_threshold)
         except:

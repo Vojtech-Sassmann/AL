@@ -1,0 +1,17 @@
+def sum_dif(a, b):
+    soucet = a + b
+    rozdil = a - b
+    print(str(a) + " + " + str(b) + " = " + str(soucet))
+    print(str(a) + " - " + str(b) + " = " + str(rozdil))
+
+def sum_dif(a, b):
+    sum = a + b
+    sub = a - b
+    print(str(a) + " + " + str(b) + " = " + str(sum))
+    print(str(a) + " - " + str(b) + " = " + str(sub))
+
+def sum_dif(a, b):
+    v1 =(a + b)
+    v2 =(a-b)
+    print(str(a)+" + "+str(b)+" = "+str(v1))
+    print(str(a)+" - "+str(b)+" = "+str(v2))

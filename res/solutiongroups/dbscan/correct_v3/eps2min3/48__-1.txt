@@ -1,0 +1,12 @@
+def chocolate(rows, columns, x):
+    left=int(rows)*int(columns)-int(x)
+    print("Zbytek:",left)
+
+def chocolate(rows, columns, x):
+    print("Zbytek:",end=" ")
+    print(rows*columns-x)
+
+def chocolate(rows, columns, x):
+    if ((rows * columns - x) == 0): print("Já to nebyl")
+    if ((rows * columns - x) > 0) : print("Zbytek:",rows * columns - x)
+

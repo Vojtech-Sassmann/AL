@@ -1,0 +1,17 @@
+def frame(text, symbol):
+    delka = len(text)+2
+    print(delka * symbol)
+    print(symbol + text +symbol)
+    print(delka * symbol)
+
+
+def frame(text, symbol):
+    x = len(text) + 2
+    print(symbol*x)
+    print(symbol + text + symbol)
+    print(symbol*x)
+def frame(text, symbol):
+    x=len(text)+2
+    print(symbol*x)
+    print(symbol+text+symbol)
+    print(symbol*x)

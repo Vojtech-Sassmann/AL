@@ -1,0 +1,44 @@
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <=2:
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <= 2:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if (a<=2 or b<=2 or c<=2):
+        return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <= 2:
+    	return True
+    else:
+        return False
+
+def happy(a, b, c):
+    if (a<=2) or (b<=2) or (c<=2):  
+            return True
+    else: return False
+def happy(a, b, c):
+    if ((a<=2) or (b<=2) or (c<=2)):
+                  return True
+    else: return False
+
+def happy(a, b, c):
+    if a <= 2 or b <= 2 or c <= 2:
+    	return True
+    else:
+        return False
+def happy(a, b, c):
+    if ((a <= 2) or (b <= 2) or (c <= 2)):
+        return True
+    else:
+        return False
+

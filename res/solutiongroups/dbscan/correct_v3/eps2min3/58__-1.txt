@@ -1,0 +1,49 @@
+def hej_rup(n):
+    k=1
+    for i in range (n):
+    	print("hej")
+    	for j in range (k):
+        	print ("rup")
+
+def hej_rup(n):
+    for i in range(n):
+        print("hej",sep='')
+        print("rup",sep='')
+
+def hej_rup(n):
+    for _ in range(n):
+    	print("hej\rrup") 
+def hej_rup(n):
+    while n != 0:
+        print("hej")
+        print("rup")
+        n -= 1
+def hej_rup(n):
+    l=["rup","hej"]
+    for x in range(1,2*n+1):
+        print(l[x%2])
+        
+
+def hej_rup(n):
+    a = ["hej", "rup"]
+    for p in range(n):
+        for i in a:
+            print(i)
+        
+        
+
+def hej_rup(n):
+    for i in range(n): print("hej"), print("rup")
+   
+def hej_rup(n):
+    a = ["hej", "rup"] * n
+    for i in a:
+    	print(i)
+    
+        
+
+def hej_rup(n):
+    while(n>0):
+        n = n - 1
+        print("hej")
+        print("rup")

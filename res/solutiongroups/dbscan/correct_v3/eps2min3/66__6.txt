@@ -1,0 +1,72 @@
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    elif (symbol1 == "K" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "P") or (symbol1 == "P" and symbol2 == "K"):
+        print(symbol1)
+    else:
+        print(symbol2)
+def decide(symbol1, symbol2):
+    if (symbol1 == symbol2):
+    	print("Remiza")
+    elif ((symbol1 == 'K' and symbol2 == 'N') or (symbol1 == 'N' and symbol2 == 'P') or (symbol1 == 'P' and symbol2 == 'K')):
+    	print(symbol1)
+    else:
+    	print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    elif (symbol1 == "K" and symbol2 == "N") or (symbol1 == "N" and symbol2 == "P") or (symbol1 == "P" and symbol2 == "K"):
+        print(symbol1)
+    else:
+        print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+    	print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "P" or symbol1 == "P" and symbol2 == "K":
+        print(symbol1)
+    else:
+        print(symbol2)
+
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2:
+        print("Remiza")
+    elif symbol1 == "K" and symbol2 == "N" or symbol1 == "N" and symbol2 == "P" or symbol1 == "P" and symbol2 == "K":
+        print(symbol1)
+    else:
+        print(symbol2)
+def decide(symbol1, symbol2):
+    if symbol1 == symbol2: print("Remiza")
+    elif ((symbol1 == "K") and (symbol2 == "N")) or ((symbol1 == "N") and (symbol2 == "P")) or ((symbol1 == "P") and (symbol2 == "K")): print(symbol1)
+    else: print(symbol2)
+        
+
+def decide(s1, s2):
+    if (s1==s2): print("Remiza")
+    elif (s1=="K" and s2=="N") or (s1=="N" and s2=="P") or (s1=="P" and s2=="K"): print(s1)
+    else: print(s2)
+
+def decide(s1, s2):
+    if (s1==s2): print("Remiza")
+    elif (s1=="K" and s2=="N") or (s1=="N" and s2=="P") or (s1=="P" and s2=="K"): print(s1)
+    else: print(s2)
+    
+    
+    
+    
+    
+
+def decide(s1, s2):
+    if (s1==s2): print("Remiza")
+    elif (s1=="K" and s2=="N") or (s1=="N" and s2=="P") or (s1=="P" and s2=="K"):
+        print(s1)
+    else: print(s2)
+def decide(s1, s2):
+    if (s1==s2) : print("Remiza")
+    elif (s1=="K" and s2=="N") or (s1=="P" and s2=="K") or (s1=="N" and s2=="P") : print(s1)
+    else : print(s2)    
+def decide(s1, s2):
+    if (s1==s2): print("Remiza")
+    elif (s1=="K" and s2=="N") or (s1=="N" and s2=="P") or (s1=="P" and s2=="K"): print (s1)
+    else: print (s2)

@@ -1,0 +1,263 @@
+def big_frame(word_list):
+    max_len = max([len(x) for x in word_list])
+    
+    print((max_len + 2) * "+")
+    for x in word_list:
+        print("+" + x + (max_len - len(x)) * " " + "+")
+    print((max_len + 2) * "+")
+
+def big_frame(word_list):
+    print ((longest_len(word_list)+2)*"+")
+    for word in word_list:
+        print("+"+word+(longest_len(word_list)-len(word))*" "+"+")
+    print((longest_len(word_list) + 2)*"+")
+
+
+def longest_len(list):
+    longest=0
+    for word in list:
+        if len(word)>longest:
+            longest=len(word)
+    return longest
+
+def big_frame(A):
+    n=0
+    for i in A:
+       n=max(n,len(i))
+    print("+"*(n+2))
+    for i in A:
+        print("+",end="")
+        print(i + (" "*(n-len(i))),end="")
+        print("+")
+    print("+"*(n+2))
+
+def big_frame(word_list):
+    width = longest_word(word_list)+2
+    for j in range(width):
+        print("+",end="")
+    print()
+    for i in range(len(word_list)):
+        gaps = longest_word(word_list) - len(word_list[i])
+        print("+" + word_list[i] + gaps*" " + "+")
+    for k in range(width):
+        print("+", end="")
+
+
+
+
+def longest_word(word_list):
+    longest = len(word_list[0])
+    for i in word_list:
+        if len(i) > longest:
+            longest = len(i)
+    return longest
+
+
+
+
+        
+def big_frame(word_list):
+    lenght = len(sorted(word_list, key=len)[-1])
+    print("+"*(lenght+2))
+    for item in word_list:
+        print("+", item, " "*(lenght-len(item)), "+", sep="")
+    print("+"*(lenght+2))
+
+def big_frame(word_list):
+    longest = 1
+    for i in range(0,len(word_list)):
+        if len(word_list[i]) > longest:
+            longest = len(word_list[i])
+
+    print("+" * (longest+2))
+    for i in range (0,len(word_list)):
+        print("+"+ word_list[i]+" " * (longest-len(word_list[i]))+ "+")
+    print("+" * (longest+2))
+def big_frame(word_list):
+    width = 0
+    for i in range(len(word_list)):
+        if len(word_list[i]) > width:
+            width = len(word_list[i])
+    for j in range(len(word_list)+2):
+        if j == 0 or j == len(word_list)+1:
+            print((width+2)*"+")
+        else:
+            print("+" + word_list[j-1] + (width-len(word_list[j-1]))*" " + "+")
+def big_frame(word_list):
+    sorted_words = sorted(word_list, key=len)
+    print("+" * (len(sorted_words[-1]) + 2))
+    for i in word_list:
+        print("+" + i + " " * (len(sorted_words[-1]) - len(i)) + "+")
+    print("+" * (len(sorted_words[-1]) + 2))
+
+def big_frame(word_list):
+    x = 0
+    for word in word_list:
+        if len(word) > x:
+            x = len(word)
+    print((x+2) * '+')
+    for word in word_list:
+        print('+'+ word + ((x - len(word))*' ') + '+')
+    print((x+2) * '+')
+
+def big_frame(word_list):
+    maximum = []
+    sth = []
+    if len(word_list) == 1:
+        maximum = word_list[0]
+    else:
+        for i in range(len(word_list)):
+            sth = word_list[i]
+            if len(sth) > len(maximum):
+                maximum = sth
+
+    print(("+" * len(maximum)) + "++")
+    for i in word_list:
+        print("+", i, (len(maximum) - len(i)) * " ", "+",sep="")
+
+    print(("+" * len(maximum)) + "++")
+def big_frame(word_list):
+    #count = 0
+    alist = []
+    word = []
+    if len(word_list) == 1:
+            word = word_list[0]
+    else:       
+        for i in range(len(word_list)):
+            alist = word_list[i]
+            if len(alist) > len(word):
+                word = alist
+           
+    # tělo nápisu
+    
+    print("+" * len(word) + "++")
+    for k in word_list:
+        print("+" + k + ((len(word)- len(k)) * " ") + "+")
+    print("+" * len(word) + "++")
+def big_frame(word_list):
+    long = ''
+    for i in word_list:
+        if len(i) > len(long):
+            long = i
+    border = len(long)+2
+    print("+"*border)
+    for word in word_list:
+        fill = border - len(word) - 2
+        print("+" + word + fill*" " + "+")
+    print("+"*border)
+    
+
+def big_frame(word_list):
+    nej = 0
+    symbol = "+"
+    for x in word_list:
+        v = len(x)
+        if v > nej:
+            nej = v
+   
+    print((2 + nej) * symbol)
+    for i in word_list:
+        print(symbol+i+(" " * (nej - len(i)))+symbol)
+    print((2 + nej) * symbol)    
+        
+
+def big_frame(word_list):
+    n = 0
+    for i in word_list:
+        if len(i) > n:
+            n = len(i)
+    n += 2
+    print("+"*n)
+    for i in word_list:
+    	print("+" + i + " "*(n - len(i) - 2) + "+")
+    print("+"*n)
+
+def big_frame(word_list):
+    n = 0
+    for i in word_list:
+        if len(i) > n:
+            n = len(i)
+    print("+"*(n+2))
+    for i in word_list:
+    	print("+" + i + " "*(n-len(i)) + "+")
+    print("+"*(n+2))
+
+def big_frame(word_list):
+    l_word = the_longest_word(word_list)
+    print("+"*(l_word+2))
+    for word in word_list:
+        whitespace = l_word - len(word)
+        print("+"+word+" "*whitespace+"+")
+    print("+"*(l_word+2))
+    	
+
+def the_longest_word(word_list):
+    previous = 0
+    for word in word_list:
+        length = len(word)
+        if length >= previous:
+            previous = length
+            the_longest = length
+    return the_longest
+def big_frame(word_list):
+	delka=[]
+	for i in range(len(word_list)):
+		delka.append(len(word_list[i]))
+	sirka=max(delka)
+	print((sirka+2)*"+")
+	for j in range(len(word_list)):
+		print("+"+word_list[j]+(sirka-len(word_list[j]))*" "+"+")
+	print((sirka+2)*"+")
+
+def big_frame(word_list):
+    pocet = len(word_list)
+    x = len(word_list[0])
+    for i in range(0, pocet):
+        if len(word_list[i]) > x:
+            x = len(word_list[i])
+    delka = x+2
+
+    print(delka * "+")
+    for i in range(0,pocet):
+        print("+", end = "")
+        print(word_list[i], end = "")
+        print((delka - len(word_list[i])-2)*" ", end = "")
+        print("+")
+    print(delka * "+")
+
+def big_frame(word_list):
+    a = 0
+    for item in word_list:
+        if a < len(item):
+            a = len(item)
+    print((a+2)*'+')
+    for item in word_list:
+        print('+',end = '')
+        x = a - len(item)
+        print(item,end = '')
+        print(x*' ',end = '')
+        print('+')
+    print((a+2)*'+')
+def big_frame(word_list):
+    max = 0
+    for i in range(len(word_list)):
+        if len(word_list[i]) > max:
+            max = len(word_list[i])
+    width = max + 2
+    print('+' * width)
+    for i in range(len(word_list)):
+        hole = max - len(word_list[i])
+        print('+', end='')
+        print(word_list[i], end='')
+        print(' ' * hole, end='')
+        print('+')
+    print('+' * width)
+
+
+def big_frame(word_list):
+    n = max(map(len, word_list))
+    print("+"*(n+2))
+    for w in word_list:
+        print("+" + w + " "*(n-len(w))+"+")
+    print("+"*(n+2))
+

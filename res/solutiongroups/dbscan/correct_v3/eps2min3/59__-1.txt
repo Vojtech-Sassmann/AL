@@ -1,0 +1,52 @@
+def animals(n):
+    i = 0
+    while i < n:
+        print("sob")
+        i += 1
+
+    i = 0
+
+    while i < (n * 2):
+        print("los")
+        i += 1
+
+def animals(n):
+    x=0
+    y=0
+    while x<n:
+        print("sob")
+        x+=1
+    while y<(2*n):
+        print("los")
+        y+=1
+
+def animals(n):
+    for i in range(n):
+    	print("sob")
+    for i in range(n):
+    	print("los")
+    for i in range(n):
+    	print("los")
+
+
+def animals(n):
+    j = ["sob"]
+    l = ["los"]
+    for p in range(n):
+        for i in j:
+            print(i)
+    for p in range(n*2):
+        for k in l:
+            print(k)
+        
+    
+
+def animals(n):
+    for i in range(n):
+    	print("sob")
+    for i in range(n):
+    	print("los")
+    for i in range(n):
+    	print("los")
+
+

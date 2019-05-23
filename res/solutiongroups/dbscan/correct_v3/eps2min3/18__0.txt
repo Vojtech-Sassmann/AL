@@ -1,0 +1,117 @@
+def digit_sum(n):
+    s=str(n)
+    r=0
+    for value in s:
+        r=r+int(value)
+    return r
+        
+
+def digit_sum(n):
+    s=0
+    z=str(n)
+    for i in range (len(z)):
+        a=z[i]
+        s=s+int(a)
+    return(s)
+      
+    
+def digit_sum(n):
+    text= str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet+=int(pismeno)
+    return soucet
+def digit_sum(n):
+    text = str(n)   
+    soucet = 0
+    for pismeno in text:        
+        soucet += int(pismeno)        
+    return soucet
+        
+
+
+def digit_sum(n):
+    text = str(n)
+    soucet = 0
+    for pismeno in text:
+        soucet += int(pismeno)
+    return soucet
+def digit_sum(n):
+    vysledok = 0
+    string = str(n)
+    for i in range(len(string)):
+        vysledok += int(string[i])
+    return vysledok
+		
+    	
+
+def digit_sum(n):
+    x=0
+    string=str(n)
+    for i in range(len(string)):
+        x+=int(string[i])
+        
+    return x
+
+def digit_sum(n):
+    result = 0
+    digit = str(n)
+    for i in range(len(digit)):
+        result = result + int(digit[i])
+    return result
+
+def digit_sum(n):
+    num_str = str(n)
+    sum = 0
+    for i in range(0, len(num_str)):
+        sum += int(num_str[i])
+    return sum
+
+def digit_sum(n):
+    x = str(n)
+    y = 0
+    for i in range(len(x)):
+        y += int(x[i])
+    return y
+        
+
+def digit_sum(n):
+    cislo=str(n)
+    soucet=0
+    for i in range(len(cislo)):
+      soucet=soucet+int(cislo[i])
+    return soucet
+
+def digit_sum(n):
+    new = str(n)
+    x = 0
+    for letter in new:
+        x = x + int(letter)
+    return x
+
+def digit_sum(n):
+    cislo=str(n)
+    soucet=0
+    for i in range(len(cislo)):
+        soucet=soucet+int(cislo[i])
+    return soucet
+
+def digit_sum(n):
+    temp = str(n)
+    sum = 0
+    for char in temp:
+        sum += int(char)
+    return sum
+
+def digit_sum(n):
+    n=str(n)
+    counter=0
+    for i in range(0,len(n),1):
+        counter = counter + int(n[i])
+    return counter
+def digit_sum(x):
+  string_x = str(x)
+  total = 0
+  for char in string_x:
+    total += int(char)
+  return total

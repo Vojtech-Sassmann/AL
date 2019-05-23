@@ -1,0 +1,23 @@
+def compare(a, b):
+    if a > b:
+    	print(str(a) + " je vetsi nez " + str(b))
+    elif b > a:
+        print(str(b) + " je vetsi nez " + str(a))
+    else:
+        print("stejna")
+
+def compare(a, b):
+    if a>b:
+        print(str(a)+" je vetsi nez "+str(b))
+    elif a<b:
+        print(str(b)+" je vetsi nez "+str(a))
+    else:
+        print("stejna")
+
+def compare(a, b):
+	if a < b:
+		print(str(b) + " je vetsi nez " + str(a))
+	elif a > b:
+		print(str(a) + " je vetsi nez " + str(b))
+	elif a == b:
+		print("stejna")

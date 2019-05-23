@@ -1,0 +1,12 @@
+def middle_number(a, b, c):
+    l = [a, b, c]
+    print(sorted(l)[1])
+
+def middle_number(a, b, c):
+    l = a, b, c
+    print (sorted(l)[1])
+
+def middle_number(a, b, c):
+    pr = [a,b,c]
+    print(sorted(pr)[1])
+

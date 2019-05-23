@@ -1,0 +1,17 @@
+def string_intersection(left, right):
+    alen = len(right)
+    for i in range(0, alen):
+        if right[i] == left[i]:
+        	print(right[i])
+def string_intersection(left, right):
+	delka=min(len(left),len(right))
+	for i in range(delka):
+		if left[i]==right[i]:
+			print(left[i])
+def string_intersection(left, right):
+    common_length = min(len(left), len(right))
+    for i in range(common_length):
+        if left[i] == right[i]:
+            print(left[i])
+
+

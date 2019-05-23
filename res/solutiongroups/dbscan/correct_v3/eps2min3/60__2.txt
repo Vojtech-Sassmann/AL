@@ -1,0 +1,213 @@
+def big_even(a, b):
+    if ((a > b) and (a % 2 == 0) or (a < b) and (b % 2 == 0)):
+    	return True
+    else:
+        return False
+    return False
+
+def big_even(a, b):
+    if ((a > b) and (a % 2 == 0) or (a < b) and (b % 2 == 0)):
+    	return True
+    else:
+        return False
+    return False
+
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0): return True
+    return False
+
+def big_even(a, b):
+    if(a<b and b%2==0)or(a>b and a%2==0):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0):
+        return True
+    return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0):
+        return True
+    else:
+    	return False
+
+def big_even(a, b):
+    if a>b and a % 2==0 or b>a and b % 2==0:
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    if ((a > b) and (a % 2 == 0)) or ((a < b) and (b % 2 == 0)):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+   if a > b  and a % 2== 0 or a<b and b %2 == 0:
+        return True	
+   else: 
+    	return False
+
+def big_even(a, b):
+    if (ab and a%2==0)or(ba and b%2==0):
+        return True
+    else:
+        return False
+    
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if (ab and a % 2 == 0) or (ba and b % 2==0):
+        return True
+    else:
+    	return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0):
+        return True
+    else:
+    	return False
+
+def big_even(a, b):
+    if a % 2 ==0 and a>b or b>a and b % 2 == 0:
+        return True
+    return False
+
+def big_even(a, b):
+    if ((a > b) and (a % 2 == 0)) or ((a < b) and (b % 2 == 0)):
+    	return True
+    else:
+        return False
+
+def big_even(a, b):
+    if ((a>b) and (a%2==0)) or ((a<b) and (b%2==0)):
+    	return True
+    else: return False
+                     
+                                
+
+def big_even(a, b):
+    if (ab) and (a%2 == 0) or (ba) and (b%2 == 0):
+        return True
+    return False
+
+def big_even(a, b):
+    if ((a>b) and (a%2==0)) or ((b>a) and (b%2==0)):
+        return True
+    else: return False
+
+def big_even(a, b):
+    if ((a>b) and (a%2==0)) or ((b>a) and (b%2==0)):
+        return True
+    else: return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0):
+        return(True)
+    else:
+        return(False)
+
+def big_even(a, b):
+    if (ab and (a%2) == 0) or (ba and (b%2) == 0):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if ((a > b) and (a % 2 == 0) or (a < b and (b% 2 == 0))):
+        return True
+    else:
+    	return False
+def big_even(a, b):
+    if ((a > b and (a%2==0)) or (a < b and (b%2==0))):return True
+    else:return False
+
+def big_even(a, b):
+    if ( a > b and (a%2==0)) or a < b and (b%2==0): return True 
+    else: return False
+
+def big_even(a, b):
+    if (a > b and (a%2==0)or a < b and (b%2==0)):
+        return True
+    else:return False
+
+def big_even(a, b):
+    if ((a > b and (a%2==0)) or (a < b and (b%2==0))):return True
+    else:return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0) : return True
+    else : return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0): return True
+    else: return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (a<b and b%2==0): return True
+    else: return False
+
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0): return True
+    else: return False
+
+def big_even(a, b):
+	if (ab and a%2==0) or (b>a and b%2==0): return True
+	else: return False
+   
+def big_even(a, b):
+    if (ab and a%2==0) or (b>a and b%2==0): return True
+    else: return False
+    
+
+def big_even(a, b):
+    if ((a>b) and (a%2 == 0)) or ((ba) and (b%2 == 0)):
+        return True
+    else: return False
+
+def big_even(a, b):
+    if a>b and a%2 ==0 or a<b and b%2 ==0:
+        return True
+    return False
+
+def big_even(a, b):
+    if a>b and a%2 == 0 or b>a and b%2 ==0:
+    	return True
+    return False
+
+def big_even(a, b):
+    if a>b and a%2 == 0 or b>a and b%2 ==0:
+        return True
+    return False
+def big_even(a, b):
+    if ((a>b) and (a%2==0)) or ((b>a) and (b%2==0)):
+        return True
+    else:
+        return False
+
+def big_even(a, b):
+    if (ab)and(a%2==0)or(a<b)and(b%2==0):return True
+    else:return False
+
+def big_even(a, b):
+    if(a>b) and (a%2==0) or (a<b) and (b%2==0):
+        return True
+    else: return False
+
+
+def big_even(a, b):
+    if (ab and a%2==0) or (a<b and b%2==0):
+        return True
+    else:
+        return False 
+    
+
